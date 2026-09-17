@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00d4",
+  "stream_key": "0xD4",
+  "sample_ids": [
+    "0x598",
+    "0x599"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00d4.flac",
+  "audio_sha256": "0742a8c6bb0e4b1fe659926dd0ced55841654e85f6d91911a29be55c334e67ae",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-left-right-mid-side+youtube-identical-scene-audio-captions",
+  "notes": "PCSX2 AA7AC8CC slot 7 request slot 1 maps 0x598/0x599 to GR3_STR 0xD4. The savestate uses an older SPU2 core layout, so ADSR active-voice ownership is not asserted. The extracted FLAC aligned to an independently captured Japanese gameplay scene at video time 143.34 seconds with normalized-envelope correlation 0.8655. The old repeated character-name transcript was discarded as hallucination.",
+  "text": "わあ！ こ、この翼は？ どうだ、小僧。お前の設計図通りだろ。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.72,
+      "end": 2.15,
+      "speaker": "ユウキ・ウル",
+      "text": "わあ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 23.85,
+      "end": 26.15,
+      "speaker": "ユウキ",
+      "text": "こ、この翼は？",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 26.2,
+      "end": 30.45,
+      "speaker": "シュミット",
+      "text": "どうだ、小僧。お前の設計図通りだろ。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    }
+  ],
+  "screening_note": "Manual audio, savestate-frame, and identical-scene video review. Cue edges remain a 60 Hz runtime draft until scene playback verification."
+}

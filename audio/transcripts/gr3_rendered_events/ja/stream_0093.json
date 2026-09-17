@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0093",
+  "stream_key": "0x93",
+  "sample_ids": [
+    "0x48C",
+    "0x48D"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0093.flac",
+  "audio_sha256": "7c17dc9cda801682aac778350d326ea9e1d8acafe4a87752a95d3e53b35cf3c2",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-left-right+whisper-small-targeted+youtube-identical-scene-audio-captions",
+  "notes": "The user's runtime probe reports DATA/00214100.MDZ, displayed/requested/resolved sample 0x48C, and stream 0x93. The local AA7AC8CC slot 7 file was not overwritten and still contains the prior 0xD4 scene, so direct savestate/SPU2 ownership is not asserted. The extracted FLAC aligned to an independently captured Japanese gameplay scene at video time 234.66 seconds with normalized-envelope correlation 0.9670. The old repeated アルフィナ transcript was discarded as hallucination.",
+  "text": "あ、ユウキ。お帰りなさい。 アルフィナ、もう大丈夫なの？ うん。ありがとう、ユウキ。 ウルのおかげで、飛行機が手に入ったんだ。 本当に？ それに、聖獣の手がかりも見つかった。ウルの故郷に、飛竜王ってのがいるらしいんだよ。 おい、ウル。何勝手に食ってんだよ！ ん、うまいぜ、これ。ほら。 あ……。 うまい。ありがとう、ウル。いろいろ頑張ってくれたのね。 うん、別に。 ウル、お願い。聖獣様のところへ連れて行って。 おう。たらふくごちそうになったしな。 行こう、アルフィナ！ うん！",
+  "segments": [
+    {"segment_index": 0, "start": 4.000, "end": 10.700, "speaker": "アルフィナ", "text": "あ、ユウキ。お帰りなさい。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 1, "start": 10.850, "end": 13.400, "speaker": "ユウキ", "text": "アルフィナ、もう大丈夫なの？", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 2, "start": 13.750, "end": 18.250, "speaker": "アルフィナ", "text": "うん。ありがとう、ユウキ。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 3, "start": 18.400, "end": 22.000, "speaker": "ユウキ", "text": "ウルのおかげで、飛行機が手に入ったんだ。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 4, "start": 22.150, "end": 23.900, "speaker": "アルフィナ", "text": "本当に？", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 5, "start": 24.150, "end": 32.600, "speaker": "ユウキ", "text": "それに、聖獣の手がかりも見つかった。ウルの故郷に、飛竜王ってのがいるらしいんだよ。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 6, "start": 32.850, "end": 35.750, "speaker": "ユウキ", "text": "おい、ウル。何勝手に食ってんだよ！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 7, "start": 35.750, "end": 41.000, "speaker": "ウル", "text": "ん、うまいぜ、これ。ほら。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 8, "start": 45.100, "end": 46.250, "speaker": "アルフィナ", "text": "あ……。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 9, "start": 49.950, "end": 54.450, "speaker": "アルフィナ", "text": "うまい。ありがとう、ウル。いろいろ頑張ってくれたのね。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 10, "start": 54.650, "end": 57.700, "speaker": "ウル", "text": "うん、別に。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 11, "start": 58.150, "end": 64.750, "speaker": "アルフィナ", "text": "ウル、お願い。聖獣様のところへ連れて行って。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 12, "start": 64.850, "end": 68.350, "speaker": "ウル", "text": "おう。たらふくごちそうになったしな。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 13, "start": 68.500, "end": 71.500, "speaker": "ユウキ", "text": "行こう、アルフィナ！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 14, "start": 72.750, "end": 74.500, "speaker": "アルフィナ", "text": "うん！", "status": "MANUAL_AUDIO_SCENE_REVIEW"}
+  ],
+  "screening_note": "Manual channel, matching-scene video, caption, and frame review. Cue edges remain a 60 Hz runtime draft until scene playback verification."
+}

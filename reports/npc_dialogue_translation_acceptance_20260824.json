@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "accepted_at": "2026-08-24",
+  "source_thread_id": "01a02bf1-b7ca-7202-965d-db2b8ff5ab41",
+  "input_translation": {
+    "sha256": "b1e28a2647fc91a25a29d45b3060f1ae2687a3eab6fe61926482ae31415dd57e",
+    "rows": 11637
+  },
+  "central_source_baseline": {
+    "path": "exports/npc_dialogue_standard.csv",
+    "sha256": "a370edecedf54567e4e4f02c91bc6f9a163ebc2a97921b13d217b202f15a7c48",
+    "rows": 11637
+  },
+  "accepted_candidate": {
+    "path": "exports/npc_dialogue_standard_ko.csv",
+    "sha256": "628b5268e0ea8a28f4b0b34cbe82f92234aa511f730f3be572d46741e97e06c7",
+    "rows": 11637,
+    "translated_rows": 11637,
+    "empty_korean_rows": 0,
+    "unassigned_rows": 11637,
+    "required_hangul_unique": 1200
+  },
+  "copied_artifacts": {
+    "required_glyphs": {
+      "path": "exports/npc_dialogue_required_glyphs.txt",
+      "sha256": "77917b9e50231f1b1856081421d235cc0c2da32771aaa6365ae6535800a130b5"
+    },
+    "qa_report": {
+      "path": "build/npc_dialogue/npc_translation_complete_qa_report.json",
+      "sha256": "eec2870263ee43873a1e03b9b4607563e94f217809d91b6fe03a4825e1100d13"
+    },
+    "verification_report": {
+      "path": "build/npc_dialogue/npc_translation_verification.json",
+      "sha256": "ba6dd3bbc4f70f3cdf73deaa2a7e66f80c1b45e4a697a3089d0a8e3c0817435b"
+    },
+    "unresolved_queue": {
+      "path": "build/npc_dialogue/npc_unresolved_after_api_translation.csv",
+      "sha256": "a1f201cd5dd01ae61e01e8157425830909cb0bf911467986b3dc892182184c81"
+    }
+  },
+  "central_revalidation": {
+    "passed": true,
+    "id_order_and_uniqueness": true,
+    "category_npc_dialogue": true,
+    "protected_metadata_fields_checked": 26,
+    "protected_metadata_mismatches": 0,
+    "newline_mismatches": 0,
+    "control_token_preservation_failures": 0,
+    "unresolved_glyph_unique": 145,
+    "unresolved_glyph_occurrences": 2070,
+    "remaining_japanese_script_occurrences": 52,
+    "remaining_japanese_separator_occurrences": 22
+  },
+  "build_gate": {
+    "translation_candidate_accepted": true,
+    "insertion_ready": false,
+    "translation_db_modified": false,
+    "global_glyph_map_modified": false,
+    "binary_modified": false,
+    "iso_created": false,
+    "blocking_reasons": [
+      "kr_encoded_hex is UNASSIGNED for all 11637 rows",
+      "145 unresolved glyph identifiers remain in 2070 occurrences",
+      "52 Japanese script characters and 22 separators remain",
+      "NPC speaker storage and variable-length script relocation require final proof"
+    ]
+  }
+}

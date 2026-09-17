@@ -1,0 +1,975 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-26T15:47:11.259027+09:00",
+  "mode": "PRE_ISO_ONLY",
+  "iso_created": false,
+  "npc_dialogue_included": true,
+  "npc_validation": {
+    "baseline": "exports/npc_dialogue_standard.csv",
+    "translation": "exports/npc_dialogue_standard_ko.csv",
+    "rows": 11653,
+    "protected_columns": [
+      "id",
+      "category",
+      "sub_category",
+      "source_file",
+      "inner_file",
+      "record_id",
+      "scene_id",
+      "string_index",
+      "original_offset",
+      "pointer_offset",
+      "jp_raw_hex",
+      "jp_text",
+      "speaker",
+      "control_codes",
+      "opcode",
+      "command_argument",
+      "command_raw_hex",
+      "header_record_offset",
+      "text_record_offset",
+      "end_record_offset",
+      "record_offset",
+      "record_ordinal",
+      "chunk_index",
+      "glyph_count",
+      "speaker_evidence_status",
+      "speaker_source"
+    ]
+  },
+  "database_backup": "backup/translation_20260826_154711_before_central_integration.db",
+  "database_migration": {
+    "superseded_npc_ids": 0
+  },
+  "merged_rows": 21171,
+  "rows_by_category": {
+    "BATTLE": 73,
+    "BATTLE_CHATTER": 226,
+    "BATTLE_HELP": 64,
+    "BATTLE_UI": 28,
+    "CHARACTER": 7,
+    "ENEMY": 169,
+    "ENEMY_ACTION": 188,
+    "EQUIPMENT": 46,
+    "FIELD": 10,
+    "FIELD_RUNTIME": 12,
+    "FIELD_TABLE": 279,
+    "ITEM": 1352,
+    "MAGIC": 84,
+    "NPC_DIALOGUE": 11653,
+    "SCENARIO": 6552,
+    "SKILL": 62,
+    "SKILL_EFFECT": 45,
+    "STATUS": 32,
+    "SYSTEM": 289
+  },
+  "rows_by_status": {
+    "REVIEW_1": 6583,
+    "TRANSLATED": 14588
+  },
+  "duplicate_ids": [],
+  "identical_duplicate_rows_merged": 13,
+  "system_spacing_rows_promoted_from_db": [],
+  "font": {
+    "required_korean_glyphs": 1270,
+    "tested_base_mappings": 785,
+    "new_mappings": 488,
+    "total_mappings": 1273,
+    "free_slots_remaining": 919,
+    "config": "build/central-runtime-cumulative-v15/font-config.json"
+  },
+  "encoding": {
+    "unassigned_rows": 0,
+    "fixed_slot_overflows": [],
+    "scenario_tokens": {
+      "control_tokens": 9507,
+      "glyph_tokens": 1288
+    },
+    "battle_help_records": 64
+  },
+  "physical_offset_overlaps": [
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE848",
+      "ids": [
+        "SYS_MENU_0017",
+        "EQUIP_SLOT_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE850",
+      "ids": [
+        "SYS_MENU_0018",
+        "EQUIP_SLOT_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE858",
+      "ids": [
+        "SYS_MENU_0019",
+        "EQUIP_SLOT_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE860",
+      "ids": [
+        "SYS_MENU_0020",
+        "EQUIP_SLOT_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE870",
+      "ids": [
+        "SYS_MENU_0021",
+        "EQUIP_SLOT_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE880",
+      "ids": [
+        "SYS_MENU_0022",
+        "EQUIP_SLOT_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE890",
+      "ids": [
+        "SYS_MENU_0023",
+        "STATUS_PARAM_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE898",
+      "ids": [
+        "SYS_MENU_0024",
+        "STATUS_PARAM_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8A0",
+      "ids": [
+        "SYS_MENU_0025",
+        "STATUS_PARAM_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8A8",
+      "ids": [
+        "SYS_MENU_0026",
+        "STATUS_PARAM_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8B0",
+      "ids": [
+        "SYS_MENU_0027",
+        "STATUS_PARAM_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8B8",
+      "ids": [
+        "SYS_MENU_0028",
+        "STATUS_PARAM_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8C0",
+      "ids": [
+        "SYS_MENU_0029",
+        "STATUS_PARAM_0007"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8C8",
+      "ids": [
+        "SYS_MENU_0030",
+        "STATUS_PARAM_0008"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8D0",
+      "ids": [
+        "SYS_MENU_0031",
+        "STATUS_PARAM_0009"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8D8",
+      "ids": [
+        "SYS_MENU_0032",
+        "STATUS_PARAM_0010"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8E0",
+      "ids": [
+        "SYS_MENU_0033",
+        "STATUS_PARAM_0011"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8E8",
+      "ids": [
+        "SYS_MENU_0034",
+        "STATUS_PARAM_0012"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8F0",
+      "ids": [
+        "SYS_MENU_0035",
+        "STATUS_PARAM_0013"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE8F8",
+      "ids": [
+        "SYS_MENU_0036",
+        "STATUS_PARAM_0014"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE900",
+      "ids": [
+        "SYS_MENU_0037",
+        "STATUS_PARAM_0015"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE908",
+      "ids": [
+        "SYS_MENU_0038",
+        "STATUS_PARAM_0016"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE910",
+      "ids": [
+        "SYS_MENU_0039",
+        "STATUS_PARAM_0017"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE920",
+      "ids": [
+        "SYS_MENU_0040",
+        "STATUS_PARAM_0018"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE930",
+      "ids": [
+        "SYS_MENU_0041",
+        "EQUIP_ACTION_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE940",
+      "ids": [
+        "SYS_MENU_0042",
+        "EQUIP_ACTION_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE950",
+      "ids": [
+        "SYS_MENU_0043",
+        "EQUIP_ACTION_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE958",
+      "ids": [
+        "SYS_MENU_0044",
+        "EQUIP_ACTION_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE960",
+      "ids": [
+        "SYS_MENU_0045",
+        "STATUS_LABEL_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE970",
+      "ids": [
+        "SYS_MENU_0046",
+        "STATUS_LABEL_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE988",
+      "ids": [
+        "SYS_MENU_0047",
+        "STATUS_LABEL_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE998",
+      "ids": [
+        "SYS_MENU_0048",
+        "STATUS_LABEL_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE9B0",
+      "ids": [
+        "SYS_MENU_0049",
+        "STATUS_LABEL_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CE9C8",
+      "ids": [
+        "SYS_MENU_0050",
+        "STATUS_LABEL_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF088",
+      "ids": [
+        "SYS_SHOP_0003",
+        "EQUIP_STATE_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF098",
+      "ids": [
+        "SYS_SHOP_0004",
+        "EQUIP_STATE_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF0A0",
+      "ids": [
+        "SYS_SHOP_0005",
+        "EQUIP_STATE_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF0B0",
+      "ids": [
+        "SYS_SHOP_0006",
+        "EQUIP_STATE_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF0D8",
+      "ids": [
+        "SYS_SHOP_0009",
+        "EQUIP_STATE_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF0E8",
+      "ids": [
+        "SYS_SHOP_0010",
+        "EQUIP_STATE_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF580",
+      "ids": [
+        "SYS_SHOP_0066",
+        "FIELD_NAME_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF590",
+      "ids": [
+        "SYS_SHOP_0067",
+        "FIELD_NAME_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF5A0",
+      "ids": [
+        "SYS_SHOP_0068",
+        "FIELD_NAME_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF5B0",
+      "ids": [
+        "SYS_SHOP_0069",
+        "FIELD_NAME_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF5C0",
+      "ids": [
+        "SYS_SHOP_0070",
+        "FIELD_NAME_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF5D0",
+      "ids": [
+        "SYS_SHOP_0071",
+        "FIELD_NAME_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF5E0",
+      "ids": [
+        "SYS_SHOP_0072",
+        "FIELD_NAME_0007"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF5F0",
+      "ids": [
+        "SYS_SHOP_0073",
+        "FIELD_NAME_0008"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF600",
+      "ids": [
+        "SYS_SHOP_0074",
+        "FIELD_NAME_0009"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CF610",
+      "ids": [
+        "SYS_SHOP_0075",
+        "FIELD_NAME_0010"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000CFFE0",
+      "ids": [
+        "SYS_HELP_0001",
+        "STATUS_HELP_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D00D0",
+      "ids": [
+        "SYS_HELP_0004",
+        "EQUIP_HELP_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0130",
+      "ids": [
+        "SYS_HELP_0005",
+        "EQUIP_HELP_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D01B0",
+      "ids": [
+        "SYS_HELP_0006",
+        "EQUIP_HELP_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0230",
+      "ids": [
+        "SYS_HELP_0007",
+        "EQUIP_HELP_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D02A0",
+      "ids": [
+        "SYS_HELP_0008",
+        "EQUIP_HELP_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0320",
+      "ids": [
+        "SYS_HELP_0009",
+        "EQUIP_HELP_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0380",
+      "ids": [
+        "SYS_HELP_0010",
+        "EQUIP_HELP_0007"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D03F0",
+      "ids": [
+        "SYS_HELP_0011",
+        "EQUIP_HELP_0008"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0450",
+      "ids": [
+        "SYS_HELP_0012",
+        "EQUIP_HELP_0009"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D04C0",
+      "ids": [
+        "SYS_HELP_0013",
+        "EQUIP_HELP_0010"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0530",
+      "ids": [
+        "SYS_HELP_0014",
+        "EQUIP_HELP_0011"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0580",
+      "ids": [
+        "SYS_HELP_0015",
+        "EQUIP_HELP_0012"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D05F0",
+      "ids": [
+        "SYS_HELP_0016",
+        "EQUIP_HELP_0013"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0660",
+      "ids": [
+        "SYS_HELP_0017",
+        "EQUIP_HELP_0014"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D06A0",
+      "ids": [
+        "SYS_HELP_0018",
+        "EQUIP_HELP_0015"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0710",
+      "ids": [
+        "SYS_HELP_0019",
+        "STATUS_HELP_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0770",
+      "ids": [
+        "SYS_HELP_0020",
+        "STATUS_HELP_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D07C0",
+      "ids": [
+        "SYS_HELP_0021",
+        "STATUS_HELP_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0830",
+      "ids": [
+        "SYS_HELP_0022",
+        "STATUS_HELP_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0890",
+      "ids": [
+        "SYS_HELP_0023",
+        "STATUS_HELP_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0900",
+      "ids": [
+        "SYS_HELP_0024",
+        "STATUS_HELP_0007"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0960",
+      "ids": [
+        "SYS_HELP_0025",
+        "STATUS_HELP_0008"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0A90",
+      "ids": [
+        "SYS_HELP_0028",
+        "EQUIP_HELP_0016"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0AF0",
+      "ids": [
+        "SYS_HELP_0029",
+        "EQUIP_HELP_0017"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0B60",
+      "ids": [
+        "SYS_HELP_0030",
+        "EQUIP_HELP_0018"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0BB0",
+      "ids": [
+        "SYS_HELP_0031",
+        "EQUIP_HELP_0019"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0C10",
+      "ids": [
+        "SYS_HELP_0032",
+        "EQUIP_HELP_0020"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0D60",
+      "ids": [
+        "SYS_HELP_0036",
+        "EQUIP_HELP_0021"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D0DD0",
+      "ids": [
+        "SYS_HELP_0037",
+        "EQUIP_HELP_0022"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1018",
+      "ids": [
+        "SYS_COMMON_0021",
+        "EQUIP_EFFECT_0001"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1028",
+      "ids": [
+        "SYS_COMMON_0022",
+        "EQUIP_EFFECT_0002"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1038",
+      "ids": [
+        "SYS_COMMON_0023",
+        "EQUIP_EFFECT_0003"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1040",
+      "ids": [
+        "SYS_COMMON_0024",
+        "EQUIP_EFFECT_0004"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1048",
+      "ids": [
+        "SYS_COMMON_0025",
+        "EQUIP_EFFECT_0005"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1050",
+      "ids": [
+        "SYS_COMMON_0026",
+        "EQUIP_EFFECT_0006"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1058",
+      "ids": [
+        "SYS_COMMON_0027",
+        "EQUIP_EFFECT_0007"
+      ]
+    },
+    {
+      "source_file": "FIELD.BIN",
+      "inner_file": "",
+      "original_offset": "0x000D1060",
+      "ids": [
+        "SYS_COMMON_0028",
+        "EQUIP_EFFECT_0008"
+      ]
+    },
+    {
+      "source_file": "BATTLE.BIN",
+      "inner_file": "",
+      "original_offset": "0x093BE8",
+      "ids": [
+        "BATTLE_CMD_0001",
+        "BATTLE_MSG_0027"
+      ]
+    },
+    {
+      "source_file": "BATTLE.BIN",
+      "inner_file": "",
+      "original_offset": "0x093C06",
+      "ids": [
+        "BATTLE_CMD_0004",
+        "BATTLE_MSG_0028"
+      ]
+    },
+    {
+      "source_file": "BATTLE.BIN",
+      "inner_file": "",
+      "original_offset": "0x093C10",
+      "ids": [
+        "BATTLE_CMD_0005",
+        "BATTLE_MSG_0029"
+      ]
+    },
+    {
+      "source_file": "BATTLE.BIN",
+      "inner_file": "",
+      "original_offset": "0x093C1A",
+      "ids": [
+        "BATTLE_CMD_0006",
+        "BATTLE_MSG_0030"
+      ]
+    },
+    {
+      "source_file": "BATTLE.BIN",
+      "inner_file": "",
+      "original_offset": "0x093C24",
+      "ids": [
+        "BATTLE_CMD_0007",
+        "BATTLE_MSG_0031"
+      ]
+    },
+    {
+      "source_file": "BATTLE.BIN",
+      "inner_file": "",
+      "original_offset": "0x093C2E",
+      "ids": [
+        "BATTLE_CMD_0008",
+        "BATTLE_MSG_0032"
+      ]
+    },
+    {
+      "source_file": "BATTLE.BIN",
+      "inner_file": "",
+      "original_offset": "0x093C42",
+      "ids": [
+        "BATTLE_CMD_0010",
+        "BATTLE_MSG_0033"
+      ]
+    }
+  ],
+  "field_actions": {
+    "rows": 9,
+    "legacy_inventory_only": true,
+    "replacement_category": "FIELD_TABLE",
+    "structured_unique_rows": 279,
+    "policy": "superseded by the proven 16-bit field location/action table population"
+  },
+  "input_hashes_after_encoding": {
+    "exports/system_standard.csv": "39180e830b1a00af8cf9556dcd72723a3eab633f1c0448e4422b5d851f4f6690",
+    "exports/status_standard.csv": "57dea2ea2d6c6392c1b52c62cd71c707e0b75a2d4b5852c228ab44d3081e2af2",
+    "exports/items_standard.csv": "1eb6d53e6a9b41d34f110001fa9ad33350b57b1e0423949457773edb8d602943",
+    "exports/item_effects_standard.csv": "dc48a62d1d144587d01d5e00d635319d295147e5c298138b8a98ea994c96e273",
+    "exports/battle_standard.csv": "0f19d3cf6226f6560d883b05162158a174149eb138614b1ad61cc96e7d533e19",
+    "exports/battle_tutorial_commands_standard.csv": "4ec7aeb23ceedd2dc1a7e73f1398734aa8d1f76ec521a0e5f9979601add74e92",
+    "exports/battle_chatter_standard.csv": "76a735777587b2bbaa33de09bc94e2291738108bf7d59aa8ae50ff07cba62212",
+    "exports/special_skill_effects_standard.csv": "3e349af4dc22a311b7b67698686d7b093d8500cb5598b0ae00c2827d493eefe9",
+    "exports/character_names_standard.csv": "d46303effe57d74e564775c3dd7277095590e28f3832b30b4bdfcef530cda3de",
+    "exports/enemy_names_standard.csv": "116871fd806ea8583b843e9a1aa288406e16349a78aeb482f6dc0f6dc3224ed9",
+    "exports/enemy_actions_standard.csv": "659e0e59d7470fb32e7fa35a04967feb1ce5fbca0a2eb9b008940fe39b91a491",
+    "exports/field_names_standard.csv": "533b9d0ee8367f3bc5753edad2170ec589e61e12cc2d542e38c389946757b3cd",
+    "exports/common_field_names_standard.csv": "8c85c8825a67f514ec4550567239752bc5b528df7bcd2a41ddbe3d59bc3768af",
+    "exports/field_location_actions_standard.csv": "85dfa8c6109d9a6c73e7b7e0f6b622aef7a8d9a782e17de90e0ecf7244ece5d6",
+    "exports/battle_presentation_help_standard.csv": "9f03af3fac2d6d16e97c2dcd43bc0ca309617dfe6575c7d18a50cc0c520c3ec9",
+    "exports/field_resource_messages_standard.csv": "e22c6844b264b3566da97fe0c619d64e807782f93a977b9b373cfda641241c48",
+    "exports/npc_dialogue_standard_ko.csv": "b2ce84b03686f73499a505cbfe0d78dc1ab2809f15d2220983f4f6c17aadc778",
+    "exports/scenario_standard.csv": "eb774a521b4d3d185e9fbd8b7c49a93eae3e2cd5a3cd3219cf8000b7ec72528d"
+  },
+  "build_status": "DATA_MAP_FONT_CONFIG_READY; FONT_BINARY_PENDING"
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "font_path_rules": {
+    "mapping_count": 1268,
+    "scenario_hangul_uses_physical_plus_32": true,
+    "battle_hangul_uses_physical_direct": true
+  },
+  "battle": {
+    "rows_checked": 5,
+    "rows_exact": 5,
+    "tactic_names": [
+      {"id": "BATTLE_MSG_0038", "offset": "0x091739", "kr_text": "정정당당"},
+      {"id": "BATTLE_MSG_0039", "offset": "0x091742", "kr_text": "광란의 춤"},
+      {"id": "BATTLE_MSG_0040", "offset": "0x09174B", "kr_text": "명석한 두뇌"}
+    ],
+    "tactic_help": [
+      {"id": "BATTLE_MSG_0036", "offset": "0x091794", "kr_text": "절약형 작전"},
+      {"id": "BATTLE_MSG_0037", "offset": "0x0917B0", "kr_text": "필살기·마법 사용"}
+    ]
+  },
+  "common_field_names": {
+    "rows_checked": 12,
+    "rows_exact": 12,
+    "roundtrip_verified": true,
+    "anchor": {
+      "jp_text": "アンフォグの村",
+      "kr_text": "안포그 마을",
+      "encoded_hex": "BB 23 F7 83 20 92 73"
+    }
+  },
+  "miranda_yuki": {
+    "source": "DATA/00030100.MDZ",
+    "record_id": "0x00740000",
+    "rows_checked": 3,
+    "rows_exact": 3,
+    "terminators_exact": 3,
+    "internal_references_checked": 24,
+    "internal_references_exact": 24,
+    "rows": [
+      {"id": "SCN_00030100_00740000_0014", "role": "Miranda", "new_record_offset": "0x06E4"},
+      {"id": "SCN_00030100_00740000_0015", "role": "Miranda follow-up", "new_record_offset": "0x0741"},
+      {"id": "SCN_00030100_00740000_0016", "role": "Yuki", "new_record_offset": "0x077E"}
+    ]
+  },
+  "large_container": {
+    "entry": "DATA/00214000.MDZ",
+    "internal_references": 515,
+    "max_new_encoded_target": "0xFFF8",
+    "fits_u16": true
+  },
+  "global": {
+    "scenario_containers": 346,
+    "script_messages": 17540,
+    "replacement_entries": 350,
+    "unit_tests": "24/24 PASS",
+    "structural_audit": "PASS",
+    "pre_iso": "PASS"
+  }
+}

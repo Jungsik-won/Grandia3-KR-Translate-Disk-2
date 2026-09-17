@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "source_dir": "/Users/j.swon/Desktop/Grandia3_KR/build/investigation/disc1-clean-data-mdt",
+  "source_file_count": 391,
+  "files_with_tables": 165,
+  "table_count": 165,
+  "occurrence_count": 915,
+  "unique_text_count": 279,
+  "translated_unique_text_count": 279,
+  "untranslated_unique_text_count": 0,
+  "population_sha256": "74f9dcfd83d1382be54297ceede68c1956bc24295b8900d87122440a4aa4c99f",
+  "most_common": [
+    {
+      "jp_text": "光の玉を調べる",
+      "occurrences": 71
+    },
+    {
+      "jp_text": "外に出る",
+      "occurrences": 45
+    },
+    {
+      "jp_text": "宝箱を開ける",
+      "occurrences": 44
+    },
+    {
+      "jp_text": "ドアを開ける",
+      "occurrences": 25
+    },
+    {
+      "jp_text": "リフトを動かす",
+      "occurrences": 16
+    },
+    {
+      "jp_text": "バクラの集落",
+      "occurrences": 15
+    },
+    {
+      "jp_text": "扉を開ける",
+      "occurrences": 13
+    },
+    {
+      "jp_text": "飛行機に乗る",
+      "occurrences": 12
+    },
+    {
+      "jp_text": "アークリフ神殿 廊下",
+      "occurrences": 12
+    },
+    {
+      "jp_text": "アンフォグの村",
+      "occurrences": 11
+    },
+    {
+      "jp_text": "ハシゴを降りる",
+      "occurrences": 11
+    },
+    {
+      "jp_text": "部屋を出る",
+      "occurrences": 11
+    },
+    {
+      "jp_text": "ラフリドの町",
+      "occurrences": 11
+    },
+    {
+      "jp_text": "ハシゴを昇る",
+      "occurrences": 10
+    },
+    {
+      "jp_text": "メンディの街 公園通り",
+      "occurrences": 10
+    },
+    {
+      "jp_text": "テラリウム",
+      "occurrences": 10
+    },
+    {
+      "jp_text": "宿屋 ロビー",
+      "occurrences": 8
+    },
+    {
+      "jp_text": "大聖堂",
+      "occurrences": 8
+    },
+    {
+      "jp_text": "飛行機を見る",
+      "occurrences": 7
+    },
+    {
+      "jp_text": "ジャンプする",
+      "occurrences": 7
+    },
+    {
+      "jp_text": "アロンソの船 甲板",
+      "occurrences": 7
+    },
+    {
+      "jp_text": "アロンソの船 キャビン",
+      "occurrences": 7
+    },
+    {
+      "jp_text": "アロンソの船 船長室",
+      "occurrences": 6
+    },
+    {
+      "jp_text": "花の部分を切る",
+      "occurrences": 6
+    },
+    {
+      "jp_text": "アークリフ神殿 ２F",
+      "occurrences": 6
+    },
+    {
+      "jp_text": "ハシゴを見る",
+      "occurrences": 5
+    },
+    {
+      "jp_text": "ランドートの島 山頂",
+      "occurrences": 5
+    },
+    {
+      "jp_text": "メンディの街 南通り",
+      "occurrences": 5
+    },
+    {
+      "jp_text": "部屋に入る",
+      "occurrences": 5
+    },
+    {
+      "jp_text": "アークリフ神殿 広場",
+      "occurrences": 5
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0065",
+  "stream_key": "0x65",
+  "sample_ids": [
+    "0x418",
+    "0x419"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0065.flac",
+  "audio_sha256": "88b902c928401abe57e6e23d4d098c0e5508bc75509231ce5c87e7461a17898f",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:6.614"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウ ねえ イランダさん ここの連中は気のいい奴ばかりよ みんなあんたの味方になってくれる 中でも一番は多分 ん ん 何何何の話 そうね さぁね 予定変更 あいつらがまた襲ってこないうちにすぐに村を出るわ いい?準備ができたら教えるのよ雪",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウキ、ユウ",
+      "avg_logprob": -0.12743,
+      "no_speech_prob": 0.07428,
+      "compression_ratio": 6.61446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 33.84,
+      "speaker": "",
+      "text": "ねえ イランダさん",
+      "avg_logprob": -0.55901,
+      "no_speech_prob": 0.2857,
+      "compression_ratio": 1.2446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 33.84,
+      "end": 39.0,
+      "speaker": "",
+      "text": "ここの連中は気のいい奴ばかりよ みんなあんたの味方になってくれる",
+      "avg_logprob": -0.55901,
+      "no_speech_prob": 0.2857,
+      "compression_ratio": 1.2446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 39.0,
+      "end": 41.16,
+      "speaker": "",
+      "text": "中でも一番は多分",
+      "avg_logprob": -0.55901,
+      "no_speech_prob": 0.2857,
+      "compression_ratio": 1.2446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 41.16,
+      "end": 46.16,
+      "speaker": "",
+      "text": "ん",
+      "avg_logprob": -0.55901,
+      "no_speech_prob": 0.2857,
+      "compression_ratio": 1.2446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 46.16,
+      "end": 51.16,
+      "speaker": "",
+      "text": "ん",
+      "avg_logprob": -0.55901,
+      "no_speech_prob": 0.2857,
+      "compression_ratio": 1.2446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 51.16,
+      "end": 54.24,
+      "speaker": "",
+      "text": "何何何の話",
+      "avg_logprob": -0.55901,
+      "no_speech_prob": 0.2857,
+      "compression_ratio": 1.2446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 54.24,
+      "end": 55.6,
+      "speaker": "",
+      "text": "そうね",
+      "avg_logprob": -0.55901,
+      "no_speech_prob": 0.2857,
+      "compression_ratio": 1.2446,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 55.6,
+      "end": 57.6,
+      "speaker": "",
+      "text": "さぁね",
+      "avg_logprob": -0.26774,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 1.15833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 57.6,
+      "end": 59.6,
+      "speaker": "",
+      "text": "予定変更",
+      "avg_logprob": -0.26774,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 1.15833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 59.6,
+      "end": 62.6,
+      "speaker": "",
+      "text": "あいつらがまた襲ってこないうちにすぐに村を出るわ",
+      "avg_logprob": -0.26774,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 1.15833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 62.6,
+      "end": 65.6,
+      "speaker": "",
+      "text": "いい?準備ができたら教えるのよ雪",
+      "avg_logprob": -0.26774,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 1.15833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

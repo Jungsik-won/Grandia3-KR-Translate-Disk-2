@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "source": "build/investigation/GR3-original.MDT",
+  "source_sha256": "17b2270c806a5b9c6f00c3aab16cad24256417fd6b2fb57b996d42d8fb8d72de",
+  "chunk": {
+    "index": 7,
+    "tag": "0xA0000920",
+    "offset": "0x800",
+    "size": 184448,
+    "end": "0x2D880",
+    "sha256": "7e036b5b028a9bb25c1969811c201332cd4813921df84066a73a6223a2102c84"
+  },
+  "chunks_discovered": [
+    {
+      "index": 0,
+      "offset": 128,
+      "tag": 2684356608,
+      "size": 384
+    },
+    {
+      "index": 1,
+      "offset": 512,
+      "tag": 2684356368,
+      "size": 256
+    },
+    {
+      "index": 2,
+      "offset": 768,
+      "tag": 2684356352,
+      "size": 256
+    },
+    {
+      "index": 3,
+      "offset": 1024,
+      "tag": 2684358720,
+      "size": 256
+    },
+    {
+      "index": 4,
+      "offset": 1280,
+      "tag": 2952797440,
+      "size": 256
+    },
+    {
+      "index": 5,
+      "offset": 1536,
+      "tag": 2684359200,
+      "size": 256
+    },
+    {
+      "index": 6,
+      "offset": 1792,
+      "tag": 2684359216,
+      "size": 256
+    },
+    {
+      "index": 7,
+      "offset": 2048,
+      "tag": 2684356896,
+      "size": 184448
+    },
+    {
+      "index": 8,
+      "offset": 186496,
+      "tag": 2684359504,
+      "size": 512
+    },
+    {
+      "index": 9,
+      "offset": 187008,
+      "tag": 59768832,
+      "size": 9600
+    },
+    {
+      "index": 10,
+      "offset": 196608,
+      "tag": 2684356880,
+      "size": 374528
+    },
+    {
+      "index": 11,
+      "offset": 571136,
+      "tag": 50331648,
+      "size": 149888
+    },
+    {
+      "index": 12,
+      "offset": 721024,
+      "tag": 51380224,
+      "size": 308736
+    },
+    {
+      "index": 13,
+      "offset": 1029760,
+      "tag": 52428800,
+      "size": 16896
+    },
+    {
+      "index": 14,
+      "offset": 1046656,
+      "tag": 2684359728,
+      "size": 664704
+    },
+    {
+      "index": 15,
+      "offset": 1711360,
+      "tag": 2684359472,
+      "size": 256
+    },
+    {
+      "index": 16,
+      "offset": 1711616,
+      "tag": 51380225,
+      "size": 2560
+    },
+    {
+      "index": 17,
+      "offset": 1714176,
+      "tag": 2684356912,
+      "size": 191488
+    },
+    {
+      "index": 18,
+      "offset": 1905664,
+      "tag": 2952798208,
+      "size": 4096
+    }
+  ],
+  "population": {
+    "logical_help_records": 64,
+    "translated_records": 64,
+    "unresolved_records": 0,
+    "line_count": 155,
+    "line_separator_count": 143,
+    "message_terminator_count": 64,
+    "candidate_inventory_total": 968,
+    "candidate_inventory_by_classification": {
+      "item_name_or_description": 822,
+      "technical_name": 73,
+      "general_skill_description": 73
+    },
+    "logical_help_records_by_related_event": {
+      "tutorial_battle_basics": 31,
+      "air_combo_mechanic": 3,
+      "excellent_orb_special_mechanic": 7,
+      "cancel_mechanic_tutorial": 22,
+      "tutorial_reaction": 1
+    }
+  },
+  "index_table": {
+    "index_table_offset": 161792,
+    "index_table_count": 7,
+    "index_entries": [
+      {
+        "index": 0,
+        "table_offset": 161796,
+        "relative_offset": 128,
+        "size": 1663,
+        "absolute_start": 161920,
+        "absolute_end": 163583
+      },
+      {
+        "index": 1,
+        "table_offset": 161804,
+        "relative_offset": 0,
+        "size": 0
+      },
+      {
+        "index": 2,
+        "table_offset": 161812,
+        "relative_offset": 1792,
+        "size": 211,
+        "absolute_start": 163584,
+        "absolute_end": 163795
+      },
+      {
+        "index": 3,
+        "table_offset": 161820,
+        "relative_offset": 2048,
+        "size": 103,
+        "absolute_start": 163840,
+        "absolute_end": 163943
+      },
+      {
+        "index": 4,
+        "table_offset": 161828,
+        "relative_offset": 2176,
+        "size": 144,
+        "absolute_start": 163968,
+        "absolute_end": 164112
+      },
+      {
+        "index": 5,
+        "table_offset": 161836,
+        "relative_offset": 2432,
+        "size": 115,
+        "absolute_start": 164224,
+        "absolute_end": 164339
+      },
+      {
+        "index": 6,
+        "table_offset": 161844,
+        "relative_offset": 2560,
+        "size": 160,
+        "absolute_start": 164352,
+        "absolute_end": 164512
+      }
+    ],
+    "text_pool_start": 161920,
+    "text_pool_end": 166016,
+    "message_terminator_count": 64,
+    "line_separator_count": 143,
+    "records_end": 165917,
+    "trailing_bytes_start": 165917,
+    "trailing_bytes_end": 166016,
+    "trailing_bytes_hex": "02 00 1F 00 16 00 07 00 63 00 16 00 06 00 78 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+  },
+  "sample_record": {
+    "id": "BATTLE_HELP_0032",
+    "record_start": "0x27EF3",
+    "line_offsets": [
+      "0x27F1C",
+      "0x27F2F",
+      "0x27F43"
+    ],
+    "jp_text": "空中に浮いているモンスターに\nコンボかクリティカルで攻撃すると\n空中コンボになります",
+    "expected_jp_text": "空中に浮いているモンスターに\nコンボかクリティカルで攻撃すると\n空中コンボになります",
+    "match": true
+  },
+  "coverage_checks": {
+    "ids_unique": true,
+    "all_raw_hex_present": true,
+    "all_line_offsets_in_record": true,
+    "all_records_non_overlapping": true,
+    "separator_terminator_conservation": true,
+    "sample_exact_match": true,
+    "no_source_write": true
+  },
+  "sentinel_preservation": {
+    "ITEM": {
+      "rows": 822,
+      "matched": 822,
+      "all_match": true
+    },
+    "SKILL_MAGIC": {
+      "rows": 146,
+      "matched": 146,
+      "all_match": true
+    },
+    "ENEMY": {
+      "rows": 169,
+      "matched": 169,
+      "all_match": true
+    },
+    "BATTLE": {
+      "source": null,
+      "rows": 54,
+      "matched": null,
+      "all_match": null,
+      "note": "BATTLE.BIN not supplied; GR3.MDT extraction is read-only."
+    }
+  },
+  "classification_policy": {
+    "tutorial_dialogue": "전투 튜토리얼에서 순차적으로 표시되는 발화/행동 안내",
+    "general_mechanic_help": "공중 콤보·보너스·오브·필살기 등 전투 시스템 설명",
+    "tutorial_dialogue_reaction": "튜토리얼 흐름의 반응 대사. 누락 방지를 위해 별도 분류로 보존",
+    "related_event_id": "논리적 연출/도움말 이벤트 분류. 직접 스킬 포인터가 입증된 값이 아니므로 병합 시 추정 ID로 취급 금지",
+    "technical_name": "같은 GR3 chunk 안의 기존 SKILL/MAGIC 기술명. BATTLE_HELP 삽입 대상 아님",
+    "general_skill_description": "같은 GR3 chunk 안의 기존 SKILL/MAGIC 일반 설명. BATTLE_HELP 삽입 대상 아님",
+    "item_name_or_description": "기존 ITEM 문자열. BATTLE_HELP 삽입 대상 아님",
+    "enemy_name": "기존 ENEMY 문자열. BATTLE_HELP 삽입 대상 아님"
+  },
+  "outputs": {
+    "csv": "/Users/j.swon/Desktop/Grandia3_KR/exports/battle_presentation_help_standard.csv",
+    "required_glyphs": "/Users/j.swon/Desktop/Grandia3_KR/exports/battle_presentation_help_required_glyphs.txt",
+    "data_dir": "/Users/j.swon/Desktop/Grandia3_KR/data/battle/presentation_help"
+  }
+}

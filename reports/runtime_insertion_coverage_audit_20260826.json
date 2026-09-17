@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "scope": "translation.db category to physical candidate coverage",
+  "database_rows": 21129,
+  "categories": {
+    "BATTLE": {
+      "database_rows": 73,
+      "physical_rows": 73,
+      "status": "PASS",
+      "evidence": "BATTLE.BIN slots"
+    },
+    "BATTLE_CHATTER": {
+      "database_rows": 226,
+      "physical_rows": 226,
+      "status": "PASS",
+      "occurrences": 231,
+      "pointers": 252,
+      "evidence": "GR3 relocated tactical-chatter pointer pool"
+    },
+    "BATTLE_HELP": {
+      "database_rows": 64,
+      "physical_rows": 64,
+      "status": "PASS",
+      "evidence": "GR3 fixed battle-help records"
+    },
+    "BATTLE_UI": {
+      "database_rows": 28,
+      "physical_rows": 28,
+      "status": "PASS",
+      "evidence": "GR3 tutorial pool"
+    },
+    "CHARACTER": {
+      "database_rows": 7,
+      "physical_rows": 7,
+      "status": "PASS",
+      "evidence": "GR3 character pointers + fixed aliases"
+    },
+    "ENEMY": {
+      "database_rows": 169,
+      "physical_rows": 169,
+      "status": "PASS",
+      "evidence": "GR3 enemy pools"
+    },
+    "ENEMY_ACTION": {
+      "database_rows": 188,
+      "physical_rows": 188,
+      "status": "PASS",
+      "occurrences": 1714,
+      "evidence": "GR3 enemy + action-only pools"
+    },
+    "EQUIPMENT": {
+      "database_rows": 46,
+      "physical_rows": 46,
+      "status": "PASS",
+      "evidence": "FIELD owner rows"
+    },
+    "FIELD": {
+      "database_rows": 10,
+      "physical_rows": 10,
+      "status": "PASS",
+      "evidence": "FIELD fixed slots"
+    },
+    "FIELD_RUNTIME": {
+      "database_rows": 12,
+      "physical_rows": 12,
+      "status": "PASS",
+      "evidence": "DATA/30000000 directory"
+    },
+    "FIELD_TABLE": {
+      "database_rows": 237,
+      "physical_rows": 237,
+      "status": "PASS",
+      "occurrences": 591,
+      "containers": 86,
+      "evidence": "structured DATA u16 table overlay"
+    },
+    "ITEM": {
+      "database_rows": 1352,
+      "physical_rows": 1352,
+      "status": "PASS",
+      "evidence": "GR3 item records + positional effect trailers"
+    },
+    "MAGIC": {
+      "database_rows": 84,
+      "physical_rows": 84,
+      "status": "PASS",
+      "evidence": "same GR3 physical records as ITEM_0601..0642"
+    },
+    "NPC_DIALOGUE": {
+      "database_rows": 11653,
+      "physical_rows": 11653,
+      "status": "PASS",
+      "evidence": "DATA NPC relocation manifest"
+    },
+    "SCENARIO": {
+      "database_rows": 6552,
+      "physical_rows": 6552,
+      "status": "PASS",
+      "evidence": "DATA scenario relocation manifest"
+    },
+    "SKILL": {
+      "database_rows": 62,
+      "physical_rows": 62,
+      "status": "PASS",
+      "evidence": "GR3 skill pointers"
+    },
+    "SKILL_EFFECT": {
+      "database_rows": 45,
+      "physical_rows": 45,
+      "status": "PASS",
+      "evidence": "GR3 skill effect trailers"
+    },
+    "STATUS": {
+      "database_rows": 32,
+      "physical_rows": 32,
+      "status": "PASS",
+      "evidence": "FIELD owner rows"
+    },
+    "SYSTEM": {
+      "database_rows": 289,
+      "physical_rows": 289,
+      "status": "PASS",
+      "evidence": "FIELD owner rows + reviewed duplicate-slot suppression"
+    }
+  },
+  "candidate_failures": [],
+  "superseded_v13_gaps": [
+    {
+      "category": "ENEMY_ACTION",
+      "old_unique": 184,
+      "candidate_unique": 188,
+      "old_occurrences": 1686,
+      "candidate_occurrences": 1714
+    },
+    {
+      "category": "FIELD_TABLE",
+      "old_candidate_rows": 0,
+      "candidate_unique": 237,
+      "candidate_occurrences": 591
+    }
+  ],
+  "known_runtime_pool_outside_database": []
+}

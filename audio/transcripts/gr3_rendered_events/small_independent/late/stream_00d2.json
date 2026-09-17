@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00d2",
+  "stream_key": "0xD2",
+  "sample_ids": [
+    "0x594",
+    "0x595"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00d2.flac",
+  "audio_sha256": "9c919267ee79147bd9ab988ede419ccda905016e2f75ec8759f974d008805468",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ヘシュ、えーと、こっちは。 ヘシュ、マジ。 すいません。 何かをお手伝いさせてくれませんか? あれ、もういいのかい? ええ、働きたいんです。 じゃ、びしびし行こうかね。 えーまずは",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "ヘシュ、えーと、こっちは。",
+      "avg_logprob": -0.3254,
+      "no_speech_prob": 0.23333,
+      "compression_ratio": 1.48387,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 9.0,
+      "end": 10.0,
+      "speaker": "",
+      "text": "ヘシュ、マジ。",
+      "avg_logprob": -0.3254,
+      "no_speech_prob": 0.23333,
+      "compression_ratio": 1.48387,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 11.0,
+      "end": 12.0,
+      "speaker": "",
+      "text": "すいません。",
+      "avg_logprob": -0.3254,
+      "no_speech_prob": 0.23333,
+      "compression_ratio": 1.48387,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 14.0,
+      "end": 16.0,
+      "speaker": "",
+      "text": "何かをお手伝いさせてくれませんか?",
+      "avg_logprob": -0.3254,
+      "no_speech_prob": 0.23333,
+      "compression_ratio": 1.48387,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 17.0,
+      "end": 19.0,
+      "speaker": "",
+      "text": "あれ、もういいのかい?",
+      "avg_logprob": -0.3254,
+      "no_speech_prob": 0.23333,
+      "compression_ratio": 1.48387,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 20.0,
+      "end": 23.0,
+      "speaker": "",
+      "text": "ええ、働きたいんです。",
+      "avg_logprob": -0.3254,
+      "no_speech_prob": 0.23333,
+      "compression_ratio": 1.48387,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 25.0,
+      "end": 28.0,
+      "speaker": "",
+      "text": "じゃ、びしびし行こうかね。",
+      "avg_logprob": -0.3254,
+      "no_speech_prob": 0.23333,
+      "compression_ratio": 1.48387,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 28.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "えーまずは",
+      "avg_logprob": -0.70736,
+      "no_speech_prob": 0.05184,
+      "compression_ratio": 0.625,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    }
+  ]
+}

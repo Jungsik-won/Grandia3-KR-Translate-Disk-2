@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b8",
+  "stream_key": "0xB8",
+  "sample_ids": [
+    "0x4FA",
+    "0x4FB"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b8.flac",
+  "audio_sha256": "cc0ebc3572b6cf9494fce29f7c0171d8b94063a9754f4a25dda4f36eccefa49e",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "イーサー!お姉が、目を覚まして! ダメだ!アルフィナ!戦うしかない! イーサー!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "イーサー!お姉が、目を覚まして!",
+      "avg_logprob": -0.65693,
+      "no_speech_prob": 0.00101,
+      "compression_ratio": 0.83019,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 33.0,
+      "speaker": "",
+      "text": "ダメだ!アルフィナ!戦うしかない!",
+      "avg_logprob": -0.53758,
+      "no_speech_prob": 0.00069,
+      "compression_ratio": 0.89231,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 33.5,
+      "end": 35.0,
+      "speaker": "",
+      "text": "イーサー!",
+      "avg_logprob": -0.53758,
+      "no_speech_prob": 0.00069,
+      "compression_ratio": 0.89231,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

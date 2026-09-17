@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00a4",
+  "stream_key": "0xA4",
+  "sample_ids": [
+    "0x4C8",
+    "0x4C9"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00a4.flac",
+  "audio_sha256": "5c517ec51bdc9f5da4d64d583e4dc10c542f54506665ea687d1cad213b398968",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 17.62,
+      "speaker": "",
+      "text": "ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァン、ヴァ",
+      "avg_logprob": -0.08811,
+      "no_speech_prob": 0.40864,
+      "compression_ratio": 19.77778,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.022",
+        "HIGH_COMPRESSION_RATIO:19.778"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

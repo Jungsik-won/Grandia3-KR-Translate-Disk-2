@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "mode": "PRE_ISO_ONLY",
+  "iso_created": false,
+  "merged_rows": 8122,
+  "rows_by_category": {
+    "BATTLE": 47,
+    "BATTLE_HELP": 64,
+    "CHARACTER": 7,
+    "ENEMY": 169,
+    "EQUIPMENT": 46,
+    "FIELD": 10,
+    "FIELD_RUNTIME": 12,
+    "ITEM": 1352,
+    "MAGIC": 84,
+    "SCENARIO": 5903,
+    "SKILL": 62,
+    "SKILL_EFFECT": 45,
+    "STATUS": 32,
+    "SYSTEM": 289
+  },
+  "database_csv_exact": true,
+  "unassigned_encoded_rows": 0,
+  "font": {
+    "mode": "fixed-population-free-slot",
+    "original_glyph_count": 2224,
+    "output_glyph_count": 2224,
+    "korean_mapping_count": 1038,
+    "font_resource_sizes_preserved": true
+  },
+  "candidates": {
+    "field_bin": "/Users/j.swon/Desktop/Grandia3_KR/build/central-runtime-fix-v2/FIELD.BIN",
+    "battle_bin": "/Users/j.swon/Desktop/Grandia3_KR/build/central-runtime-fix-v2/BATTLE.BIN",
+    "gr3_mdz": "/Users/j.swon/Desktop/Grandia3_KR/build/central-runtime-fix-v2/gr3-mdz-v3/GR3.MDZ",
+    "special_skill_effects": 45,
+    "playable_character_names": 7,
+    "gr3_character_pointer_reverse_checks": 7,
+    "gr3_skill_pointer_reverse_checks": 62,
+    "gr3_skill_effect_reverse_checks": 45,
+    "common_field_names": 12,
+    "scenario_containers": 346,
+    "scenario_messages": 5903,
+    "replacement_entries": 350
+  },
+  "runtime_risk_notes": [
+    "PCSX2 verification is still required for portraits and dialogue timing.",
+    "item pickup suffix and field action texture/text source remain unproven and were not guessed."
+  ],
+  "next": "request explicit user approval before ISO creation"
+}

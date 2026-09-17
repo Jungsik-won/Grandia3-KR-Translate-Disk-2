@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00fd",
+  "stream_key": "0xFD",
+  "sample_ids": [
+    "0x634",
+    "0x635",
+    "0x682",
+    "0x683",
+    "0x684",
+    "0x685",
+    "0x6D0",
+    "0x6D1"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00fd.flac",
+  "audio_sha256": "0ebc7ffaac571a099bcc071ed5d256a83c478d7efad7b9bc3c9746b57a50bcf8",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、�",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 12.24,
+      "speaker": "",
+      "text": "アルフィナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、�",
+      "avg_logprob": -0.10157,
+      "no_speech_prob": 0.48059,
+      "compression_ratio": 8.95714,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.097",
+        "HIGH_COMPRESSION_RATIO:8.957"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

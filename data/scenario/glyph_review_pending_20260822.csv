@@ -1,0 +1,8 @@
+glyph_id,raw_bytes,occurrences,candidate_char,confidence,category,status,rationale,image_path,source_offset
+G0865,65 F9,104,―,HIGH,SYMBOL,HIGH_SYMBOL_PENDING_CODEPOINT,dash-family glyph; repeated pair strongly supports Japanese long dash. Exact Unicode codepoint policy still pending.,glyph_G0865.png,0x73580
+G04FA,3A F5,3,季,MEDIUM,KANJI,SKIPPED_MEDIUM_LOW,"季風 contexts; one unrelated-looking usage may indicate another compound, keep medium",glyph_G04FA.png,0x58000
+G002B,4B,2,:,MEDIUM,SYMBOL,SKIPPED_MEDIUM_LOW,no usable context resolution; retained bitmap candidate for review,glyph_G002B.png,0x31880
+G00F7,47 F0,1,ち,MEDIUM,HIRAGANA,SKIPPED_MEDIUM_LOW,あっちい！ context strongly suggests colloquial ち; bitmap still needs final shape check,glyph_G00F7.png,0x37E80
+G0395,75 F3,1,閘,LOW,KANJI,SKIPPED_MEDIUM_LOW,no usable context resolution; retained bitmap candidate for review,glyph_G0395.png,0x4CD80
+G048B,9B F4,1,週,MEDIUM,KANJI,SKIPPED_MEDIUM_LOW,no usable context resolution; retained bitmap candidate for review,glyph_G048B.png,0x54880
+G08B5,B5 F9,1,鐘,MEDIUM,KANJI,SKIPPED_MEDIUM_LOW,bitmap family strongly supports 鐘; only isolated context '鐘…って？',glyph_G08B5.png,0x75D80

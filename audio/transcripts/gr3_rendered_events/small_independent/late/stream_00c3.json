@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c3",
+  "stream_key": "0xC3",
+  "sample_ids": [
+    "0x538",
+    "0x539"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c3.flac",
+  "audio_sha256": "c70e64b48f34b0f9ca06342dcdfbbfe10b0f5fac858f124f72441f7f1370062c",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_NO_SPEECH_PROBABILITY:0.817"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "神様の言葉を人々に伝え、豊かな世界にするのがコミュートの役目。 私は兄さんのことを信じていた 兄さんがコミュートになる運命を信じていた でも今は一人 きっと私の運命なのかもしれない 違うよアルフィナ え? アルフィナがそれを選んだからだよ ゆっきぃ ここに来るまで俺たちは選んできたよね やっぱりあったかい 明日晴れるといいね うん ご視聴ありがとうございました",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 20.0,
+      "speaker": "",
+      "text": "神様の言葉を人々に伝え、豊かな世界にするのがコミュートの役目。",
+      "avg_logprob": -0.28176,
+      "no_speech_prob": 0.20031,
+      "compression_ratio": 0.96875,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 20.0,
+      "end": 25.0,
+      "speaker": "",
+      "text": "私は兄さんのことを信じていた",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.60282,
+      "compression_ratio": 1.50625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 25.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "兄さんがコミュートになる運命を信じていた",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.60282,
+      "compression_ratio": 1.50625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 31.0,
+      "end": 33.0,
+      "speaker": "",
+      "text": "でも今は一人",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.60282,
+      "compression_ratio": 1.50625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 34.0,
+      "end": 38.0,
+      "speaker": "",
+      "text": "きっと私の運命なのかもしれない",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.60282,
+      "compression_ratio": 1.50625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 41.0,
+      "end": 43.0,
+      "speaker": "",
+      "text": "違うよアルフィナ",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.60282,
+      "compression_ratio": 1.50625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 44.0,
+      "end": 45.0,
+      "speaker": "",
+      "text": "え?",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.60282,
+      "compression_ratio": 1.50625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 45.0,
+      "end": 48.0,
+      "speaker": "",
+      "text": "アルフィナがそれを選んだからだよ",
+      "avg_logprob": -0.1782,
+      "no_speech_prob": 0.60282,
+      "compression_ratio": 1.50625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 50.0,
+      "end": 52.0,
+      "speaker": "",
+      "text": "ゆっきぃ",
+      "avg_logprob": -0.35404,
+      "no_speech_prob": 0.04242,
+      "compression_ratio": 1.2,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 52.0,
+      "end": 55.0,
+      "speaker": "",
+      "text": "ここに来るまで俺たちは選んできたよね",
+      "avg_logprob": -0.35404,
+      "no_speech_prob": 0.04242,
+      "compression_ratio": 1.2,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 63.0,
+      "end": 65.0,
+      "speaker": "",
+      "text": "やっぱりあったかい",
+      "avg_logprob": -0.35404,
+      "no_speech_prob": 0.04242,
+      "compression_ratio": 1.2,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 70.0,
+      "end": 72.0,
+      "speaker": "",
+      "text": "明日晴れるといいね",
+      "avg_logprob": -0.35404,
+      "no_speech_prob": 0.04242,
+      "compression_ratio": 1.2,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 73.0,
+      "end": 74.0,
+      "speaker": "",
+      "text": "うん",
+      "avg_logprob": -0.35404,
+      "no_speech_prob": 0.04242,
+      "compression_ratio": 1.2,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 80.0,
+      "end": 83.36,
+      "speaker": "",
+      "text": "ご視聴ありがとうございました",
+      "avg_logprob": -0.74457,
+      "no_speech_prob": 0.81657,
+      "compression_ratio": 0.85714,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00df",
+  "stream_key": "0xDF",
+  "sample_ids": [
+    "0x5B4",
+    "0x5B5"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00df.flac",
+  "audio_sha256": "d9912326fc816d6e0f52dc75361cae42acf75b2536c824236ca08d4682c97049",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ミレタ、アソグラ! アソグリ、ツトブザオン! ビーハー!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "ミレタ、アソグラ! アソグリ、ツトブザオン! ビーハー!",
+      "avg_logprob": -0.97935,
+      "no_speech_prob": 0.04797,
+      "compression_ratio": 1.04225,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

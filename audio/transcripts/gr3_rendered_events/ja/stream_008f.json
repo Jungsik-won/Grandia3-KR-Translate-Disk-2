@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_008f",
+  "stream_key": "0x8F",
+  "sample_ids": [
+    "0x482",
+    "0x483"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_008f.flac",
+  "audio_sha256": "fc8e0ab1692e5db013eba304bc7c6c888039cb872e289d0ba3afc1e1c08820af",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-left-right-mid-side+whisper-base-targeted",
+  "notes": "PCSX2 slot 6 active SPU2 voices prove GR3_STR 0x8F. The old repeated アクリフ transcript was a Whisper hallucination and was discarded. Channel-separated and targeted passes were reviewed with the Raflid/Randoto scene context; nonverbal Shiba sounds were excluded.",
+  "text": "そうかぁ。アークリフでそんなことがなぁ。おまけに飛行機もなしじゃ、聖獣を探しようもなくてさ。 あっ、シバ！ うわっ！ いてぇ……何すんだよ、シバ！ さっき飛行機が必要とか言ってたけど、ランドートまで行くってのはどうだ？ ランドート？ レムの実をもう一度かよ！ ああ！ 取ってくればシュミットがなんとかしてくれるさ！ でも、どうやって？ いるじゃんか、目の前に。シバが！",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 2.75,
+      "end": 11.95,
+      "speaker": "ウル",
+      "text": "そうかぁ。アークリフでそんなことがなぁ。おまけに飛行機もなしじゃ、聖獣を探しようもなくてさ。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 15.8,
+      "end": 19.1,
+      "speaker": "ユウキ",
+      "text": "あっ、シバ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 19.1,
+      "end": 21.8,
+      "speaker": "ユウキ",
+      "text": "うわっ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 25.2,
+      "end": 29.3,
+      "speaker": "ユウキ",
+      "text": "いてぇ……何すんだよ、シバ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 33.1,
+      "end": 37.2,
+      "speaker": "ウル",
+      "text": "さっき飛行機が必要とか言ってたけど、ランドートまで行くってのはどうだ？",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 37.6,
+      "end": 38.6,
+      "speaker": "ユウキ",
+      "text": "ランドート？",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 39.45,
+      "end": 41.95,
+      "speaker": "ユウキ",
+      "text": "レムの実をもう一度かよ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 42.25,
+      "end": 45.4,
+      "speaker": "ウル",
+      "text": "ああ！ 取ってくればシュミットがなんとかしてくれるさ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 45.75,
+      "end": 47.15,
+      "speaker": "ユウキ",
+      "text": "でも、どうやって？",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 47.85,
+      "end": 53.2,
+      "speaker": "ウル",
+      "text": "いるじゃんか、目の前に。シバが！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    }
+  ],
+  "screening_note": "Manual audio/scene review. Cue edges remain a 60 Hz runtime draft until scene playback verification."
+}

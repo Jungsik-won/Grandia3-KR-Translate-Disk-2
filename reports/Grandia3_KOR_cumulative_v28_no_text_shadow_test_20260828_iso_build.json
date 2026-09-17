@@ -1,0 +1,12 @@
+{
+  "source_iso": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v28_ship_scene_alfina_subtitles_ko_test_20260827.iso",
+  "output_iso": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v28_no_text_shadow_test_20260828.iso",
+  "entry": "FIELD.BIN",
+  "extent": 1923,
+  "offset": 3938304,
+  "size": 869632,
+  "replacement": "/Users/j.swon/Desktop/Grandia3_KR/build/central-runtime-cumulative-v31-no-text-shadow/FIELD.BIN",
+  "replacement_sha256": "01ec0c573ce6db631d17856b3606ef61d662d868ecb909851c1905a781c5ca7c",
+  "reverse_sha256": "01ec0c573ce6db631d17856b3606ef61d662d868ecb909851c1905a781c5ca7c",
+  "output_iso_sha256": "a24e0be33252b6f01cfac4568f5b85cc3a54bbe165cfc40407ebcb861cfefcd0"
+}

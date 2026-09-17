@@ -1,0 +1,74 @@
+{
+  "schema_version": 2,
+  "scene": "00120100",
+  "source_file": "DATA/00120100.MDZ",
+  "status": "STATIC_CANDIDATE_BUILT_RUNTIME_PENDING",
+  "root_cause": "The casino mini-game labels use the common Shift-JIS-to-glyph converter. The Korean font intentionally reuses the Japanese glyph slots, so untouched Japanese UI labels render as unrelated Hangul or mixed Hangul/kanji.",
+  "solution": "Hook the complete-label CP932 converter entry. Replace only three exact NUL-terminated source labels with reviewed Korean u16 glyph-index arrays; resume the original converter prologue for every non-match.",
+  "labels": [
+    {
+      "id": "casino_game_title",
+      "jp_text": "アレンジダイス",
+      "source_cp932_hex": "83 41 83 8C 83 93 83 57 83 5F 83 43 83 58",
+      "observed_corrupt_text": "부럼물좋늘러전",
+      "kr_text": "주사위 맞추기",
+      "glyph_count": 7,
+      "status": "STATIC_CANDIDATE"
+    },
+    {
+      "id": "casino_prize",
+      "jp_text": "神人のブローチ",
+      "source_cp932_hex": "90 5F 90 6C 82 CC 83 75 83 8D 81 5B 83 60",
+      "observed_corrupt_text": "mixed Hangul/kanji prize label",
+      "kr_text": "신인의 브로치",
+      "glyph_count": 7,
+      "status": "STATIC_CANDIDATE"
+    },
+    {
+      "id": "casino_money",
+      "jp_text": "アロンソの所持金",
+      "source_cp932_hex": "83 41 83 8D 83 93 83 5C 82 CC 8F 8A 8E 9D 8B E0",
+      "observed_corrupt_text": "부앗물햇면닷持金",
+      "kr_text": "알론소의 소지금",
+      "glyph_count": 8,
+      "status": "STATIC_CANDIDATE"
+    }
+  ],
+  "runtime_evidence": {
+    "state": "/Users/j.swon/Library/Application Support/PCSX2/sstates/SLPM-65976 (6FE53D2B).01.p2s",
+    "ee_memory_sha256": "7f67ce02240748d59ccbd10fd519a0f773f88eb915575c60f716bb0c0128a6fa",
+    "screenshot_sha256": "4234b51434d087b471c9ba828513f66de3b9949b6e4ca752a9e8bfcc7de835a7",
+    "active_ui": true,
+    "u16_label_hits": {
+      "アレンジダイス": ["0x01129580", "0x01131B80", "0x011D0DCE", "0x011D104A"],
+      "神人のブローチ": ["0x0112958E", "0x01131B8E", "0x011D1CCE", "0x011D1F52"],
+      "アロンソの所持金": ["0x0112959C", "0x01131B9C", "0x011D21D6", "0x011D245A"]
+    },
+    "decoded_groups": [
+      "アレンジダイス",
+      "神人のブローチ",
+      "アロンソの所持金"
+    ]
+  },
+  "candidate": {
+    "builder": "tools/build_casino_ui_korean_candidate.py",
+    "directory": "build/casino-ui-korean-preflight-20260902/candidate",
+    "field_sha256": "c9a390d487f3845586d3bdc8e97aa098a9874dd333077c83dfea82bdc7754a4c",
+    "slpm_sha256": "87123f083f6c767a50149f94434c084c5170b8aced1202d6ad01e3968a23792a",
+    "paired_gr3sub_sha256": "08ac6be6553028eb7424060a5e25432ec540cc80437759c6f3e1665b7289b222",
+    "field_helper_bytes": 576,
+    "field_cave_capacity": 800,
+    "field_size_preserved": true,
+    "slpm_size_preserved": true,
+    "font_table_changed": false,
+    "scenario_records_changed": false,
+    "tests": "17 PASS"
+  },
+  "runtime_gate": [
+    "카지노 제목이 '주사위 맞추기'로 표시된다",
+    "상품명이 '신인의 브로치'로 표시된다",
+    "우측 금액창이 '알론소의 소지금'으로 표시된다",
+    "일반 대화와 비카지노 UI 문자열에 회귀가 없다"
+  ],
+  "next_action": "Include the candidate FIELD.BIN and SLPM_659.76 together with the paired latest GR3SUB.BIN in the next ISO, then cold-boot and verify the casino state without an executable-resident old savestate."
+}

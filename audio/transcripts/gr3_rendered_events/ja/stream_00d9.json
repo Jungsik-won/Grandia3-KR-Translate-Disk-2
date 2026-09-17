@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00d9",
+  "stream_key": "0xD9",
+  "sample_ids": [
+    "0x5A4",
+    "0x5A5"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00d9.flac",
+  "audio_sha256": "93cc9624c1d30602717fb732bddc44e34f85ac6ba1c8ad921569387928f0fe62",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ウヒオー!すんげーあなた!本当に何もかもなくなっちまっている。これを製術たちがやったのか、ゾーンを消し去るために。何が起きたの?ここで行きましょう。 アイスクリームを見ることができる。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "ウヒオー!すんげーあなた!本当に何もかもなくなっちまっている。これを製術たちがやったのか、ゾーンを消し去るために。何が起きたの?ここで行きましょう。",
+      "avg_logprob": -0.50549,
+      "no_speech_prob": 0.04487,
+      "compression_ratio": 1.36709,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "アイスクリームを見ることができる。",
+      "avg_logprob": -1.66766,
+      "no_speech_prob": 0.51011,
+      "compression_ratio": 0.85,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

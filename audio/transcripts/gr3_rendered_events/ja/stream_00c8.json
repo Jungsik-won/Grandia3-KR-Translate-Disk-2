@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c8",
+  "stream_key": "0xC8",
+  "sample_ids": [
+    "0x57E",
+    "0x57F"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c8.flac",
+  "audio_sha256": "1e2bdc73c7e768d09710c77f8ca73de67fc16fa23e105c45a77609114422e983",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:9/19"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ 世界一の人になって帰ってくるって! じゃあ、世界一ってなんだろう? えっ? そいつのゴールはどこにある?誰がそれを受けるんだ? そ、それは… 体力へついたから? 世界を一瞬したらか? お前が飛行機によってやりたかったのは、 それで終わちまうぐらいちっぽけなの? いや、俺はひたすら遠く、高く… どうさ、そういうもんだろう夢は… あなた後のことなんか、考えられないぐらい ガムシャラになれる夢が、お前んだって必ずある 自分じゃ気づいてないとしてもな もっと高く飛べるはずだぜ、お前の翼は… さぁ、 さぁ、 さぁ、",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アークリフト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ、エメリウス、ヘクト、ダーナ、ミランダ",
+      "avg_logprob": -0.14231,
+      "no_speech_prob": 0.02557,
+      "compression_ratio": 8.96,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.090",
+        "HIGH_COMPRESSION_RATIO:8.960"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 34.16,
+      "speaker": "",
+      "text": "世界一の人になって帰ってくるって!",
+      "avg_logprob": -0.24995,
+      "no_speech_prob": 0.40889,
+      "compression_ratio": 3.94286,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.943"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 34.16,
+      "end": 38.64,
+      "speaker": "",
+      "text": "じゃあ、世界一ってなんだろう?",
+      "avg_logprob": -0.24995,
+      "no_speech_prob": 0.40889,
+      "compression_ratio": 3.94286,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.943"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 38.64,
+      "end": 40.8,
+      "speaker": "",
+      "text": "えっ?",
+      "avg_logprob": -0.24995,
+      "no_speech_prob": 0.40889,
+      "compression_ratio": 3.94286,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.943"
+      ]
+    },
+    {
+      "segment_index": 4,
+      "start": 40.8,
+      "end": 45.84,
+      "speaker": "",
+      "text": "そいつのゴールはどこにある?誰がそれを受けるんだ?",
+      "avg_logprob": -0.24995,
+      "no_speech_prob": 0.40889,
+      "compression_ratio": 3.94286,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.943"
+      ]
+    },
+    {
+      "segment_index": 5,
+      "start": 45.84,
+      "end": 48.36,
+      "speaker": "",
+      "text": "そ、それは…",
+      "avg_logprob": -0.24995,
+      "no_speech_prob": 0.40889,
+      "compression_ratio": 3.94286,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.943"
+      ]
+    },
+    {
+      "segment_index": 6,
+      "start": 48.36,
+      "end": 50.72,
+      "speaker": "",
+      "text": "体力へついたから?",
+      "avg_logprob": -0.42009,
+      "no_speech_prob": 0.24274,
+      "compression_ratio": 1.46512,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 50.72,
+      "end": 54.52,
+      "speaker": "",
+      "text": "世界を一瞬したらか?",
+      "avg_logprob": -0.42009,
+      "no_speech_prob": 0.24274,
+      "compression_ratio": 1.46512,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 54.52,
+      "end": 57.52,
+      "speaker": "",
+      "text": "お前が飛行機によってやりたかったのは、",
+      "avg_logprob": -0.42009,
+      "no_speech_prob": 0.24274,
+      "compression_ratio": 1.46512,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 57.52,
+      "end": 61.8,
+      "speaker": "",
+      "text": "それで終わちまうぐらいちっぽけなの?",
+      "avg_logprob": -0.42009,
+      "no_speech_prob": 0.24274,
+      "compression_ratio": 1.46512,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 61.8,
+      "end": 68.04,
+      "speaker": "",
+      "text": "いや、俺はひたすら遠く、高く…",
+      "avg_logprob": -0.42009,
+      "no_speech_prob": 0.24274,
+      "compression_ratio": 1.46512,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 11,
+      "start": 68.04,
+      "end": 73.28,
+      "speaker": "",
+      "text": "どうさ、そういうもんだろう夢は…",
+      "avg_logprob": -0.42009,
+      "no_speech_prob": 0.24274,
+      "compression_ratio": 1.46512,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 12,
+      "start": 73.28,
+      "end": 76.36,
+      "speaker": "",
+      "text": "あなた後のことなんか、考えられないぐらい",
+      "avg_logprob": -0.42009,
+      "no_speech_prob": 0.24274,
+      "compression_ratio": 1.46512,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 13,
+      "start": 76.36,
+      "end": 81.24,
+      "speaker": "",
+      "text": "ガムシャラになれる夢が、お前んだって必ずある",
+      "avg_logprob": -0.36367,
+      "no_speech_prob": 0.63944,
+      "compression_ratio": 1.26316,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 14,
+      "start": 81.24,
+      "end": 89.08,
+      "speaker": "",
+      "text": "自分じゃ気づいてないとしてもな",
+      "avg_logprob": -0.36367,
+      "no_speech_prob": 0.63944,
+      "compression_ratio": 1.26316,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 15,
+      "start": 89.08,
+      "end": 96.32,
+      "speaker": "",
+      "text": "もっと高く飛べるはずだぜ、お前の翼は…",
+      "avg_logprob": -0.36367,
+      "no_speech_prob": 0.63944,
+      "compression_ratio": 1.26316,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 16,
+      "start": 106.36,
+      "end": 110.36,
+      "speaker": "",
+      "text": "さぁ、",
+      "avg_logprob": -0.15115,
+      "no_speech_prob": 0.80235,
+      "compression_ratio": 26.875,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:26.875",
+        "HIGH_NO_SPEECH_PROBABILITY:0.802"
+      ]
+    },
+    {
+      "segment_index": 17,
+      "start": 110.36,
+      "end": 113.36,
+      "speaker": "",
+      "text": "さぁ、",
+      "avg_logprob": -0.15115,
+      "no_speech_prob": 0.80235,
+      "compression_ratio": 26.875,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:26.875",
+        "HIGH_NO_SPEECH_PROBABILITY:0.802"
+      ]
+    },
+    {
+      "segment_index": 18,
+      "start": 113.36,
+      "end": 115.36,
+      "speaker": "",
+      "text": "さぁ、",
+      "avg_logprob": -0.15115,
+      "no_speech_prob": 0.80235,
+      "compression_ratio": 26.875,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:26.875",
+        "HIGH_NO_SPEECH_PROBABILITY:0.802"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

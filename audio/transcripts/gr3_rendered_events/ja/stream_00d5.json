@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "event_id": "hell_asel_drak_emelious_event_00d5",
+  "stream_key": "0xD5",
+  "sample_ids": [
+    "0x59C",
+    "0x59D"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00d5.flac",
+  "audio_sha256": "f9902cb6ab833b430b75a6fddcf6b6240f086a81b53a10538a48a8c3e4a125d6",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-targeted-channels+scene-script-review",
+  "notes": "The previous repeated-name transcript was hallucination over music and effects and was discarded. PCSX2 AB792ED0 slot 5, separated FLAC channels, targeted retranscription, project terminology, and the matching scene script were reviewed together. Laughter and the final scream are non-dialogue and excluded from subtitle cues.",
+  "text": "やはり、来おったな、エメリウス。 ほう、予感していたか、飛竜。 本当にゾーンを支配したと思っておるのか？ 面白い。 その身をもって死ぬがいい！",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 8.7,
+      "end": 14.3,
+      "speaker": "ドラク",
+      "text": "やはり、来おったな、エメリウス。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 15.0,
+      "end": 20.3,
+      "speaker": "エメリウス",
+      "text": "ほう、予感していたか、飛竜。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 22.1,
+      "end": 28.3,
+      "speaker": "ドラク",
+      "text": "本当にゾーンを支配したと思っておるのか？",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 32.5,
+      "end": 34.3,
+      "speaker": "エメリウス",
+      "text": "面白い。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 35.7,
+      "end": 38.8,
+      "speaker": "エメリウス",
+      "text": "その身をもって死ぬがいい！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    }
+  ]
+}

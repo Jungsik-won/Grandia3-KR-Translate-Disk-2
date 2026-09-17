@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_008c",
+  "stream_key": "0x8C",
+  "sample_ids": ["0x472", "0x473"],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_008c.flac",
+  "audio_sha256": "2b038934c2375aaa8d7b1e5e545c98cc81a33c35d64395d6d46bff8b90aac11b",
+  "language": "ja",
+  "status": "MANUAL_RUNTIME_REVIEW",
+  "screening_flags": [],
+  "model": "small left/right/mid channel cross-review",
+  "notes": "PCSX2 slot 4 active-SPU proof. Previous repeated character-name transcript was discarded as hallucination. Scene order and proper name ロウ・イル were cross-checked against the project character guide and public English script.",
+  "text": "いよいよ、エメリウス様の手によって、世界は終わり、そして始まる。死人の呻きでこの世は満たされることでしょう。あなたの出番です、ロウ・イル。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 3.38,
+      "end": 13.18,
+      "speaker": "グラウ",
+      "text": "いよいよ、エメリウス様の手によって、世界は終わり、そして始まる。",
+      "avg_logprob": -0.271,
+      "no_speech_prob": 0.027,
+      "compression_ratio": 1.315,
+      "status": "MANUAL_RUNTIME_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 17.26,
+      "end": 20.42,
+      "speaker": "グラウ",
+      "text": "死人の呻きでこの世は満たされることでしょう。",
+      "avg_logprob": -0.271,
+      "no_speech_prob": 0.027,
+      "compression_ratio": 1.315,
+      "status": "MANUAL_RUNTIME_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 21.96,
+      "end": 27.64,
+      "speaker": "グラウ",
+      "text": "あなたの出番です、ロウ・イル。",
+      "avg_logprob": -0.271,
+      "no_speech_prob": 0.027,
+      "compression_ratio": 1.315,
+      "status": "MANUAL_RUNTIME_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Runtime-proven dialogue; left/right/mid channel transcripts agree. Trailing growl and silence hallucinations were omitted."
+}

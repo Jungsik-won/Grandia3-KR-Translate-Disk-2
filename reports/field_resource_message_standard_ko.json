@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "source_dir": "build/investigation/runtime-v9-field-messages/original",
+  "mdt_count": 5,
+  "class_4000_member_count": 13,
+  "message_count": 13,
+  "container_count": 5,
+  "translated_count": 13,
+  "unresolved_glyph_count": 41,
+  "messages": [
+    {
+      "id": "FIELD_RESOURCE_00030100_R00740000_M4000_0001",
+      "scene": "00030100",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x002AA6AF",
+      "jp_text": "<G0141><G0142><G0001>セーブは出来ません"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4000_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x002E1CBF",
+      "jp_text": "宝<G015C>を開けるには\n宝<G015C>の正面で<G08B6>を\n押してください"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4001_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4001",
+      "original_offset": "0x002E1CF7",
+      "jp_text": "この位置で<G08B6>を押すと\n宝<G015C>が開きます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4002_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4002",
+      "original_offset": "0x002E1D27",
+      "jp_text": "宝<G015C>から出<G0141>したアイテムは\nその方向に<G020F>づくと\n入手することができます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4003_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4003",
+      "original_offset": "0x002E1D6F",
+      "jp_text": "入手したアイテムは\n持ち物にストックされます<CTRL:07><G0542>じアイテムが<G0039><G012F>ある場合は\n入手することができません<CTRL:07>持ち物は<G08B9>を押すと開かれる\nステータス<G0330>面で<G03B4><G0548>できます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4000_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x00448997",
+      "jp_text": "フィールドを歩いているとき\n<G08B8>で周辺<G0188><G0442>が行えます\n<G08B8>を押してみましょう"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4001_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4001",
+      "original_offset": "0x004489DF",
+      "jp_text": "周辺<G0188><G0442>を行うと\nサーチポイントが光ります\nまわりでなにか光ったら\nその場<G0348>に行ってみましょう"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4002_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4002",
+      "original_offset": "0x00448A2F",
+      "jp_text": "サーチポイントでは\nボタンとアクションの内<G05C8>が\n<G0330>面<G010E>に<G0579><G0470>されます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4003_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4003",
+      "original_offset": "0x00448A77",
+      "jp_text": "<G08B7>を押して剣を振ることで\nフィールド上にある<G04AA><G03B0>物を\n破壊することができます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4004_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4004",
+      "original_offset": "0x00448ABF",
+      "jp_text": "この位置で<G08B7>を押すと\n<G01FF>の<G0170>にあるキノコを\n破壊することができます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061100_R00740000_M4000_0001",
+      "scene": "00061100",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x00256307",
+      "jp_text": "この宝<G015C>は開きません"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061100_R00740000_M4001_0001",
+      "scene": "00061100",
+      "record_id": "0x00740000",
+      "member_type": "0x4001",
+      "original_offset": "0x0025632F",
+      "jp_text": "<G0141><G0142><G0001>セーブは出来ません"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061300_R00740000_M4000_0001",
+      "scene": "00061300",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x003E74D7",
+      "jp_text": "この宝<G015C>は開きません"
+    }
+  ]
+}

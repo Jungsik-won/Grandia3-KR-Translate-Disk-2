@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_006b",
+  "stream_key": "0x6B",
+  "sample_ids": [
+    "0x428",
+    "0x429"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_006b.flac",
+  "audio_sha256": "f373c1b4437d02d46f6da3c498ab699504eecb9130539718706dcb4a78d53afd",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "あれ? 疑ってんなその目は なら、見せてやろうじゃないか 船のりの魂ってやつを これって、もしかして シズナ、体力への すっかー あ、ここがアークリフです ああ、アークリフです 俺は信じるよみなんだ 介図だって本物だし この人の船でいいと思う なるほど どうやら船のりってのは確かみたいね で、本当に大陸まで行けんの?あんたの船 行けない場所はあるかと聞こえたら もちろん答えはどうだ どうだかね 乗ってみなきゃわかんないけど よしじゃあ出発するか 西の船付き場まではちょいとあるが 俺がいれば大丈夫 見えても無でっ不死には自信があるぜ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "あれ?",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "疑ってんなその目は",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 7.0,
+      "end": 10.0,
+      "speaker": "",
+      "text": "なら、見せてやろうじゃないか",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 11.0,
+      "end": 13.0,
+      "speaker": "",
+      "text": "船のりの魂ってやつを",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 16.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "これって、もしかして",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 20.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "シズナ、体力への",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 22.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "すっかー",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 24.0,
+      "end": 27.0,
+      "speaker": "",
+      "text": "あ、ここがアークリフです",
+      "avg_logprob": -0.31274,
+      "no_speech_prob": 0.04658,
+      "compression_ratio": 1.38667,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 27.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "ああ、アークリフです",
+      "avg_logprob": -0.55102,
+      "no_speech_prob": 0.58086,
+      "compression_ratio": 1.38372,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 33.64,
+      "end": 35.14,
+      "speaker": "",
+      "text": "俺は信じるよみなんだ",
+      "avg_logprob": -0.55102,
+      "no_speech_prob": 0.58086,
+      "compression_ratio": 1.38372,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 35.14,
+      "end": 36.64,
+      "speaker": "",
+      "text": "介図だって本物だし",
+      "avg_logprob": -0.55102,
+      "no_speech_prob": 0.58086,
+      "compression_ratio": 1.38372,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 36.64,
+      "end": 38.64,
+      "speaker": "",
+      "text": "この人の船でいいと思う",
+      "avg_logprob": -0.55102,
+      "no_speech_prob": 0.58086,
+      "compression_ratio": 1.38372,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 40.48,
+      "end": 42.48,
+      "speaker": "",
+      "text": "なるほど",
+      "avg_logprob": -0.55102,
+      "no_speech_prob": 0.58086,
+      "compression_ratio": 1.38372,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 43.14,
+      "end": 45.64,
+      "speaker": "",
+      "text": "どうやら船のりってのは確かみたいね",
+      "avg_logprob": -0.55102,
+      "no_speech_prob": 0.58086,
+      "compression_ratio": 1.38372,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 47.14,
+      "end": 51.64,
+      "speaker": "",
+      "text": "で、本当に大陸まで行けんの?あんたの船",
+      "avg_logprob": -0.55102,
+      "no_speech_prob": 0.58086,
+      "compression_ratio": 1.38372,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 51.64,
+      "end": 57.64,
+      "speaker": "",
+      "text": "行けない場所はあるかと聞こえたら",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 57.64,
+      "end": 59.64,
+      "speaker": "",
+      "text": "もちろん答えはどうだ",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 59.64,
+      "end": 62.64,
+      "speaker": "",
+      "text": "どうだかね",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 18,
+      "start": 62.64,
+      "end": 64.64,
+      "speaker": "",
+      "text": "乗ってみなきゃわかんないけど",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 19,
+      "start": 64.64,
+      "end": 66.64,
+      "speaker": "",
+      "text": "よしじゃあ出発するか",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 20,
+      "start": 66.64,
+      "end": 69.64,
+      "speaker": "",
+      "text": "西の船付き場まではちょいとあるが",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 21,
+      "start": 69.64,
+      "end": 71.64,
+      "speaker": "",
+      "text": "俺がいれば大丈夫",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 22,
+      "start": 71.64,
+      "end": 74.64,
+      "speaker": "",
+      "text": "見えても無でっ不死には自信があるぜ",
+      "avg_logprob": -0.33542,
+      "no_speech_prob": 0.41664,
+      "compression_ratio": 1.46193,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0095",
+  "stream_key": "0x95",
+  "sample_ids": ["0x490", "0x491"],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0095.flac",
+  "audio_sha256": "23adeb4e6c5202a21d0cabbddcbe54f29e008f6bdcce666704de5c7fe6681484",
+  "language": "ja",
+  "status": "HUMAN_FULL_AUDIO_REVIEWED",
+  "screening_flags": [],
+  "model": "whisper-small-full-and-targeted-left-mix-right-word-timestamps",
+  "notes": "The earlier repeated character-name transcript was hallucination over flight ambience and was discarded. The complete 116.48-second file was reviewed on mix, left, and right channels, followed by targeted passes over 20-42, 49-74, 79-86, and 91-102 seconds. PCSX2 EACDE22A slot 6 proves that the current continuation is request slot 0 sample 0x0490 / stream 0x95 while completed stream 0x94 remains in slot 1.",
+  "text": "ん？おかしい。ガードがいない。どうしたの？静かすぎる！何だ？敵じゃない！飛竜の民のウルだ！飛竜王ドラクに会いに来たんだ！この地を侵す者は、何人たりとも許さぬ！ま、待ってくれ！オイラ、コミュートを案内してきたんだ！信じてくれよ！このような形でコミュートが来るとは知らされておらん！ウル、谷を抜けたお前の言葉など、誰が信じるか！くそ！逃げるぞ、ユウキ！シバ！構うな！下だ！雲に潜れ！おい！",
+  "segments": [
+    {"segment_index": 0, "start": 9.100, "end": 9.700, "speaker": "ウル", "text": "ん？", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 1, "start": 10.960, "end": 13.100, "speaker": "ウル", "text": "おかしい。ガードがいない。", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 2, "start": 14.680, "end": 15.680, "speaker": "アルフィナ", "text": "どうしたの？", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 3, "start": 17.500, "end": 18.860, "speaker": "ウル", "text": "静かすぎる！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 4, "start": 24.920, "end": 25.500, "speaker": "ウル", "text": "何だ？", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 5, "start": 35.820, "end": 36.500, "speaker": "ウル", "text": "敵じゃない！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 6, "start": 36.960, "end": 38.100, "speaker": "ウル", "text": "飛竜の民のウルだ！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 7, "start": 38.380, "end": 40.200, "speaker": "ウル", "text": "飛竜王ドラクに会いに来たんだ！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 8, "start": 51.820, "end": 56.240, "speaker": "飛竜の民の護り", "text": "この地を侵す者は、何人たりとも許さぬ！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 9, "start": 57.600, "end": 58.620, "speaker": "ウル", "text": "ま、待ってくれ！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 10, "start": 59.040, "end": 62.240, "speaker": "ウル", "text": "オイラ、コミュートを案内してきたんだ！信じてくれよ！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 11, "start": 62.660, "end": 66.460, "speaker": "飛竜の民の護り", "text": "このような形でコミュートが来るとは知らされておらん！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 12, "start": 66.440, "end": 71.320, "speaker": "飛竜の民の護り", "text": "ウル、谷を抜けたお前の言葉など、誰が信じるか！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 13, "start": 82.180, "end": 84.300, "speaker": "ウル", "text": "くそ！逃げるぞ、ユウキ！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 14, "start": 93.940, "end": 97.600, "speaker": "ウル", "text": "シバ！構うな！下だ！雲に潜れ！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []},
+    {"segment_index": 15, "start": 98.780, "end": 99.300, "speaker": "ユウキ", "text": "おい！", "status": "HUMAN_FULL_AUDIO_REVIEWED", "screening_flags": []}
+  ],
+  "screening_note": "All verified speech across the complete stream is subtitled. Long cries, dragon roars, wind, and engine noise were intentionally excluded after channel-separated review."
+}

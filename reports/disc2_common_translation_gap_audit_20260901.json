@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "mode": "DISC2_COMMON_TRANSLATION_GAP_AUDIT",
+  "generated_at": "2026-09-01T04:57:41.830222+00:00",
+  "status": "PASS",
+  "scope_note": "PASS means no gap exists in the known structured/common translation population. It does not replace runtime playtesting or Disc 2 movie subtitle work.",
+  "inputs": {
+    "disc1_inventory": "work/disc1-inventory.json",
+    "disc2_inventory": "work/disc2-inventory.json",
+    "disc_comparison": "work/disc1-disc2-comparison.json",
+    "database": "translation.db",
+    "completion_audit": "reports/disc2_common_translation_completion_audit_20260901.json",
+    "strict_raw_scan": "work/disc2-iso-text-scan-20260901.json",
+    "custom_raw_scan": "work/disc2-iso-custom-text-scan-20260901.json"
+  },
+  "checks": {
+    "inventory_disc_numbers": true,
+    "shared_change_set_expected": true,
+    "btl_data_music_all_byte_identical": true,
+    "sys_only_syswin0_differs": true,
+    "completion_audit_pass": true,
+    "central_csv_duplicate_rows_consistent": true,
+    "central_csv_database_id_sets_equal": true,
+    "central_csv_database_rows_equal": true,
+    "central_database_has_no_untranslated_rows": true,
+    "disc2_scenario_maps_to_common_corpus": true,
+    "flight_auxiliary_rows_translated": true,
+    "disc2_movie_inventory_expected": true
+  },
+  "disc_reuse": {
+    "shared_files": 1244,
+    "identical_files": 1241,
+    "changed_shared_paths": [
+      "SYS/SYSWIN0.MDZ",
+      "SYSTEM.CNF",
+      "SYSTEM.INI"
+    ],
+    "families": {
+      "BTL": {
+        "shared_files": 442,
+        "identical_files": 442,
+        "all_identical": true
+      },
+      "DATA": {
+        "shared_files": 393,
+        "identical_files": 393,
+        "all_identical": true
+      },
+      "MUSIC": {
+        "shared_files": 387,
+        "identical_files": 387,
+        "all_identical": true
+      }
+    },
+    "sys": {
+      "shared_files": 9,
+      "identical_files": 8,
+      "changed_path": "SYS/SYSWIN0.MDZ",
+      "decision": "merge Disc 1 Korean UI resources into the Disc 2 original container; do not copy the whole Disc 1 file"
+    }
+  },
+  "central_translation": {
+    "database_rows": 21171,
+    "database_categories": {
+      "BATTLE": 73,
+      "BATTLE_CHATTER": 226,
+      "BATTLE_HELP": 64,
+      "BATTLE_UI": 28,
+      "CHARACTER": 7,
+      "ENEMY": 169,
+      "ENEMY_ACTION": 188,
+      "EQUIPMENT": 46,
+      "FIELD": 10,
+      "FIELD_RUNTIME": 12,
+      "FIELD_TABLE": 279,
+      "ITEM": 1352,
+      "MAGIC": 84,
+      "NPC_DIALOGUE": 11653,
+      "SCENARIO": 6552,
+      "SKILL": 62,
+      "SKILL_EFFECT": 45,
+      "STATUS": 32,
+      "SYSTEM": 289
+    },
+    "csv_physical_rows": 21184,
+    "csv_unique_ids": 21171,
+    "duplicate_id_count": 13,
+    "duplicate_ids": [
+      "FIELD_RESOURCE_00030100_R00740000_M4000_0001",
+      "FIELD_RESOURCE_00060000_R00740000_M4000_0001",
+      "FIELD_RESOURCE_00060000_R00740000_M4001_0001",
+      "FIELD_RESOURCE_00060000_R00740000_M4002_0001",
+      "FIELD_RESOURCE_00060000_R00740000_M4003_0001",
+      "FIELD_RESOURCE_00061000_R00740000_M4000_0001",
+      "FIELD_RESOURCE_00061000_R00740000_M4001_0001",
+      "FIELD_RESOURCE_00061000_R00740000_M4002_0001",
+      "FIELD_RESOURCE_00061000_R00740000_M4003_0001",
+      "FIELD_RESOURCE_00061000_R00740000_M4004_0001",
+      "FIELD_RESOURCE_00061100_R00740000_M4000_0001",
+      "FIELD_RESOURCE_00061100_R00740000_M4001_0001",
+      "FIELD_RESOURCE_00061300_R00740000_M4000_0001"
+    ],
+    "duplicate_conflicts": [],
+    "database_only_ids": [],
+    "csv_only_ids": [],
+    "csv_database_mismatches": [],
+    "untranslated_database_ids": [],
+    "known_structured_common_translation_gap_count": 0,
+    "completion_audit": {
+      "status": "PASS",
+      "database_rows": 21171,
+      "kana_rows": 0,
+      "cjk_rows": 0,
+      "unassigned_encoded_rows": 0,
+      "unexpected_residual_glyph_tokens": 0
+    }
+  },
+  "disc2_scenario_mapping": {
+    "disc2_rows": 5903,
+    "common_rows": 5903,
+    "mapped_rows": 5903,
+    "missing_ids": [],
+    "structural_mismatches": [],
+    "structural_fields": [
+      "category",
+      "sub_category",
+      "source_file",
+      "inner_file",
+      "record_id",
+      "scene_id",
+      "string_index",
+      "original_offset",
+      "pointer_offset",
+      "jp_raw_hex"
+    ],
+    "note": "jp_text/control metadata may be normalized after extraction; stable raw bytes and physical coordinates are compared."
+  },
+  "auxiliary_common_text": {
+    "exports/flight_standard.csv": {
+      "rows": 3,
+      "translated_rows": 3,
+      "untranslated_rows": 0
+    },
+    "exports/flight_landmark_messages_standard.csv": {
+      "rows": 4,
+      "translated_rows": 4,
+      "untranslated_rows": 0
+    }
+  },
+  "heuristic_raw_scans": {
+    "strict_shift_jis": {
+      "mdz_count": 399,
+      "containers_with_candidates": 315,
+      "candidate_count": 3274,
+      "unique_text_count": 1309,
+      "classification": "heuristic review evidence; mostly binary false positives and internal/developer labels"
+    },
+    "custom_codebook": {
+      "mdz_count": 399,
+      "containers_with_clusters": 352,
+      "cluster_count": 46430,
+      "candidate_count": 192057,
+      "syswin0_candidate_count": 1,
+      "syswin0_samples": [
+        {
+          "chunk_tag": "0x03900000",
+          "offset": 945431,
+          "text": "のアもィゆィもュりざク・ェツゆィもィゆアも"
+        }
+      ],
+      "classification": "unstructured heuristic output; common DATA candidates are byte-identical to Disc 1, and the sole changed-SYSWIN0 candidate is binary noise rather than an accepted text row",
+      "automatically_actionable_gap_count": 0
+    }
+  },
+  "disc2_specific_work": {
+    "movie_files": 20,
+    "reused_movie_pairs": [
+      {
+        "disc2": "MOVIE/GRM50.MOV",
+        "disc1": "MOVIE/GRM01.MOV"
+      }
+    ],
+    "new_movie_translation_count": 19,
+    "new_movie_paths": [
+      "MOVIE/GRM51.MOV",
+      "MOVIE/GRM52.MOV",
+      "MOVIE/GRM53.MOV",
+      "MOVIE/GRM54.MOV",
+      "MOVIE/GRM55.MOV",
+      "MOVIE/GRM56.MOV",
+      "MOVIE/GRM57.MOV",
+      "MOVIE/GRM58.MOV",
+      "MOVIE/GRM59.MOV",
+      "MOVIE/GRM60.MOV",
+      "MOVIE/GRM61.MOV",
+      "MOVIE/GRM62.MOV",
+      "MOVIE/GRM63.MOV",
+      "MOVIE/GRM64.MOV",
+      "MOVIE/GRM65.MOV",
+      "MOVIE/GRM66.MOV",
+      "MOVIE/GRM67.MOV",
+      "MOVIE/GRM68.MOV",
+      "MOVIE/GRM69.MOV"
+    ],
+    "syswin0_merge_required": true,
+    "runtime_playtest_required": true
+  },
+  "decision": {
+    "reuse_disc1_common_translation": true,
+    "backport_new_structured_rows_to_common_corpus": 0,
+    "pre_audit_csv_to_database_sync_rows": 6,
+    "pre_audit_csv_to_database_sync_metadata": "updated_at=2026-09-01T04:57:09.518400+00:00; synchronized_rows=6",
+    "translation_database_modified_by_audit": false,
+    "remaining_scope": [
+      "translate/subtitle the 19 new Disc 2 movies",
+      "merge Korean resources into Disc 2 SYS/SYSWIN0.MDZ without replacing the container wholesale",
+      "perform Disc 2 runtime playtesting and backport any newly observed text to the common corpus"
+    ]
+  }
+}

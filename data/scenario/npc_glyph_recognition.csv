@@ -1,0 +1,625 @@
+﻿glyph_id,raw_bytes,occurrences,font_page,slot,recognized_char,grade,evidence,best_candidate_if_review,best_candidate_conf,ocr_alternatives,image_path,status_original
+G0021,41,827,single-byte,0x0001,!,VISUAL_HIGH,glyph image manually checked,,,"画(57,threshold_jpn_10); 還(0,nearest_jpn_10)",glyph_G0021.png,UNRESOLVED_UNICODE
+G0022,42,456,single-byte,0x0002,?,VISUAL_HIGH,glyph image manually checked,,,"『(51,smooth_jpn_10); 違(0,threshold_jpn_10)",glyph_G0022.png,UNRESOLVED_UNICODE
+G0026,46,12963,single-byte,0x0006,…,VISUAL_HIGH,glyph image manually checked,,,"加(48,nearest_HanS_10); 男(45,threshold_jpn_10); 画(40,smooth_jpn_10)",glyph_G0026.png,UNRESOLVED_UNICODE
+G0029,49,3,single-byte,0x0009,♥,VISUAL_HIGH,glyph image manually checked,,,"し(5,threshold_jpn_10); 琴(0,nearest_jpn_13); 情(0,nearest_jpn_10); 博(0,smooth_jpn_10)",glyph_G0029.png,UNRESOLVED_UNICODE
+G002C,4C,1,single-byte,0x000C,(,VISUAL_HIGH,glyph image manually checked,,,,glyph_G002C.png,UNRESOLVED_UNICODE
+G002D,4D,1,single-byte,0x000D,),VISUAL_HIGH,glyph image manually checked,,,,glyph_G002D.png,UNRESOLVED_UNICODE
+G002E,4E,393,single-byte,0x000E,[,VISUAL_HIGH,glyph image manually checked,,,"『(70,nearest_jpn_13)",glyph_G002E.png,UNRESOLVED_UNICODE
+G002F,4F,393,single-byte,0x000F,],VISUAL_HIGH,glyph image manually checked,,,"』(65,nearest_jpn_13)",glyph_G002F.png,UNRESOLVED_UNICODE
+G0033,53,69,single-byte,0x0013,3,VISUAL_HIGH,glyph image manually checked,,,"づ(75,nearest_jpn_10); ゴ(53,nearest_Japanese_10); 叶(0,nearest_HanS_10)",glyph_G0033.png,UNRESOLVED_UNICODE
+G0035,55,71,single-byte,0x0015,5,VISUAL_HIGH,glyph image manually checked,,,"の(38,nearest_jpn_10); 呈(0,nearest_jpn_13)",glyph_G0035.png,UNRESOLVED_UNICODE
+G0048,68,1,single-byte,0x0028,0,VISUAL_HIGH,glyph image manually checked,,,"し(14,smooth_jpn_10); 邊(0,threshold_jpn_10)",glyph_G0048.png,UNRESOLVED_UNICODE
+G0054,74,1116,single-byte,0x0034,あ,VISUAL_HIGH,glyph image manually checked,,,"あ(92,nearest_jpn_13); 店(52,nearest_Japanese_10); も(42,threshold_jpn_10); 布(0,nearest_HanS_10)",glyph_G0054.png,UNRESOLVED_UNICODE
+G005A,7A,1736,single-byte,0x003A,え,VISUAL_HIGH,glyph image manually checked,,,"え(92,nearest_jpn_10); 六(34,nearest_HanS_10); 直(0,nearest_Japanese_10)",glyph_G005A.png,UNRESOLVED_UNICODE
+G006F,8F,1137,single-byte,0x004F,ぜ,VISUAL_HIGH,glyph image manually checked,,,"ゼ(66,smooth_jpn_10); せ(0,threshold_jpn_10)",glyph_G006F.png,UNRESOLVED_UNICODE
+G0083,A3,192,single-byte,0x0063,ば,VISUAL_HIGH,glyph image manually checked,,,"ば(96,nearest_jpn_10); は(78,threshold_jpn_10)",glyph_G0083.png,UNRESOLVED_UNICODE
+G0086,A6,5,single-byte,0x0066,び,VISUAL_HIGH,glyph image manually checked,,,"ぴ(80,nearest_jpn_13)",glyph_G0086.png,UNRESOLVED_UNICODE
+G008F,AF,50,single-byte,0x006F,ぼ,VISUAL_HIGH,glyph image manually checked,,,"ば(88,threshold_jpn_10); ド(64,smooth_jpn_10)",glyph_G008F.png,UNRESOLVED_UNICODE
+G00FA,4A F0,21,F0,0x00DA,♪,VISUAL_HIGH,glyph image manually checked,,,"ゅ(79,threshold_jpn_10)",glyph_G00FA.png,UNRESOLVED_UNICODE
+G00FE,4E F0,20,F0,0x00DE,,REVIEW,,,,,glyph_G00FE.png,UNRESOLVED_UNICODE
+G010E,5E F0,2,F0,0x00EE,左,HIGH,"4 OCR votes, max 89.7",,,"左(90,nearest_jpn_10); 堪(64,nearest_jpn_13); 让(28,nearest_HanS_10)",glyph_G010E.png,UNRESOLVED_UNICODE
+G0110,60 F0,12,F0,0x00F0,右,HIGH,"2 OCR votes, max 73.8",,,"石(90,nearest_Japanese_10); 右(74,nearest_jpn_13); 证(0,nearest_HanS_10)",glyph_G0110.png,UNRESOLVED_UNICODE
+G0113,63 F0,283,F0,0x00F3,会,HIGH,jpn psm13 92.8,,,"会(93,nearest_jpn_13); 二(0,nearest_jpn_10)",glyph_G0113.png,UNRESOLVED_UNICODE
+G0114,64 F0,423,F0,0x00F4,話,HIGH,jpn psm13 91.5,,,"話(91,nearest_jpn_13); 庄(34,nearest_Japanese_10); ョ(11,threshold_jpn_10); 店(0,nearest_HanS_10)",glyph_G0114.png,UNRESOLVED_UNICODE
+G011C,6C F0,129,F0,0x00FC,り,MEDIUM,"2 OCR votes, avg 0.0",,,"中(13,threshold_jpn_10); 路(0,nearest_jpn_13); り(0,nearest_jpn_10)",glyph_G011C.png,UNRESOLVED_UNICODE
+G0123,73 F0,6,F0,0x0103,換,VISUAL_HIGH,glyph image manually checked,,,"損(33,nearest_jpn_13); 失(0,nearest_jpn_10); 所(0,smooth_jpn_10); 換(0,threshold_jpn_10); 换(0,nearest_HanS_10)",glyph_G0123.png,UNRESOLVED_UNICODE
+G0126,76 F0,58,F0,0x0106,搭,HIGH,"3 OCR votes, max 84.7",,,"搭(85,nearest_Japanese_10); 措(19,nearest_jpn_10); 捨(0,nearest_jpn_13)",glyph_G0126.png,UNRESOLVED_UNICODE
+G012C,7C F0,111,F0,0x010C,配,HIGH,jpn psm13 92.9,,,"配(93,nearest_jpn_13); 本(48,threshold_jpn_10)",glyph_G012C.png,UNRESOLVED_UNICODE
+G012F,7F F0,27,F0,0x010F,個,HIGH,jpn psm13 92.9,,,"個(93,nearest_jpn_13); 个(54,nearest_HanS_10); 『(19,threshold_jpn_10)",glyph_G012F.png,UNRESOLVED_UNICODE
+G0132,82 F0,153,F0,0x0112,買,HIGH,jpn psm13 89.9,,,"上(90,nearest_HanS_10); 買(90,nearest_jpn_13); 自(83,smooth_jpn_10); 肖(16,threshold_jpn_10)",glyph_G0132.png,UNRESOLVED_UNICODE
+G0133,83 F0,128,F0,0x0113,売,HIGH,jpn psm13 87.4,,,"売(87,nearest_jpn_13); 元(0,nearest_HanS_10); 志(0,nearest_Japanese_10)",glyph_G0133.png,UNRESOLVED_UNICODE
+G0136,86 F0,3,F0,0x0116,預,HIGH,jpn psm13 92.6,,,"預(93,nearest_jpn_13); ー(88,threshold_jpn_10); 麺(0,smooth_jpn_10); 地(0,nearest_HanS_10); 三(0,nearest_Japanese_10)",glyph_G0136.png,UNRESOLVED_UNICODE
+G013C,8C F0,95,F0,0x011C,続,HIGH,jpn psm13 89.7,,,"続(90,nearest_jpn_13); 米(0,nearest_HanS_10)",glyph_G013C.png,UNRESOLVED_UNICODE
+G013E,8E F0,40,F0,0x011E,期,MEDIUM,jpn psm13 78.7,,,"期(79,nearest_jpn_13); 用(77,threshold_jpn_10); 其(64,nearest_jpn_10)",glyph_G013E.png,UNRESOLVED_UNICODE
+G0143,93 F0,46,F0,0x0123,選,HIGH,jpn psm13 91.0,,,"選(91,nearest_jpn_13); 世(0,nearest_jpn_10); 供(0,threshold_jpn_10); 让(0,nearest_HanS_10)",glyph_G0143.png,UNRESOLVED_UNICODE
+G0144,94 F0,4,F0,0x0124,択,HIGH,"3 OCR votes, max 81.9",,,"択(82,nearest_jpn_13); ・(60,smooth_jpn_10); 损(37,nearest_HanS_10)",glyph_G0144.png,UNRESOLVED_UNICODE
+G0146,96 F0,8,F0,0x0126,域,HIGH,jpn psm13 86.6,,,"域(92,nearest_Japanese_10); 」(28,threshold_jpn_10)",glyph_G0146.png,UNRESOLVED_UNICODE
+G0152,A2 F0,126,F0,0x0132,村,HIGH,jpn psm13 92.7,,,"村(96,nearest_HanS_10)",glyph_G0152.png,UNRESOLVED_UNICODE
+G015C,AC F0,7,F0,0x013C,箱,HIGH,jpn psm13 89.2,,,"箱(89,nearest_jpn_13); 相(87,nearest_Japanese_10)",glyph_G015C.png,UNRESOLVED_UNICODE
+G0162,B2 F0,128,F0,0x0142,記,MEDIUM,"2 OCR votes, avg 0.0",,,"忘(11,nearest_jpn_13); 記(0,nearest_jpn_10); 選(0,smooth_jpn_10)",glyph_G0162.png,UNRESOLVED_UNICODE
+G0163,B3 F0,38,F0,0x0143,届,HIGH,jpn psm13 92.1,,,"届(92,nearest_jpn_13); 王(0,threshold_jpn_10)",glyph_G0163.png,UNRESOLVED_UNICODE
+G0166,B6 F0,1,F0,0x0146,券,MEDIUM,"2 OCR votes, avg 20.5",,,"券(41,smooth_jpn_10)",glyph_G0166.png,UNRESOLVED_UNICODE
+G0167,B7 F0,74,F0,0x0147,母,HIGH,jpn psm13 90.1,,,"母(90,nearest_jpn_13)",glyph_G0167.png,UNRESOLVED_UNICODE
+G0170,C0 F0,263,F0,0x0150,前,HIGH,jpn psm13 96.8,,,"前(97,nearest_jpn_13)",glyph_G0170.png,UNRESOLVED_UNICODE
+G0175,C5 F0,324,F0,0x0155,屋,HIGH,jpn psm13 92.2,,,"屋(93,smooth_jpn_10); 二(30,nearest_HanS_10)",glyph_G0175.png,UNRESOLVED_UNICODE
+G0177,C7 F0,6,F0,0x0157,樹,HIGH,jpn psm13 92.7,,,"樹(93,nearest_jpn_13); に(83,nearest_jpn_10)",glyph_G0177.png,UNRESOLVED_UNICODE
+G0179,C9 F0,40,F0,0x0159,晴,HIGH,jpn psm13 91.2,,,"晴(93,nearest_jpn_10)",glyph_G0179.png,UNRESOLVED_UNICODE
+G0188,D8 F0,169,F0,0x0168,探,HIGH,jpn psm13 92.4,,,"探(92,nearest_jpn_13); 控(43,threshold_jpn_10)",glyph_G0188.png,UNRESOLVED_UNICODE
+G018B,DB F0,69,F0,0x016B,以,HIGH,jpn psm13 92.9,,,"以(93,nearest_jpn_10)",glyph_G018B.png,UNRESOLVED_UNICODE
+G019A,EA F0,54,F0,0x017A,赤,HIGH,jpn psm13 89.0,,,"赤(89,nearest_jpn_13); 示(36,nearest_Japanese_10); か(9,nearest_jpn_10); り(0,smooth_jpn_10)",glyph_G019A.png,UNRESOLVED_UNICODE
+G019C,EC F0,4,F0,0x017C,即,HIGH,jpn psm13 87.9,,,"即(88,nearest_jpn_13); 員(0,smooth_jpn_10)",glyph_G019C.png,UNRESOLVED_UNICODE
+G01A2,22 F1,16,F1,0x0182,ー,HIGH,"2 OCR votes, max 80.9",,,"ー(81,nearest_jpn_10); 程(76,nearest_jpn_13); 本(40,nearest_HanS_10)",glyph_G01A2.png,UNRESOLVED_UNICODE
+G01AE,2E F1,4,F1,0x018E,,REVIEW,,狙,60.5,"狙(61,nearest_jpn_13)",glyph_G01AE.png,UNRESOLVED_UNICODE
+G01B6,36 F1,29,F1,0x0196,段,HIGH,jpn psm13 91.4,,,"段(91,nearest_jpn_13)",glyph_G01B6.png,UNRESOLVED_UNICODE
+G01BF,3F F1,10,F1,0x019F,で,HIGH,"2 OCR votes, max 73.6",,,"で(74,nearest_jpn_10); 系(38,nearest_jpn_13); 未(0,threshold_jpn_10); 下(0,nearest_Japanese_10)",glyph_G01BF.png,UNRESOLVED_UNICODE
+G01C3,43 F1,71,F1,0x01A3,止,HIGH,"6 OCR votes, max 91.9",,,"止(92,nearest_Japanese_10)",glyph_G01C3.png,UNRESOLVED_UNICODE
+G01C4,44 F1,2,F1,0x01A4,誠,VISUAL_HIGH,glyph image manually checked,,,"誠(0,nearest_jpn_13); 束(0,nearest_jpn_10); 玉(0,smooth_jpn_10); ョ(0,threshold_jpn_10); 广(0,nearest_HanS_10)",glyph_G01C4.png,UNRESOLVED_UNICODE
+G01CA,4A F1,276,F1,0x01AA,年,HIGH,jpn psm13 95.9,,,"年(97,nearest_jpn_10)",glyph_G01CA.png,UNRESOLVED_UNICODE
+G01CC,4C F1,53,F1,0x01AC,割,HIGH,jpn psm13 91.3,,,"割(91,nearest_jpn_13)",glyph_G01CC.png,UNRESOLVED_UNICODE
+G01D1,51 F1,5,F1,0x01B1,兵,HIGH,jpn psm13 86.9,,,"兵(87,nearest_jpn_13); 乓(44,nearest_HanS_10)",glyph_G01D1.png,UNRESOLVED_UNICODE
+G01D4,54 F1,252,F1,0x01B4,友,MEDIUM,"2 OCR votes, avg 11.5",,,"友(18,nearest_jpn_10); 最(0,nearest_jpn_13); 到(0,threshold_jpn_10); 隔(0,nearest_HanS_10); 酸(0,nearest_Japanese_10)",glyph_G01D4.png,UNRESOLVED_UNICODE
+G01D7,57 F1,48,F1,0x01B7,役,HIGH,jpn psm13 92.7,,,"役(93,nearest_jpn_13); に(51,threshold_jpn_10); 得(51,nearest_HanS_10); 令(0,nearest_Japanese_10)",glyph_G01D7.png,UNRESOLVED_UNICODE
+G01DC,5C F1,75,F1,0x01BC,外,HIGH,jpn psm13 90.0,,,"ト(93,threshold_jpn_10); 外(90,nearest_jpn_13); ・(82,nearest_jpn_10)",glyph_G01DC.png,UNRESOLVED_UNICODE
+G01DF,5F F1,3,F1,0x01BF,矢,HIGH,jpn psm13 90.8,,,"矢(91,nearest_jpn_13); 天(81,smooth_jpn_10); た(0,threshold_jpn_10); 拓(0,nearest_Japanese_10)",glyph_G01DF.png,UNRESOLVED_UNICODE
+G01E2,62 F1,3,F1,0x01C2,時,VISUAL_HIGH,glyph image manually checked,,,"店(54,threshold_jpn_10); 時(0,nearest_jpn_13); 喘(0,nearest_Japanese_10)",glyph_G01E2.png,UNRESOLVED_UNICODE
+G01E3,63 F1,2,F1,0x01C3,中,HIGH,"2 OCR votes, max 71.7",,,"中(72,threshold_jpn_10); 忠(70,nearest_jpn_10); 距(57,nearest_jpn_13)",glyph_G01E3.png,UNRESOLVED_UNICODE
+G01E4,64 F1,21,F1,0x01C4,難,VISUAL_HIGH,glyph image manually checked,,,"上(38,nearest_jpn_10); 圏(0,nearest_jpn_13); 還(0,threshold_jpn_10)",glyph_G01E4.png,UNRESOLVED_UNICODE
+G01E5,65 F1,5,F1,0x01C5,牛,HIGH,"4 OCR votes, max 86.9",,,"牛(87,smooth_jpn_10); 和(74,nearest_HanS_10)",glyph_G01E5.png,UNRESOLVED_UNICODE
+G01FF,7F F1,213,F1,0x01DF,目,HIGH,jpn psm13 92.9,,,"目(93,nearest_jpn_13); ミ(68,threshold_jpn_10)",glyph_G01FF.png,UNRESOLVED_UNICODE
+G0205,85 F1,1,F1,0x01E5,盾,MEDIUM,jpn psm13 67.3,,,"盾(67,nearest_jpn_13); す(5,nearest_Japanese_10); 秆(0,nearest_HanS_10)",glyph_G0205.png,UNRESOLVED_UNICODE
+G0209,89 F1,81,F1,0x01E9,返,HIGH,jpn psm13 93.2,,,"返(93,nearest_jpn_13); 到(0,nearest_HanS_10); 李(0,nearest_Japanese_10)",glyph_G0209.png,UNRESOLVED_UNICODE
+G020F,8F F1,99,F1,0x01EF,近,HIGH,jpn psm13 92.6,,,"近(93,nearest_jpn_13); 打(0,smooth_jpn_10)",glyph_G020F.png,UNRESOLVED_UNICODE
+G021E,9E F1,68,F1,0x01FE,安,HIGH,"2 OCR votes, max 89.5",,,"安(89,nearest_HanS_10); ェ(77,smooth_jpn_10)",glyph_G021E.png,UNRESOLVED_UNICODE
+G0228,A8 F1,12,F1,0x0208,有,HIGH,jpn psm13 87.0,,,"有(97,nearest_HanS_10)",glyph_G0228.png,UNRESOLVED_UNICODE
+G022C,AC F1,14,F1,0x020C,首,HIGH,jpn psm13 92.5,,,"首(93,nearest_jpn_13); 自(92,threshold_jpn_10)",glyph_G022C.png,UNRESOLVED_UNICODE
+G022E,AE F1,1,F1,0x020E,四,MEDIUM,"2 OCR votes, avg 48.1",,,"四(55,nearest_jpn_10); 兄(29,threshold_jpn_10); 免(13,nearest_jpn_13)",glyph_G022E.png,UNRESOLVED_UNICODE
+G022F,AF F1,54,F1,0x020F,許,HIGH,jpn psm13 92.5,,,"許(93,smooth_jpn_10); 計(87,nearest_jpn_10); 主(52,nearest_HanS_10)",glyph_G022F.png,UNRESOLVED_UNICODE
+G0230,B0 F1,9,F1,0x0210,皆,HIGH,jpn psm13 92.5,,,"皆(93,nearest_jpn_13); 百(26,nearest_jpn_10); 再(20,smooth_jpn_10); 三(0,threshold_jpn_10); 粘(0,nearest_HanS_10)",glyph_G0230.png,UNRESOLVED_UNICODE
+G023F,BF F1,96,F1,0x021F,新,HIGH,jpn psm13 93.2,,,"新(93,nearest_jpn_13); に(53,threshold_jpn_10); ト(48,nearest_jpn_10); 親(8,smooth_jpn_10)",glyph_G023F.png,UNRESOLVED_UNICODE
+G0240,C0 F1,10,F1,0x0220,鮮,MEDIUM,jpn psm13 77.3,,,"鮮(77,nearest_jpn_13); 時(45,nearest_jpn_10); 上(33,smooth_jpn_10); 遇(0,nearest_Japanese_10)",glyph_G0240.png,UNRESOLVED_UNICODE
+G0245,C5 F1,21,F1,0x0225,甘,HIGH,jpn psm13 92.1,,,"甘(92,nearest_jpn_13)",glyph_G0245.png,UNRESOLVED_UNICODE
+G024A,CA F1,4,F1,0x022A,渋,HIGH,jpn psm13 89.5,,,"渋(90,nearest_jpn_13); か(59,smooth_jpn_10); 牙(0,nearest_Japanese_10)",glyph_G024A.png,UNRESOLVED_UNICODE
+G024C,CC F1,21,F1,0x022C,上,MEDIUM,"2 OCR votes, avg 14.4",,,"上(29,nearest_jpn_10); 団(14,nearest_jpn_13); 攻(0,nearest_Japanese_10)",glyph_G024C.png,UNRESOLVED_UNICODE
+G024F,CF F1,2,F1,0x022F,算,HIGH,"3 OCR votes, max 78.7",,,"算(79,nearest_jpn_13); ー(65,threshold_jpn_10)",glyph_G024F.png,UNRESOLVED_UNICODE
+G0252,D2 F1,33,F1,0x0232,定,HIGH,jpn psm13 91.8,,,"定(92,nearest_jpn_13); ー(75,threshold_jpn_10)",glyph_G0252.png,UNRESOLVED_UNICODE
+G0257,D7 F1,3,F1,0x0237,塩,HIGH,jpn psm13 89.9,,,"塩(90,nearest_jpn_13)",glyph_G0257.png,UNRESOLVED_UNICODE
+G0258,D8 F1,19,F1,0x0238,斑,MEDIUM,"2 OCR votes, avg 58.8",,,"斑(59,smooth_jpn_10); 辛(45,nearest_jpn_13); 。(0,nearest_Japanese_10)",glyph_G0258.png,UNRESOLVED_UNICODE
+G025F,DF F1,2,F1,0x023F,延,HIGH,jpn psm13 92.2,,,"延(92,nearest_jpn_13)",glyph_G025F.png,UNRESOLVED_UNICODE
+G0261,E1 F1,2,F1,0x0241,費,VISUAL_HIGH,glyph image manually checked,,,"費(55,nearest_jpn_13); 区(25,smooth_jpn_10); 宇(15,threshold_jpn_10); 殴(5,nearest_jpn_10); 昔(0,nearest_Japanese_10)",glyph_G0261.png,UNRESOLVED_UNICODE
+G0262,E2 F1,14,F1,0x0242,倍,HIGH,jpn psm13 85.7,,,"倍(86,nearest_jpn_13); 億(11,smooth_jpn_10)",glyph_G0262.png,UNRESOLVED_UNICODE
+G0263,E3 F1,91,F1,0x0243,終,HIGH,jpn psm13 90.1,,,"終(90,nearest_jpn_13); 中(0,threshold_jpn_10)",glyph_G0263.png,UNRESOLVED_UNICODE
+G026F,EF F1,9,F1,0x024F,紹,MEDIUM,jpn psm13 83.2,,,"紹(83,nearest_jpn_13); 紀(0,smooth_jpn_10)",glyph_G026F.png,UNRESOLVED_UNICODE
+G0270,20 F2,10,F2,0x0250,介,HIGH,jpn psm13 90.4,,,"介(90,nearest_jpn_13); 代(0,nearest_Japanese_10)",glyph_G0270.png,UNRESOLVED_UNICODE
+G0289,39 F2,12,F2,0x0269,警,VISUAL_HIGH,glyph image manually checked,,,"警(0,nearest_jpn_13)",glyph_G0289.png,UNRESOLVED_UNICODE
+G028F,3F F2,77,F2,0x026F,欄,MEDIUM,"2 OCR votes, avg 0.0",,,"儀(89,smooth_jpn_10); 位(0,nearest_jpn_13); 欄(0,nearest_jpn_10)",glyph_G028F.png,UNRESOLVED_UNICODE
+G02A3,53 F2,5,F2,0x0283,鏡,MEDIUM,jpn psm13 83.0,,,"鏡(83,nearest_jpn_13); 上(69,smooth_jpn_10)",glyph_G02A3.png,UNRESOLVED_UNICODE
+G02A8,58 F2,2,F2,0x0288,登,HIGH,jpn psm13 92.3,,,"登(92,nearest_jpn_13); 富(31,smooth_jpn_10)",glyph_G02A8.png,UNRESOLVED_UNICODE
+G02AA,5A F2,32,F2,0x028A,妙,VISUAL_HIGH,glyph image manually checked,,,"妙(51,nearest_jpn_13)",glyph_G02AA.png,UNRESOLVED_UNICODE
+G02AC,5C F2,7,F2,0x028C,鹿,HIGH,jpn psm13 86.5,,,"に(93,threshold_jpn_10); 鹿(86,nearest_jpn_13)",glyph_G02AC.png,UNRESOLVED_UNICODE
+G02AD,5D F2,11,F2,0x028D,角,HIGH,jpn psm13 92.9,,,"角(93,nearest_jpn_13)",glyph_G02AD.png,UNRESOLVED_UNICODE
+G02AF,5F F2,13,F2,0x028F,仮,HIGH,jpn psm13 87.9,,,"仮(88,nearest_jpn_13)",glyph_G02AF.png,UNRESOLVED_UNICODE
+G02B8,68 F2,10,F2,0x0298,幻,MEDIUM,jpn psm13 75.0,,,"幻(75,nearest_jpn_13); 」(72,threshold_jpn_10); る(38,smooth_jpn_10)",glyph_G02B8.png,UNRESOLVED_UNICODE
+G02BD,6D F2,19,F2,0x029D,涙,HIGH,"3 OCR votes, max 79.9",,,"涙(80,nearest_jpn_13); 神(0,threshold_jpn_10)",glyph_G02BD.png,UNRESOLVED_UNICODE
+G02D3,83 F2,34,F2,0x02B3,絵,HIGH,jpn psm13 91.3,,,"絵(91,nearest_jpn_13); 統(0,smooth_jpn_10); 結(0,threshold_jpn_10)",glyph_G02D3.png,UNRESOLVED_UNICODE
+G02D4,84 F2,581,F2,0x02B4,日,HIGH,jpn psm13 90.2,,,"日(90,nearest_jpn_13); ロ(73,smooth_jpn_10)",glyph_G02D4.png,UNRESOLVED_UNICODE
+G02DD,8D F2,2,F2,0x02BD,針,HIGH,jpn psm13 93.0,,,"針(93,nearest_jpn_13)",glyph_G02DD.png,UNRESOLVED_UNICODE
+G02E1,91 F2,3,F2,0x02C1,,REVIEW,,凌,0.0,"凌(0,nearest_jpn_13); ま(0,threshold_jpn_10)",glyph_G02E1.png,UNRESOLVED_UNICODE
+G02E4,94 F2,73,F2,0x02C4,始,HIGH,jpn psm13 92.6,,,"始(93,nearest_jpn_13)",glyph_G02E4.png,UNRESOLVED_UNICODE
+G02E6,96 F2,162,F2,0x02C6,教,HIGH,jpn psm13 88.1,,,"教(88,nearest_jpn_13); 報(0,threshold_jpn_10)",glyph_G02E6.png,UNRESOLVED_UNICODE
+G02EB,9B F2,4,F2,0x02CB,引,VISUAL_HIGH,glyph image manually checked,,,"和(24,nearest_jpn_10); 引(0,nearest_jpn_13)",glyph_G02EB.png,UNRESOLVED_UNICODE
+G02EC,9C F2,35,F2,0x02CC,番,HIGH,jpn psm13 92.6,,,"番(93,nearest_jpn_13); 上(35,smooth_jpn_10)",glyph_G02EC.png,UNRESOLVED_UNICODE
+G02F0,A0 F2,1,F2,0x02D0,芋,HIGH,jpn psm13 92.2,,,"芋(92,nearest_jpn_13)",glyph_G02F0.png,UNRESOLVED_UNICODE
+G02F2,A2 F2,24,F2,0x02D2,吸,VISUAL_HIGH,glyph image manually checked,,,"吸(63,nearest_jpn_13); 由(0,threshold_jpn_10)",glyph_G02F2.png,UNRESOLVED_UNICODE
+G02F3,A3 F2,6,F2,0x02D3,中,MEDIUM,"2 OCR votes, avg 39.5",,,"中(40,nearest_jpn_10); 人(0,threshold_jpn_10); 蝶(0,nearest_jpn_13)",glyph_G02F3.png,UNRESOLVED_UNICODE
+G02F4,A4 F2,3,F2,0x02D4,泥,HIGH,jpn psm13 91.7,,,"泥(92,nearest_jpn_13); 中(57,threshold_jpn_10); 北(0,nearest_jpn_10); 光(0,smooth_jpn_10)",glyph_G02F4.png,UNRESOLVED_UNICODE
+G0301,B1 F2,2,F2,0x02E1,攻,VISUAL_HIGH,glyph image manually checked,,,"こ(42,threshold_jpn_10); 攻(0,nearest_jpn_13)",glyph_G0301.png,UNRESOLVED_UNICODE
+G0302,B2 F2,1,F2,0x02E2,拳,MEDIUM,jpn psm13 75.9,,,"拳(76,nearest_jpn_13); 芋(46,nearest_jpn_10)",glyph_G0302.png,UNRESOLVED_UNICODE
+G030B,BB F2,34,F2,0x02EB,追,MEDIUM,jpn psm13 81.8,,,"追(82,nearest_jpn_13); 師(50,nearest_jpn_10)",glyph_G030B.png,UNRESOLVED_UNICODE
+G030D,BD F2,4,F2,0x02ED,脱,MEDIUM,"2 OCR votes, avg 0.0",,,"脱(0,nearest_jpn_13); 膨(0,nearest_jpn_10)",glyph_G030D.png,UNRESOLVED_UNICODE
+G0320,D0 F2,24,F2,0x0300,完,HIGH,jpn psm13 92.0,,,"完(92,nearest_jpn_13); 元(59,nearest_jpn_10)",glyph_G0320.png,UNRESOLVED_UNICODE
+G0321,D1 F2,1,F2,0x0301,陣,MEDIUM,jpn psm13 82.5,,,"陣(83,nearest_jpn_13); 由(67,threshold_jpn_10); 『(62,smooth_jpn_10); 中(13,nearest_jpn_10)",glyph_G0321.png,UNRESOLVED_UNICODE
+G0324,D4 F2,11,F2,0x0304,吐,HIGH,jpn psm13 92.4,,,"吐(92,nearest_jpn_13); 叶(73,threshold_jpn_10); 中(0,smooth_jpn_10)",glyph_G0324.png,UNRESOLVED_UNICODE
+G0327,D7 F2,11,F2,0x0307,援,HIGH,"2 OCR votes, max 81.0",,,"援(81,nearest_jpn_13)",glyph_G0327.png,UNRESOLVED_UNICODE
+G0328,D8 F2,3,F2,0x0308,酒,VISUAL_HIGH,glyph image manually checked,,,"洒(31,nearest_jpn_10); 溜(0,nearest_jpn_13)",glyph_G0328.png,UNRESOLVED_UNICODE
+G032A,DA F2,3,F2,0x030A,複,VISUAL_HIGH,glyph image manually checked,,,"複(52,nearest_jpn_13); 中(41,smooth_jpn_10)",glyph_G032A.png,UNRESOLVED_UNICODE
+G0336,E6 F2,9,F2,0x0316,挑,HIGH,"3 OCR votes, max 74.4",,,"挑(74,nearest_jpn_13)",glyph_G0336.png,UNRESOLVED_UNICODE
+G033F,EF F2,154,F2,0x031F,明,HIGH,jpn psm13 92.9,,,"明(93,nearest_jpn_13)",glyph_G033F.png,UNRESOLVED_UNICODE
+G0348,28 F3,234,F3,0x0328,所,HIGH,jpn psm13 96.8,,,"所(97,nearest_jpn_13)",glyph_G0348.png,UNRESOLVED_UNICODE
+G034B,2B F3,18,F3,0x032B,節,HIGH,jpn psm13 92.8,,,"節(93,nearest_jpn_13)",glyph_G034B.png,UNRESOLVED_UNICODE
+G034D,2D F3,3,F3,0x032D,中,MEDIUM,"2 OCR votes, avg 40.0",,,"中(42,nearest_jpn_10); 用(17,threshold_jpn_10); 開(0,nearest_jpn_13)",glyph_G034D.png,UNRESOLVED_UNICODE
+G034F,2F F3,59,F3,0x032F,抜,HIGH,"4 OCR votes, max 80.3",,,"抜(80,nearest_jpn_13)",glyph_G034F.png,UNRESOLVED_UNICODE
+G0351,31 F3,113,F3,0x0331,声,HIGH,jpn psm13 87.9,,,"声(88,nearest_jpn_13)",glyph_G0351.png,UNRESOLVED_UNICODE
+G0359,39 F3,1,F3,0x0339,菌,HIGH,jpn psm13 87.5,,,"菌(87,nearest_jpn_13); 素(0,smooth_jpn_10); 遇(0,threshold_jpn_10)",glyph_G0359.png,UNRESOLVED_UNICODE
+G035A,3A F3,31,F3,0x033A,隠,MEDIUM,"3 OCR votes, avg 40.6",,,"隠(62,nearest_jpn_10); 園(0,nearest_jpn_13)",glyph_G035A.png,UNRESOLVED_UNICODE
+G035D,3D F3,2,F3,0x033D,煙,HIGH,jpn psm13 92.8,,,"煙(93,nearest_jpn_13)",glyph_G035D.png,UNRESOLVED_UNICODE
+G035E,3E F3,1,F3,0x033E,津,HIGH,"4 OCR votes, max 79.2",,,"津(79,nearest_jpn_13)",glyph_G035E.png,UNRESOLVED_UNICODE
+G0360,40 F3,39,F3,0x0340,歌,MEDIUM,jpn psm13 84.5,,,"歌(85,nearest_jpn_13)",glyph_G0360.png,UNRESOLVED_UNICODE
+G0366,46 F3,12,F3,0x0346,制,HIGH,jpn psm13 91.1,,,"制(91,nearest_jpn_13); 市(43,threshold_jpn_10)",glyph_G0366.png,UNRESOLVED_UNICODE
+G0368,48 F3,85,F3,0x0348,他,HIGH,jpn psm13 91.9,,,"他(93,nearest_jpn_10)",glyph_G0368.png,UNRESOLVED_UNICODE
+G036B,4B F3,11,F3,0x034B,室,HIGH,"2 OCR votes, max 91.4",,,"室(91,nearest_jpn_10); 堂(83,nearest_jpn_13); 三(11,threshold_jpn_10)",glyph_G036B.png,UNRESOLVED_UNICODE
+G036C,4C F3,30,F3,0x034C,吉,MEDIUM,"2 OCR votes, avg 33.8",,,"ー(79,threshold_jpn_10); 吉(37,nearest_jpn_10); 喜(6,nearest_jpn_13)",glyph_G036C.png,UNRESOLVED_UNICODE
+G036D,4D F3,2,F3,0x034D,卑,HIGH,jpn psm13 93.0,,,"卑(93,nearest_jpn_13); ョ(77,nearest_jpn_10)",glyph_G036D.png,UNRESOLVED_UNICODE
+G0373,53 F3,41,F3,0x0353,格,HIGH,jpn psm13 90.5,,,"格(90,nearest_jpn_13)",glyph_G0373.png,UNRESOLVED_UNICODE
+G0375,55 F3,25,F3,0x0355,約,HIGH,jpn psm13 92.8,,,"約(93,nearest_jpn_13)",glyph_G0375.png,UNRESOLVED_UNICODE
+G0376,56 F3,28,F3,0x0356,上,MEDIUM,"3 OCR votes, avg 17.9",,,"上(41,threshold_jpn_10); 園(0,nearest_jpn_13)",glyph_G0376.png,UNRESOLVED_UNICODE
+G0378,58 F3,6,F3,0x0358,握,MEDIUM,"3 OCR votes, avg 16.0",,,"握(48,nearest_jpn_13); 所(0,smooth_jpn_10)",glyph_G0378.png,UNRESOLVED_UNICODE
+G037C,5C F3,14,F3,0x035C,案,MEDIUM,jpn psm13 82.8,,,"案(83,nearest_jpn_13); 放(0,nearest_jpn_10); 二(0,smooth_jpn_10); 去(0,threshold_jpn_10)",glyph_G037C.png,UNRESOLVED_UNICODE
+G037E,5E F3,10,F3,0x035E,依,HIGH,jpn psm13 91.2,,,"依(91,nearest_jpn_13); 『(62,threshold_jpn_10)",glyph_G037E.png,UNRESOLVED_UNICODE
+G037F,5F F3,4,F3,0x035F,偉,MEDIUM,"2 OCR votes, avg 24.0",,,"健(53,threshold_jpn_10); 偉(48,nearest_jpn_13); 三(42,nearest_jpn_10)",glyph_G037F.png,UNRESOLVED_UNICODE
+G0383,63 F3,7,F3,0x0363,医,HIGH,jpn psm13 92.6,,,"医(93,nearest_jpn_13)",glyph_G0383.png,UNRESOLVED_UNICODE
+G0384,64 F3,60,F3,0x0364,育,HIGH,jpn psm13 93.0,,,"育(93,nearest_jpn_13)",glyph_G0384.png,UNRESOLVED_UNICODE
+G0386,66 F3,17,F3,0x0366,因,HIGH,"2 OCR votes, max 81.3",,,"因(81,nearest_jpn_13); 回(47,smooth_jpn_10)",glyph_G0386.png,UNRESOLVED_UNICODE
+G0389,69 F3,3,F3,0x0369,陰,VISUAL_HIGH,glyph image manually checked,,,"た(60,threshold_jpn_10); 陰(23,nearest_jpn_13); 障(13,nearest_jpn_10)",glyph_G0389.png,UNRESOLVED_UNICODE
+G038B,6B F3,18,F3,0x036B,営,MEDIUM,jpn psm13 82.0,,,"営(82,nearest_jpn_13); 三(38,threshold_jpn_10)",glyph_G038B.png,UNRESOLVED_UNICODE
+G0390,70 F3,5,F3,0x0370,衛,HIGH,jpn psm13 92.9,,,"衛(93,nearest_jpn_13); 伸(0,smooth_jpn_10)",glyph_G0390.png,UNRESOLVED_UNICODE
+G0392,72 F3,2,F3,0x0372,益,VISUAL_HIGH,glyph image manually checked,,,"益(64,nearest_jpn_13); こ(12,threshold_jpn_10)",glyph_G0392.png,UNRESOLVED_UNICODE
+G0394,74 F3,51,F3,0x0374,越,VISUAL_HIGH,glyph image manually checked,,,"出(27,smooth_jpn_10); 軸(24,nearest_jpn_10); 越(15,nearest_jpn_13)",glyph_G0394.png,UNRESOLVED_UNICODE
+G0397,77 F3,11,F3,0x0377,演,HIGH,jpn psm13 91.3,,,"演(91,nearest_jpn_13); 湖(0,nearest_jpn_10); 混(0,smooth_jpn_10); 員(0,threshold_jpn_10)",glyph_G0397.png,UNRESOLVED_UNICODE
+G039D,7D F3,3,F3,0x037D,沖,HIGH,jpn psm13 90.3,,,"沖(90,nearest_jpn_13); 油(0,nearest_jpn_10)",glyph_G039D.png,UNRESOLVED_UNICODE
+G039E,7E F3,13,F3,0x037E,憶,HIGH,"3 OCR votes, max 87.3",,,"憶(87,smooth_jpn_10); 情(40,threshold_jpn_10)",glyph_G039E.png,UNRESOLVED_UNICODE
+G039F,7F F3,16,F3,0x037F,恩,HIGH,jpn psm13 89.0,,,"恩(89,nearest_jpn_13); き(7,nearest_jpn_10); さ(0,smooth_jpn_10)",glyph_G039F.png,UNRESOLVED_UNICODE
+G03A2,82 F3,2,F3,0x0382,夏,HIGH,jpn psm13 92.1,,,"夏(92,nearest_jpn_13); 息(32,smooth_jpn_10)",glyph_G03A2.png,UNRESOLVED_UNICODE
+G03A3,83 F3,2,F3,0x0383,姫,VISUAL_HIGH,glyph image manually checked,,,"中(37,smooth_jpn_10); 娠(30,nearest_jpn_13)",glyph_G03A3.png,UNRESOLVED_UNICODE
+G03A4,84 F3,1,F3,0x0384,科,HIGH,jpn psm13 93.0,,,"科(93,nearest_jpn_13)",glyph_G03A4.png,UNRESOLVED_UNICODE
+G03A5,85 F3,3,F3,0x0385,河,HIGH,jpn psm13 92.7,,,"河(93,nearest_jpn_13); 中(78,threshold_jpn_10); 洒(14,nearest_jpn_10)",glyph_G03A5.png,UNRESOLVED_UNICODE
+G03A6,86 F3,14,F3,0x0386,何,HIGH,"3 OCR votes, max 92.6",,,"何(93,nearest_jpn_10); 荷(84,nearest_jpn_13)",glyph_G03A6.png,UNRESOLVED_UNICODE
+G03A7,87 F3,3,F3,0x0387,貨,VISUAL_HIGH,glyph image manually checked,,,"貨(49,nearest_jpn_13)",glyph_G03A7.png,UNRESOLVED_UNICODE
+G03A8,88 F3,67,F3,0x0388,周,MEDIUM,"2 OCR votes, avg 13.1",,,"過(56,nearest_jpn_13); 周(24,smooth_jpn_10); 師(0,threshold_jpn_10)",glyph_G03A8.png,UNRESOLVED_UNICODE
+G03AB,8B F3,14,F3,0x038B,悔,HIGH,jpn psm13 91.3,,,"悔(91,nearest_jpn_13); 皿(0,threshold_jpn_10)",glyph_G03AB.png,UNRESOLVED_UNICODE
+G03AF,8F F3,18,F3,0x038F,階,HIGH,jpn psm13 91.9,,,"階(92,nearest_jpn_13)",glyph_G03AF.png,UNRESOLVED_UNICODE
+G03B0,90 F3,18,F3,0x0390,害,MEDIUM,jpn psm13 78.6,,,"害(79,nearest_jpn_13); 書(52,smooth_jpn_10); 寺(0,threshold_jpn_10)",glyph_G03B0.png,UNRESOLVED_UNICODE
+G03B1,91 F3,12,F3,0x0391,崖,VISUAL_HIGH,glyph image manually checked,,,"に(91,threshold_jpn_10); 崖(20,nearest_jpn_13)",glyph_G03B1.png,UNRESOLVED_UNICODE
+G03B4,94 F3,71,F3,0x0394,確,HIGH,jpn psm13 92.1,,,"確(92,nearest_jpn_13)",glyph_G03B4.png,UNRESOLVED_UNICODE
+G03B6,96 F3,184,F3,0x0396,業,HIGH,jpn psm13 88.1,,,"業(88,nearest_jpn_13); 中(17,threshold_jpn_10)",glyph_G03B6.png,UNRESOLVED_UNICODE
+G03B7,97 F3,11,F3,0x0397,上,MEDIUM,"3 OCR votes, avg 18.7",,,"額(55,nearest_jpn_13); 上(41,nearest_jpn_10)",glyph_G03B7.png,UNRESOLVED_UNICODE
+G03B8,98 F3,10,F3,0x0398,乾,MEDIUM,jpn psm13 81.6,,,"乾(82,nearest_jpn_13); 四(0,nearest_jpn_10); 下(0,threshold_jpn_10)",glyph_G03B8.png,UNRESOLVED_UNICODE
+G03BA,9A F3,3,F3,0x039A,勘,MEDIUM,jpn psm13 79.8,,,"勘(80,nearest_jpn_13); 中(34,threshold_jpn_10); 品(0,nearest_jpn_10)",glyph_G03BA.png,UNRESOLVED_UNICODE
+G03BB,9B F3,3,F3,0x039B,患,HIGH,"3 OCR votes, max 71.2",,,"患(71,smooth_jpn_10); 中(44,threshold_jpn_10)",glyph_G03BB.png,UNRESOLVED_UNICODE
+G03C0,A0 F3,9,F3,0x03A0,汗,HIGH,"4 OCR votes, max 73.2",,,"汗(73,smooth_jpn_10)",glyph_G03C0.png,UNRESOLVED_UNICODE
+G03C2,A2 F3,38,F3,0x03A2,看,HIGH,jpn psm13 92.3,,,"看(92,nearest_jpn_13); 析(0,threshold_jpn_10)",glyph_G03C2.png,UNRESOLVED_UNICODE
+G03C3,A3 F3,2,F3,0x03A3,一,HIGH,"3 OCR votes, max 76.4",,,"一(76,smooth_jpn_10); 警(59,nearest_jpn_13)",glyph_G03C3.png,UNRESOLVED_UNICODE
+G03C4,A4 F3,18,F3,0x03A4,簡,HIGH,jpn psm13 91.7,,,"簡(92,nearest_jpn_13); 間(58,threshold_jpn_10)",glyph_G03C4.png,UNRESOLVED_UNICODE
+G03C5,A5 F3,8,F3,0x03A5,肝,HIGH,jpn psm13 92.2,,,"肝(92,nearest_jpn_13)",glyph_G03C5.png,UNRESOLVED_UNICODE
+G03C7,A7 F3,46,F3,0x03A7,棚,MEDIUM,"2 OCR votes, avg 0.0",,,"較(0,nearest_jpn_13); 棚(0,nearest_jpn_10); 還(0,threshold_jpn_10)",glyph_G03C7.png,UNRESOLVED_UNICODE
+G03CB,AB F3,155,F3,0x03AB,顔,MEDIUM,jpn psm13 79.1,,,"顔(79,nearest_jpn_13); 四(0,nearest_jpn_10); 明(0,threshold_jpn_10)",glyph_G03CB.png,UNRESOLVED_UNICODE
+G03CD,AD F3,38,F3,0x03AD,希,HIGH,jpn psm13 90.8,,,"希(91,nearest_jpn_13)",glyph_G03CD.png,UNRESOLVED_UNICODE
+G03D0,B0 F3,265,F3,0x03B0,帰,HIGH,jpn psm13 92.7,,,"帰(93,nearest_jpn_10)",glyph_G03D0.png,UNRESOLVED_UNICODE
+G03D3,B3 F3,12,F3,0x03B3,季,HIGH,jpn psm13 92.8,,,"季(93,nearest_jpn_13); 李(85,smooth_jpn_10); 中(84,threshold_jpn_10)",glyph_G03D3.png,UNRESOLVED_UNICODE
+G03D4,B4 F3,1,F3,0x03B4,紀,MEDIUM,jpn psm13 66.8,,,"紀(67,nearest_jpn_13); し(56,nearest_jpn_10)",glyph_G03D4.png,UNRESOLVED_UNICODE
+G03D8,B8 F3,26,F3,0x03B8,負,VISUAL_HIGH,glyph image manually checked,,,"負(63,nearest_jpn_13); 名(20,nearest_Japanese_10); 骨(0,nearest_jpn_10); ョ(0,smooth_jpn_10)",glyph_G03D8.png,UNRESOLVED_UNICODE
+G03D9,B9 F3,9,F3,0x03B9,犠,HIGH,jpn psm13 88.0,,,"犠(88,nearest_jpn_13); 涯(0,smooth_jpn_10); 半(0,nearest_Japanese_10)",glyph_G03D9.png,UNRESOLVED_UNICODE
+G03DF,BF F3,85,F3,0x03BF,休,HIGH,jpn psm13 89.3,,,"休(89,nearest_jpn_13); 価(46,nearest_Japanese_10)",glyph_G03DF.png,UNRESOLVED_UNICODE
+G03E0,C0 F3,52,F3,0x03C0,求,HIGH,jpn psm13 90.4,,,"求(90,nearest_jpn_13)",glyph_G03E0.png,UNRESOLVED_UNICODE
+G03E1,C1 F3,56,F3,0x03C1,泣,MEDIUM,jpn psm13 81.2,,,"泣(81,nearest_jpn_13); 演(65,nearest_Japanese_10); は(42,threshold_jpn_10); 潤(0,nearest_jpn_10)",glyph_G03E1.png,UNRESOLVED_UNICODE
+G03E5,C5 F3,50,F3,0x03C5,去,HIGH,jpn psm13 93.0,,,"去(93,nearest_jpn_13)",glyph_G03E5.png,UNRESOLVED_UNICODE
+G03E8,C8 F3,6,F3,0x03C8,損,VISUAL_HIGH,glyph image manually checked,,,"中(33,smooth_jpn_10); し(5,threshold_jpn_10); 換(2,nearest_jpn_10); 損(0,nearest_jpn_13)",glyph_G03E8.png,UNRESOLVED_UNICODE
+G03EC,CC F3,14,F3,0x03CC,協,HIGH,jpn psm13 92.5,,,"協(92,nearest_jpn_13)",glyph_G03EC.png,UNRESOLVED_UNICODE
+G03ED,CD F3,10,F3,0x03CD,叫,HIGH,"5 OCR votes, max 82.7",,,"叫(83,threshold_jpn_10)",glyph_G03ED.png,UNRESOLVED_UNICODE
+G03EE,CE F3,26,F3,0x03CE,境,HIGH,jpn psm13 92.5,,,"境(93,smooth_jpn_10)",glyph_G03EE.png,UNRESOLVED_UNICODE
+G03F1,D1 F3,6,F3,0x03D1,況,HIGH,jpn psm13 85.4,,,"況(85,nearest_jpn_13)",glyph_G03F1.png,UNRESOLVED_UNICODE
+G03F2,D2 F3,27,F3,0x03D2,興,HIGH,jpn psm13 91.5,,,"興(91,nearest_jpn_13); 提(9,smooth_jpn_10); 届(0,threshold_jpn_10); 引(0,nearest_Japanese_10)",glyph_G03F2.png,UNRESOLVED_UNICODE
+G03F3,D3 F3,39,F3,0x03D3,,REVIEW,,鐘,0.0,"鐘(0,nearest_jpn_13); 旭(0,nearest_jpn_10); 細(0,nearest_Japanese_10)",glyph_G03F3.png,UNRESOLVED_UNICODE
+G03F5,D5 F3,31,F3,0x03D5,驚,VISUAL_HIGH,glyph image manually checked,,,"に(83,threshold_jpn_10); 驚(22,nearest_jpn_13)",glyph_G03F5.png,UNRESOLVED_UNICODE
+G03F7,D7 F3,12,F3,0x03D7,禁,HIGH,jpn psm13 90.1,,,"禁(90,nearest_jpn_13); で(10,nearest_Japanese_10)",glyph_G03F7.png,UNRESOLVED_UNICODE
+G03F9,D9 F3,8,F3,0x03D9,に,MEDIUM,"2 OCR votes, avg 43.6",,,"緊(56,nearest_jpn_13); に(44,smooth_jpn_10); の(10,threshold_jpn_10)",glyph_G03F9.png,UNRESOLVED_UNICODE
+G03FB,DB F3,6,F3,0x03DB,区,HIGH,jpn psm13 96.9,,,"区(97,nearest_jpn_13)",glyph_G03FB.png,UNRESOLVED_UNICODE
+G0406,E6 F3,197,F3,0x03E6,兄,HIGH,jpn psm13 89.3,,,"ー(91,smooth_jpn_10); 兄(89,nearest_jpn_13)",glyph_G0406.png,UNRESOLVED_UNICODE
+G040C,EC F3,26,F3,0x03EC,計,HIGH,jpn psm13 92.9,,,"計(93,nearest_jpn_13); ミ(9,nearest_Japanese_10)",glyph_G040C.png,UNRESOLVED_UNICODE
+G040D,ED F3,14,F3,0x03ED,辻,MEDIUM,"2 OCR votes, avg 45.2",,,"迎(54,nearest_jpn_13); 辻(49,smooth_jpn_10); 中(34,threshold_jpn_10)",glyph_G040D.png,UNRESOLVED_UNICODE
+G040F,EF F3,11,F3,0x03EF,欠,MEDIUM,"2 OCR votes, avg 28.4",,,"欠(57,nearest_jpn_13)",glyph_G040F.png,UNRESOLVED_UNICODE
+G0410,20 F4,187,F4,0x03F0,決,HIGH,jpn psm13 93.2,,,"決(93,nearest_jpn_13)",glyph_G0410.png,UNRESOLVED_UNICODE
+G0412,22 F4,103,F4,0x03F2,件,HIGH,jpn psm13 96.9,,,"件(97,smooth_jpn_10); 性(31,threshold_jpn_10)",glyph_G0412.png,UNRESOLVED_UNICODE
+G0414,24 F4,47,F4,0x03F4,嫌,MEDIUM,"2 OCR votes, avg 18.5",,,"園(26,nearest_jpn_13); 嫌(23,nearest_jpn_10); 吐(0,threshold_jpn_10)",glyph_G0414.png,UNRESOLVED_UNICODE
+G041E,2E F4,821,F4,0x03FE,言,HIGH,jpn psm13 85.2,,,"言(85,nearest_jpn_13); 当(51,threshold_jpn_10)",glyph_G041E.png,UNRESOLVED_UNICODE
+G0423,33 F4,5,F4,0x0403,枯,HIGH,"3 OCR votes, max 77.3",,,"枯(77,smooth_jpn_10); 本(31,nearest_Japanese_10)",glyph_G0423.png,UNRESOLVED_UNICODE
+G0426,36 F4,17,F4,0x0406,互,MEDIUM,jpn psm13 81.3,,,"互(81,nearest_jpn_13)",glyph_G0426.png,UNRESOLVED_UNICODE
+G0427,37 F4,23,F4,0x0407,悟,HIGH,"4 OCR votes, max 77.8",,,"悟(78,nearest_Japanese_10); 恒(0,smooth_jpn_10)",glyph_G0427.png,UNRESOLVED_UNICODE
+G0428,38 F4,4,F4,0x0408,誤,HIGH,jpn psm13 87.3,,,"誤(87,nearest_jpn_13); 記(0,threshold_jpn_10)",glyph_G0428.png,UNRESOLVED_UNICODE
+G0429,39 F4,5,F4,0x0409,公,HIGH,jpn psm13 91.9,,,"公(92,nearest_jpn_13); か(49,nearest_jpn_10)",glyph_G0429.png,UNRESOLVED_UNICODE
+G043C,4C F4,83,F4,0x041C,頃,HIGH,jpn psm13 91.5,,,"頃(91,nearest_jpn_13)",glyph_G043C.png,UNRESOLVED_UNICODE
+G043D,4D F4,460,F4,0x041D,今,HIGH,jpn psm13 89.5,,,"今(93,smooth_jpn_10)",glyph_G043D.png,UNRESOLVED_UNICODE
+G043E,4E F4,45,F4,0x041E,困,HIGH,"2 OCR votes, max 84.9",,,"困(85,nearest_jpn_13); ホ(48,nearest_Japanese_10); 果(35,smooth_jpn_10)",glyph_G043E.png,UNRESOLVED_UNICODE
+G043F,4F F4,43,F4,0x041F,嬉,VISUAL_HIGH,glyph image manually checked,,,"較(0,nearest_jpn_13); 書(0,nearest_jpn_10); 閉(0,smooth_jpn_10); 夏(0,nearest_Japanese_10)",glyph_G043F.png,UNRESOLVED_UNICODE
+G0442,52 F4,3,F4,0x0422,中,MEDIUM,"2 OCR votes, avg 47.7",,,"中(54,nearest_Japanese_10); 査(14,nearest_jpn_13); 人(13,smooth_jpn_10)",glyph_G0442.png,UNRESOLVED_UNICODE
+G0444,54 F4,28,F4,0x0424,再,HIGH,jpn psm13 91.1,,,"再(91,nearest_jpn_13)",glyph_G0444.png,UNRESOLVED_UNICODE
+G0446,56 F4,7,F4,0x0426,オ,MEDIUM,"3 OCR votes, avg 1.0",,,"才(32,nearest_jpn_13); オ(3,threshold_jpn_10)",glyph_G0446.png,UNRESOLVED_UNICODE
+G0447,57 F4,5,F4,0x0427,済,HIGH,jpn psm13 90.1,,,"済(90,nearest_jpn_13); 清(24,nearest_jpn_10); 消(19,smooth_jpn_10); 酒(0,threshold_jpn_10)",glyph_G0447.png,UNRESOLVED_UNICODE
+G0449,59 F4,15,F4,0x0429,砕,MEDIUM,jpn psm13 72.1,,,"砕(72,nearest_jpn_13)",glyph_G0449.png,UNRESOLVED_UNICODE
+G044A,5A F4,29,F4,0x042A,奈,VISUAL_HIGH,glyph image manually checked,,,"く(43,nearest_jpn_10); 奈(36,nearest_jpn_13)",glyph_G044A.png,UNRESOLVED_UNICODE
+G044C,5C F4,15,F4,0x042C,際,HIGH,jpn psm13 91.8,,,"際(92,nearest_jpn_13); に(43,threshold_jpn_10)",glyph_G044C.png,UNRESOLVED_UNICODE
+G044E,5E F4,11,F4,0x042E,罪,HIGH,jpn psm13 85.3,,,"ヨ(86,smooth_jpn_10); 罪(85,nearest_jpn_13)",glyph_G044E.png,UNRESOLVED_UNICODE
+G044F,5F F4,9,F4,0x042F,財,HIGH,jpn psm13 92.8,,,"財(93,nearest_jpn_13)",glyph_G044F.png,UNRESOLVED_UNICODE
+G0451,61 F4,14,F4,0x0431,に,HIGH,"2 OCR votes, max 96.3",,,"に(96,nearest_jpn_10); 咲(80,nearest_jpn_13); 記(78,threshold_jpn_10)",glyph_G0451.png,UNRESOLVED_UNICODE
+G0452,62 F4,18,F4,0x0432,昨,HIGH,jpn psm13 86.9,,,"昨(91,threshold_jpn_10)",glyph_G0452.png,UNRESOLVED_UNICODE
+G0453,63 F4,2,F4,0x0433,泰,VISUAL_HIGH,glyph image manually checked,,,"索(79,nearest_jpn_10); へ(45,nearest_Japanese_10); 素(0,nearest_jpn_13)",glyph_G0453.png,UNRESOLVED_UNICODE
+G0454,64 F4,10,F4,0x0434,穴,VISUAL_HIGH,glyph image manually checked,,,"穴(0,nearest_jpn_13); マ(0,nearest_jpn_10)",glyph_G0454.png,UNRESOLVED_UNICODE
+G0460,70 F4,112,F4,0x0440,姉,HIGH,jpn psm13 88.0,,,"姉(88,nearest_jpn_13); 市(28,nearest_jpn_10); 員(14,nearest_Japanese_10)",glyph_G0460.png,UNRESOLVED_UNICODE
+G0462,72 F4,7,F4,0x0442,市,HIGH,jpn psm13 96.3,,,"市(96,nearest_jpn_13); 店(74,smooth_jpn_10)",glyph_G0462.png,UNRESOLVED_UNICODE
+G0467,77 F4,5,F4,0x0447,氏,HIGH,jpn psm13 92.6,,,"氏(93,nearest_jpn_13)",glyph_G0467.png,UNRESOLVED_UNICODE
+G0468,78 F4,470,F4,0x0448,私,HIGH,jpn psm13 89.0,,,"私(95,threshold_jpn_10)",glyph_G0468.png,UNRESOLVED_UNICODE
+G0469,79 F4,6,F4,0x0449,詩,HIGH,jpn psm13 92.9,,,"詩(93,nearest_jpn_13); 計(53,threshold_jpn_10)",glyph_G0469.png,UNRESOLVED_UNICODE
+G046A,7A F4,18,F4,0x044A,試,HIGH,jpn psm13 89.9,,,"試(90,nearest_jpn_13)",glyph_G046A.png,UNRESOLVED_UNICODE
+G046D,7D F4,14,F4,0x044D,飼,HIGH,jpn psm13 92.9,,,"飼(93,nearest_jpn_13); 断(38,nearest_jpn_10)",glyph_G046D.png,UNRESOLVED_UNICODE
+G0472,82 F4,2,F4,0x0452,七,MEDIUM,jpn psm13 66.3,,,"七(66,nearest_jpn_13)",glyph_G0472.png,UNRESOLVED_UNICODE
+G0473,83 F4,15,F4,0x0453,執,HIGH,jpn psm13 88.1,,,"執(88,nearest_jpn_13); 計(0,nearest_jpn_10); 笛(0,threshold_jpn_10)",glyph_G0473.png,UNRESOLVED_UNICODE
+G0474,84 F4,98,F4,0x0454,失,HIGH,jpn psm13 89.7,,,"失(92,smooth_jpn_10); 夫(78,threshold_jpn_10); コ(25,nearest_Japanese_10)",glyph_G0474.png,UNRESOLVED_UNICODE
+G0479,89 F4,17,F4,0x0459,煮,MEDIUM,jpn psm13 70.7,,,"煮(71,nearest_jpn_13)",glyph_G0479.png,UNRESOLVED_UNICODE
+G047A,8A F4,13,F4,0x045A,社,HIGH,jpn psm13 93.0,,,"社(93,nearest_jpn_13)",glyph_G047A.png,UNRESOLVED_UNICODE
+G047B,8B F4,32,F4,0x045B,謝,HIGH,jpn psm13 87.2,,,"謝(87,nearest_jpn_13); 席(19,smooth_jpn_10); 計(0,threshold_jpn_10)",glyph_G047B.png,UNRESOLVED_UNICODE
+G047E,8E F4,27,F4,0x045E,借,HIGH,"2 OCR votes, max 79.8",,,"借(80,nearest_jpn_13); 昼(52,threshold_jpn_10); 慎(29,nearest_Japanese_10)",glyph_G047E.png,UNRESOLVED_UNICODE
+G0480,90 F4,6,F4,0x0460,,REVIEW,,用,28.1,"用(28,threshold_jpn_10); 寂(17,nearest_jpn_13)",glyph_G0480.png,UNRESOLVED_UNICODE
+G0482,92 F4,6,F4,0x0462,授,HIGH,jpn psm13 92.4,,,"授(92,nearest_jpn_13)",glyph_G0482.png,UNRESOLVED_UNICODE
+G0486,96 F4,2,F4,0x0466,秀,HIGH,"2 OCR votes, max 82.3",,,"秀(82,nearest_jpn_13); 下(31,threshold_jpn_10); 売(9,nearest_Japanese_10)",glyph_G0486.png,UNRESOLVED_UNICODE
+G0487,97 F4,41,F4,0x0467,習,HIGH,jpn psm13 88.7,,,"習(89,nearest_jpn_13); 澤(18,threshold_jpn_10)",glyph_G0487.png,UNRESOLVED_UNICODE
+G0489,99 F4,20,F4,0x0469,衆,VISUAL_HIGH,glyph image manually checked,,,"衆(51,nearest_jpn_13); 計(0,nearest_jpn_10); 三(0,smooth_jpn_10)",glyph_G0489.png,UNRESOLVED_UNICODE
+G048A,9A F4,26,F4,0x046A,国,VISUAL_HIGH,glyph image manually checked,,,"国(49,nearest_jpn_10); 園(0,nearest_jpn_13); 詞(0,nearest_Japanese_10)",glyph_G048A.png,UNRESOLVED_UNICODE
+G048C,9C F4,77,F4,0x046C,住,HIGH,jpn psm13 92.3,,,"住(92,nearest_jpn_13)",glyph_G048C.png,UNRESOLVED_UNICODE
+G048D,9D F4,9,F4,0x046D,従,HIGH,jpn psm13 89.7,,,"従(90,nearest_jpn_13)",glyph_G048D.png,UNRESOLVED_UNICODE
+G0493,A3 F4,10,F4,0x0473,春,HIGH,jpn psm13 86.4,,,"春(86,nearest_jpn_13)",glyph_G0493.png,UNRESOLVED_UNICODE
+G0495,A5 F4,4,F4,0x0475,順,HIGH,jpn psm13 92.8,,,"順(93,nearest_jpn_13); 山(0,nearest_Japanese_10)",glyph_G0495.png,UNRESOLVED_UNICODE
+G0498,A8 F4,1,F4,0x0478,諸,HIGH,"4 OCR votes, max 91.3",,,"諸(91,nearest_jpn_10); 記(0,threshold_jpn_10)",glyph_G0498.png,UNRESOLVED_UNICODE
+G0499,A9 F4,109,F4,0x0479,助,HIGH,jpn psm13 87.6,,,"助(88,nearest_jpn_13); 計(0,nearest_Japanese_10)",glyph_G0499.png,UNRESOLVED_UNICODE
+G049B,AB F4,4,F4,0x047B,徐,MEDIUM,jpn psm13 67.4,,,"徐(67,nearest_jpn_13); 休(0,nearest_jpn_10); 涼(0,smooth_jpn_10); 祭(0,threshold_jpn_10); 符(0,nearest_Japanese_10)",glyph_G049B.png,UNRESOLVED_UNICODE
+G04A0,B0 F4,5,F4,0x0480,招,HIGH,jpn psm13 89.4,,,"招(89,nearest_jpn_13); 拍(84,nearest_jpn_10); と(56,threshold_jpn_10)",glyph_G04A0.png,UNRESOLVED_UNICODE
+G04A2,B2 F4,12,F4,0x0482,照,MEDIUM,"2 OCR votes, avg 27.6",,,"照(55,nearest_jpn_13); 昌(0,nearest_jpn_10); 中(0,threshold_jpn_10)",glyph_G04A2.png,UNRESOLVED_UNICODE
+G04A4,B4 F4,2,F4,0x0484,省,HIGH,jpn psm13 85.6,,,"省(86,nearest_jpn_13)",glyph_G04A4.png,UNRESOLVED_UNICODE
+G04A6,B6 F4,61,F4,0x0486,笑,HIGH,jpn psm13 91.8,,,"笑(92,nearest_jpn_13); 天(15,threshold_jpn_10)",glyph_G04A6.png,UNRESOLVED_UNICODE
+G04AA,BA F4,4,F4,0x048A,障,HIGH,jpn psm13 93.0,,,"障(93,nearest_jpn_13)",glyph_G04AA.png,UNRESOLVED_UNICODE
+G04AC,BC F4,29,F4,0x048C,嬢,HIGH,jpn psm13 88.0,,,"嬢(88,nearest_jpn_13); は(66,threshold_jpn_10); 詩(0,nearest_jpn_10)",glyph_G04AC.png,UNRESOLVED_UNICODE
+G04AD,BD F4,71,F4,0x048D,情,HIGH,jpn psm13 93.2,,,"情(93,nearest_jpn_13)",glyph_G04AD.png,UNRESOLVED_UNICODE
+G04AE,BE F4,6,F4,0x048E,,REVIEW,,未,65.8,"未(66,threshold_jpn_10); 徐(0,nearest_jpn_13)",glyph_G04AE.png,UNRESOLVED_UNICODE
+G04B4,C4 F4,6,F4,0x0494,侵,HIGH,jpn psm13 91.5,,,"侵(91,nearest_jpn_13); 琉(0,threshold_jpn_10)",glyph_G04B4.png,UNRESOLVED_UNICODE
+G04B6,C6 F4,3,F4,0x0496,尼,HIGH,"2 OCR votes, max 77.9",,,"尼(78,nearest_jpn_10); 慎(71,nearest_Japanese_10); 慣(30,threshold_jpn_10)",glyph_G04B6.png,UNRESOLVED_UNICODE
+G04B8,C8 F4,35,F4,0x0498,申,HIGH,jpn psm13 90.5,,,"申(93,nearest_jpn_10)",glyph_G04B8.png,UNRESOLVED_UNICODE
+G04BA,CA F4,6,F4,0x049A,診,HIGH,jpn psm13 92.8,,,"診(93,nearest_jpn_13)",glyph_G04BA.png,UNRESOLVED_UNICODE
+G04BC,CC F4,31,F4,0x049C,図,HIGH,"3 OCR votes, max 89.3",,,"図(89,smooth_jpn_10); に(87,nearest_jpn_10)",glyph_G04BC.png,UNRESOLVED_UNICODE
+G04BD,CD F4,6,F4,0x049D,推,HIGH,jpn psm13 92.3,,,"推(92,nearest_jpn_13)",glyph_G04BD.png,UNRESOLVED_UNICODE
+G04BF,CF F4,42,F4,0x049F,酔,HIGH,jpn psm13 91.6,,,"酔(92,nearest_jpn_13); 本(67,nearest_jpn_10); ョ(12,smooth_jpn_10)",glyph_G04BF.png,UNRESOLVED_UNICODE
+G04C2,D2 F4,18,F4,0x04A2,勢,MEDIUM,"2 OCR votes, avg 57.5",,,"勢(68,nearest_jpn_10); か(0,smooth_jpn_10); 本(0,threshold_jpn_10)",glyph_G04C2.png,UNRESOLVED_UNICODE
+G04C5,D5 F4,11,F4,0x04A5,お,MEDIUM,"2 OCR votes, avg 44.0",,,"お(52,smooth_jpn_10); 刺(0,nearest_jpn_13)",glyph_G04C5.png,UNRESOLVED_UNICODE
+G04C7,D7 F4,9,F4,0x04A7,牲,HIGH,"2 OCR votes, max 80.8",,,"牲(81,nearest_jpn_13); 牧(68,smooth_jpn_10); 性(56,threshold_jpn_10)",glyph_G04C7.png,UNRESOLVED_UNICODE
+G04C8,D8 F4,18,F4,0x04A8,,REVIEW,,盛,22.7,"盛(23,nearest_jpn_13); 器(0,smooth_jpn_10)",glyph_G04C8.png,UNRESOLVED_UNICODE
+G04C9,D9 F4,16,F4,0x04A9,西,HIGH,jpn psm13 90.8,,,"西(91,nearest_jpn_13)",glyph_G04C9.png,UNRESOLVED_UNICODE
+G04CA,DA F4,10,F4,0x04AA,匠,VISUAL_HIGH,glyph image manually checked,,,"匠(0,nearest_jpn_13); 音(0,nearest_jpn_10); 普(0,smooth_jpn_10); 碧(0,threshold_jpn_10); 災(0,nearest_Japanese_10)",glyph_G04CA.png,UNRESOLVED_UNICODE
+G04CD,DD F4,5,F4,0x04AD,恒,HIGH,"3 OCR votes, max 89.6",,,"恒(90,threshold_jpn_10); 情(62,nearest_jpn_13); 憶(61,nearest_Japanese_10)",glyph_G04CD.png,UNRESOLVED_UNICODE
+G04CE,DE F4,174,F4,0x04AE,百,MEDIUM,"2 OCR votes, avg 15.9",,,"百(32,smooth_jpn_10); 苗(26,nearest_Japanese_10); 昔(23,nearest_jpn_13); 理(0,threshold_jpn_10)",glyph_G04CE.png,UNRESOLVED_UNICODE
+G04CF,DF F4,10,F4,0x04AF,積,HIGH,jpn psm13 90.5,,,"積(91,nearest_jpn_13); 柄(87,threshold_jpn_10); 策(0,smooth_jpn_10)",glyph_G04CF.png,UNRESOLVED_UNICODE
+G04D0,E0 F4,33,F4,0x04B0,責,HIGH,jpn psm13 92.1,,,"責(92,nearest_jpn_13); 貢(62,smooth_jpn_10); 青(58,threshold_jpn_10)",glyph_G04D0.png,UNRESOLVED_UNICODE
+G04D1,E1 F4,12,F4,0x04B1,設,HIGH,jpn psm13 91.9,,,"設(92,nearest_jpn_13); 訂(0,nearest_jpn_10); 調(0,smooth_jpn_10); ョ(0,threshold_jpn_10)",glyph_G04D1.png,UNRESOLVED_UNICODE
+G04D3,E3 F4,8,F4,0x04B3,舌,HIGH,jpn psm13 92.1,,,"古(93,nearest_jpn_10); 舌(92,nearest_jpn_13)",glyph_G04D3.png,UNRESOLVED_UNICODE
+G04D5,E5 F4,3,F4,0x04B5,宣,HIGH,jpn psm13 91.2,,,"宣(91,nearest_jpn_13); 」(85,threshold_jpn_10)",glyph_G04D5.png,UNRESOLVED_UNICODE
+G04D8,E8 F4,26,F4,0x04B8,洗,HIGH,jpn psm13 91.8,,,"洗(92,nearest_jpn_13); 流(0,nearest_Japanese_10)",glyph_G04D8.png,UNRESOLVED_UNICODE
+G04D9,E9 F4,8,F4,0x04B9,業,VISUAL_HIGH,glyph image manually checked,,,"に(49,nearest_Japanese_10); 業(6,nearest_jpn_13); 難(0,threshold_jpn_10)",glyph_G04D9.png,UNRESOLVED_UNICODE
+G04DD,ED F4,16,F4,0x04BD,信,MEDIUM,"2 OCR votes, avg 32.3",,,"信(65,nearest_jpn_10); 僧(65,nearest_jpn_13); 個(0,threshold_jpn_10); 慢(0,nearest_Japanese_10)",glyph_G04DD.png,UNRESOLVED_UNICODE
+G04DE,EE F4,8,F4,0x04BE,創,MEDIUM,jpn psm13 72.4,,,"削(91,threshold_jpn_10); 創(72,nearest_jpn_13); 選(29,nearest_Japanese_10)",glyph_G04DE.png,UNRESOLVED_UNICODE
+G04E1,21 F5,62,F5,0x04C1,想,MEDIUM,"3 OCR votes, avg 8.5",,,"想(15,smooth_jpn_10)",glyph_G04E1.png,UNRESOLVED_UNICODE
+G04E2,22 F5,1,F5,0x04C2,捜,HIGH,jpn psm13 91.1,,,"捜(91,nearest_jpn_13); に(85,threshold_jpn_10); 接(32,smooth_jpn_10)",glyph_G04E2.png,UNRESOLVED_UNICODE
+G04E6,26 F5,72,F5,0x04C6,相,HIGH,jpn psm13 91.3,,,"相(93,smooth_jpn_10)",glyph_G04E6.png,UNRESOLVED_UNICODE
+G04E7,27 F5,2,F5,0x04C7,慈,VISUAL_HIGH,glyph image manually checked,,,"窓(35,nearest_jpn_13)",glyph_G04E7.png,UNRESOLVED_UNICODE
+G04E9,29 F5,6,F5,0x04C9,葬,MEDIUM,jpn psm13 74.2,,,"葬(74,nearest_jpn_13); ビ(71,smooth_jpn_10); ュ(44,threshold_jpn_10)",glyph_G04E9.png,UNRESOLVED_UNICODE
+G04EC,2C F5,76,F5,0x04CC,像,HIGH,jpn psm13 86.8,,,"像(87,nearest_jpn_13)",glyph_G04EC.png,UNRESOLVED_UNICODE
+G04ED,2D F5,5,F5,0x04CD,服,MEDIUM,"2 OCR votes, avg 1.2",,,"肌(5,nearest_jpn_13); 服(2,nearest_jpn_10); 乳(0,threshold_jpn_10); 肛(0,nearest_Japanese_10)",glyph_G04ED.png,UNRESOLVED_UNICODE
+G04EF,2F F5,45,F5,0x04CF,側,HIGH,jpn psm13 93.0,,,"側(93,nearest_jpn_13)",glyph_G04EF.png,UNRESOLVED_UNICODE
+G04F1,31 F5,52,F5,0x04D1,に,HIGH,"2 OCR votes, max 92.1",,,"に(92,nearest_Japanese_10); 息(78,nearest_jpn_13)",glyph_G04F1.png,UNRESOLVED_UNICODE
+G04F3,33 F5,19,F5,0x04D3,損,HIGH,jpn psm13 92.4,,,"損(92,nearest_jpn_13); に(60,threshold_jpn_10)",glyph_G04F3.png,UNRESOLVED_UNICODE
+G04F4,34 F5,273,F5,0x04D4,待,HIGH,jpn psm13 92.2,,,"待(92,nearest_jpn_13); 侍(10,threshold_jpn_10)",glyph_G04F4.png,UNRESOLVED_UNICODE
+G04F5,35 F5,4,F5,0x04D5,意,MEDIUM,jpn psm13 83.5,,,"意(84,nearest_jpn_13)",glyph_G04F5.png,UNRESOLVED_UNICODE
+G04F6,36 F5,7,F5,0x04D6,中,HIGH,"2 OCR votes, max 79.6",,,"中(80,smooth_jpn_10); 背(13,threshold_jpn_10); 普(0,nearest_jpn_13)",glyph_G04F6.png,UNRESOLVED_UNICODE
+G04F8,38 F5,13,F5,0x04D8,退,HIGH,jpn psm13 92.6,,,"退(93,nearest_jpn_13); 妃(14,threshold_jpn_10)",glyph_G04F8.png,UNRESOLVED_UNICODE
+G04F9,39 F5,18,F5,0x04D9,隊,HIGH,jpn psm13 91.1,,,"隊(91,nearest_jpn_13); 障(35,nearest_jpn_10)",glyph_G04F9.png,UNRESOLVED_UNICODE
+G04FC,3C F5,4,F5,0x04DC,宅,HIGH,jpn psm13 91.8,,,"宅(92,nearest_jpn_13); モ(0,smooth_jpn_10)",glyph_G04FC.png,UNRESOLVED_UNICODE
+G04FE,3E F5,157,F5,0x04DE,谷,HIGH,jpn psm13 90.1,,,"谷(90,nearest_jpn_13); 容(54,nearest_jpn_10); 傘(22,smooth_jpn_10); 宮(0,threshold_jpn_10)",glyph_G04FE.png,UNRESOLVED_UNICODE
+G04FF,3F F5,6,F5,0x04DF,担,HIGH,jpn psm13 90.1,,,"担(90,nearest_jpn_13); 揚(65,threshold_jpn_10); 提(63,smooth_jpn_10)",glyph_G04FF.png,UNRESOLVED_UNICODE
+G0501,41 F5,3,F5,0x04E1,胆,HIGH,jpn psm13 90.3,,,"胆(90,nearest_jpn_13); 腸(74,smooth_jpn_10); 則(17,threshold_jpn_10)",glyph_G0501.png,UNRESOLVED_UNICODE
+G0502,42 F5,7,F5,0x04E2,誕,HIGH,jpn psm13 89.0,,,"誕(89,nearest_jpn_13); は(33,threshold_jpn_10); 訓(0,nearest_jpn_10)",glyph_G0502.png,UNRESOLVED_UNICODE
+G0503,43 F5,1,F5,0x04E3,鍛,HIGH,jpn psm13 90.9,,,"鍛(91,nearest_jpn_13)",glyph_G0503.png,UNRESOLVED_UNICODE
+G0505,45 F5,3,F5,0x04E5,,REVIEW,,壇,62.9,"壇(63,nearest_jpn_13); 上(24,smooth_jpn_10)",glyph_G0505.png,UNRESOLVED_UNICODE
+G0507,47 F5,2,F5,0x04E7,暖,MEDIUM,"2 OCR votes, avg 0.0",,,"暇(4,nearest_Japanese_10); 暖(0,nearest_jpn_10); 明(0,threshold_jpn_10)",glyph_G0507.png,UNRESOLVED_UNICODE
+G0509,49 F5,26,F5,0x04E9,肌,VISUAL_HIGH,glyph image manually checked,,,"有(15,nearest_jpn_10); 也(5,nearest_Japanese_10); 了(0,nearest_jpn_13); 肌(0,smooth_jpn_10); 馬(0,threshold_jpn_10)",glyph_G0509.png,UNRESOLVED_UNICODE
+G050A,4A F5,1,F5,0x04EA,致,HIGH,jpn psm13 86.8,,,"致(87,nearest_jpn_13)",glyph_G050A.png,UNRESOLVED_UNICODE
+G050E,4E F5,9,F5,0x04EE,由,HIGH,"3 OCR votes, max 93.2",,,"由(93,threshold_jpn_10); 下(70,nearest_Japanese_10); 宙(0,nearest_jpn_13)",glyph_G050E.png,UNRESOLVED_UNICODE
+G050F,4F F5,4,F5,0x04EF,忠,HIGH,"2 OCR votes, max 79.6",,,"忠(80,nearest_jpn_13); ェ(77,threshold_jpn_10); 中(0,nearest_jpn_10)",glyph_G050F.png,UNRESOLVED_UNICODE
+G0511,51 F5,5,F5,0x04F1,貯,HIGH,jpn psm13 92.1,,,"貯(92,nearest_jpn_13); 町(77,threshold_jpn_10); 膨(0,nearest_Japanese_10)",glyph_G0511.png,UNRESOLVED_UNICODE
+G0513,53 F5,16,F5,0x04F3,,REVIEW,,徴,47.1,"徴(47,nearest_jpn_13)",glyph_G0513.png,UNRESOLVED_UNICODE
+G0516,56 F5,106,F5,0x04F6,町,HIGH,jpn psm13 96.8,,,"町(97,nearest_jpn_13)",glyph_G0516.png,UNRESOLVED_UNICODE
+G0517,57 F5,1,F5,0x04F7,聴,HIGH,jpn psm13 92.7,,,"聴(93,nearest_jpn_13); ト(57,threshold_jpn_10); に(23,nearest_Japanese_10)",glyph_G0517.png,UNRESOLVED_UNICODE
+G0518,58 F5,1,F5,0x04F8,中,MEDIUM,"2 OCR votes, avg 9.6",,,"中(19,threshold_jpn_10); 跳(0,nearest_jpn_13); 率(0,nearest_jpn_10)",glyph_G0518.png,UNRESOLVED_UNICODE
+G0519,59 F5,13,F5,0x04F9,頂,HIGH,jpn psm13 93.1,,,"頂(93,nearest_jpn_13)",glyph_G0519.png,UNRESOLVED_UNICODE
+G051A,5A F5,84,F5,0x04FA,直,HIGH,"4 OCR votes, max 93.2",,,"直(93,nearest_Japanese_10); 四(22,threshold_jpn_10)",glyph_G051A.png,UNRESOLVED_UNICODE
+G051B,5B F5,4,F5,0x04FB,沈,HIGH,jpn psm13 91.7,,,"沈(92,nearest_jpn_13); ル(6,nearest_jpn_10); 光(0,nearest_Japanese_10)",glyph_G051B.png,UNRESOLVED_UNICODE
+G051C,5C F5,24,F5,0x04FC,珍,HIGH,jpn psm13 90.3,,,"珍(90,nearest_jpn_13); 贅(0,threshold_jpn_10)",glyph_G051C.png,UNRESOLVED_UNICODE
+G051D,5D F5,18,F5,0x04FD,墜,VISUAL_HIGH,glyph image manually checked,,,"暗(39,threshold_jpn_10); 時(33,nearest_jpn_10); 墜(23,nearest_jpn_13); 堅(0,smooth_jpn_10)",glyph_G051D.png,UNRESOLVED_UNICODE
+G051F,5F F5,1,F5,0x04FF,学,HIGH,"2 OCR votes, max 78.7",,,"学(79,threshold_jpn_10); 享(0,nearest_jpn_13); 有(0,smooth_jpn_10); 亭(0,nearest_Japanese_10)",glyph_G051F.png,UNRESOLVED_UNICODE
+G0520,60 F5,6,F5,0x0500,低,HIGH,jpn psm13 93.1,,,"低(93,nearest_jpn_13)",glyph_G0520.png,UNRESOLVED_UNICODE
+G0521,61 F5,1,F5,0x0501,停,HIGH,jpn psm13 90.7,,,"三(92,threshold_jpn_10); 停(91,nearest_jpn_13)",glyph_G0521.png,UNRESOLVED_UNICODE
+G0525,65 F5,11,F5,0x0505,適,HIGH,"2 OCR votes, max 83.4",,,"適(83,nearest_jpn_13); 半(0,nearest_jpn_10); 敵(0,smooth_jpn_10); 双(0,threshold_jpn_10)",glyph_G0525.png,UNRESOLVED_UNICODE
+G0528,68 F5,4,F5,0x0508,展,HIGH,"3 OCR votes, max 92.8",,,"展(93,nearest_Japanese_10); 司(27,nearest_jpn_13); 屋(0,threshold_jpn_10)",glyph_G0528.png,UNRESOLVED_UNICODE
+G0529,69 F5,125,F5,0x0509,店,HIGH,jpn psm13 96.3,,,"店(96,nearest_jpn_13)",glyph_G0529.png,UNRESOLVED_UNICODE
+G052E,6E F5,19,F5,0x050E,途,VISUAL_HIGH,glyph image manually checked,,,"途(17,nearest_jpn_13); 款(6,nearest_jpn_10); 祭(0,smooth_jpn_10); 了(0,threshold_jpn_10); 素(0,nearest_Japanese_10)",glyph_G052E.png,UNRESOLVED_UNICODE
+G052F,6F F5,38,F5,0x050F,都,HIGH,jpn psm13 91.9,,,"部(95,threshold_jpn_10); 都(92,nearest_jpn_13); 者(76,nearest_jpn_10)",glyph_G052F.png,UNRESOLVED_UNICODE
+G0530,70 F5,15,F5,0x0510,努,VISUAL_HIGH,glyph image manually checked,,,"努(0,nearest_jpn_13); ビ(0,threshold_jpn_10)",glyph_G0530.png,UNRESOLVED_UNICODE
+G0532,72 F5,2,F5,0x0512,奴,HIGH,jpn psm13 89.8,,,"奴(90,nearest_jpn_13); が(55,threshold_jpn_10)",glyph_G0532.png,UNRESOLVED_UNICODE
+G0534,74 F5,5,F5,0x0514,コ,HIGH,"2 OCR votes, max 73.4",,,"コ(73,smooth_jpn_10); 党(73,nearest_jpn_13)",glyph_G0534.png,UNRESOLVED_UNICODE
+G0537,77 F5,35,F5,0x0517,東,HIGH,jpn psm13 91.7,,,"東(92,nearest_jpn_13)",glyph_G0537.png,UNRESOLVED_UNICODE
+G0538,78 F5,9,F5,0x0518,湯,HIGH,jpn psm13 92.6,,,"湯(93,nearest_jpn_13)",glyph_G0538.png,UNRESOLVED_UNICODE
+G0539,79 F5,2,F5,0x0519,灯,HIGH,jpn psm13 90.7,,,"灯(91,nearest_jpn_13)",glyph_G0539.png,UNRESOLVED_UNICODE
+G053B,7B F5,22,F5,0x051B,答,VISUAL_HIGH,glyph image manually checked,,,"答(22,nearest_jpn_13); 茹(17,nearest_jpn_10); 難(0,threshold_jpn_10)",glyph_G053B.png,UNRESOLVED_UNICODE
+G053D,7D F5,15,F5,0x051D,到,HIGH,jpn psm13 89.3,,,"到(89,nearest_jpn_13)",glyph_G053D.png,UNRESOLVED_UNICODE
+G053E,7E F5,1,F5,0x051E,討,HIGH,jpn psm13 92.4,,,"討(92,nearest_jpn_13); 計(35,threshold_jpn_10)",glyph_G053E.png,UNRESOLVED_UNICODE
+G053F,7F F5,53,F5,0x051F,豆,HIGH,jpn psm13 92.5,,,"豆(93,nearest_jpn_13)",glyph_G053F.png,UNRESOLVED_UNICODE
+G0542,82 F5,97,F5,0x0522,同,HIGH,jpn psm13 92.4,,,"同(92,nearest_jpn_13)",glyph_G0542.png,UNRESOLVED_UNICODE
+G0543,83 F5,10,F5,0x0523,腫,MEDIUM,"2 OCR votes, avg 14.1",,,"瞳(80,nearest_Japanese_10); 腫(28,nearest_jpn_10); 較(0,nearest_jpn_13); 暗(0,threshold_jpn_10)",glyph_G0543.png,UNRESOLVED_UNICODE
+G0545,85 F5,4,F5,0x0525,独,HIGH,jpn psm13 92.4,,,"独(92,nearest_jpn_13)",glyph_G0545.png,UNRESOLVED_UNICODE
+G0547,87 F5,1,F5,0x0527,乳,HIGH,jpn psm13 91.8,,,"乳(92,nearest_jpn_13); 務(36,nearest_jpn_10); 孔(0,smooth_jpn_10)",glyph_G0547.png,UNRESOLVED_UNICODE
+G0548,88 F5,31,F5,0x0528,認,HIGH,jpn psm13 91.9,,,"認(92,nearest_jpn_13); ョ(76,threshold_jpn_10)",glyph_G0548.png,UNRESOLVED_UNICODE
+G054B,8B F5,4,F5,0x052B,悩,HIGH,jpn psm13 88.2,,,"悩(88,nearest_jpn_13); 尼(5,threshold_jpn_10); 民(0,smooth_jpn_10); 憎(0,nearest_Japanese_10)",glyph_G054B.png,UNRESOLVED_UNICODE
+G054C,8C F5,10,F5,0x052C,納,HIGH,jpn psm13 92.8,,,"納(93,nearest_jpn_13); は(37,nearest_jpn_10)",glyph_G054C.png,UNRESOLVED_UNICODE
+G054D,8D F5,5,F5,0x052D,脳,MEDIUM,"2 OCR votes, avg 29.0",,,"脳(56,nearest_jpn_13); 有(29,nearest_jpn_10); 服(0,smooth_jpn_10)",glyph_G054D.png,UNRESOLVED_UNICODE
+G054F,8F F5,39,F5,0x052F,派,HIGH,jpn psm13 89.1,,,"派(89,nearest_jpn_13); 泊(31,smooth_jpn_10); 擬(0,nearest_Japanese_10)",glyph_G054F.png,UNRESOLVED_UNICODE
+G0553,93 F5,33,F5,0x0533,敗,HIGH,jpn psm13 92.9,,,"敗(93,nearest_jpn_13)",glyph_G0553.png,UNRESOLVED_UNICODE
+G0554,94 F5,10,F5,0x0534,本,HIGH,"4 OCR votes, max 80.6",,,"本(81,threshold_jpn_10); 杯(55,nearest_jpn_13)",glyph_G0554.png,UNRESOLVED_UNICODE
+G0556,96 F5,2,F5,0x0536,,REVIEW,,本,24.1,"本(24,nearest_Japanese_10); 墓(0,nearest_jpn_13)",glyph_G0556.png,UNRESOLVED_UNICODE
+G0558,98 F5,19,F5,0x0538,泊,HIGH,jpn psm13 92.3,,,"泊(92,nearest_jpn_13)",glyph_G0558.png,UNRESOLVED_UNICODE
+G055A,9A F5,12,F5,0x053A,薄,MEDIUM,"3 OCR votes, avg 35.9",,,"薄(55,smooth_jpn_10); ほ(49,threshold_jpn_10); 薫(0,nearest_jpn_13)",glyph_G055A.png,UNRESOLVED_UNICODE
+G055C,9C F5,2,F5,0x053C,,REVIEW,,上,47.7,"上(48,smooth_jpn_10); 齋(43,threshold_jpn_10); 却(22,nearest_jpn_13)",glyph_G055C.png,UNRESOLVED_UNICODE
+G055F,9F F5,1,F5,0x053F,宰,HIGH,"2 OCR votes, max 75.1",,,"褐(84,nearest_jpn_13); 宰(75,smooth_jpn_10); 「(0,threshold_jpn_10); ド(0,nearest_Japanese_10)",glyph_G055F.png,UNRESOLVED_UNICODE
+G0568,A8 F5,44,F5,0x0548,飯,HIGH,jpn psm13 93.1,,,"飯(93,nearest_jpn_13); 販(72,nearest_jpn_10); 似(31,threshold_jpn_10)",glyph_G0568.png,UNRESOLVED_UNICODE
+G0569,A9 F5,20,F5,0x0549,晩,MEDIUM,"4 OCR votes, avg 8.8",,,"晩(19,smooth_jpn_10)",glyph_G0569.png,UNRESOLVED_UNICODE
+G056A,AA F5,1,F5,0x054A,古,HIGH,"3 OCR votes, max 90.6",,,"古(91,smooth_jpn_10); 香(82,nearest_jpn_13); 直(0,nearest_Japanese_10)",glyph_G056A.png,UNRESOLVED_UNICODE
+G056E,AE F5,8,F5,0x054E,比,HIGH,jpn psm13 91.6,,,"比(93,threshold_jpn_10)",glyph_G056E.png,UNRESOLVED_UNICODE
+G056F,AF F5,34,F5,0x054F,疲,VISUAL_HIGH,glyph image manually checked,,,"に(90,threshold_jpn_10); 疲(33,nearest_jpn_13); 語(0,nearest_Japanese_10)",glyph_G056F.png,UNRESOLVED_UNICODE
+G0570,B0 F5,13,F5,0x0550,被,HIGH,"3 OCR votes, max 89.0",,,"被(89,smooth_jpn_10); 役(0,threshold_jpn_10)",glyph_G0570.png,UNRESOLVED_UNICODE
+G0575,B5 F5,6,F5,0x0555,姫,HIGH,"2 OCR votes, max 76.7",,,"姫(77,smooth_jpn_10)",glyph_G0575.png,UNRESOLVED_UNICODE
+G0578,B8 F5,2,F5,0x0558,漂,HIGH,jpn psm13 88.1,,,"漂(88,nearest_jpn_13); 半(0,nearest_Japanese_10)",glyph_G0578.png,UNRESOLVED_UNICODE
+G057A,BA F5,16,F5,0x055A,評,HIGH,jpn psm13 93.1,,,"評(93,nearest_jpn_13); ョ(79,nearest_jpn_10); 計(31,smooth_jpn_10); 理(0,threshold_jpn_10)",glyph_G057A.png,UNRESOLVED_UNICODE
+G057B,BB F5,7,F5,0x055B,浜,MEDIUM,jpn psm13 79.0,,,"浜(79,nearest_jpn_13); 返(13,smooth_jpn_10); 反(0,nearest_jpn_10); 和(0,threshold_jpn_10)",glyph_G057B.png,UNRESOLVED_UNICODE
+G057C,BC F5,14,F5,0x055C,中,MEDIUM,"2 OCR votes, avg 33.6",,,"ー(80,threshold_jpn_10); 中(64,nearest_jpn_10); コ(38,nearest_Japanese_10); 商(0,nearest_jpn_13)",glyph_G057C.png,UNRESOLVED_UNICODE
+G057D,BD F5,16,F5,0x055D,婦,HIGH,jpn psm13 92.6,,,"婦(93,nearest_jpn_13); 姓(0,nearest_Japanese_10)",glyph_G057D.png,UNRESOLVED_UNICODE
+G057E,BE F5,2,F5,0x055E,富,MEDIUM,jpn psm13 76.3,,,"富(76,nearest_jpn_13); 高(69,nearest_Japanese_10); 各(0,nearest_jpn_10)",glyph_G057E.png,UNRESOLVED_UNICODE
+G0580,C0 F5,23,F5,0x0560,浮,HIGH,jpn psm13 92.7,,,"浮(93,nearest_jpn_13)",glyph_G0580.png,UNRESOLVED_UNICODE
+G0584,C4 F5,86,F5,0x0564,腹,MEDIUM,"3 OCR votes, avg 62.4",,,"腹(70,smooth_jpn_10); 較(0,nearest_jpn_13); 話(0,threshold_jpn_10)",glyph_G0584.png,UNRESOLVED_UNICODE
+G058A,CA F5,27,F5,0x056A,並,HIGH,jpn psm13 92.1,,,"並(92,nearest_jpn_13); 普(72,smooth_jpn_10)",glyph_G058A.png,UNRESOLVED_UNICODE
+G058B,CB F5,21,F5,0x056B,閉,VISUAL_HIGH,glyph image manually checked,,,"閉(62,nearest_jpn_13)",glyph_G058B.png,UNRESOLVED_UNICODE
+G0591,D1 F5,14,F5,0x0571,勉,HIGH,jpn psm13 92.4,,,"勉(92,nearest_jpn_13); 員(0,smooth_jpn_10)",glyph_G0591.png,UNRESOLVED_UNICODE
+G0592,D2 F5,25,F5,0x0572,捕,HIGH,jpn psm13 91.5,,,"捕(92,nearest_jpn_13); 八(18,smooth_jpn_10)",glyph_G0592.png,UNRESOLVED_UNICODE
+G0593,D3 F5,47,F5,0x0573,,REVIEW,,園,11.7,"園(12,nearest_Japanese_10); 国(0,nearest_jpn_13)",glyph_G0593.png,UNRESOLVED_UNICODE
+G0595,D5 F5,20,F5,0x0575,日,MEDIUM,"2 OCR votes, avg 57.3",,,"日(62,nearest_jpn_10); 出(0,nearest_jpn_13)",glyph_G0595.png,UNRESOLVED_UNICODE
+G0596,D6 F5,23,F5,0x0576,抱,HIGH,jpn psm13 92.5,,,"抱(92,nearest_jpn_13); 拓(2,threshold_jpn_10)",glyph_G0596.png,UNRESOLVED_UNICODE
+G059B,DB F5,5,F5,0x057B,飲,VISUAL_HIGH,glyph image manually checked,,,"飲(47,nearest_jpn_13)",glyph_G059B.png,UNRESOLVED_UNICODE
+G059C,DC F5,8,F5,0x057C,亡,HIGH,"3 OCR votes, max 76.9",,,"亡(77,nearest_jpn_13); 記(0,threshold_jpn_10)",glyph_G059C.png,UNRESOLVED_UNICODE
+G059D,DD F5,9,F5,0x057D,坊,HIGH,jpn psm13 92.6,,,"坊(93,threshold_jpn_10)",glyph_G059D.png,UNRESOLVED_UNICODE
+G059E,DE F5,19,F5,0x057E,忙,HIGH,"5 OCR votes, max 81.4",,,"忙(81,nearest_Japanese_10)",glyph_G059E.png,UNRESOLVED_UNICODE
+G05A1,E1 F5,1,F5,0x0581,牧,HIGH,"3 OCR votes, max 92.0",,,"牧(92,nearest_jpn_10)",glyph_G05A1.png,UNRESOLVED_UNICODE
+G05A3,E3 F5,16,F5,0x0583,埋,HIGH,jpn psm13 92.1,,,"埋(92,nearest_Japanese_10); 理(43,threshold_jpn_10)",glyph_G05A3.png,UNRESOLVED_UNICODE
+G05A6,E6 F5,45,F5,0x0586,毎,HIGH,jpn psm13 88.6,,,"毎(89,nearest_jpn_13); 本(32,nearest_jpn_10); コ(0,threshold_jpn_10); 皇(0,nearest_Japanese_10)",glyph_G05A6.png,UNRESOLVED_UNICODE
+G05A8,E8 F5,10,F5,0x0588,慢,HIGH,"3 OCR votes, max 70.2",,,"慢(70,nearest_Japanese_10); 固(40,nearest_jpn_13); 幅(0,threshold_jpn_10)",glyph_G05A8.png,UNRESOLVED_UNICODE
+G05AA,EA F5,36,F5,0x058A,末,MEDIUM,"5 OCR votes, avg 29.8",,,"末(59,nearest_jpn_10)",glyph_G05AA.png,UNRESOLVED_UNICODE
+G05AD,ED F5,15,F5,0x058D,務,HIGH,jpn psm13 91.6,,,"務(92,nearest_jpn_13); 秒(49,nearest_jpn_10)",glyph_G05AD.png,UNRESOLVED_UNICODE
+G05AF,EF F5,73,F5,0x058F,娘,HIGH,jpn psm13 90.6,,,"娘(91,nearest_jpn_13); 中(51,smooth_jpn_10); り(36,nearest_jpn_10)",glyph_G05AF.png,UNRESOLVED_UNICODE
+G05BA,2A F6,14,F6,0x059A,油,HIGH,jpn psm13 92.2,,,"油(92,nearest_jpn_13); 河(56,threshold_jpn_10); 滞(0,nearest_Japanese_10)",glyph_G05BA.png,UNRESOLVED_UNICODE
+G05BC,2C F6,71,F6,0x059C,友,HIGH,jpn psm13 92.5,,,"友(93,nearest_jpn_10)",glyph_G05BC.png,UNRESOLVED_UNICODE
+G05BE,2E F6,33,F6,0x059E,由,HIGH,jpn psm13 92.4,,,"由(92,nearest_jpn_13)",glyph_G05BE.png,UNRESOLVED_UNICODE
+G05C4,34 F6,94,F6,0x05A4,予,HIGH,jpn psm13 90.4,,,"予(90,nearest_jpn_13); 巴(0,threshold_jpn_10)",glyph_G05C4.png,UNRESOLVED_UNICODE
+G05C6,36 F6,1,F6,0x05A6,,REVIEW,,営,0.0,"営(0,nearest_jpn_13)",glyph_G05C6.png,UNRESOLVED_UNICODE
+G05C8,38 F6,1,F6,0x05A8,容,HIGH,jpn psm13 93.2,,,"容(93,nearest_jpn_13)",glyph_G05C8.png,UNRESOLVED_UNICODE
+G05C9,39 F6,7,F6,0x05A9,揺,VISUAL_HIGH,glyph image manually checked,,,"揺(61,nearest_jpn_13)",glyph_G05C9.png,UNRESOLVED_UNICODE
+G05CA,3A F6,4,F6,0x05AA,洋,HIGH,jpn psm13 91.8,,,"洋(92,nearest_jpn_13); ヨ(83,threshold_jpn_10); 洗(0,smooth_jpn_10)",glyph_G05CA.png,UNRESOLVED_UNICODE
+G05CC,3C F6,109,F6,0x05AC,葉,HIGH,jpn psm13 88.7,,,"葉(93,smooth_jpn_10)",glyph_G05CC.png,UNRESOLVED_UNICODE
+G05CD,3D F6,77,F6,0x05AD,要,HIGH,jpn psm13 93.2,,,"要(93,nearest_jpn_13); に(39,threshold_jpn_10); ユ(0,smooth_jpn_10)",glyph_G05CD.png,UNRESOLVED_UNICODE
+G05CE,3E F6,81,F6,0x05AE,欲,MEDIUM,jpn psm13 69.3,,,"欲(69,nearest_jpn_13); 人(0,smooth_jpn_10)",glyph_G05CE.png,UNRESOLVED_UNICODE
+G05D0,40 F6,1,F6,0x05B0,絡,VISUAL_HIGH,glyph image manually checked,,,"緒(56,smooth_jpn_10); 絡(25,nearest_jpn_13)",glyph_G05D0.png,UNRESOLVED_UNICODE
+G05D4,44 F6,139,F6,0x05B4,理,HIGH,jpn psm13 93.0,,,"理(93,nearest_jpn_13)",glyph_G05D4.png,UNRESOLVED_UNICODE
+G05D7,47 F6,1,F6,0x05B7,,REVIEW,,南,82.9,"南(83,threshold_jpn_10); 庫(42,smooth_jpn_10); 慮(0,nearest_jpn_13)",glyph_G05D7.png,UNRESOLVED_UNICODE
+G05D9,49 F6,84,F6,0x05B9,料,HIGH,"3 OCR votes, max 90.9",,,"料(91,smooth_jpn_10)",glyph_G05D9.png,UNRESOLVED_UNICODE
+G05DA,4A F6,2,F6,0x05BA,涼,MEDIUM,jpn psm13 80.3,,,"涼(80,nearest_jpn_13); 泊(17,threshold_jpn_10); 沢(0,smooth_jpn_10)",glyph_G05DA.png,UNRESOLVED_UNICODE
+G05DB,4B F6,3,F6,0x05BB,,REVIEW,,挟,0.0,"挟(0,nearest_jpn_13); 声(0,smooth_jpn_10)",glyph_G05DB.png,UNRESOLVED_UNICODE
+G05DC,4C F6,10,F6,0x05BC,,REVIEW,,時,29.2,"時(29,smooth_jpn_10); 周(0,nearest_jpn_13); 還(0,threshold_jpn_10)",glyph_G05DC.png,UNRESOLVED_UNICODE
+G05DE,4E F6,4,F6,0x05BE,令,MEDIUM,jpn psm13 84.9,,,"令(85,nearest_jpn_13); 古(14,threshold_jpn_10); 玉(2,smooth_jpn_10)",glyph_G05DE.png,UNRESOLVED_UNICODE
+G05E1,51 F6,33,F6,0x05C1,礼,HIGH,jpn psm13 92.2,,,"礼(92,nearest_jpn_13)",glyph_G05E1.png,UNRESOLVED_UNICODE
+G05E3,53 F6,5,F6,0x05C3,列,HIGH,jpn psm13 91.9,,,"列(92,nearest_jpn_13); 別(43,smooth_jpn_10)",glyph_G05E3.png,UNRESOLVED_UNICODE
+G05E7,57 F6,37,F6,0x05C7,労,HIGH,jpn psm13 92.5,,,"労(93,nearest_jpn_13); プ(0,smooth_jpn_10)",glyph_G05E7.png,UNRESOLVED_UNICODE
+G05EA,5A F6,19,F6,0x05CA,考,MEDIUM,jpn psm13 76.1,,,"老(93,smooth_jpn_10); 考(76,nearest_jpn_13)",glyph_G05EA.png,UNRESOLVED_UNICODE
+G05EB,5B F6,45,F6,0x05CB,郎,HIGH,jpn psm13 92.7,,,"郎(93,nearest_jpn_13); ロ(36,smooth_jpn_10)",glyph_G05EB.png,UNRESOLVED_UNICODE
+G05EC,5C F6,1,F6,0x05CC,録,HIGH,jpn psm13 90.9,,,"録(91,nearest_jpn_13)",glyph_G05EC.png,UNRESOLVED_UNICODE
+G05F3,63 F6,20,F6,0x05D3,,REVIEW,,「,0.0,"「(0,nearest_jpn_13)",glyph_G05F3.png,UNRESOLVED_UNICODE
+G05F4,64 F6,20,F6,0x05D4,」,HIGH,"3 OCR votes, max 89.4",,,"」(89,threshold_jpn_10)",glyph_G05F4.png,UNRESOLVED_UNICODE
+G05F5,65 F6,1,F6,0x05D5,,REVIEW,,盲,22.3,"盲(22,nearest_jpn_13)",glyph_G05F5.png,UNRESOLVED_UNICODE
+G05F6,66 F6,1,F6,0x05D6,裁,HIGH,jpn psm13 88.4,,,"裁(88,nearest_jpn_13)",glyph_G05F6.png,UNRESOLVED_UNICODE
+G05F8,68 F6,1,F6,0x05D8,,REVIEW,,敏,59.8,"敏(60,nearest_jpn_13); 上(45,threshold_jpn_10); 本(28,smooth_jpn_10)",glyph_G05F8.png,UNRESOLVED_UNICODE
+G05FA,6A F6,11,F6,0x05DA,悠,HIGH,jpn psm13 89.8,,,"悠(90,nearest_jpn_13)",glyph_G05FA.png,UNRESOLVED_UNICODE
+G05FE,6E F6,4,F6,0x05DE,監,HIGH,"2 OCR votes, max 91.2",,,"監(91,threshold_jpn_10); と(32,smooth_jpn_10)",glyph_G05FE.png,UNRESOLVED_UNICODE
+G05FF,6F F6,1,F6,0x05DF,請,HIGH,jpn psm13 91.8,,,"請(92,nearest_jpn_13); 講(7,smooth_jpn_10)",glyph_G05FF.png,UNRESOLVED_UNICODE
+G0600,70 F6,21,F6,0x05E0,図,VISUAL_HIGH,glyph image manually checked,,,"図(43,nearest_jpn_13); 凶(23,threshold_jpn_10); 欠(0,smooth_jpn_10)",glyph_G0600.png,UNRESOLVED_UNICODE
+G0604,74 F6,1,F6,0x05E4,,REVIEW,,励,49.0,"励(49,nearest_jpn_13); 盛(0,smooth_jpn_10)",glyph_G0604.png,UNRESOLVED_UNICODE
+G0609,79 F6,3,F6,0x05E9,錯,MEDIUM,jpn psm13 70.5,,,"錯(71,nearest_jpn_13); 日(62,smooth_jpn_10); 証(0,threshold_jpn_10)",glyph_G0609.png,UNRESOLVED_UNICODE
+G060B,7B F6,1,F6,0x05EB,洞,MEDIUM,jpn psm13 79.5,,,"泊(87,smooth_jpn_10); 洞(79,nearest_jpn_13); 回(2,threshold_jpn_10)",glyph_G060B.png,UNRESOLVED_UNICODE
+G060D,7D F6,13,F6,0x05ED,,REVIEW,,と,0.0,"と(0,nearest_jpn_13); 密(0,smooth_jpn_10); 記(0,threshold_jpn_10)",glyph_G060D.png,UNRESOLVED_UNICODE
+G060F,7F F6,5,F6,0x05EF,,REVIEW,,三,65.1,"三(65,threshold_jpn_10); 夫(0,nearest_jpn_13); 半(0,smooth_jpn_10)",glyph_G060F.png,UNRESOLVED_UNICODE
+G0610,80 F6,15,F6,0x05F0,捧,HIGH,jpn psm13 89.0,,,"捧(89,nearest_jpn_13)",glyph_G0610.png,UNRESOLVED_UNICODE
+G0613,83 F6,4,F6,0x05F3,徳,HIGH,jpn psm13 91.1,,,"徳(91,nearest_jpn_13)",glyph_G0613.png,UNRESOLVED_UNICODE
+G0619,89 F6,15,F6,0x05F9,支,MEDIUM,jpn psm13 71.0,,,"支(71,nearest_jpn_13)",glyph_G0619.png,UNRESOLVED_UNICODE
+G061B,8B F6,66,F6,0x05FB,緒,MEDIUM,jpn psm13 83.6,,,"緒(84,nearest_jpn_13)",glyph_G061B.png,UNRESOLVED_UNICODE
+G061C,8C F6,2,F6,0x05FC,,REVIEW,,や,73.9,"や(74,smooth_jpn_10); 臣(49,nearest_jpn_13); 「(0,threshold_jpn_10)",glyph_G061C.png,UNRESOLVED_UNICODE
+G061D,8D F6,10,F6,0x05FD,唄,HIGH,jpn psm13 89.3,,,"唄(89,nearest_jpn_13); 旧(0,smooth_jpn_10)",glyph_G061D.png,UNRESOLVED_UNICODE
+G0624,94 F6,1,F6,0x0604,冥,HIGH,jpn psm13 86.1,,,"三(91,threshold_jpn_10); 冥(86,nearest_jpn_13); 計(0,smooth_jpn_10)",glyph_G0624.png,UNRESOLVED_UNICODE
+G0627,97 F6,2,F6,0x0607,律,HIGH,jpn psm13 88.1,,,"律(93,smooth_jpn_10); 筆(54,threshold_jpn_10)",glyph_G0627.png,UNRESOLVED_UNICODE
+G062A,9A F6,2,F6,0x060A,略,HIGH,"2 OCR votes, max 78.1",,,"略(78,nearest_jpn_13); を(31,smooth_jpn_10)",glyph_G062A.png,UNRESOLVED_UNICODE
+G062B,9B F6,8,F6,0x060B,嘆,HIGH,jpn psm13 91.7,,,"嘆(92,nearest_jpn_13); 上(66,threshold_jpn_10)",glyph_G062B.png,UNRESOLVED_UNICODE
+G062E,9E F6,5,F6,0x060E,奏,MEDIUM,"2 OCR votes, avg 38.4",,,"奏(44,nearest_jpn_13)",glyph_G062E.png,UNRESOLVED_UNICODE
+G062F,9F F6,7,F6,0x060F,旦,HIGH,jpn psm13 85.8,,,"旦(86,nearest_jpn_13); 日(19,threshold_jpn_10)",glyph_G062F.png,UNRESOLVED_UNICODE
+G0630,A0 F6,6,F6,0x0610,粒,HIGH,jpn psm13 87.5,,,"粒(87,nearest_jpn_13)",glyph_G0630.png,UNRESOLVED_UNICODE
+G0631,A1 F6,2,F6,0x0611,淡,MEDIUM,jpn psm13 78.7,,,"淡(79,nearest_jpn_13); 注(0,smooth_jpn_10); 江(0,threshold_jpn_10)",glyph_G0631.png,UNRESOLVED_UNICODE
+G0635,A5 F6,4,F6,0x0615,儲,HIGH,"2 OCR votes, max 82.7",,,"儲(83,nearest_jpn_13); 食(29,smooth_jpn_10)",glyph_G0635.png,UNRESOLVED_UNICODE
+G0636,A6 F6,4,F6,0x0616,挨,HIGH,"3 OCR votes, max 74.3",,,"挨(74,smooth_jpn_10)",glyph_G0636.png,UNRESOLVED_UNICODE
+G063F,AF F6,1,F6,0x061F,痴,HIGH,jpn psm13 91.6,,,"痴(92,nearest_jpn_13); 町(64,threshold_jpn_10); 癌(0,smooth_jpn_10)",glyph_G063F.png,UNRESOLVED_UNICODE
+G0641,B1 F6,6,F6,0x0621,典,HIGH,"3 OCR votes, max 89.4",,,"典(89,smooth_jpn_10)",glyph_G0641.png,UNRESOLVED_UNICODE
+G0643,B3 F6,2,F6,0x0623,,REVIEW,,貸,20.0,"貸(20,nearest_jpn_13)",glyph_G0643.png,UNRESOLVED_UNICODE
+G0648,B8 F6,1,F6,0x0628,炒,HIGH,"2 OCR votes, max 79.3",,,"炒(79,nearest_jpn_13); 諸(0,threshold_jpn_10)",glyph_G0648.png,UNRESOLVED_UNICODE
+G0649,B9 F6,3,F6,0x0629,,REVIEW,,脱,62.0,"脱(62,threshold_jpn_10); 腫(0,smooth_jpn_10)",glyph_G0649.png,UNRESOLVED_UNICODE
+G064C,BC F6,5,F6,0x062C,易,MEDIUM,jpn psm13 82.4,,,"易(82,nearest_jpn_13); 三(12,smooth_jpn_10)",glyph_G064C.png,UNRESOLVED_UNICODE
+G0654,C4 F6,1,F6,0x0634,朽,HIGH,jpn psm13 87.2,,,"朽(87,nearest_jpn_13); 配(65,smooth_jpn_10); 本(19,threshold_jpn_10)",glyph_G0654.png,UNRESOLVED_UNICODE
+G0655,C5 F6,4,F6,0x0635,井,HIGH,jpn psm13 92.7,,,"井(93,nearest_jpn_13)",glyph_G0655.png,UNRESOLVED_UNICODE
+G065D,CD F6,15,F6,0x063D,稼,VISUAL_HIGH,glyph image manually checked,,,"稼(64,nearest_jpn_13)",glyph_G065D.png,UNRESOLVED_UNICODE
+G0660,D0 F6,19,F6,0x0640,虚,MEDIUM,jpn psm13 67.2,,,"庶(69,smooth_jpn_10); 虚(67,nearest_jpn_13)",glyph_G0660.png,UNRESOLVED_UNICODE
+G0662,D2 F6,7,F6,0x0642,環,HIGH,jpn psm13 93.2,,,"環(93,nearest_jpn_13); 悦(0,smooth_jpn_10)",glyph_G0662.png,UNRESOLVED_UNICODE
+G0669,D9 F6,1,F6,0x0649,,REVIEW,,ゴ,0.0,"ゴ(0,threshold_jpn_10)",glyph_G0669.png,UNRESOLVED_UNICODE
+G066E,DE F6,2,F6,0x064E,,REVIEW,,狭,31.1,"狭(31,nearest_jpn_13)",glyph_G066E.png,UNRESOLVED_UNICODE
+G0675,E5 F6,3,F6,0x0655,企,HIGH,jpn psm13 92.0,,,"企(92,nearest_jpn_13); 正(80,smooth_jpn_10)",glyph_G0675.png,UNRESOLVED_UNICODE
+G0678,E8 F6,2,F6,0x0658,,REVIEW,,前,2.9,"前(3,threshold_jpn_10); 鐘(0,nearest_jpn_13)",glyph_G0678.png,UNRESOLVED_UNICODE
+G067A,EA F6,3,F6,0x065A,,REVIEW,,遣,42.9,"遣(43,nearest_jpn_13); 遺(0,smooth_jpn_10); 皿(0,threshold_jpn_10)",glyph_G067A.png,UNRESOLVED_UNICODE
+G067B,EB F6,4,F6,0x065B,唯,HIGH,jpn psm13 92.7,,,"唯(93,nearest_jpn_13)",glyph_G067B.png,UNRESOLVED_UNICODE
+G067C,EC F6,4,F6,0x065C,,REVIEW,,固,17.8,"固(18,nearest_jpn_13); 妨(0,smooth_jpn_10)",glyph_G067C.png,UNRESOLVED_UNICODE
+G067D,ED F6,6,F6,0x065D,,REVIEW,,斉,41.3,"斉(41,nearest_jpn_13); 計(0,smooth_jpn_10)",glyph_G067D.png,UNRESOLVED_UNICODE
+G067F,EF F6,3,F6,0x065F,,REVIEW,,買,86.2,"買(86,smooth_jpn_10); 貿(16,nearest_jpn_13)",glyph_G067F.png,UNRESOLVED_UNICODE
+G0682,22 F7,6,F7,0x0662,酷,MEDIUM,jpn psm13 68.8,,,"酷(69,nearest_jpn_13); 本(31,smooth_jpn_10)",glyph_G0682.png,UNRESOLVED_UNICODE
+G0684,24 F7,2,F7,0x0664,旗,HIGH,jpn psm13 85.0,,,"旗(85,nearest_jpn_13); 上(53,smooth_jpn_10)",glyph_G0684.png,UNRESOLVED_UNICODE
+G0685,25 F7,8,F7,0x0665,僕,HIGH,jpn psm13 89.7,,,"僕(90,nearest_jpn_13)",glyph_G0685.png,UNRESOLVED_UNICODE
+G0686,26 F7,2,F7,0x0666,既,HIGH,jpn psm13 92.7,,,"既(93,nearest_jpn_13)",glyph_G0686.png,UNRESOLVED_UNICODE
+G0687,27 F7,1,F7,0x0667,撲,MEDIUM,"2 OCR votes, avg 14.9",,,"撲(30,smooth_jpn_10)",glyph_G0687.png,UNRESOLVED_UNICODE
+G068B,2B F7,1,F7,0x066B,,REVIEW,,愉,0.0,"愉(0,nearest_jpn_13)",glyph_G068B.png,UNRESOLVED_UNICODE
+G068E,2E F7,9,F7,0x066E,孤,VISUAL_HIGH,glyph image manually checked,,,"孤(63,nearest_jpn_13)",glyph_G068E.png,UNRESOLVED_UNICODE
+G068F,2F F7,15,F7,0x066F,恨,HIGH,jpn psm13 87.9,,,"恨(91,smooth_jpn_10)",glyph_G068F.png,UNRESOLVED_UNICODE
+G0692,32 F7,4,F7,0x0672,戸,HIGH,jpn psm13 93.1,,,"戸(93,nearest_jpn_13); 品(49,smooth_jpn_10); ニ(0,threshold_jpn_10)",glyph_G0692.png,UNRESOLVED_UNICODE
+G0696,36 F7,6,F7,0x0676,愚,VISUAL_HIGH,glyph image manually checked,,,"愚(24,nearest_jpn_13)",glyph_G0696.png,UNRESOLVED_UNICODE
+G0699,39 F7,6,F7,0x0679,,REVIEW,,賠,0.0,"賠(0,nearest_jpn_13); 還(0,smooth_jpn_10); 固(0,threshold_jpn_10)",glyph_G0699.png,UNRESOLVED_UNICODE
+G069C,3C F7,3,F7,0x067C,五,HIGH,jpn psm13 88.9,,,"五(89,nearest_jpn_13); 画(21,threshold_jpn_10)",glyph_G069C.png,UNRESOLVED_UNICODE
+G06A0,40 F7,9,F7,0x0680,巡,VISUAL_HIGH,glyph image manually checked,,,"巡(0,nearest_jpn_13)",glyph_G06A0.png,UNRESOLVED_UNICODE
+G06A2,42 F7,13,F7,0x0682,論,HIGH,jpn psm13 91.0,,,"論(91,nearest_jpn_13); 請(53,smooth_jpn_10)",glyph_G06A2.png,UNRESOLVED_UNICODE
+G06A3,43 F7,6,F7,0x0683,辞,MEDIUM,jpn psm13 75.1,,,"辞(75,nearest_jpn_13)",glyph_G06A3.png,UNRESOLVED_UNICODE
+G06A5,45 F7,4,F7,0x0685,垂,VISUAL_HIGH,glyph image manually checked,,,"ヨ(87,smooth_jpn_10); 走(68,threshold_jpn_10); 垂(32,nearest_jpn_13)",glyph_G06A5.png,UNRESOLVED_UNICODE
+G06A6,46 F7,28,F7,0x0686,歳,HIGH,"2 OCR votes, max 83.2",,,"歳(83,nearest_jpn_13); 本(24,threshold_jpn_10)",glyph_G06A6.png,UNRESOLVED_UNICODE
+G06AB,4B F7,7,F7,0x068B,叱,MEDIUM,"3 OCR votes, avg 58.5",,,"叱(68,threshold_jpn_10)",glyph_G06AB.png,UNRESOLVED_UNICODE
+G06B1,51 F7,4,F7,0x0691,召,VISUAL_HIGH,glyph image manually checked,,,"召(30,nearest_jpn_13); 白(0,threshold_jpn_10)",glyph_G06B1.png,UNRESOLVED_UNICODE
+G06B4,54 F7,4,F7,0x0694,,REVIEW,,料,56.5,"料(56,smooth_jpn_10); 「(4,threshold_jpn_10); 粋(0,nearest_jpn_13)",glyph_G06B4.png,UNRESOLVED_UNICODE
+G06BB,5B F7,3,F7,0x069B,宗,MEDIUM,"2 OCR votes, avg 20.6",,,"崇(48,nearest_jpn_13); 宗(41,threshold_jpn_10)",glyph_G06BB.png,UNRESOLVED_UNICODE
+G06C0,60 F7,6,F7,0x06A0,澄,VISUAL_HIGH,glyph image manually checked,,,"湯(33,smooth_jpn_10); 澄(9,nearest_jpn_13)",glyph_G06C0.png,UNRESOLVED_UNICODE
+G06C2,62 F7,1,F7,0x06A2,是,VISUAL_HIGH,glyph image manually checked,,,"是(0,nearest_jpn_13); 二(0,smooth_jpn_10)",glyph_G06C2.png,UNRESOLVED_UNICODE
+G06CE,6E F7,5,F7,0x06AE,嘱,VISUAL_HIGH,glyph image manually checked,,,"嘱(0,nearest_jpn_13); 過(0,smooth_jpn_10)",glyph_G06CE.png,UNRESOLVED_UNICODE
+G06D1,71 F7,9,F7,0x06B1,,REVIEW,,較,0.0,"較(0,nearest_jpn_13); 賜(0,smooth_jpn_10); 贈(0,threshold_jpn_10)",glyph_G06D1.png,UNRESOLVED_UNICODE
+G06D2,72 F7,9,F7,0x06B2,線,VISUAL_HIGH,glyph image manually checked,,,"繰(12,nearest_jpn_13)",glyph_G06D2.png,UNRESOLVED_UNICODE
+G06D4,74 F7,1,F7,0x06B4,測,HIGH,jpn psm13 93.0,,,"測(93,nearest_jpn_13)",glyph_G06D4.png,UNRESOLVED_UNICODE
+G06D5,75 F7,2,F7,0x06B5,析,HIGH,jpn psm13 90.4,,,"析(90,nearest_jpn_13)",glyph_G06D5.png,UNRESOLVED_UNICODE
+G06D7,77 F7,1,F7,0x06B7,傾,HIGH,jpn psm13 87.8,,,"傾(92,smooth_jpn_10)",glyph_G06D7.png,UNRESOLVED_UNICODE
+G06D8,78 F7,1,F7,0x06B8,譲,MEDIUM,jpn psm13 66.6,,,"譲(67,nearest_jpn_13); 中(33,threshold_jpn_10)",glyph_G06D8.png,UNRESOLVED_UNICODE
+G06D9,79 F7,1,F7,0x06B9,揃,MEDIUM,jpn psm13 81.7,,,"揃(82,nearest_jpn_13); 抽(40,smooth_jpn_10)",glyph_G06D9.png,UNRESOLVED_UNICODE
+G06DA,7A F7,12,F7,0x06BA,孫,VISUAL_HIGH,glyph image manually checked,,,"孫(0,nearest_jpn_13); 老(0,smooth_jpn_10)",glyph_G06DA.png,UNRESOLVED_UNICODE
+G06DC,7C F7,2,F7,0x06BC,兆,MEDIUM,"2 OCR votes, avg 4.8",,,"兆(5,nearest_jpn_13); 共(0,threshold_jpn_10)",glyph_G06DC.png,UNRESOLVED_UNICODE
+G06DE,7E F7,2,F7,0x06BE,垢,HIGH,jpn psm13 91.9,,,"垢(92,nearest_jpn_13)",glyph_G06DE.png,UNRESOLVED_UNICODE
+G06E0,80 F7,1,F7,0x06C0,帳,HIGH,jpn psm13 93.1,,,"帳(93,nearest_jpn_13); に(85,threshold_jpn_10)",glyph_G06E0.png,UNRESOLVED_UNICODE
+G06E3,83 F7,1,F7,0x06C3,巧,MEDIUM,jpn psm13 83.7,,,"巧(84,nearest_jpn_13); 本(55,threshold_jpn_10)",glyph_G06E3.png,UNRESOLVED_UNICODE
+G06E9,89 F7,5,F7,0x06C9,浅,HIGH,jpn psm13 89.6,,,"浅(90,nearest_jpn_13)",glyph_G06E9.png,UNRESOLVED_UNICODE
+G06EC,8C F7,2,F7,0x06CC,滞,HIGH,jpn psm13 90.5,,,"滞(91,smooth_jpn_10); 党(0,threshold_jpn_10)",glyph_G06EC.png,UNRESOLVED_UNICODE
+G06EE,8E F7,4,F7,0x06CE,拶,MEDIUM,jpn psm13 79.4,,,"拶(79,nearest_jpn_13); 的(48,smooth_jpn_10)",glyph_G06EE.png,UNRESOLVED_UNICODE
+G06EF,8F F7,1,F7,0x06CF,賃,HIGH,jpn psm13 92.6,,,"賃(93,nearest_jpn_13); 買(67,smooth_jpn_10); 上(9,threshold_jpn_10)",glyph_G06EF.png,UNRESOLVED_UNICODE
+G06F1,91 F7,4,F7,0x06D1,,REVIEW,,剛,0.0,"剛(0,nearest_jpn_13); 制(0,smooth_jpn_10); 抽(0,threshold_jpn_10)",glyph_G06F1.png,UNRESOLVED_UNICODE
+G06F4,94 F7,4,F7,0x06D4,,REVIEW,,麻,23.9,"麻(24,smooth_jpn_10); 圏(1,nearest_jpn_13); 隊(0,threshold_jpn_10)",glyph_G06F4.png,UNRESOLVED_UNICODE
+G06F5,95 F7,2,F7,0x06D5,透,MEDIUM,jpn psm13 76.8,,,"透(77,nearest_jpn_13); 穫(0,smooth_jpn_10); 所(0,threshold_jpn_10)",glyph_G06F5.png,UNRESOLVED_UNICODE
+G06FA,9A F7,1,F7,0x06DA,拍,HIGH,jpn psm13 91.7,,,"拍(92,nearest_jpn_13); 揚(66,smooth_jpn_10)",glyph_G06FA.png,UNRESOLVED_UNICODE
+G06FE,9E F7,17,F7,0x06DE,迫,HIGH,jpn psm13 88.8,,,"迫(89,nearest_jpn_13); 旭(0,threshold_jpn_10)",glyph_G06FE.png,UNRESOLVED_UNICODE
+G06FF,9F F7,3,F7,0x06DF,爪,HIGH,jpn psm13 85.9,,,"爪(86,nearest_jpn_13); 中(4,threshold_jpn_10)",glyph_G06FF.png,UNRESOLVED_UNICODE
+G0701,A1 F7,5,F7,0x06E1,宗,HIGH,jpn psm13 88.0,,,"示(92,threshold_jpn_10); 宗(88,nearest_jpn_13); ロ(51,smooth_jpn_10)",glyph_G0701.png,UNRESOLVED_UNICODE
+G0702,A2 F7,4,F7,0x06E2,就,HIGH,"2 OCR votes, max 81.0",,,"就(81,nearest_jpn_13); 紅(0,threshold_jpn_10)",glyph_G0702.png,UNRESOLVED_UNICODE
+G0707,A7 F7,1,F7,0x06E7,鉢,MEDIUM,jpn psm13 83.1,,,"鉢(83,nearest_jpn_13); 上(0,smooth_jpn_10); 、(0,threshold_jpn_10)",glyph_G0707.png,UNRESOLVED_UNICODE
+G070B,AB F7,13,F7,0x06EB,当,HIGH,"2 OCR votes, max 79.9",,,"当(80,threshold_jpn_10); 罰(33,nearest_jpn_13)",glyph_G070B.png,UNRESOLVED_UNICODE
+G070C,AC F7,3,F7,0x06EC,,REVIEW,,圏,0.0,"圏(0,nearest_jpn_13); 本(0,smooth_jpn_10); 醒(0,threshold_jpn_10)",glyph_G070C.png,UNRESOLVED_UNICODE
+G070D,AD F7,1,F7,0x06ED,締,MEDIUM,jpn psm13 80.3,,,"締(80,nearest_jpn_13)",glyph_G070D.png,UNRESOLVED_UNICODE
+G070E,AE F7,7,F7,0x06EE,充,MEDIUM,"3 OCR votes, avg 10.0",,,"充(26,nearest_jpn_13)",glyph_G070E.png,UNRESOLVED_UNICODE
+G0711,B1 F7,1,F7,0x06F1,伏,HIGH,"2 OCR votes, max 92.7",,,"伏(93,smooth_jpn_10); 供(0,threshold_jpn_10)",glyph_G0711.png,UNRESOLVED_UNICODE
+G0712,B2 F7,6,F7,0x06F2,汁,MEDIUM,jpn psm13 72.3,,,"汁(72,nearest_jpn_13); 汗(68,smooth_jpn_10)",glyph_G0712.png,UNRESOLVED_UNICODE
+G0714,B4 F7,7,F7,0x06F4,印,VISUAL_HIGH,glyph image manually checked,,,"印(0,nearest_jpn_13)",glyph_G0714.png,UNRESOLVED_UNICODE
+G0718,B8 F7,6,F7,0x06F8,,REVIEW,,賠,41.0,"賠(41,nearest_jpn_13); 比(0,smooth_jpn_10); 窒(0,threshold_jpn_10)",glyph_G0718.png,UNRESOLVED_UNICODE
+G071F,BF F7,5,F7,0x06FF,軟,MEDIUM,jpn psm13 70.8,,,"軟(71,nearest_jpn_13); バ(0,threshold_jpn_10)",glyph_G071F.png,UNRESOLVED_UNICODE
+G0720,C0 F7,3,F7,0x0700,,REVIEW,,園,0.0,"園(0,nearest_jpn_13); 四(0,threshold_jpn_10)",glyph_G0720.png,UNRESOLVED_UNICODE
+G0721,C1 F7,2,F7,0x0701,紛,VISUAL_HIGH,glyph image manually checked,,,"紛(39,nearest_jpn_13); 本(13,smooth_jpn_10)",glyph_G0721.png,UNRESOLVED_UNICODE
+G0724,C4 F7,1,F7,0x0704,,REVIEW,,織,0.0,"織(0,threshold_jpn_10)",glyph_G0724.png,UNRESOLVED_UNICODE
+G0726,C6 F7,1,F7,0x0706,,REVIEW,,扱,10.3,"扱(10,nearest_jpn_13)",glyph_G0726.png,UNRESOLVED_UNICODE
+G072C,CC F7,2,F7,0x070C,岬,HIGH,jpn psm13 91.6,,,"岬(92,nearest_jpn_13)",glyph_G072C.png,UNRESOLVED_UNICODE
+G072F,CF F7,2,F7,0x070F,,REVIEW,,六,0.0,"六(0,nearest_jpn_13)",glyph_G072F.png,UNRESOLVED_UNICODE
+G0731,D1 F7,1,F7,0x0711,,REVIEW,,湾,2.7,"湾(3,nearest_jpn_13); 六(0,smooth_jpn_10)",glyph_G0731.png,UNRESOLVED_UNICODE
+G0734,D4 F7,1,F7,0x0714,,REVIEW,,区,24.3,"区(24,nearest_jpn_13); 中(0,smooth_jpn_10); 其(0,threshold_jpn_10)",glyph_G0734.png,UNRESOLVED_UNICODE
+G073B,DB F7,1,F7,0x071B,購,MEDIUM,"2 OCR votes, avg 0.0",,,"賠(2,nearest_jpn_13); 購(0,smooth_jpn_10)",glyph_G073B.png,UNRESOLVED_UNICODE
+G0744,E4 F7,1,F7,0x0724,,REVIEW,,園,25.7,"園(26,nearest_jpn_13); 曜(0,smooth_jpn_10)",glyph_G0744.png,UNRESOLVED_UNICODE
+G0746,E6 F7,4,F7,0x0726,式,VISUAL_HIGH,glyph image manually checked,,,"式(62,nearest_jpn_13)",glyph_G0746.png,UNRESOLVED_UNICODE
+G0748,E8 F7,1,F7,0x0728,,REVIEW,,移,0.0,"移(0,nearest_jpn_13); 知(0,smooth_jpn_10); 紀(0,threshold_jpn_10)",glyph_G0748.png,UNRESOLVED_UNICODE
+G0750,20 F8,7,F8,0x0730,,REVIEW,,堕,20.4,"堕(20,nearest_jpn_13); は(0,smooth_jpn_10); 上(0,threshold_jpn_10)",glyph_G0750.png,UNRESOLVED_UNICODE
+G0759,29 F8,1,F8,0x0739,,REVIEW,,洛,9.1,"洛(9,nearest_jpn_13); 誠(0,smooth_jpn_10)",glyph_G0759.png,UNRESOLVED_UNICODE
+G075D,2D F8,7,F8,0x073D,那,HIGH,jpn psm13 93.0,,,"那(93,nearest_jpn_13); 放(0,smooth_jpn_10); 電(0,threshold_jpn_10)",glyph_G075D.png,UNRESOLVED_UNICODE
+G075E,2E F8,1,F8,0x073E,課,HIGH,jpn psm13 92.2,,,"課(92,nearest_jpn_13); 未(0,smooth_jpn_10); は(0,threshold_jpn_10)",glyph_G075E.png,UNRESOLVED_UNICODE
+G0767,37 F8,1,F8,0x0747,絞,MEDIUM,jpn psm13 82.5,,,"絞(82,nearest_jpn_13); 締(23,smooth_jpn_10)",glyph_G0767.png,UNRESOLVED_UNICODE
+G0769,39 F8,5,F8,0x0749,,REVIEW,,枚,0.0,"枚(0,nearest_jpn_13); 箇(0,smooth_jpn_10); 矯(0,threshold_jpn_10)",glyph_G0769.png,UNRESOLVED_UNICODE
+G076B,3B F8,7,F8,0x074B,卓,MEDIUM,jpn psm13 65.3,,,"卓(65,nearest_jpn_13); 三(15,threshold_jpn_10)",glyph_G076B.png,UNRESOLVED_UNICODE
+G076E,3E F8,5,F8,0x074E,,REVIEW,,味,0.0,"味(0,nearest_jpn_13)",glyph_G076E.png,UNRESOLVED_UNICODE
+G0770,40 F8,5,F8,0x0750,ぐ,MEDIUM,jpn psm13 77.9,,,"く(86,smooth_jpn_10); ぐ(78,nearest_jpn_13); て(43,threshold_jpn_10)",glyph_G0770.png,UNRESOLVED_UNICODE
+G0771,41 F8,5,F8,0x0751,,REVIEW,,っ,40.6,"っ(41,threshold_jpn_10); ン(0,smooth_jpn_10)",glyph_G0771.png,UNRESOLVED_UNICODE
+G0773,43 F8,5,F8,0x0753,,REVIEW,,居,72.1,"居(72,threshold_jpn_10); 層(63,smooth_jpn_10); 賠(47,nearest_jpn_13)",glyph_G0773.png,UNRESOLVED_UNICODE
+G0775,45 F8,2,F8,0x0755,,REVIEW,,演,41.7,"演(42,threshold_jpn_10); 漬(0,nearest_jpn_13); 沖(0,smooth_jpn_10)",glyph_G0775.png,UNRESOLVED_UNICODE
+G0778,48 F8,1,F8,0x0758,中,HIGH,"2 OCR votes, max 82.8",,,"中(83,threshold_jpn_10); 吊(18,nearest_jpn_13)",glyph_G0778.png,UNRESOLVED_UNICODE
+G077A,4A F8,9,F8,0x075A,釣,HIGH,jpn psm13 92.8,,,"釣(93,nearest_jpn_13); リ(71,smooth_jpn_10); 理(0,threshold_jpn_10)",glyph_G077A.png,UNRESOLVED_UNICODE
+G077B,4B F8,4,F8,0x075B,納,VISUAL_HIGH,glyph image manually checked,,,"納(0,nearest_jpn_13)",glyph_G077B.png,UNRESOLVED_UNICODE
+G077D,4D F8,1,F8,0x075D,抵,MEDIUM,jpn psm13 83.1,,,"抵(83,nearest_jpn_13)",glyph_G077D.png,UNRESOLVED_UNICODE
+G0780,50 F8,1,F8,0x0760,計,MEDIUM,"2 OCR votes, avg 19.7",,,"計(39,smooth_jpn_10); 護(0,nearest_jpn_13)",glyph_G0780.png,UNRESOLVED_UNICODE
+G0782,52 F8,2,F8,0x0762,逝,HIGH,jpn psm13 91.3,,,"逝(91,nearest_jpn_13)",glyph_G0782.png,UNRESOLVED_UNICODE
+G0783,53 F8,1,F8,0x0763,吉,HIGH,jpn psm13 91.5,,,"吉(91,nearest_jpn_13); 右(0,threshold_jpn_10)",glyph_G0783.png,UNRESOLVED_UNICODE
+G0784,54 F8,2,F8,0x0764,如,HIGH,jpn psm13 92.1,,,"如(92,nearest_jpn_13)",glyph_G0784.png,UNRESOLVED_UNICODE
+G0788,58 F8,3,F8,0x0768,勲,MEDIUM,jpn psm13 83.2,,,"動(87,smooth_jpn_10); 勲(83,nearest_jpn_13)",glyph_G0788.png,UNRESOLVED_UNICODE
+G078E,5E F8,1,F8,0x076E,沙,HIGH,jpn psm13 90.9,,,"沙(91,nearest_jpn_13)",glyph_G078E.png,UNRESOLVED_UNICODE
+G0790,60 F8,1,F8,0x0770,午,HIGH,jpn psm13 91.1,,,"午(91,nearest_jpn_13)",glyph_G0790.png,UNRESOLVED_UNICODE
+G0791,61 F8,2,F8,0x0771,契,HIGH,jpn psm13 90.7,,,"契(91,nearest_jpn_13)",glyph_G0791.png,UNRESOLVED_UNICODE
+G0792,62 F8,1,F8,0x0772,妨,MEDIUM,"2 OCR votes, avg 16.9",,,"妨(34,smooth_jpn_10); 召(27,nearest_jpn_13)",glyph_G0792.png,UNRESOLVED_UNICODE
+G0793,63 F8,7,F8,0x0773,宇,HIGH,jpn psm13 93.0,,,"宇(93,nearest_jpn_13)",glyph_G0793.png,UNRESOLVED_UNICODE
+G0794,64 F8,1,F8,0x0774,,REVIEW,,汰,92.6,"汰(93,smooth_jpn_10); 湊(27,nearest_jpn_13); 涼(0,threshold_jpn_10)",glyph_G0794.png,UNRESOLVED_UNICODE
+G0797,67 F8,6,F8,0x0777,葵,VISUAL_HIGH,glyph image manually checked,,,"日(41,smooth_jpn_10); 葵(0,nearest_jpn_13)",glyph_G0797.png,UNRESOLVED_UNICODE
+G0799,69 F8,3,F8,0x0779,,REVIEW,,斐,0.0,"斐(0,nearest_jpn_13)",glyph_G0799.png,UNRESOLVED_UNICODE
+G07A1,71 F8,1,F8,0x0781,拡,HIGH,jpn psm13 91.1,,,"拡(91,nearest_jpn_13); 撤(48,smooth_jpn_10); 払(32,threshold_jpn_10)",glyph_G07A1.png,UNRESOLVED_UNICODE
+G07A3,73 F8,13,F8,0x0783,億,VISUAL_HIGH,glyph image manually checked,,,"億(11,nearest_jpn_13)",glyph_G07A3.png,UNRESOLVED_UNICODE
+G07B0,80 F8,2,F8,0x0790,卓,VISUAL_HIGH,glyph image manually checked,,,"卓(26,nearest_jpn_13)",glyph_G07B0.png,UNRESOLVED_UNICODE
+G07B7,87 F8,6,F8,0x0797,昌,VISUAL_HIGH,glyph image manually checked,,,"記(52,threshold_jpn_10); 古(0,smooth_jpn_10); 昌(0,nearest_jpn_13)",glyph_G07B7.png,UNRESOLVED_UNICODE
+G07CB,9B F8,3,F8,0x07AB,垂,HIGH,jpn psm13 92.0,,,"垂(92,nearest_jpn_13); 日(55,smooth_jpn_10)",glyph_G07CB.png,UNRESOLVED_UNICODE
+G07D1,A1 F8,1,F8,0x07B1,斉,HIGH,jpn psm13 87.3,,,"斉(87,nearest_jpn_13); 訪(67,smooth_jpn_10)",glyph_G07D1.png,UNRESOLVED_UNICODE
+G07D3,A3 F8,4,F8,0x07B3,,REVIEW,,粟,9.2,"粟(9,nearest_jpn_13)",glyph_G07D3.png,UNRESOLVED_UNICODE
+G07EA,BA F8,1,F8,0x07CA,沼,HIGH,jpn psm13 92.9,,,"沼(93,nearest_jpn_13); 泊(92,smooth_jpn_10); 中(43,threshold_jpn_10)",glyph_G07EA.png,UNRESOLVED_UNICODE
+G07FF,CF F8,2,F8,0x07DF,妄,VISUAL_HIGH,glyph image manually checked,,,"妄(57,nearest_jpn_13)",glyph_G07FF.png,UNRESOLVED_UNICODE
+G0806,D6 F8,1,F8,0x07E6,縛,HIGH,"2 OCR votes, max 71.7",,,"績(85,nearest_jpn_13); 縛(72,smooth_jpn_10)",glyph_G0806.png,UNRESOLVED_UNICODE
+G0808,D8 F8,1,F8,0x07E8,銭,MEDIUM,jpn psm13 65.7,,,"銭(66,nearest_jpn_13)",glyph_G0808.png,UNRESOLVED_UNICODE
+G080F,DF F8,3,F8,0x07EF,暇,VISUAL_HIGH,glyph image manually checked,,,"は(54,threshold_jpn_10); 暇(31,nearest_jpn_13); 上(0,smooth_jpn_10)",glyph_G080F.png,UNRESOLVED_UNICODE
+G0816,E6 F8,1,F8,0x07F6,鋼,HIGH,jpn psm13 86.8,,,"鋼(87,nearest_jpn_13); 氏(0,smooth_jpn_10)",glyph_G0816.png,UNRESOLVED_UNICODE
+G081B,EB F8,1,F8,0x07FB,,REVIEW,,較,0.0,"較(0,nearest_jpn_13); 還(0,smooth_jpn_10); 上(0,threshold_jpn_10)",glyph_G081B.png,UNRESOLVED_UNICODE
+G0824,24 F9,1,F9,0x0804,桃,HIGH,jpn psm13 92.5,,,"桃(92,nearest_jpn_13)",glyph_G0824.png,UNRESOLVED_UNICODE
+G0825,25 F9,1,F9,0x0805,罠,VISUAL_HIGH,glyph image manually checked,,,"罠(0,nearest_jpn_13)",glyph_G0825.png,UNRESOLVED_UNICODE
+G082A,2A F9,5,F9,0x080A,,REVIEW,,還,38.9,"還(39,nearest_jpn_13); 語(0,threshold_jpn_10)",glyph_G082A.png,UNRESOLVED_UNICODE
+G0834,34 F9,5,F9,0x0814,,REVIEW,,圏,64.6,"圏(65,nearest_jpn_13); 忠(34,threshold_jpn_10); 帳(0,smooth_jpn_10)",glyph_G0834.png,UNRESOLVED_UNICODE
+G0844,44 F9,1,F9,0x0824,宰,VISUAL_HIGH,glyph image manually checked,,,"宰(42,nearest_jpn_13); ミ(37,threshold_jpn_10)",glyph_G0844.png,UNRESOLVED_UNICODE
+G0848,48 F9,4,F9,0x0828,菩,VISUAL_HIGH,glyph image manually checked,,,"菩(0,nearest_jpn_13)",glyph_G0848.png,UNRESOLVED_UNICODE
+G0849,49 F9,2,F9,0x0829,彩,HIGH,jpn psm13 87.4,,,"彩(87,nearest_jpn_13); 条(0,threshold_jpn_10)",glyph_G0849.png,UNRESOLVED_UNICODE
+G084C,4C F9,1,F9,0x082C,蔵,HIGH,jpn psm13 90.8,,,"蔵(91,nearest_jpn_13); 大(16,smooth_jpn_10)",glyph_G084C.png,UNRESOLVED_UNICODE
+G084D,4D F9,3,F9,0x082D,枝,HIGH,"2 OCR votes, max 77.2",,,"枝(77,nearest_jpn_13); 校(0,threshold_jpn_10)",glyph_G084D.png,UNRESOLVED_UNICODE
+G085C,5C F9,80,F9,0x083C,幸,MEDIUM,"2 OCR votes, avg 0.0",,,"吉(0,nearest_jpn_13); 幸(0,nearest_jpn_10)",glyph_G085C.png,UNRESOLVED_UNICODE
+G085D,5D F9,2,F9,0x083D,著,HIGH,jpn psm13 92.3,,,"著(92,nearest_jpn_13)",glyph_G085D.png,UNRESOLVED_UNICODE
+G087D,7D F9,5,F9,0x085D,&,VISUAL_HIGH,glyph image manually checked,,,"品(13,nearest_jpn_13)",glyph_G087D.png,UNRESOLVED_UNICODE
+G087F,7F F9,4,F9,0x085F,中,MEDIUM,"2 OCR votes, avg 39.9",,,"中(40,nearest_jpn_10); 挟(16,nearest_jpn_13)",glyph_G087F.png,UNRESOLVED_UNICODE
+G0880,80 F9,1,F9,0x0860,均,HIGH,jpn psm13 93.0,,,"均(93,nearest_jpn_13); ヨ(84,threshold_jpn_10); 志(0,smooth_jpn_10)",glyph_G0880.png,UNRESOLVED_UNICODE
+G0884,84 F9,1,F9,0x0864,脂,MEDIUM,"4 OCR votes, avg 37.7",,,"脂(66,threshold_jpn_10)",glyph_G0884.png,UNRESOLVED_UNICODE
+G0886,86 F9,2,F9,0x0866,中,MEDIUM,"3 OCR votes, avg 38.9",,,"中(52,smooth_jpn_10); 釈(35,nearest_jpn_13)",glyph_G0886.png,UNRESOLVED_UNICODE
+G0887,87 F9,4,F9,0x0867,寿,HIGH,"3 OCR votes, max 78.5",,,"寿(78,smooth_jpn_10)",glyph_G0887.png,UNRESOLVED_UNICODE
+G088A,8A F9,1,F9,0x086A,秋,HIGH,jpn psm13 91.8,,,"秋(93,nearest_jpn_10)",glyph_G088A.png,UNRESOLVED_UNICODE
+G088B,8B F9,1,F9,0x086B,潜,MEDIUM,"2 OCR votes, avg 1.4",,,"省(22,threshold_jpn_10); 潜(3,smooth_jpn_10); 消(0,nearest_jpn_13)",glyph_G088B.png,UNRESOLVED_UNICODE
+G088C,8C F9,6,F9,0x086C,序,MEDIUM,jpn psm13 65.8,,,"序(66,nearest_jpn_13); 后(0,nearest_jpn_10); 語(0,smooth_jpn_10)",glyph_G088C.png,UNRESOLVED_UNICODE
+G088D,8D F9,1,F9,0x086D,,REVIEW,,本,2.5,"本(2,nearest_jpn_10); 賠(0,nearest_jpn_13); 昌(0,smooth_jpn_10); 是(0,threshold_jpn_10)",glyph_G088D.png,UNRESOLVED_UNICODE
+G0890,90 F9,6,F9,0x0870,相,MEDIUM,"2 OCR votes, avg 33.3",,,"相(67,nearest_jpn_10); 粗(0,nearest_jpn_13)",glyph_G0890.png,UNRESOLVED_UNICODE
+G0891,91 F9,2,F9,0x0871,訴,HIGH,"4 OCR votes, max 90.5",,,"訴(91,nearest_jpn_10)",glyph_G0891.png,UNRESOLVED_UNICODE
+G0893,93 F9,1,F9,0x0873,拓,HIGH,jpn psm13 89.7,,,"拓(90,nearest_jpn_13); 折(74,nearest_jpn_10); 邊(65,threshold_jpn_10)",glyph_G0893.png,UNRESOLVED_UNICODE
+G0894,94 F9,5,F9,0x0874,秩,HIGH,jpn psm13 90.2,,,"秩(90,nearest_jpn_13)",glyph_G0894.png,UNRESOLVED_UNICODE
+G0895,95 F9,3,F9,0x0875,漬,MEDIUM,"4 OCR votes, avg 31.1",,,"漬(62,nearest_jpn_13); 演(30,threshold_jpn_10)",glyph_G0895.png,UNRESOLVED_UNICODE
+G0898,98 F9,4,F9,0x0878,凪,HIGH,jpn psm13 88.6,,,"凪(89,nearest_jpn_13); 中(23,nearest_jpn_10); 上(22,threshold_jpn_10); 由(14,smooth_jpn_10)",glyph_G0898.png,UNRESOLVED_UNICODE
+G0899,99 F9,1,F9,0x0879,尿,MEDIUM,jpn psm13 66.8,,,"尿(67,nearest_jpn_13); 床(11,nearest_jpn_10); 原(0,smooth_jpn_10); 氷(0,threshold_jpn_10)",glyph_G0899.png,UNRESOLVED_UNICODE
+G089B,9B F9,2,F9,0x087B,把,HIGH,jpn psm13 91.1,,,"把(91,nearest_jpn_13)",glyph_G089B.png,UNRESOLVED_UNICODE
+G089C,9C F9,15,F9,0x087C,批,MEDIUM,jpn psm13 65.1,,,"批(65,nearest_jpn_13); 中(32,smooth_jpn_10); 由(13,threshold_jpn_10)",glyph_G089C.png,UNRESOLVED_UNICODE
+G089D,9D F9,6,F9,0x087D,筆,MEDIUM,jpn psm13 78.5,,,"筆(79,nearest_jpn_13)",glyph_G089D.png,UNRESOLVED_UNICODE
+G089E,9E F9,8,F9,0x087E,票,HIGH,jpn psm13 90.3,,,"票(90,nearest_jpn_13)",glyph_G089E.png,UNRESOLVED_UNICODE
+G089F,9F F9,9,F9,0x087F,秒,HIGH,jpn psm13 92.3,,,"秒(92,nearest_jpn_13)",glyph_G089F.png,UNRESOLVED_UNICODE
+G08A1,A1 F9,1,F9,0x0881,肪,HIGH,"4 OCR votes, max 75.0",,,"肪(75,threshold_jpn_10)",glyph_G08A1.png,UNRESOLVED_UNICODE
+G08A2,A2 F9,2,F9,0x0882,湯,MEDIUM,"3 OCR votes, avg 11.7",,,"湯(35,nearest_jpn_13); 漫(0,nearest_Japanese_10)",glyph_G08A2.png,UNRESOLVED_UNICODE
+G08A3,A3 F9,2,F9,0x0883,民,MEDIUM,"2 OCR votes, avg 0.0",,,"融(36,nearest_jpn_13); に(14,threshold_jpn_10); 民(0,nearest_jpn_10); 同(0,nearest_Japanese_10)",glyph_G08A3.png,UNRESOLVED_UNICODE
+G08A6,A6 F9,2,F9,0x0886,炉,MEDIUM,jpn psm13 69.4,,,"炉(69,nearest_jpn_13); 旭(0,nearest_jpn_10); 地(0,threshold_jpn_10)",glyph_G08A6.png,UNRESOLVED_UNICODE
+G08A7,A7 F9,1,F9,0x0887,浪,HIGH,jpn psm13 87.7,,,"浪(88,nearest_jpn_13)",glyph_G08A7.png,UNRESOLVED_UNICODE

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0062",
+  "stream_key": "0x62",
+  "sample_ids": [
+    "0x40C",
+    "0x40D"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0062.flac",
+  "audio_sha256": "aa4fc8467c035b1938a18d96fe5d4d34d541bec1150404d5bcde2e94bedfb576",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 23.59,
+      "speaker": "",
+      "text": "ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴン、ドラゴ",
+      "avg_logprob": -0.077,
+      "no_speech_prob": 0.009,
+      "compression_ratio": 21.58065,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.022",
+        "HIGH_COMPRESSION_RATIO:21.581"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

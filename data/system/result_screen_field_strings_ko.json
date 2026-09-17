@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "scope": "FIELD.BIN battle Result screen labels",
+  "review_status": "APPROVED_FOR_NEXT_TEST_ISO",
+  "integration_policy": {
+    "next_test_iso": "INCLUDE",
+    "final_release": "RUNTIME_GATE",
+    "replacement_target": "FIELD.BIN",
+    "candidate": "build/central-runtime-cumulative-v30-result-screen/FIELD.BIN",
+    "candidate_sha256": "c6ec65d11f69daac01def39d1271d71453432da2ef60088f59c2017732064146"
+  },
+  "resolved": [
+    {
+      "offset": "0x000CE800",
+      "slot_size": 8,
+      "jp_text": "所持金",
+      "kr_text": "소지금",
+      "ids": ["SYS_MENU_0011"]
+    },
+    {
+      "offset": "0x000CE890",
+      "slot_size": 8,
+      "jp_text": "攻撃",
+      "kr_text": "공격",
+      "ids": ["SYS_MENU_0023", "STATUS_PARAM_0001"]
+    },
+    {
+      "offset": "0x000CE898",
+      "slot_size": 8,
+      "jp_text": "魔力",
+      "kr_text": "마력",
+      "ids": ["SYS_MENU_0024", "STATUS_PARAM_0002"]
+    },
+    {
+      "offset": "0x000CE8A0",
+      "slot_size": 8,
+      "jp_text": "防御",
+      "kr_text": "방어",
+      "ids": ["SYS_MENU_0025", "STATUS_PARAM_0003"]
+    },
+    {
+      "offset": "0x000CE8A8",
+      "slot_size": 8,
+      "jp_text": "抵抗",
+      "kr_text": "저항",
+      "ids": ["SYS_MENU_0026", "STATUS_PARAM_0004"]
+    },
+    {
+      "offset": "0x000CE970",
+      "slot_size": 24,
+      "jp_text": "エキスパートステータス",
+      "kr_text": "상세 능력치",
+      "ids": ["SYS_MENU_0046", "STATUS_LABEL_0002"]
+    },
+    {
+      "offset": "0x000CE988",
+      "slot_size": 16,
+      "jp_text": "マジックレベル",
+      "kr_text": "마법 레벨",
+      "ids": ["SYS_MENU_0047", "STATUS_LABEL_0003"]
+    },
+    {
+      "offset": "0x000CE998",
+      "slot_size": 24,
+      "jp_text": "スキルレベル",
+      "kr_text": "스킬 레벨",
+      "ids": ["SYS_MENU_0048", "STATUS_LABEL_0004"]
+    },
+    {
+      "offset": "0x000CE9B0",
+      "slot_size": 24,
+      "jp_text": "スペシャルレベル",
+      "kr_text": "필살기 레벨",
+      "ids": ["SYS_MENU_0049", "STATUS_LABEL_0005"]
+    }
+  ],
+  "deferred": [
+    {
+      "label": "mHP/mMP",
+      "reason": "exact original location unresolved"
+    },
+    {
+      "label": "入手経験値",
+      "reason": "exact original location unresolved"
+    },
+    {
+      "label": "入手金",
+      "reason": "exact original location unresolved"
+    },
+    {
+      "label": "RESULT",
+      "reason": "exact original location unresolved"
+    }
+  ]
+}

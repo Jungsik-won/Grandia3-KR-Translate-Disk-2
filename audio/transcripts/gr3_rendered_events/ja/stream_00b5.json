@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b5",
+  "stream_key": "0xB5",
+  "sample_ids": [
+    "0x4F4",
+    "0x4F5"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b5.flac",
+  "audio_sha256": "4ac584e769626108a385ae0f011ce9a2774f259b00bea14feed3da5750f6646e",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:4/5"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウ アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメ エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アーク アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメ 私は完全なる未来を見た。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウ",
+      "avg_logprob": -0.12939,
+      "no_speech_prob": 0.07709,
+      "compression_ratio": 9.04225,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.080",
+        "HIGH_COMPRESSION_RATIO:9.042"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメ",
+      "avg_logprob": -0.03887,
+      "no_speech_prob": 0.10675,
+      "compression_ratio": 8.95775,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.080",
+        "HIGH_COMPRESSION_RATIO:8.958"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アーク",
+      "avg_logprob": -0.03654,
+      "no_speech_prob": 0.06017,
+      "compression_ratio": 9.04286,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.081",
+        "HIGH_COMPRESSION_RATIO:9.043"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 90.0,
+      "end": 120.0,
+      "speaker": "",
+      "text": "アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメリウス、ユウキ、アークリフ、メンディア、エメ",
+      "avg_logprob": -0.04001,
+      "no_speech_prob": 0.15451,
+      "compression_ratio": 8.95775,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.080",
+        "HIGH_COMPRESSION_RATIO:8.958"
+      ]
+    },
+    {
+      "segment_index": 4,
+      "start": 120.0,
+      "end": 136.56,
+      "speaker": "",
+      "text": "私は完全なる未来を見た。",
+      "avg_logprob": -0.62107,
+      "no_speech_prob": 0.13613,
+      "compression_ratio": 0.76596,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

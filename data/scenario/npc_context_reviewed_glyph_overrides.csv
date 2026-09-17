@@ -1,0 +1,63 @@
+glyph_id,raw_bytes,occurrences,ocr_best_candidate,ocr_alternatives,adopted_character,confidence,decision,evidence,image_path
+G00FE,4E F0,20,,,二,SUPPORTED_CONTEXT,ADOPT_CONTEXT,真っ二つ／一石二鳥／二日酔い; all occurrences agree.,glyph_G00FE.png
+G01AE,2E F1,4,狙,"狙(61,nearest_jpn_13)",狙,SUPPORTED_CONTEXT,ADOPT_CONTEXT,狙う／狙った／狙ってる; all occurrences agree.,glyph_G01AE.png
+G02E1,91 F2,3,凌,"凌(0,nearest_jpn_13); ま(0,threshold_jpn_10)",弦,SUPPORTED_CONTEXT,ADOPT_CONTEXT,弾く instruction: 指先に集中してその弦に叩きつける.,glyph_G02E1.png
+G03F3,D3 F3,39,鐘,"鐘(0,nearest_jpn_13); 旭(0,nearest_jpn_10); 細(0,nearest_Japanese_10)",郷,SUPPORTED_CONTEXT,ADOPT_CONTEXT,故郷／故郷へ／故郷のこと; repeated phrase.,glyph_G03F3.png
+G0480,90 F4,6,用,"用(28,threshold_jpn_10); 寂(17,nearest_jpn_13)",寂,SUPPORTED_CONTEXT,ADOPT_CONTEXT,寂しい／寂しくなる／ひとり寂しく; repeated phrase.,glyph_G0480.png
+G04AE,BE F4,6,未,"未(66,threshold_jpn_10); 徐(0,nearest_jpn_13)",条,SUPPORTED_CONTEXT,ADOPT_CONTEXT,生きるための絶対条件.,glyph_G04AE.png
+G04C8,D8 F4,18,盛,"盛(23,nearest_jpn_13); 器(0,smooth_jpn_10)",盛,SUPPORTED_CONTEXT,ADOPT_CONTEXT,盛り上がる／全盛期／盛り上げる／大盛り.,glyph_G04C8.png
+G0505,45 F5,3,壇,"壇(63,nearest_jpn_13); 上(24,smooth_jpn_10)",壇,SUPPORTED_CONTEXT,ADOPT_CONTEXT,花壇の右手／花壇の前; location phrase.,glyph_G0505.png
+G0513,53 F5,16,徴,"徴(47,nearest_jpn_13)",徴,SUPPORTED_CONTEXT,ADOPT_CONTEXT,繁栄の象徴／象徴的; repeated compound.,glyph_G0513.png
+G0556,96 F5,2,本,"本(24,nearest_Japanese_10); 墓(0,nearest_jpn_13)",輩,SUPPORTED_CONTEXT,ADOPT_CONTEXT,若輩者ゆえ; fixed expression.,glyph_G0556.png
+G055C,9C F5,2,上,"上(48,smooth_jpn_10); 齋(43,threshold_jpn_10); 却(22,nearest_jpn_13)",却,SUPPORTED_CONTEXT,ADOPT_CONTEXT,返却／冷却水; same glyph completes both compounds.,glyph_G055C.png
+G0593,D3 F5,47,園,"園(12,nearest_Japanese_10); 国(0,nearest_jpn_13)",暮,SUPPORTED_CONTEXT,ADOPT_CONTEXT,暮らして／暮らせない／ひとり暮らし; repeated phrase.,glyph_G0593.png
+G05C6,36 F6,1,営,"営(0,nearest_jpn_13)",前,SUPPORTED_CONTEXT,ADOPT_CONTEXT,名前ねえ; noun spelling.,glyph_G05C6.png
+G05D7,47 F6,1,南,"南(83,threshold_jpn_10); 庫(42,smooth_jpn_10); 慮(0,nearest_jpn_13)",慮,SUPPORTED_CONTEXT,ADOPT_CONTEXT,遠慮しとる; fixed expression.,glyph_G05D7.png
+G05DB,4B F6,3,挟,"挟(0,nearest_jpn_13); 声(0,smooth_jpn_10)",療,SUPPORTED_CONTEXT,ADOPT_CONTEXT,診療所だった; compound with 診 and 所.,glyph_G05DB.png
+G05DC,4C F6,10,時,"時(29,smooth_jpn_10); 周(0,nearest_jpn_13); 還(0,threshold_jpn_10)",糧,SUPPORTED_CONTEXT,ADOPT_CONTEXT,生きる糧とし; fixed expression.,glyph_G05DC.png
+G05F3,63 F6,20,「,"「(0,nearest_jpn_13)",「,SUPPORTED_CONTEXT,ADOPT_CONTEXT,Repeated opening quotation mark before dialogue/quotations.,glyph_G05F3.png
+G05F5,65 F6,1,盲,"盲(22,nearest_jpn_13)",盲,SUPPORTED_CONTEXT,ADOPT_CONTEXT,盲点だった; fixed expression.,glyph_G05F5.png
+G05F8,68 F6,1,敏,"敏(60,nearest_jpn_13); 上(45,threshold_jpn_10); 本(28,smooth_jpn_10)",敏,SUPPORTED_CONTEXT,ADOPT_CONTEXT,敏感だから; fixed compound.,glyph_G05F8.png
+G0604,74 F6,1,励,"励(49,nearest_jpn_13); 盛(0,smooth_jpn_10)",励,SUPPORTED_CONTEXT,ADOPT_CONTEXT,励ましてた; verb form fits.,glyph_G0604.png
+G060D,7D F6,13,と,"と(0,nearest_jpn_13); 密(0,smooth_jpn_10); 記(0,threshold_jpn_10)",年,SUPPORTED_CONTEXT,ADOPT_CONTEXT,中年人／中年船乗り／中年根性; repeated compound.,glyph_G060D.png
+G060F,7F F6,5,三,"三(65,threshold_jpn_10); 夫(0,nearest_jpn_13); 半(0,smooth_jpn_10)",賛,SUPPORTED_CONTEXT,ADOPT_CONTEXT,賛成; repeated phrase.,glyph_G060F.png
+G061C,8C F6,2,や,"や(74,smooth_jpn_10); 臣(49,nearest_jpn_13); 「(0,threshold_jpn_10)",固,SUPPORTED_CONTEXT,ADOPT_CONTEXT,頭は固い／ガード固い; both occurrences agree.,glyph_G061C.png
+G0643,B3 F6,2,貸,"貸(20,nearest_jpn_13)",築,SUPPORTED_CONTEXT,ADOPT_CONTEXT,築き上げる／築いてきた; repeated verb.,glyph_G0643.png
+G0649,B9 F6,3,脱,"脱(62,threshold_jpn_10); 腫(0,smooth_jpn_10)",臆,SUPPORTED_CONTEXT,ADOPT_CONTEXT,臆病風／臆せず; repeated compound.,glyph_G0649.png
+G0669,D9 F6,1,ゴ,"ゴ(0,threshold_jpn_10)",と,SUPPORTED_CONTEXT,ADOPT_CONTEXT,ドラムとプロデューサー; conjunction.,glyph_G0669.png
+G066E,DE F6,2,狭,"狭(31,nearest_jpn_13)",狭,SUPPORTED_CONTEXT,ADOPT_CONTEXT,心の狭い／クソ狭い; repeated adjective.,glyph_G066E.png
+G0678,E8 F6,2,前,"前(3,threshold_jpn_10); 鐘(0,nearest_jpn_13)",輸,SUPPORTED_CONTEXT,ADOPT_CONTEXT,輸出する／輸出業; repeated compound.,glyph_G0678.png
+G067A,EA F6,3,遣,"遣(43,nearest_jpn_13); 遺(0,smooth_jpn_10); 皿(0,threshold_jpn_10)",遣,SUPPORTED_CONTEXT,ADOPT_CONTEXT,遣わして／お気遣いなく／遣わした; repeated verb.,glyph_G067A.png
+G067C,EC F6,4,固,"固(18,nearest_jpn_13); 妨(0,smooth_jpn_10)",嬉,SUPPORTED_CONTEXT,ADOPT_CONTEXT,嬉しい in all occurrences; 忙しい is the preceding separate glyph.,glyph_G067C.png
+G067D,ED F6,6,斉,"斉(41,nearest_jpn_13); 計(0,smooth_jpn_10)",謀,SUPPORTED_CONTEXT,ADOPT_CONTEXT,陰謀／無謀; repeated compound.,glyph_G067D.png
+G067F,EF F6,3,買,"買(86,smooth_jpn_10); 貿(16,nearest_jpn_13)",貿,SUPPORTED_CONTEXT,ADOPT_CONTEXT,貿易; repeated compound.,glyph_G067F.png
+G068B,2B F7,1,愉,"愉(0,nearest_jpn_13)",惚,SUPPORTED_CONTEXT,ADOPT_CONTEXT,惚れた男; fixed expression.,glyph_G068B.png
+G0699,39 F7,6,賠,"賠(0,nearest_jpn_13); 還(0,smooth_jpn_10); 固(0,threshold_jpn_10)",露,SUPPORTED_CONTEXT,ADOPT_CONTEXT,披露できる／朝露; repeated compound.,glyph_G0699.png
+G06B4,54 F7,4,料,"料(56,smooth_jpn_10); 「(4,threshold_jpn_10); 粋(0,nearest_jpn_13)",粋,SUPPORTED_CONTEXT,ADOPT_CONTEXT,純粋な; repeated compound.,glyph_G06B4.png
+G06D1,71 F7,9,較,"較(0,nearest_jpn_13); 賜(0,smooth_jpn_10); 贈(0,threshold_jpn_10)",贈,SUPPORTED_CONTEXT,ADOPT_CONTEXT,贈る／贈ったら／贈ってくれる; repeated verb.,glyph_G06D1.png
+G06F1,91 F7,4,剛,"剛(0,nearest_jpn_13); 制(0,smooth_jpn_10); 抽(0,threshold_jpn_10)",船,SUPPORTED_CONTEXT,ADOPT_CONTEXT,Same 0x00740000 NPC record identifies the speakers as former 水夫; 船渡りの生活 is the context-fitting phrase.,glyph_G06F1.png
+G06F4,94 F7,4,麻,"麻(24,smooth_jpn_10); 圏(1,nearest_jpn_13); 隊(0,threshold_jpn_10)",鳥,SUPPORTED_CONTEXT,ADOPT_CONTEXT,鳥の視点／鳥がニワトリのように; both occurrences agree.,glyph_G06F4.png
+G070C,AC F7,3,圏,"圏(0,nearest_jpn_13); 本(0,smooth_jpn_10); 醒(0,threshold_jpn_10)",汚,SUPPORTED_CONTEXT,ADOPT_CONTEXT,汚いテント／汚い自分; repeated adjective.,glyph_G070C.png
+G0718,B8 F7,6,賠,"賠(41,nearest_jpn_13); 比(0,smooth_jpn_10); 窒(0,threshold_jpn_10)",覆,SUPPORTED_CONTEXT,ADOPT_CONTEXT,空が覆われる／世界を覆い尽くす; repeated verb.,glyph_G0718.png
+G0720,C0 F7,3,園,"園(0,nearest_jpn_13); 四(0,threshold_jpn_10)",奮,SUPPORTED_CONTEXT,ADOPT_CONTEXT,興奮する; repeated compound.,glyph_G0720.png
+G0724,C4 F7,1,織,"織(0,threshold_jpn_10)",繊,SUPPORTED_CONTEXT,ADOPT_CONTEXT,繊細な; fixed compound.,glyph_G0724.png
+G0726,C6 F7,1,扱,"扱(10,nearest_jpn_13)",披,SUPPORTED_CONTEXT,ADOPT_CONTEXT,披露できる; fixed compound.,glyph_G0726.png
+G072F,CF F7,2,六,"六(0,nearest_jpn_13)",弾,SUPPORTED_CONTEXT,ADOPT_CONTEXT,銃の弾で代用; object noun fits the repair context.,glyph_G072F.png
+G0731,D1 F7,1,湾,"湾(3,nearest_jpn_13); 六(0,smooth_jpn_10)",湾,SUPPORTED_CONTEXT,ADOPT_CONTEXT,メンディ湾; place name phrase.,glyph_G0731.png
+G0734,D4 F7,1,区,"区(24,nearest_jpn_13); 中(0,smooth_jpn_10); 其(0,threshold_jpn_10)",七,SUPPORTED_CONTEXT,ADOPT_CONTEXT,七色ねんど; color-count phrase.,glyph_G0734.png
+G0744,E4 F7,1,園,"園(26,nearest_jpn_13); 曜(0,smooth_jpn_10)",曜,SUPPORTED_CONTEXT,ADOPT_CONTEXT,日曜日の朝; weekday compound.,glyph_G0744.png
+G0748,E8 F7,1,移,"移(0,nearest_jpn_13); 知(0,smooth_jpn_10); 紀(0,threshold_jpn_10)",灼,SUPPORTED_CONTEXT,ADOPT_CONTEXT,灼熱のバクラーン; fixed compound.,glyph_G0748.png
+G0750,20 F8,7,堕,"堕(20,nearest_jpn_13); は(0,smooth_jpn_10); 上(0,threshold_jpn_10)",堕,SUPPORTED_CONTEXT,ADOPT_CONTEXT,堕落と栄光／堕落させる／堕落した; repeated compound.,glyph_G0750.png
+G0759,29 F8,1,洛,"洛(9,nearest_jpn_13); 誠(0,smooth_jpn_10)",酔,SUPPORTED_CONTEXT,ADOPT_CONTEXT,酔っちゃった; verb form.,glyph_G0759.png
+G0769,39 F8,5,枚,"枚(0,nearest_jpn_13); 箇(0,smooth_jpn_10); 矯(0,threshold_jpn_10)",当,SUPPORTED_CONTEXT,ADOPT_CONTEXT,本当の／本当には; repeated compound.,glyph_G0769.png
+G076E,3E F8,5,味,"味(0,nearest_jpn_13)",輝,SUPPORTED_CONTEXT,ADOPT_CONTEXT,輝く時; verb form.,glyph_G076E.png
+G0771,41 F8,5,っ,"っ(41,threshold_jpn_10); ン(0,smooth_jpn_10)",り,SUPPORTED_CONTEXT,ADOPT_CONTEXT,Five identical occurrences complete ぐったりしそうだ: ぐ + っ + た + り + しそうだ.,glyph_G0771.png
+G0773,43 F8,5,居,"居(72,threshold_jpn_10); 層(63,smooth_jpn_10); 賠(47,nearest_jpn_13)",層,SUPPORTED_CONTEXT,ADOPT_CONTEXT,重層的; fixed adjective.,glyph_G0773.png
+G0775,45 F8,2,演,"演(42,threshold_jpn_10); 漬(0,nearest_jpn_13); 沖(0,smooth_jpn_10)",潰,SUPPORTED_CONTEXT,ADOPT_CONTEXT,潰れてしまえば; repeated verb.,glyph_G0775.png
+G0794,64 F8,1,汰,"汰(93,smooth_jpn_10); 湊(27,nearest_jpn_13); 涼(0,threshold_jpn_10)",汰,SUPPORTED_CONTEXT,ADOPT_CONTEXT,音沙汰ない; fixed expression.,glyph_G0794.png
+G0799,69 F8,3,斐,"斐(0,nearest_jpn_13)",斐,SUPPORTED_CONTEXT,ADOPT_CONTEXT,不甲斐なさ; fixed expression.,glyph_G0799.png
+G07D3,A3 F8,4,粟,"粟(9,nearest_jpn_13)",茶,SUPPORTED_CONTEXT,ADOPT_CONTEXT,茶色のオス; color phrase.,glyph_G07D3.png
+G081B,EB F8,1,較,"較(0,nearest_jpn_13); 還(0,smooth_jpn_10); 上(0,threshold_jpn_10)",覇,SUPPORTED_CONTEXT,ADOPT_CONTEXT,制覇; fixed compound.,glyph_G081B.png
+G082A,2A F9,5,還,"還(39,nearest_jpn_13); 語(0,threshold_jpn_10)",還,SUPPORTED_CONTEXT,ADOPT_CONTEXT,帰還／土に還る／天に還る; repeated compound.,glyph_G082A.png
+G0834,34 F9,5,圏,"圏(65,nearest_jpn_13); 忠(34,threshold_jpn_10); 帳(0,smooth_jpn_10)",噛,SUPPORTED_CONTEXT,ADOPT_CONTEXT,毒蛇が噛みつく／噛みなさい／噛みついたり; repeated verb.,glyph_G0834.png
+G088D,8D F9,1,本,"本(2,nearest_jpn_10); 賠(0,nearest_jpn_13); 昌(0,smooth_jpn_10); 是(0,threshold_jpn_10)",鍾,SUPPORTED_CONTEXT,ADOPT_CONTEXT,鍾乳洞; fixed compound with 乳洞.,glyph_G088D.png

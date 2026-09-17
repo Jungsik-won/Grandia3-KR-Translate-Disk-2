@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "approval_boundary": "Cross-model/context review is never runtime approval; scene and audio review remain required.",
+  "batch_files": [
+    "p1_early.csv",
+    "p1_late.csv",
+    "p1_mid.csv",
+    "p1_mid_runtime_0099.csv"
+  ],
+  "row_count": 636,
+  "stream_count": 66,
+  "p1_stream_count": 65,
+  "missing_p1_streams": [],
+  "japanese_status_counts": {
+    "NEEDS_AUDIO_REVIEW": 632,
+    "CROSS_MODEL_REVIEW_PENDING_SCENE": 1,
+    "HALLUCINATION_REMOVED_PENDING_SCENE": 3
+  },
+  "korean_status_counts": {
+    "DRAFT_CONTEXT_REVIEWED": 550,
+    "NEEDS_AUDIO_REVIEW": 83,
+    "HOLD_NO_RELIABLE_JAPANESE": 3
+  }
+}

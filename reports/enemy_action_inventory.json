@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source": "work/grandia3_sys_textures/unpacked/GR3.MDT",
+  "chunk_base": "0x1A2800",
+  "directory_records": 171,
+  "records_with_text_pool": 169,
+  "action_only_pools": 1,
+  "action_occurrences": 1714,
+  "unique_actions": 188,
+  "translation_rows": 188,
+  "missing_translations": [],
+  "extra_translations": [],
+  "output": "/Users/j.swon/Desktop/Grandia3_KR/exports/enemy_actions_standard.csv",
+  "occurrence_output": "/Users/j.swon/Desktop/Grandia3_KR/data/battle/enemy_action_occurrences.json"
+}

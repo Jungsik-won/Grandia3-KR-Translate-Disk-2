@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "purpose": "GRM01-GRM20 subtitle-authoring conversions",
+  "source_directory": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE",
+  "count": 20,
+  "outputs": [
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM01.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM01_subtitle_work.mp4",
+      "duration_seconds": 105.572133,
+      "size_bytes": 23743864
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM02.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM02_subtitle_work.mp4",
+      "duration_seconds": 222.133333,
+      "size_bytes": 57397528
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM03.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM03_subtitle_work.mp4",
+      "duration_seconds": 276.409467,
+      "size_bytes": 50665597
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM04.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM04_subtitle_work.mp4",
+      "duration_seconds": 142.142,
+      "size_bytes": 22854284
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM05.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM05_subtitle_work.mp4",
+      "duration_seconds": 142.275467,
+      "size_bytes": 34867585
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM06.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM06_subtitle_work.mp4",
+      "duration_seconds": 135.802333,
+      "size_bytes": 26821753
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM07.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM07_subtitle_work.mp4",
+      "duration_seconds": 94.6946,
+      "size_bytes": 26793783
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM08.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM08_subtitle_work.mp4",
+      "duration_seconds": 231.864967,
+      "size_bytes": 49530036
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM09.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM09_subtitle_work.mp4",
+      "duration_seconds": 28.995633,
+      "size_bytes": 6356406
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM10.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM10_subtitle_work.mp4",
+      "duration_seconds": 123.189733,
+      "size_bytes": 17922408
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM11.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM11_subtitle_work.mp4",
+      "duration_seconds": 173.406567,
+      "size_bytes": 27954240
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM12.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM12_subtitle_work.mp4",
+      "duration_seconds": 152.118633,
+      "size_bytes": 27221266
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM13.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM13_subtitle_work.mp4",
+      "duration_seconds": 147.0469,
+      "size_bytes": 30009170
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM14.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM14_subtitle_work.mp4",
+      "duration_seconds": 142.8427,
+      "size_bytes": 44697829
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM15.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM15_subtitle_work.mp4",
+      "duration_seconds": 42.375667,
+      "size_bytes": 10354587
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM16.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM16_subtitle_work.mp4",
+      "duration_seconds": 268.268,
+      "size_bytes": 58592703
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM17.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM17_subtitle_work.mp4",
+      "duration_seconds": 268.901967,
+      "size_bytes": 54377275
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM18.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM18_subtitle_work.mp4",
+      "duration_seconds": 65.432033,
+      "size_bytes": 17009301
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM19.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM19_subtitle_work.mp4",
+      "duration_seconds": 300.5002,
+      "size_bytes": 56582945
+    },
+    {
+      "source": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM20.MOV",
+      "output": "/Users/j.swon/Desktop/Grandia3_KR/MOVIE/GRM20_subtitle_work.mp4",
+      "duration_seconds": 259.325733,
+      "size_bytes": 28948069
+    }
+  ]
+}

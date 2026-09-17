@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0054",
+  "stream_key": "0x54",
+  "sample_ids": [
+    "0x3EE",
+    "0x3EF"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0054.flac",
+  "audio_sha256": "fba4271ba10679fb865200a909c303d1a92c556407fe1b17407f2dc583f5fdbf",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、バンゴハン出来てる!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 22.99,
+      "speaker": "",
+      "text": "ユウキ、バンゴハン出来てる!",
+      "avg_logprob": -0.53351,
+      "no_speech_prob": 0.00841,
+      "compression_ratio": 0.86957,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

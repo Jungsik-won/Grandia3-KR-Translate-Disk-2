@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_008d",
+  "stream_key": "0x8D",
+  "sample_ids": ["0x474", "0x475"],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_008d.flac",
+  "audio_sha256": "e2162dc2f578c59764f41d4dda944622de509f0c4fc330c752c46c9fd20ac33b",
+  "language": "ja",
+  "status": "MANUAL_RUNTIME_REVIEW",
+  "screening_flags": [],
+  "model": "small left/right/mid channel cross-review",
+  "notes": "PCSX2 slot 5 active-SPU proof. The old 0-60 second repeated-name transcript was discarded as hallucination. Ritual wording was reconstructed from three-channel agreement, word timestamps, project terminology, and scene-order context.",
+  "text": "尊い神の御言葉を伝えるコミュート、アルフィナ・デ・パメラの声を聞き届けたまえ。光と秩序をもたらす者、グリフよ。遥かなるバースより我が導きに応え、ここアークリフに降臨されよ！",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 66.48,
+      "end": 76.58,
+      "speaker": "アルフィナ",
+      "text": "尊い神の御言葉を伝えるコミュート、アルフィナ・デ・パメラの声を聞き届けたまえ。",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.095,
+      "compression_ratio": 1.373,
+      "status": "MANUAL_RUNTIME_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 77.90,
+      "end": 81.06,
+      "speaker": "アルフィナ",
+      "text": "光と秩序をもたらす者、グリフよ。",
+      "avg_logprob": -0.188,
+      "no_speech_prob": 0.095,
+      "compression_ratio": 1.373,
+      "status": "MANUAL_RUNTIME_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 82.88,
+      "end": 90.78,
+      "speaker": "アルフィナ",
+      "text": "遥かなるバースより我が導きに応え、ここアークリフに降臨されよ！",
+      "avg_logprob": -0.391,
+      "no_speech_prob": 0.030,
+      "compression_ratio": 1.373,
+      "status": "MANUAL_RUNTIME_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Runtime-proven dialogue; left/right/mid review retained only the 66.48-90.78 second ritual speech."
+}

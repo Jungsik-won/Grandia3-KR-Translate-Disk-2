@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "status": "RUNTIME_FAILED_SUPERSEDED_BY_V19",
+  "source_container": "DATA/00120000.MDZ",
+  "record_id": "0x00740000",
+  "clean_mdt": "build/investigation/disc1-clean-data-mdt/00120000.MDT",
+  "previous_candidate_mdt_sha256": "ea45072221a72e316de9e8e3c7715993dd4bf17184e0d180a1f3efd44af22a99",
+  "fixed_candidate_mdt": "/Users/j.swon/Desktop/Grandia3_KR/build/central-runtime-cumulative-v18/field-location-actions/mdt/00120000.MDT",
+  "fixed_candidate_mdt_sha256": "f83d8b8a81a80e4d8db27828aa322c6f108a18b4e084a4825f54f1edbbdd0cee",
+  "fixed_candidate_mdz": "/Users/j.swon/Desktop/Grandia3_KR/build/central-runtime-cumulative-v18/field-location-actions/mdz/00120000.MDZ",
+  "fixed_candidate_mdz_sha256": "db3166045bd0e6f5aa85311ee3b918bf8366eb2b138d13042fe3fb7f946fb164",
+  "root_cause": {
+    "command": "10 00 <u16 target>",
+    "coordinate": "record member-data base relative",
+    "structural_anchor": "paired 10 30 command 4, 6, or 8 bytes earlier",
+    "previous_behavior": "the reinserter treated only suffix-qualified member-data-minus-4 variants as references, leaving paired branch/merge references unchanged after translated members moved"
+  },
+  "sabatar_updates": {
+    "previous_internal_reference_updates": 281,
+    "fixed_internal_reference_updates": 310,
+    "new_paired_reference_updates": 29,
+    "mikeroma_purchase_member": {
+      "member_index": 2,
+      "member_type": "0x2000",
+      "update_count": 8,
+      "updates": [
+        {"reference": "0x052C", "old_target": "0x0595", "new_target": "0x058C"},
+        {"reference": "0x0539", "old_target": "0x053E", "new_target": "0x052E"},
+        {"reference": "0x06EA", "old_target": "0x07D0", "new_target": "0x07CE"},
+        {"reference": "0x07CA", "old_target": "0x07D0", "new_target": "0x07CE"},
+        {"reference": "0x08FC", "old_target": "0x0965", "new_target": "0x096D"},
+        {"reference": "0x0909", "old_target": "0x090E", "new_target": "0x0915"},
+        {"reference": "0x0AC0", "old_target": "0x0BDD", "new_target": "0x0BF4"},
+        {"reference": "0x0BD6", "old_target": "0x0BDD", "new_target": "0x0BF4"}
+      ]
+    },
+    "npc_map_setup_member": {
+      "member_index": 14,
+      "member_type": "0x4000",
+      "update_count": 21,
+      "note": "these references move NPC/map setup continuations from the old 0x6F0D/0x6FA6 targets to the rebuilt 0x732D/0x73D1 targets"
+    }
+  },
+  "disc1_full_rebuild": {
+    "manifest": "build/central-runtime-cumulative-v18/scenario-manifest.json",
+    "container_count": 346,
+    "translated_message_count": 18205,
+    "internal_reference_update_count": 19177,
+    "new_paired_reference_update_count": 635,
+    "field_table_container_count": 165,
+    "field_table_string_occurrence_count": 915
+  },
+  "verification": {
+    "mdz_mdt_roundtrip": "346/346 PASS",
+    "manifest_path_size_hash": "346/346 PASS",
+    "scenario_record_structure": "346/346 PASS",
+    "serialized_reference_fields": "19177/19177 PASS",
+    "unit_tests": "43 PASS, 3 SKIP",
+    "iso_built": true,
+    "iso_path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v18_sabatar_relocation_20260827.iso",
+    "iso_size": 4612028416,
+    "iso_sha256": "61f11e20a3fc48928b80898c1533e84aa258409b6bc3bb4d24a8b0e3c6025619",
+    "iso_full_file_verification": "1265/1265 PASS",
+    "iso_scenario_verification": "346/346 PASS",
+    "runtime_tested": true,
+    "runtime_result": "FAILED: the lodging NPC stopped after one dialogue and the port NPC interaction did not proceed",
+    "failure_evidence": "/Users/j.swon/Desktop/Grandia III [Disc 1 of 2]_SLPM-65976_20260827014409.mp4"
+  },
+  "superseded_by": {
+    "report": "reports/sabatar_runtime_eventfix_v19.json",
+    "iso": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v19_sabatar_actual_eventfix_20260827.iso"
+  }
+}

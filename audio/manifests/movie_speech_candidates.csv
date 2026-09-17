@@ -1,0 +1,2 @@
+﻿disc,movie_id,segment_index,audio_start_ms,audio_end_ms,chunk_start,chunk_end,source_start_offset,japanese,status,avg_logprob,no_speech_prob,screening_status,screening_reason,notes
+1,GRM10,27,109000,111000,108,110,0x52C3000,ブラークで出てるよ。,AUTO_TRANSCRIBED_REVIEW,-0.4331,0.4719,LIKELY_SPEECH_REVIEW,needs_audio_review,Not translated or enabled; confirm by listening and align to video presentation time.

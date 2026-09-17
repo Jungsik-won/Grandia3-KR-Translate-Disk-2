@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00a7",
+  "stream_key": "0xA7",
+  "sample_ids": [
+    "0x4CE",
+    "0x4CF"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00a7.flac",
+  "audio_sha256": "2aec775561ad338ebeddd4f44e46258164b79d265b297e9a11e1321b28ec1338",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "LOW_CHARACTER_DIVERSITY:0.128",
+    "HIGH_COMPRESSION_RATIO:55.625"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "美しい、すんだ目をしておるな。 グリウス様、私は知りたいことがあるのです。 コミュートの娘を、今、絆が失われようとしておる。 お前のアミン、エメリウスが世界に危機をもたらそうとしておるのだ イニシエよりつらなりし、我が運命のくさりを今、ここで グリフ様、兄は一体何をしようとしているのです お前は、兄が邪悪な道を歩んでも愛することができますか? わかりません でも、私は 憎しみに 未来は訪れません どんなことがあっても お前は兄を憎んではなりません 愛するのです 愛 愛 それだけが 世界に未来をもたらすのです 愛だけが未来を アルフィナ お前の網、エメリウスを愛するのです あーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー 本当をお前とここで会いたくはなかった ここで会いたくはなかった アルフィナ! アルフィナから離れろ! せろ! 兄さんやめて! 何が…何があったというの! え?兄さん? エメリウス? 神の名よだ 人の世界は全て人のもの",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "美しい、すんだ目をしておるな。",
+      "avg_logprob": -0.25522,
+      "no_speech_prob": 0.01925,
+      "compression_ratio": 1.31387,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 4.0,
+      "end": 10.0,
+      "speaker": "",
+      "text": "グリウス様、私は知りたいことがあるのです。",
+      "avg_logprob": -0.25522,
+      "no_speech_prob": 0.01925,
+      "compression_ratio": 1.31387,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 10.0,
+      "end": 20.0,
+      "speaker": "",
+      "text": "コミュートの娘を、今、絆が失われようとしておる。",
+      "avg_logprob": -0.25522,
+      "no_speech_prob": 0.01925,
+      "compression_ratio": 1.31387,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 20.0,
+      "end": 28.0,
+      "speaker": "",
+      "text": "お前のアミン、エメリウスが世界に危機をもたらそうとしておるのだ",
+      "avg_logprob": -0.28524,
+      "no_speech_prob": 0.37992,
+      "compression_ratio": 1.26667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 34.0,
+      "end": 41.0,
+      "speaker": "",
+      "text": "イニシエよりつらなりし、我が運命のくさりを今、ここで",
+      "avg_logprob": -0.28524,
+      "no_speech_prob": 0.37992,
+      "compression_ratio": 1.26667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 50.0,
+      "end": 57.0,
+      "speaker": "",
+      "text": "グリフ様、兄は一体何をしようとしているのです",
+      "avg_logprob": -0.2774,
+      "no_speech_prob": 0.62701,
+      "compression_ratio": 1.31852,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 57.0,
+      "end": 66.0,
+      "speaker": "",
+      "text": "お前は、兄が邪悪な道を歩んでも愛することができますか?",
+      "avg_logprob": -0.2774,
+      "no_speech_prob": 0.62701,
+      "compression_ratio": 1.31852,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 66.0,
+      "end": 71.0,
+      "speaker": "",
+      "text": "わかりません",
+      "avg_logprob": -0.2774,
+      "no_speech_prob": 0.62701,
+      "compression_ratio": 1.31852,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 71.0,
+      "end": 74.0,
+      "speaker": "",
+      "text": "でも、私は",
+      "avg_logprob": -0.2774,
+      "no_speech_prob": 0.62701,
+      "compression_ratio": 1.31852,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 74.0,
+      "end": 79.0,
+      "speaker": "",
+      "text": "憎しみに 未来は訪れません",
+      "avg_logprob": -0.18164,
+      "no_speech_prob": 0.33946,
+      "compression_ratio": 1.35971,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 81.0,
+      "end": 86.0,
+      "speaker": "",
+      "text": "どんなことがあっても お前は兄を憎んではなりません",
+      "avg_logprob": -0.18164,
+      "no_speech_prob": 0.33946,
+      "compression_ratio": 1.35971,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 88.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "愛するのです",
+      "avg_logprob": -0.18164,
+      "no_speech_prob": 0.33946,
+      "compression_ratio": 1.35971,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 91.0,
+      "end": 92.0,
+      "speaker": "",
+      "text": "愛",
+      "avg_logprob": -0.18164,
+      "no_speech_prob": 0.33946,
+      "compression_ratio": 1.35971,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 95.0,
+      "end": 96.0,
+      "speaker": "",
+      "text": "愛",
+      "avg_logprob": -0.18164,
+      "no_speech_prob": 0.33946,
+      "compression_ratio": 1.35971,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 98.0,
+      "end": 103.0,
+      "speaker": "",
+      "text": "それだけが 世界に未来をもたらすのです",
+      "avg_logprob": -0.18164,
+      "no_speech_prob": 0.33946,
+      "compression_ratio": 1.35971,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 104.0,
+      "end": 108.0,
+      "speaker": "",
+      "text": "愛だけが未来を",
+      "avg_logprob": -0.36888,
+      "no_speech_prob": 0.09428,
+      "compression_ratio": 1.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 109.0,
+      "end": 110.0,
+      "speaker": "",
+      "text": "アルフィナ",
+      "avg_logprob": -0.36888,
+      "no_speech_prob": 0.09428,
+      "compression_ratio": 1.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 112.0,
+      "end": 118.0,
+      "speaker": "",
+      "text": "お前の網、エメリウスを愛するのです",
+      "avg_logprob": -0.36888,
+      "no_speech_prob": 0.09428,
+      "compression_ratio": 1.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 18,
+      "start": 134.0,
+      "end": 164.0,
+      "speaker": "",
+      "text": "あーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
+      "avg_logprob": -0.21283,
+      "no_speech_prob": 0.01137,
+      "compression_ratio": 55.625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 19,
+      "start": 164.0,
+      "end": 171.0,
+      "speaker": "",
+      "text": "本当をお前とここで会いたくはなかった",
+      "avg_logprob": -0.22122,
+      "no_speech_prob": 0.03112,
+      "compression_ratio": 9.82609,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 20,
+      "start": 171.0,
+      "end": 173.0,
+      "speaker": "",
+      "text": "ここで会いたくはなかった",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 21,
+      "start": 177.0,
+      "end": 179.0,
+      "speaker": "",
+      "text": "アルフィナ!",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 22,
+      "start": 182.0,
+      "end": 184.0,
+      "speaker": "",
+      "text": "アルフィナから離れろ!",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 23,
+      "start": 188.0,
+      "end": 189.0,
+      "speaker": "",
+      "text": "せろ!",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 24,
+      "start": 191.0,
+      "end": 193.0,
+      "speaker": "",
+      "text": "兄さんやめて!",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 25,
+      "start": 193.0,
+      "end": 196.0,
+      "speaker": "",
+      "text": "何が…何があったというの!",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 26,
+      "start": 197.0,
+      "end": 198.0,
+      "speaker": "",
+      "text": "え?兄さん?",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 27,
+      "start": 199.0,
+      "end": 200.0,
+      "speaker": "",
+      "text": "エメリウス?",
+      "avg_logprob": -0.33924,
+      "no_speech_prob": 0.07385,
+      "compression_ratio": 1.34351,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 28,
+      "start": 201.0,
+      "end": 203.0,
+      "speaker": "",
+      "text": "神の名よだ",
+      "avg_logprob": -0.54504,
+      "no_speech_prob": 0.08279,
+      "compression_ratio": 0.92308,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 29,
+      "start": 203.0,
+      "end": 206.0,
+      "speaker": "",
+      "text": "人の世界は全て人のもの",
+      "avg_logprob": -0.54504,
+      "no_speech_prob": 0.08279,
+      "compression_ratio": 0.92308,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

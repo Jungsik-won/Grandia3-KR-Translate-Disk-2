@@ -1,0 +1,852 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0087",
+  "stream_key": "0x87",
+  "sample_ids": [
+    "0x468",
+    "0x469"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0087.flac",
+  "audio_sha256": "b5ef1ff34ad3df289be1c443c621e1f2127b48f2828cb0aee8bb18b424036152",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:19/66"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ミランダ、オレ。 言いたいことは分かってるつもり。 最後くらいちゃんと母をやさせてよね。 んん。 じゃあ。 やんしゅ。 んん。 んん。 んん。 んん。 んん。 んん。 んん。 んん。 んん。 んん。 んん。 んん。 やっと翼を広げたな。 はいつ。 んん。 ん? 何かあったの? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? 今そういったのよあの子。 私に、初めて。 そうか。 きっと。 なけよ。 ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? ん? さよなら。 ゆき。 ん?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "ミランダ、オレ。 言いたいことは分かってるつもり。 最後くらいちゃんと母をやさせてよね。",
+      "avg_logprob": -0.4541,
+      "no_speech_prob": 0.00546,
+      "compression_ratio": 1.19626,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 25.0,
+      "end": 27.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -1.22377,
+      "no_speech_prob": 0.14925,
+      "compression_ratio": 0.94737,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 30.0,
+      "end": 32.0,
+      "speaker": "",
+      "text": "じゃあ。",
+      "avg_logprob": -1.22377,
+      "no_speech_prob": 0.14925,
+      "compression_ratio": 0.94737,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 37.0,
+      "end": 39.0,
+      "speaker": "",
+      "text": "やんしゅ。",
+      "avg_logprob": -1.22377,
+      "no_speech_prob": 0.14925,
+      "compression_ratio": 0.94737,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 55.0,
+      "end": 57.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.58227,
+      "no_speech_prob": 0.45526,
+      "compression_ratio": 2.36842,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 64.0,
+      "end": 66.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.58227,
+      "no_speech_prob": 0.45526,
+      "compression_ratio": 2.36842,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 72.0,
+      "end": 74.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.58227,
+      "no_speech_prob": 0.45526,
+      "compression_ratio": 2.36842,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 76.0,
+      "end": 78.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.58227,
+      "no_speech_prob": 0.45526,
+      "compression_ratio": 2.36842,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 79.0,
+      "end": 81.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.58227,
+      "no_speech_prob": 0.45526,
+      "compression_ratio": 2.36842,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 84.0,
+      "end": 86.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.42435,
+      "no_speech_prob": 0.00023,
+      "compression_ratio": 2.84211,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.842"
+      ]
+    },
+    {
+      "segment_index": 10,
+      "start": 97.0,
+      "end": 99.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.42435,
+      "no_speech_prob": 0.00023,
+      "compression_ratio": 2.84211,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.842"
+      ]
+    },
+    {
+      "segment_index": 11,
+      "start": 99.0,
+      "end": 101.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.42435,
+      "no_speech_prob": 0.00023,
+      "compression_ratio": 2.84211,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.842"
+      ]
+    },
+    {
+      "segment_index": 12,
+      "start": 101.0,
+      "end": 103.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.42435,
+      "no_speech_prob": 0.00023,
+      "compression_ratio": 2.84211,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.842"
+      ]
+    },
+    {
+      "segment_index": 13,
+      "start": 106.0,
+      "end": 109.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.42435,
+      "no_speech_prob": 0.00023,
+      "compression_ratio": 2.84211,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.842"
+      ]
+    },
+    {
+      "segment_index": 14,
+      "start": 109.0,
+      "end": 111.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.42435,
+      "no_speech_prob": 0.00023,
+      "compression_ratio": 2.84211,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.842"
+      ]
+    },
+    {
+      "segment_index": 15,
+      "start": 114.0,
+      "end": 116.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.31795,
+      "no_speech_prob": 8e-05,
+      "compression_ratio": 1.03448,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 16,
+      "start": 126.0,
+      "end": 129.0,
+      "speaker": "",
+      "text": "やっと翼を広げたな。",
+      "avg_logprob": -0.31795,
+      "no_speech_prob": 8e-05,
+      "compression_ratio": 1.03448,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 17,
+      "start": 129.0,
+      "end": 131.0,
+      "speaker": "",
+      "text": "はいつ。",
+      "avg_logprob": -0.31795,
+      "no_speech_prob": 8e-05,
+      "compression_ratio": 1.03448,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 18,
+      "start": 135.0,
+      "end": 137.0,
+      "speaker": "",
+      "text": "んん。",
+      "avg_logprob": -0.31795,
+      "no_speech_prob": 8e-05,
+      "compression_ratio": 1.03448,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 19,
+      "start": 144.0,
+      "end": 146.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 20,
+      "start": 146.0,
+      "end": 149.0,
+      "speaker": "",
+      "text": "何かあったの?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 21,
+      "start": 149.0,
+      "end": 152.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 22,
+      "start": 152.0,
+      "end": 154.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 23,
+      "start": 154.0,
+      "end": 156.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 24,
+      "start": 156.0,
+      "end": 158.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 25,
+      "start": 158.0,
+      "end": 161.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 26,
+      "start": 161.0,
+      "end": 163.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 27,
+      "start": 163.0,
+      "end": 164.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 28,
+      "start": 164.0,
+      "end": 166.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 29,
+      "start": 166.0,
+      "end": 167.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 30,
+      "start": 167.0,
+      "end": 169.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 31,
+      "start": 169.0,
+      "end": 170.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 32,
+      "start": 170.0,
+      "end": 171.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 33,
+      "start": 171.0,
+      "end": 172.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.45153,
+      "no_speech_prob": 0.0024,
+      "compression_ratio": 2.02703,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 34,
+      "start": 173.0,
+      "end": 175.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.42746,
+      "no_speech_prob": 0.00022,
+      "compression_ratio": 1.16867,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 35,
+      "start": 175.0,
+      "end": 178.0,
+      "speaker": "",
+      "text": "今そういったのよあの子。",
+      "avg_logprob": -0.42746,
+      "no_speech_prob": 0.00022,
+      "compression_ratio": 1.16867,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 36,
+      "start": 178.0,
+      "end": 184.0,
+      "speaker": "",
+      "text": "私に、初めて。",
+      "avg_logprob": -0.42746,
+      "no_speech_prob": 0.00022,
+      "compression_ratio": 1.16867,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 37,
+      "start": 186.0,
+      "end": 188.0,
+      "speaker": "",
+      "text": "そうか。",
+      "avg_logprob": -0.42746,
+      "no_speech_prob": 0.00022,
+      "compression_ratio": 1.16867,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 38,
+      "start": 190.0,
+      "end": 193.0,
+      "speaker": "",
+      "text": "きっと。",
+      "avg_logprob": -0.42746,
+      "no_speech_prob": 0.00022,
+      "compression_ratio": 1.16867,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 39,
+      "start": 197.0,
+      "end": 199.0,
+      "speaker": "",
+      "text": "なけよ。",
+      "avg_logprob": -0.42746,
+      "no_speech_prob": 0.00022,
+      "compression_ratio": 1.16867,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 40,
+      "start": 203.0,
+      "end": 205.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 41,
+      "start": 205.0,
+      "end": 207.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 42,
+      "start": 207.0,
+      "end": 209.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 43,
+      "start": 209.0,
+      "end": 211.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 44,
+      "start": 211.0,
+      "end": 213.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 45,
+      "start": 213.0,
+      "end": 215.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 46,
+      "start": 215.0,
+      "end": 217.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 47,
+      "start": 217.0,
+      "end": 219.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 48,
+      "start": 219.0,
+      "end": 221.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 49,
+      "start": 221.0,
+      "end": 222.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 50,
+      "start": 222.0,
+      "end": 224.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 51,
+      "start": 224.0,
+      "end": 227.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 52,
+      "start": 227.0,
+      "end": 230.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38227,
+      "no_speech_prob": 0.34762,
+      "compression_ratio": 3.46667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.467"
+      ]
+    },
+    {
+      "segment_index": 53,
+      "start": 231.0,
+      "end": 233.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 54,
+      "start": 233.0,
+      "end": 235.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 55,
+      "start": 235.0,
+      "end": 237.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 56,
+      "start": 237.0,
+      "end": 239.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 57,
+      "start": 239.0,
+      "end": 241.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 58,
+      "start": 241.0,
+      "end": 244.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 59,
+      "start": 244.0,
+      "end": 247.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 60,
+      "start": 247.0,
+      "end": 249.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 61,
+      "start": 249.0,
+      "end": 251.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 62,
+      "start": 251.0,
+      "end": 253.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 63,
+      "start": 253.0,
+      "end": 256.0,
+      "speaker": "",
+      "text": "さよなら。",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 64,
+      "start": 256.0,
+      "end": 259.0,
+      "speaker": "",
+      "text": "ゆき。",
+      "avg_logprob": -0.37147,
+      "no_speech_prob": 0.00064,
+      "compression_ratio": 1.68421,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 65,
+      "start": 260.0,
+      "end": 262.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.6746,
+      "no_speech_prob": 0.52725,
+      "compression_ratio": 0.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

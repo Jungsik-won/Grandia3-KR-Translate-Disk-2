@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "status": "SUPPORTED_POPULATION_EXTRACTED",
+  "disc": 1,
+  "input_iso_sha256": "c588a7dada3bf7175bfe97b238b0ab4c77df6401a58d766829aec9d92f3596e8",
+  "data_mdz_count": 391,
+  "scenario_container_count": 346,
+  "npc_dialogue_count": 11637,
+  "unique_id_count": 11637,
+  "category": "NPC_DIALOGUE",
+  "dialogue_opcode_counts": {
+    "0x12": 1952,
+    "0x32": 444,
+    "0x42": 2173,
+    "0x52": 1188,
+    "0x62": 113,
+    "0x81": 5619,
+    "0x82": 148
+  },
+  "runtime_anchor": {
+    "source_file": "DATA/00030000.MDZ",
+    "opcode": "0x81",
+    "count": 375,
+    "matches_prior_audit": true
+  },
+  "reverse_extraction": {
+    "raw_byte_matches": 11637,
+    "failure_count": 0,
+    "passed": true
+  },
+  "translation": {
+    "translated_count": 0,
+    "untranslated_count": 11637,
+    "kr_encoded_unassigned_count": 11637,
+    "required_glyph_count": 0
+  },
+  "speaker_semantics": "PARTIALLY_SUPPORTED_AND_PARTIALLY_UNPROVEN",
+  "relocation_safety": "UNPROVEN_AT_SCRIPT_BRANCH_OFFSET_LEVEL",
+  "artifacts": {
+    "canonical_csv": "exports/npc_dialogue_standard.csv",
+    "speaker_candidates": "exports/npc_speaker_candidates.csv",
+    "full_extraction_audit": "build/npc_dialogue/disc1-npc-dialogue.json",
+    "raw_reverse_report": "build/npc_dialogue/reverse-extraction.json",
+    "relocation_audit": "build/npc_dialogue/scenario-relocation-audit.json"
+  },
+  "iso_ready": false
+}

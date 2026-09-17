@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00bb",
+  "stream_key": "0xBB",
+  "sample_ids": [
+    "0x500",
+    "0x501"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00bb.flac",
+  "audio_sha256": "295990d48b31445656cbbe9f1e97205a4417076b288a3018dec5ac411da6f372",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:3/5"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフ、メンディア、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エ エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、 ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメ お湯気これ? なあ?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アークリフ、メンディア、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エ",
+      "avg_logprob": -0.12745,
+      "no_speech_prob": 0.09815,
+      "compression_ratio": 8.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.097",
+        "HIGH_COMPRESSION_RATIO:8.250"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、",
+      "avg_logprob": -0.03046,
+      "no_speech_prob": 0.11643,
+      "compression_ratio": 11.44444,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.068",
+        "HIGH_COMPRESSION_RATIO:11.444"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメ",
+      "avg_logprob": -0.04397,
+      "no_speech_prob": 0.09095,
+      "compression_ratio": 11.23636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.068",
+        "HIGH_COMPRESSION_RATIO:11.236"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 90.0,
+      "end": 95.0,
+      "speaker": "",
+      "text": "お湯気これ?",
+      "avg_logprob": -1.31763,
+      "no_speech_prob": 0.00568,
+      "compression_ratio": 0.71875,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 95.0,
+      "end": 99.0,
+      "speaker": "",
+      "text": "なあ?",
+      "avg_logprob": -1.31763,
+      "no_speech_prob": 0.00568,
+      "compression_ratio": 0.71875,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

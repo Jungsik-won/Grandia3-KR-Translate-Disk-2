@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "ticks_per_second": 60,
+  "purpose": "MDZ-owned package architecture probe; 000F remains tentative until PCSX2 validation",
+  "events": [
+    {
+      "event_id": "alfina_room_0063",
+      "resource_path": "DATA/00030100.MDZ",
+      "runtime_resource_paths": ["DATA/00030100.MDZ"],
+      "stream_key": "0x63",
+      "gr3_sample_ids": ["0x414", "0x415"],
+      "runtime_trigger_sample_ids": ["0x415"],
+      "runtime_sample_mode": "ACTIVE_DISPLAY",
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/alfina_room_event_0063_cues.json",
+      "status": "RUNTIME_PASS"
+    },
+    {
+      "event_id": "miranda_neighbor_event_0053",
+      "resource_path": "DATA/01010105.MDZ",
+      "runtime_resource_paths": ["DATA/01010105.MDZ"],
+      "stream_key": "0x53",
+      "gr3_sample_ids": ["0x3EC", "0x3ED"],
+      "runtime_trigger_sample_ids": ["0x3EC"],
+      "runtime_sample_mode": "ACTIVE_DISPLAY",
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/miranda_tea_event_0053_cues.json",
+      "status": "RUNTIME_OBSERVED_SPU_SYNC_CORRECTED"
+    },
+    {
+      "event_id": "miranda_wakes_yuki_event_0054",
+      "resource_path": "DATA/01010201.MDZ",
+      "runtime_resource_paths": ["DATA/01010201.MDZ"],
+      "stream_key": "0x54",
+      "gr3_sample_ids": ["0x3EE", "0x3EF"],
+      "runtime_trigger_sample_ids": ["0x3EF"],
+      "runtime_sample_mode": "ACTIVE_DISPLAY",
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/miranda_wakes_yuki_event_0054_cues.json",
+      "status": "RUNTIME_SPU_PROVEN_AUDIO_ALIGNED_CUES"
+    },
+    {
+      "event_id": "garage_event_0055",
+      "resource_path": "DATA/01010201.MDZ",
+      "runtime_resource_paths": ["DATA/01010201.MDZ"],
+      "stream_key": "0x55",
+      "gr3_sample_ids": ["0x3F0", "0x3F1"],
+      "runtime_trigger_sample_ids": ["0x3F0"],
+      "runtime_sample_mode": "ACTIVE_DISPLAY",
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/garage_event_0055_cues.json",
+      "status": "RUNTIME_OBSERVED_CAPTURE_ALIGNED_CUE_DRAFT"
+    },
+    {
+      "event_id": "alfina_forest_event_000f_probe",
+      "resource_path": "DATA/00060000.MDZ",
+      "runtime_resource_paths": ["DATA/00060000.MDZ"],
+      "stream_key": "0x0F",
+      "gr3_sample_ids": ["0x000F"],
+      "runtime_trigger_sample_ids": ["0x000F"],
+      "runtime_sample_mode": "ACTIVE_DISPLAY",
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/alfina_forest_event_000f_probe_cues.json",
+      "status": "TENTATIVE_USER_OBSERVED_ID_ONLY"
+    }
+  ]
+}

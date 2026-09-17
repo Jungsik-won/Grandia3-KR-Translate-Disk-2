@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b1",
+  "stream_key": "0xB1",
+  "sample_ids": [
+    "0x4E8",
+    "0x4E9"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b1.flac",
+  "audio_sha256": "4f294cd5db5629c032099a8a017c482ca2e11f49e5962f16a5132ac52752a550",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:6.450"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。 アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。 アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。 アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。 天ける! イースさん! エメリウス 俺たちは自らの手で未来が 超わした世界を作るはずじゃなかったのか! ふん、だから その力を手に入れた 違う! お前がする間にはゼロで手に入れたのは 究極の力 ゾーンだ 終了で手に入れたのは 究極の力 ゾーンだ エメリウス 最愛の友よ もう 終わりにしよう はぁ… 人のこらよ 真実から目をそらしてはならぬ セリバ… エメリウスキ様! ようやく現れたか 愚かな… 最後の聖銃よ アルフィナよ コミュートである前に人である",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。",
+      "avg_logprob": -0.16316,
+      "no_speech_prob": 0.02341,
+      "compression_ratio": 6.45,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 2.0,
+      "end": 3.0,
+      "speaker": "",
+      "text": "アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。",
+      "avg_logprob": -0.16316,
+      "no_speech_prob": 0.02341,
+      "compression_ratio": 6.45,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 3.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。",
+      "avg_logprob": -0.16316,
+      "no_speech_prob": 0.02341,
+      "compression_ratio": 6.45,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 4.0,
+      "end": 5.0,
+      "speaker": "",
+      "text": "アークリフ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、ウル、アークリフ、メンディ。",
+      "avg_logprob": -0.16316,
+      "no_speech_prob": 0.02341,
+      "compression_ratio": 6.45,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 5.0,
+      "end": 6.0,
+      "speaker": "",
+      "text": "天ける!",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 6.0,
+      "end": 7.0,
+      "speaker": "",
+      "text": "イースさん!",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 8.0,
+      "end": 9.0,
+      "speaker": "",
+      "text": "エメリウス",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 10.0,
+      "end": 12.0,
+      "speaker": "",
+      "text": "俺たちは自らの手で未来が",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 12.0,
+      "end": 15.0,
+      "speaker": "",
+      "text": "超わした世界を作るはずじゃなかったのか!",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 16.0,
+      "end": 17.0,
+      "speaker": "",
+      "text": "ふん、だから",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 17.0,
+      "end": 19.0,
+      "speaker": "",
+      "text": "その力を手に入れた",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 19.0,
+      "end": 20.0,
+      "speaker": "",
+      "text": "違う!",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 21.0,
+      "end": 23.0,
+      "speaker": "",
+      "text": "お前がする間にはゼロで手に入れたのは",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 23.0,
+      "end": 25.0,
+      "speaker": "",
+      "text": "究極の力",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 25.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "ゾーンだ",
+      "avg_logprob": -0.32282,
+      "no_speech_prob": 0.24307,
+      "compression_ratio": 1.34518,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 26.0,
+      "end": 33.0,
+      "speaker": "",
+      "text": "終了で手に入れたのは 究極の力 ゾーンだ",
+      "avg_logprob": -0.47931,
+      "no_speech_prob": 0.49303,
+      "compression_ratio": 1.05455,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 39.0,
+      "end": 50.0,
+      "speaker": "",
+      "text": "エメリウス 最愛の友よ もう 終わりにしよう",
+      "avg_logprob": -0.47931,
+      "no_speech_prob": 0.49303,
+      "compression_ratio": 1.05455,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 50.0,
+      "end": 51.0,
+      "speaker": "",
+      "text": "はぁ…",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 18,
+      "start": 52.5,
+      "end": 53.5,
+      "speaker": "",
+      "text": "人のこらよ",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 19,
+      "start": 54.5,
+      "end": 57.5,
+      "speaker": "",
+      "text": "真実から目をそらしてはならぬ",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 20,
+      "start": 58.0,
+      "end": 59.0,
+      "speaker": "",
+      "text": "セリバ…",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 21,
+      "start": 64.5,
+      "end": 66.0,
+      "speaker": "",
+      "text": "エメリウスキ様!",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 22,
+      "start": 68.0,
+      "end": 70.0,
+      "speaker": "",
+      "text": "ようやく現れたか",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 23,
+      "start": 71.0,
+      "end": 72.0,
+      "speaker": "",
+      "text": "愚かな…",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 24,
+      "start": 72.5,
+      "end": 74.5,
+      "speaker": "",
+      "text": "最後の聖銃よ",
+      "avg_logprob": -0.42992,
+      "no_speech_prob": 0.14864,
+      "compression_ratio": 1.18462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 25,
+      "start": 74.5,
+      "end": 76.5,
+      "speaker": "",
+      "text": "アルフィナよ",
+      "avg_logprob": -0.59698,
+      "no_speech_prob": 0.02734,
+      "compression_ratio": 0.98361,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 26,
+      "start": 76.5,
+      "end": 78.5,
+      "speaker": "",
+      "text": "コミュートである前に人である",
+      "avg_logprob": -0.59698,
+      "no_speech_prob": 0.02734,
+      "compression_ratio": 0.98361,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

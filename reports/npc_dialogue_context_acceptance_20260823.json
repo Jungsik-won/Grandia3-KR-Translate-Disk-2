@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "status": "ACCEPTED_FOR_TRANSLATION_NOT_BUILD_READY",
+  "source_thread_id": "01a02bf1-b7ca-7202-965d-db2b8ff5ab41",
+  "population_report": "reports/npc_dialogue_population.json",
+  "population": {
+    "rows": 11637,
+    "unique_ids": 11637,
+    "category": "NPC_DIALOGUE",
+    "opcodes": {
+      "0x12": 1952,
+      "0x32": 444,
+      "0x42": 2173,
+      "0x52": 1188,
+      "0x62": 113,
+      "0x81": 5619,
+      "0x82": 148
+    }
+  },
+  "category_normalization": {
+    "source_handoff_sha256": "5f02a2edda52395b4b4fb92d6c89083f51a8a2f87cdf73c4d5595f567c83782b",
+    "central_normalized_sha256": "a370edecedf54567e4e4f02c91bc6f9a163ebc2a97921b13d217b202f15a7c48",
+    "changed_field": "category",
+    "from": "SCENARIO",
+    "to": "NPC_DIALOGUE",
+    "changed_rows": 11637,
+    "other_fields_changed": false
+  },
+  "glyph_context_review": {
+    "review_candidates": 62,
+    "adopted_supported_context": 62,
+    "retained_unproven_from_review_set": 0,
+    "high_confidence_unique": 441,
+    "combined_mapping_unique": 503,
+    "resolved_occurrences": 33987,
+    "remaining_unique": 451,
+    "remaining_occurrences": 25633,
+    "derived_csv_sha256": "4f6939c175b86cfb909fe107813dcb6de4fe0e7666942084026a6968f83a5942",
+    "audit_csv_sha256": "4e103410c98a5ae1c8656c32c1d2bfe4402ae89a19784d710c6a4cb1344a748e",
+    "residual_queue_sha256": "1290eed49b693efcca01871c139dfa590be4ce1561683dbb063b86ce8c4c825a"
+  },
+  "verification": {
+    "context_outputs_reproduced": true,
+    "python_compile": "PASS",
+    "npc_extractor_tests": "5 PASS",
+    "glyph_image_tests": "3 PASS",
+    "pre_iso_gate": "EXPECTED_BLOCK_UNASSIGNED_NPC_DIALOGUE"
+  },
+  "build_blockers": [
+    "All 11637 NPC dialogue rows are still untranslated and UNASSIGNED.",
+    "451 unique Japanese glyph tokens remain unresolved.",
+    "NPC speaker semantics remain partly UNPROVEN.",
+    "Script branch/offset relocation safety is not proven.",
+    "NPC_DIALOGUE has not been imported into translation.db as insertion-ready data."
+  ],
+  "iso_created": false
+}

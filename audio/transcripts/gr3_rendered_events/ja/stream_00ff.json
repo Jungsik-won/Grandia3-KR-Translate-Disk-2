@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00ff",
+  "stream_key": "0xFF",
+  "sample_ids": [
+    "0x63A",
+    "0x63B",
+    "0x63E",
+    "0x63F",
+    "0x642",
+    "0x643",
+    "0x646",
+    "0x647",
+    "0x65A",
+    "0x65B",
+    "0x65E",
+    "0x65F",
+    "0x662",
+    "0x663",
+    "0x666",
+    "0x667",
+    "0x66E",
+    "0x66F",
+    "0x672",
+    "0x673",
+    "0x676",
+    "0x677",
+    "0x67A",
+    "0x67B"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00ff.flac",
+  "audio_sha256": "f48e7d79ff4efd0d5a978810f0d387b0d2bdfbc7cd114841ae6ad6758d0426f5",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ウォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 3.73,
+      "speaker": "",
+      "text": "ウォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォォ",
+      "avg_logprob": -0.04602,
+      "no_speech_prob": 0.23096,
+      "compression_ratio": 18.66667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.018",
+        "HIGH_COMPRESSION_RATIO:18.667"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

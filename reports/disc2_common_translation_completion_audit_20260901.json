@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "mode": "PRE_ISO_TRANSLATION_COMPLETION_AUDIT",
+  "iso_created": false,
+  "status": "PASS",
+  "database_rows": 21171,
+  "rows_by_category": {
+    "BATTLE": 73,
+    "BATTLE_CHATTER": 226,
+    "BATTLE_HELP": 64,
+    "BATTLE_UI": 28,
+    "CHARACTER": 7,
+    "ENEMY": 169,
+    "ENEMY_ACTION": 188,
+    "EQUIPMENT": 46,
+    "FIELD": 10,
+    "FIELD_RUNTIME": 12,
+    "FIELD_TABLE": 279,
+    "ITEM": 1352,
+    "MAGIC": 84,
+    "NPC_DIALOGUE": 11653,
+    "SCENARIO": 6552,
+    "SKILL": 62,
+    "SKILL_EFFECT": 45,
+    "STATUS": 32,
+    "SYSTEM": 289
+  },
+  "empty_or_untranslated_rows": 0,
+  "kana_rows": 0,
+  "cjk_rows": 0,
+  "unassigned_encoded_rows": 0,
+  "residual_glyph_tokens": {
+    "occurrences": 1288,
+    "by_token": {
+      "0000": 1,
+      "0001": 1272,
+      "0009": 1,
+      "0016": 2,
+      "0018": 2,
+      "001C": 1,
+      "001E": 1,
+      "001F": 1,
+      "08B6": 2,
+      "08B7": 2,
+      "08B8": 2,
+      "08B9": 1
+    },
+    "allowed_icon_or_control_arguments": 1288,
+    "unexpected": []
+  },
+  "dialogue_speaker_names": {
+    "inventory": 215,
+    "translated": 215,
+    "slot_or_character_failures": [],
+    "binary_candidate_patches": 215,
+    "manifest_build_ids_equal": true,
+    "binary_candidate": "/Users/j.swon/Desktop/Grandia3_KR/build/central-next-clean-iso-prep-v35/system-v24/02-item-skill/GR3.MDT",
+    "binary_candidate_sha256": "b92af78bbe291512246ccb64b3f8b1e46c04e88fa2d42f5c30c30c28773cfd6a"
+  }
+}

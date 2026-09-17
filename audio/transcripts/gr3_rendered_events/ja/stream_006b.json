@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_006b",
+  "stream_key": "0x6B",
+  "sample_ids": [
+    "0x428",
+    "0x429"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_006b.flac",
+  "audio_sha256": "f373c1b4437d02d46f6da3c498ab699504eecb9130539718706dcb4a78d53afd",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "誰? 歌が手なその目を。 あ、なら、見せてやろうじゃないか。 雲のりの魂ってやつ。 これって、もしかして。 チーズだ、タイルクエの。 すっかー。 あ、ここがアークリフです。 俺は信じるよ、ミランダ。 解除だって本物だし、 この人の雰囲んでていいと思う。 なるほど。 どうやら、雰囲のりってのは確かにね。 え、本当に体力まで意見のあんたの船。 意見ない場所はあるかと聞こえたかな。 もちろん、答えはどうだ? どうだかね。 乗ってみなきゃ分からないけど。 よし、じゃあ失敗するか。 西の船付き場まではちょいとあるが、俺が入れや大丈夫。 帯見えても、複子には自信があるぜ。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "speaker": "",
+      "text": "誰? 歌が手なその目を。",
+      "avg_logprob": -0.67976,
+      "no_speech_prob": 0.15508,
+      "compression_ratio": 1.38889,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 5.0,
+      "end": 14.0,
+      "speaker": "",
+      "text": "あ、なら、見せてやろうじゃないか。 雲のりの魂ってやつ。",
+      "avg_logprob": -0.67976,
+      "no_speech_prob": 0.15508,
+      "compression_ratio": 1.38889,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 14.0,
+      "end": 25.0,
+      "speaker": "",
+      "text": "これって、もしかして。 チーズだ、タイルクエの。 すっかー。",
+      "avg_logprob": -0.67976,
+      "no_speech_prob": 0.15508,
+      "compression_ratio": 1.38889,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 26.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "あ、ここがアークリフです。",
+      "avg_logprob": -0.35884,
+      "no_speech_prob": 0.10811,
+      "compression_ratio": 1.35366,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 33.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "俺は信じるよ、ミランダ。 解除だって本物だし、 この人の雰囲んでていいと思う。",
+      "avg_logprob": -0.35884,
+      "no_speech_prob": 0.10811,
+      "compression_ratio": 1.35366,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 40.0,
+      "end": 47.0,
+      "speaker": "",
+      "text": "なるほど。 どうやら、雰囲のりってのは確かにね。",
+      "avg_logprob": -0.35884,
+      "no_speech_prob": 0.10811,
+      "compression_ratio": 1.35366,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 47.0,
+      "end": 54.0,
+      "speaker": "",
+      "text": "え、本当に体力まで意見のあんたの船。",
+      "avg_logprob": -0.39789,
+      "no_speech_prob": 0.15416,
+      "compression_ratio": 1.51417,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 55.0,
+      "end": 61.0,
+      "speaker": "",
+      "text": "意見ない場所はあるかと聞こえたかな。 もちろん、答えはどうだ?",
+      "avg_logprob": -0.39789,
+      "no_speech_prob": 0.15416,
+      "compression_ratio": 1.51417,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 61.0,
+      "end": 65.0,
+      "speaker": "",
+      "text": "どうだかね。 乗ってみなきゃ分からないけど。",
+      "avg_logprob": -0.39789,
+      "no_speech_prob": 0.15416,
+      "compression_ratio": 1.51417,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 65.0,
+      "end": 76.0,
+      "speaker": "",
+      "text": "よし、じゃあ失敗するか。 西の船付き場まではちょいとあるが、俺が入れや大丈夫。 帯見えても、複子には自信があるぜ。",
+      "avg_logprob": -0.39789,
+      "no_speech_prob": 0.15416,
+      "compression_ratio": 1.51417,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

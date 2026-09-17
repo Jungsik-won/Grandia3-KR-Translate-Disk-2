@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "status": "STATIC_PASS_RUNTIME_PENDING",
+  "disc2_clean_sha256": "68d2eb9dc03288c91fcd943c437390f41b10ecff7f61558665695dc5140a057d",
+  "disc1_v1_0_0_sha256": "561630a8f914685e0c24f749f20f3773594bd5fbd2d54218a0bdf86cdcccef55",
+  "subtitle_font": {
+    "path": "/Library/Fonts/NanumSquareRoundB.ttf",
+    "sha256": "61fd37816a1ee1a9336876742392d80bdafd340e5124a088aeda20446e2e15de"
+  },
+  "movie_count": 20,
+  "total_cues": 244,
+  "movies": [
+    {
+      "movie": "GRM50",
+      "cue_count": 24,
+      "source_srt": "data/disc2_movies/subtitles/GRM50_ko.srt",
+      "source_srt_sha256": "79a98e9a6502fb402c960ed26edeb559a5ba988b497b0fb774127efbf79aff8a",
+      "source_mov_sha256": "d1c0214bd1a7d80ca7a8f65d0b658c2f2494d4c072e1ecac7a1f29b4a052570c",
+      "candidate_size": 85442560,
+      "candidate_sha256": "8e137647dff090cfe1c103b44d7f95da78b98767615a76fa7c391ac187bbec68",
+      "provenance": "byte-identical CLEAN Disc 1 GRM01/Disc 2 GRM50 alias; reuses v1.0.0 GRM01 hard-sub"
+    },
+    {
+      "movie": "GRM51",
+      "cue_count": 20,
+      "source_srt": "data/disc2_movies/subtitles/GRM51_ko.srt",
+      "source_srt_sha256": "5c4e9aa51995b8c6ed5e10d9373b10989b016d2877819f27961ad8a0ae5d524c",
+      "source_mov_sha256": "50835404192d46f486d5fdf2eca84d7bdf91abb308c5b2b8d5c2ebbe5aa258a2",
+      "candidate_size": 103178240,
+      "candidate_sha256": "c976972956ae4f188766f4664917144b94bc6cfac63530587fe36beae1c352a2",
+      "audio_sha256": "fa7f9f8b80e6503e36082fc6f6baef79e9023d00c6a0ee796dc354c7563ac0a3",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM52",
+      "cue_count": 37,
+      "source_srt": "data/disc2_movies/subtitles/GRM52_ko.srt",
+      "source_srt_sha256": "6312a1a678538c94fbf365fad91117ed5bb338c519031982b097264c95062a21",
+      "source_mov_sha256": "cb93b804c30a0e448198d54b39e8ae62de535b17322d252d11565f02ad077361",
+      "candidate_size": 244117504,
+      "candidate_sha256": "d5780485c2cab0b0cbde726739de9a6d6ca142b372ed8dae629397dc9d2b2a69",
+      "audio_sha256": "3ab5024e73ac8c71a547e25645b6056926566d5fccf5f9af7be75aff15a90dc9",
+      "provenance": "rebuilt from CLEAN Disc 2 with reference-clock pipeline; restored three omitted cues at 173.900-189.740 seconds on 2026-09-08",
+      "candidate_path": "build/disc2-grm52-dialogue-fix-20260908/GRM52/GRM52_hardsub_referenceclock_candidate.MOV"
+    },
+    {
+      "movie": "GRM53",
+      "cue_count": 4,
+      "source_srt": "data/disc2_movies/subtitles/GRM53_ko.srt",
+      "source_srt_sha256": "815d869f6335108f074a84db622e7451d5fe6a0919647a00a9fae7c817e7c7b2",
+      "source_mov_sha256": "f2491ebc31529c38bf5b8dfb06f3fcf9e7ed55bfddcb61f06e09ce5862563f5c",
+      "candidate_size": 26390528,
+      "candidate_sha256": "664f760c1a1cf3dfa07f93af8a0ccc50c477d8b9740147e6e8adcedc3bc11a59",
+      "audio_sha256": "5c8e4bc9dbe580b16fecc2d0c9fa09b119b056dbbd8c71d3d8788acca7cf8354",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM54",
+      "cue_count": 11,
+      "source_srt": "data/disc2_movies/subtitles/GRM54_ko.srt",
+      "source_srt_sha256": "c303b44dd6a7226d5ec30d6b11a636684d1dd2303b4ad9af37e0582eb6b73b8d",
+      "source_mov_sha256": "2867c4d7654dad034b12a022c632823dd63c9504ef46eece19401a51755e5bef",
+      "candidate_size": 100753408,
+      "candidate_sha256": "93bb12cb350e66e3b6a6d71430880fb3e9c80bcb493a8117f3bebeba6b7e403a",
+      "audio_sha256": "910c8e1268bc63044443903078f02120046abf1ae8c692abef2a525e04eb87b8",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM55",
+      "cue_count": 6,
+      "source_srt": "data/disc2_movies/subtitles/GRM55_ko.srt",
+      "source_srt_sha256": "42d8e484eea8ae7de7549f64f5aea63e200c5cb095650b4baca0d2bc83babfa6",
+      "source_mov_sha256": "474a56454c11b8f7264864b7bf7c20c919096bbb3ae7132405fcae79c622e43c",
+      "candidate_size": 110313472,
+      "candidate_sha256": "c24ae6f1fdf7f41a8b09f3895b0184658ad2d0f887399f20af9920c1406e8df3",
+      "audio_sha256": "127d8388012f158fb85efaba42d684f91c5034b085a6b18406b04c2e1abcfe6c",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM56",
+      "cue_count": 11,
+      "source_srt": "data/disc2_movies/subtitles/GRM56_ko.srt",
+      "source_srt_sha256": "4d0719d4893a9a86108eeb3ba24969c41a24b5096a960a731dfb420e257103e1",
+      "source_mov_sha256": "1d91fc9c2b48e49ad417006b0ecf43d570eb1d01a8cbec5fcc2e31f4afda2295",
+      "candidate_size": 98435072,
+      "candidate_sha256": "2ff6dae9b506381fc9f80c8475f1b9711f568dfaf28b277a8c17dc3ed78214dc",
+      "audio_sha256": "b3fc2a897ddef468ab49196933c4dcd6d9cfe285c51d7884adb64d76f36a8cce",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM57",
+      "cue_count": 12,
+      "source_srt": "data/disc2_movies/subtitles/GRM57_ko.srt",
+      "source_srt_sha256": "1c85179fa03730a003cbff2a2eb80fa807b8751874d2ca50c3c48eb47f93370b",
+      "source_mov_sha256": "c7828a15ae1f5e7b9c5e22dd970f247e8f82a9df18d0004b52a07e3ed6277b26",
+      "candidate_size": 193028096,
+      "candidate_sha256": "81dbf91d6a7ad5bc5c9a4e8e059f8616b0905f56445c3e302343d52d12c84731",
+      "audio_sha256": "ce4744c627b05ffc0ac241c4c11c58097298ad93dc33a670c0194b3d47984e55",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM58",
+      "cue_count": 5,
+      "source_srt": "data/disc2_movies/subtitles/GRM58_ko.srt",
+      "source_srt_sha256": "476d5d03aa8600a810ed3986a650382428f1434ed4f86636720f768066cd056c",
+      "source_mov_sha256": "3b3c910ddcdca8e77aced57b4eb10d7e2145f97c40124b3da0a36fac7d19bb94",
+      "candidate_size": 61349888,
+      "candidate_sha256": "849ac6e2c697c406baf0dc6464a17c0cd29af9a4fa279e0eae5c62d73b9a848a",
+      "audio_sha256": "65fe5905aee793386d300c108dd09014e9dc41cea45d185ad4b5068b6cb47765",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM59",
+      "cue_count": 14,
+      "source_srt": "data/disc2_movies/subtitles/GRM59_ko.srt",
+      "source_srt_sha256": "f684778974ee4603d744aa8087dc3e8b3b60f409852472cd1c655ef01817fab3",
+      "source_mov_sha256": "5f33126518cd697deba803ce0db2a50ba1d4cb879a9c82e9926e982cf401d05b",
+      "candidate_size": 124620800,
+      "candidate_sha256": "2f7fece234bf33d6fe1a6b96c68a29ea5e0b081b96caf99d592dd05ec11a2c16",
+      "audio_sha256": "b9884be0c4f13afbc2e433cca035fb890412389ce7eb159d322cb10a5c36cb27",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM60",
+      "cue_count": 6,
+      "source_srt": "data/disc2_movies/subtitles/GRM60_ko.srt",
+      "source_srt_sha256": "f4761cde01c9adf4f50c616e6a335cb89e101e4075a1ecc0d6827c00622e7c3b",
+      "source_mov_sha256": "d919520ded2cbe493c8b528b681ee88de00af3891e04ffb4bdd91a3c280a787b",
+      "candidate_size": 32280576,
+      "candidate_sha256": "6c0ebdfaa1495a71adc62978e3281d8783e769a9595d9e4a4845c4e044dd03fa",
+      "audio_sha256": "5b84824960b104ff469b36a98dabdb533234e5cfd2246c835f7cb03e1a297d37",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM61",
+      "cue_count": 12,
+      "source_srt": "data/disc2_movies/subtitles/GRM61_ko.srt",
+      "source_srt_sha256": "7b7388ffa138cc4eee232ebd78c195f5590e76fdd4267a75ffa2848a44cb8d59",
+      "source_mov_sha256": "2dbad6979a292e94c44a128050b5a7b4fc8f4c14ec44e4e4ca68475feb3c57b2",
+      "candidate_size": 84021248,
+      "candidate_sha256": "4f367917e5d8522a5c974236e2ee070415c9025341fa63181e44bbed6ae5146e",
+      "audio_sha256": "f224367dd51256b297ddba13b229a64ad68a05f78b4846698cbf3cf8e1917a3e",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM62",
+      "cue_count": 10,
+      "source_srt": "data/disc2_movies/subtitles/GRM62_ko.srt",
+      "source_srt_sha256": "2efc4eb36b3e29da83c4d67e5c35bfa4d8983b763a349a0d97df938afc4d4d99",
+      "source_mov_sha256": "ec94bfc45a9c32ed6b81430235353d20cb662866a124c2f302368197b0d36a17",
+      "candidate_size": 64618496,
+      "candidate_sha256": "acf4256b96eef838dad2f0d182d73896fbf255b0d5c4c2f3bc3a04b244a8ebd3",
+      "audio_sha256": "e1d01925816318f283a8d03ab9b3a2c925ef9302b7ca3c7643abefecbf780760",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM63",
+      "cue_count": 9,
+      "source_srt": "data/disc2_movies/subtitles/GRM63_ko.srt",
+      "source_srt_sha256": "32223d9a1fd141d16e586c05ea7d8016505dcc65c7179c06d290d13cc39d5460",
+      "source_mov_sha256": "4fcc9b0ad885b485b93c761204f61d178b553d6e4f20d20f16ff117bfc0042c5",
+      "candidate_size": 105074688,
+      "candidate_sha256": "b87d2476d7e347d71bfcd0fc4305973f017dfd5812c8f4b373032d13dddaa029",
+      "audio_sha256": "27d16fa44c77119da79ae8b26290944feefc58565784abf2ceac89ea1ab08085",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM64",
+      "cue_count": 4,
+      "source_srt": "data/disc2_movies/subtitles/GRM64_ko.srt",
+      "source_srt_sha256": "a3d88c9418b9a3831ccaeef64c94520d7d64e7a7a111638da89fcd2a3434e4fe",
+      "source_mov_sha256": "c617796f9f4780e7f099f15ad4ba7636562e70890464e347873de83c9c8c6a0e",
+      "candidate_size": 25092096,
+      "candidate_sha256": "4ed007c63e19afba5478b1109dacd109240ada278da91d2a0563399286fb679d",
+      "audio_sha256": "9b6cc94f1c4ad0dc5bc2e77e151b9bf01ee27547aa2c80a170f9b8541b24a672",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM65",
+      "cue_count": 11,
+      "source_srt": "data/disc2_movies/subtitles/GRM65_ko.srt",
+      "source_srt_sha256": "112c939347f3915b9ea034035811c5df1323dec406f7d30fec563fb05b1f4d8d",
+      "source_mov_sha256": "6c94465b3312218ce049e1d56bbc70d47025c69df36118b6b994b3a233c4d129",
+      "candidate_size": 204275712,
+      "candidate_sha256": "835187b2d3a32a27b5369346f1ae5ba5cab093788c6bf1db4a7bfcb611442664",
+      "audio_sha256": "69d5e322e13ae932329b0b5f7e300bdeb0efd2ad33b4302639f2e1d7398cc708",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM66",
+      "cue_count": 8,
+      "source_srt": "data/disc2_movies/subtitles/GRM66_ko.srt",
+      "source_srt_sha256": "b241cebe9d3b002b7f68c98981b4bf48974da1bd559cde0e2e3e2b7b50a3379c",
+      "source_mov_sha256": "b53e627f33e846f7f1fac1433d47bd934872c32a54ae96202006cf034b9a0d38",
+      "candidate_size": 131584000,
+      "candidate_sha256": "8201a9100a14336af117e7f2b49da3e96a21f9214c1db2a352f48636b5789626",
+      "audio_sha256": "3b596110632d0cdd3d62a05dcf84a3d96f169d641d7b56d2986d27c834d1d690",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM67",
+      "cue_count": 19,
+      "source_srt": "data/disc2_movies/subtitles/GRM67_ko.srt",
+      "source_srt_sha256": "12c1396c755ddd0ed527e279729b9c119b8db57517cff2e4131a3465de55b57c",
+      "source_mov_sha256": "2654ecb43b989c4318ba28cd50ab6ef772a0b73c652ef0500a3e9d0b67a10137",
+      "candidate_size": 156626944,
+      "candidate_sha256": "509ba3dacd55d287347e0138654b2aefd8464a158086d00a98cd5d646c39d674",
+      "audio_sha256": "d7d89e7921ac55f8b2d186e1fe32788c41391f0a8db67f89230ec56a8f25f3c9",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM68",
+      "cue_count": 7,
+      "source_srt": "data/disc2_movies/subtitles/GRM68_ko.srt",
+      "source_srt_sha256": "798e9688c2a814d0a9bb4df9db649ce85bb767c0a9bc7045b9d015fb0d04149f",
+      "source_mov_sha256": "97b565b7cd8fc23ce6756e6e1e8127d1b80619c0a341d39419dd233eba921d8e",
+      "candidate_size": 186150912,
+      "candidate_sha256": "2ca9982f783a4e6181801b2ecdc23e443439e4b9ee828b1ebde9867c6efe4dbe",
+      "audio_sha256": "891ff42cb0d35f17a2f998a9131fcae87f77ff37f2370dc0872246035d4c65e4",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    },
+    {
+      "movie": "GRM69",
+      "cue_count": 14,
+      "source_srt": "data/disc2_movies/subtitles/GRM69_ko.srt",
+      "source_srt_sha256": "169e88caf4df6d749914499407acdf5661a57add6edfea6af3e608c6ff309996",
+      "source_mov_sha256": "a4deac3df2fa3e230b43f7ae3ce3f044e3d09cc44a3a6a26b394b514950b5657",
+      "candidate_size": 402030592,
+      "candidate_sha256": "1e9cc35615cddc5e3968a89b036e4628895d0751c6901cf2d421d66208755fbc",
+      "audio_sha256": "27b0c0f3ec4bc03889180f608b53657fb98f3abcc49ef54c54b4a56abd0ba5ea",
+      "provenance": "built from locked CLEAN Disc 2 with reference-clock pipeline"
+    }
+  ]
+}

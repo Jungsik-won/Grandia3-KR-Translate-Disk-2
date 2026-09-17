@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0079",
+  "stream_key": "0x79",
+  "sample_ids": [
+    "0x448",
+    "0x449"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0079.flac",
+  "audio_sha256": "53b227dba86b7e847e36964f487ab838819605dc0425d6ad499c4b56e7828e96",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:5/7"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "マダ! マダ! アークリフ、メンディア、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エ エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、 ヤベゾユキ、スコマエンじゃねぇ!アルビナー、ペオハナスんじゃないぞ!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アル アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "マダ!",
+      "avg_logprob": -1.7228,
+      "no_speech_prob": 0.0312,
+      "compression_ratio": 0.46667,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "マダ!",
+      "avg_logprob": -1.06573,
+      "no_speech_prob": 0.0081,
+      "compression_ratio": 0.46667,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 4.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "アークリフ、メンディア、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エ",
+      "avg_logprob": -0.10497,
+      "no_speech_prob": 0.05034,
+      "compression_ratio": 8.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.097",
+        "HIGH_COMPRESSION_RATIO:8.250"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 34.0,
+      "end": 64.0,
+      "speaker": "",
+      "text": "エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、",
+      "avg_logprob": -0.02886,
+      "no_speech_prob": 0.02116,
+      "compression_ratio": 11.44444,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.068",
+        "HIGH_COMPRESSION_RATIO:11.444"
+      ]
+    },
+    {
+      "segment_index": 4,
+      "start": 64.0,
+      "end": 94.0,
+      "speaker": "",
+      "text": "ヤベゾユキ、スコマエンじゃねぇ!アルビナー、ペオハナスんじゃないぞ!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アル",
+      "avg_logprob": -0.12943,
+      "no_speech_prob": 0.07979,
+      "compression_ratio": 6.45161,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.139",
+        "HIGH_COMPRESSION_RATIO:6.452"
+      ]
+    },
+    {
+      "segment_index": 5,
+      "start": 94.0,
+      "end": 124.0,
+      "speaker": "",
+      "text": "アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー",
+      "avg_logprob": -0.01044,
+      "no_speech_prob": 0.00068,
+      "compression_ratio": 18.46875,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.027",
+        "HIGH_COMPRESSION_RATIO:18.469"
+      ]
+    },
+    {
+      "segment_index": 6,
+      "start": 124.0,
+      "end": 143.36,
+      "speaker": "",
+      "text": "アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー!アルビナー",
+      "avg_logprob": -0.01044,
+      "no_speech_prob": 0.2248,
+      "compression_ratio": 18.46875,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.027",
+        "HIGH_COMPRESSION_RATIO:18.469"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

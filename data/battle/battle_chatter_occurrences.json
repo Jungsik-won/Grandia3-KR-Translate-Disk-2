@@ -1,0 +1,3008 @@
+{
+  "schema_version": 1,
+  "source": "/Users/j.swon/Desktop/Grandia3_KR/build/font-proof-free/roundtrip/GR3.MDT",
+  "source_sha256": "f475207c4be89c093a1fb0fd7d4f0b21b69befd8f8dda36e62a1e3e983009be1",
+  "table_offset": "0x21B00",
+  "pool_start": "0x21EF0",
+  "pool_end": "0x23E80",
+  "pointer_count": 252,
+  "empty_pointer_count": 21,
+  "message_occurrence_count": 231,
+  "unique_message_count": 226,
+  "occurrences": [
+    {
+      "pointer_index": 0,
+      "pointer_offset": 137984,
+      "relative_offset": 1008,
+      "offset": 138992,
+      "jp_raw_hex": "DF BC 57 20 66 75 74 8A 64 F1 9D 23 1F 00 16 00 03 00 80 46 F0 60 A1 1F 00 AF E4 EA BD ED 6A 78 62 9E 23",
+      "jp_text": "マズい　こっちへ来る！\n<NAME:0003>の動きを\nキャンセルしてくれ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 1,
+      "pointer_offset": 137988,
+      "relative_offset": 1270,
+      "offset": 139254,
+      "jp_raw_hex": "16 00 03 00 7D 1F 00 DE F0 A0 9E 78 9D 23 1F 00 E5 C5 80 46 F0 60 A1 23 F1 93 78 62 9E 23",
+      "jp_text": "<NAME:0003>に\n狙われてる！\nヤツの動きを止めてくれ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 2,
+      "pointer_offset": 137992,
+      "relative_offset": 1520,
+      "offset": 139504,
+      "jp_raw_hex": "16 00 03 00 80 36 F0 37 F0 81 1F 00 AC EE 5F 67 F0 60 97 F1 64 9D 23 1F 00 70 80 AA F2 7D 72 72 57 78 62 9E 23",
+      "jp_text": "<NAME:0003>の攻撃は\nオレが引き受ける！\nその間にたたいてくれ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 3,
+      "pointer_offset": 137996,
+      "relative_offset": 1045,
+      "offset": 139029,
+      "jp_raw_hex": "5D 29 F3 57 20 66 75 74 8A 64 F1 7C 57 79 23 1F 00 73 9E 5E 20 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 78 23",
+      "jp_text": "お願い　こっちへ来ないで！\nだれか　<NAME:0003>を\nキャンセルして！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 4,
+      "pointer_offset": 138000,
+      "relative_offset": 1302,
+      "offset": 139286,
+      "jp_raw_hex": "67 93 A2 7C 68 57 20 16 00 01 00 23 1F 00 16 00 03 00 80 1F 00 46 F0 60 A1 23 F1 93 78 75 23",
+      "jp_text": "ごめんなさい　<NAME:0001>！\n<NAME:0003>の\n動きを止めてっ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 5,
+      "pointer_offset": 138004,
+      "relative_offset": 1559,
+      "offset": 139543,
+      "jp_raw_hex": "5B 75 24 20 5B 75 24 1F 00 A0 72 6A 5F DE F0 A0 9E 78 9D 80 22",
+      "jp_text": "えっ？　えっ？\nわたしが狙われてるの？",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 6,
+      "pointer_offset": 138008,
+      "relative_offset": 1083,
+      "offset": 139067,
+      "jp_raw_hex": "96 54 7F 20 16 00 03 00 5F 1F 00 66 75 74 81 F0 78 9D 91 72 57 26 26 1F 00 75 78 A0 64 79 AF E4 EA BD ED 9A 9F 6A 62",
+      "jp_text": "やぁね　<NAME:0003>が\nこっち見てるみたい……\nってわけでキャンセルよろしく",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 7,
+      "pointer_offset": 138012,
+      "relative_offset": 1335,
+      "offset": 139319,
+      "jp_raw_hex": "94 58 20 66 75 74 94 5D F0 2D F0 74 F5 7C 80 7D 23 1F 00 AF E4 EA BD ED 90 5E 6E 72 A0 9A 23 1F 00 16 00 01 00 23",
+      "jp_text": "もぅ　こっちも手一杯なのに！\nキャンセルまかせたわよ！\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 8,
+      "pointer_offset": 138016,
+      "relative_offset": 1582,
+      "offset": 139566,
+      "jp_raw_hex": "74 99 75 7A 74 99 75 7A 23 1F 00 5E A2 F1 57 55 72 6A A1 81 F0 56 F0 78 9D 9B F0 22 1F 00 16 00 01 00 23",
+      "jp_text": "ちょっとちょっと！\nか弱いあたしを見捨てる気？\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 9,
+      "pointer_offset": 138020,
+      "relative_offset": 1124,
+      "offset": 139108,
+      "jp_raw_hex": "59 5C 23 20 16 00 03 00 7D 1F 00 DE F0 A0 9E 78 96 5F 9D 1F 00 AF E4 EA BD ED 62 F2 92 6F 23",
+      "jp_text": "うぉ！　<NAME:0003>に\n狙われてやがる\nキャンセル頼むぜ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 10,
+      "pointer_offset": 138024,
+      "relative_offset": 1375,
+      "offset": 139359,
+      "jp_raw_hex": "62 C4 20 40 F6 7A 6A 72 66 7A 5F 26 26 23 1F 00 BB DF EA 20 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 78 62 9E 23",
+      "jp_text": "くッ　俺としたことが……！\nスマン　<NAME:0003>を\nキャンセルしてくれ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 11,
+      "pointer_offset": 138028,
+      "relative_offset": 1619,
+      "offset": 139603,
+      "jp_raw_hex": "40 F6 80 66 7A 81 57 57 23 1F 00 5F F1 80 A0 F0 80 3A F0 7D D7 F2 BC F2 6A 9F C4 23",
+      "jp_text": "俺のことはいい！\n目の前の敵に集中しろッ！",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 12,
+      "pointer_offset": 138032,
+      "relative_offset": 1157,
+      "offset": 139141,
+      "jp_raw_hex": "C3 C4 20 AC A6 EB A1 DE F0 75 78 96 5F 9D 23 1F 00 AF E4 EA BD ED 62 F2 92 6F 23 1F 00 16 00 01 00 23",
+      "jp_text": "チッ　オイラを狙ってやがる！\nキャンセル頼むぜ！\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 13,
+      "pointer_offset": 138036,
+      "relative_offset": 1414,
+      "offset": 139398,
+      "jp_raw_hex": "16 00 03 00 80 E5 C5 7D 1F 00 DE F0 A0 9E 74 90 75 72 23 1F 00 59 F2 57 79 AF E4 EA BD ED 6A 78 62 9E 23",
+      "jp_text": "<NAME:0003>のヤツに\n狙われちまった！\n急いでキャンセルしてくれ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 14,
+      "pointer_offset": 138040,
+      "relative_offset": 1649,
+      "offset": 139633,
+      "jp_raw_hex": "A2 22 20 AC A6 EB 7A 96 9F 59 75 78 80 5E 1F 00 57 57 99 F1 57 F1 6B 95 7F 5A 5E 1F 00 16 00 03 00 23",
+      "jp_text": "ん？　オイラとやろうってのか\nいい度胸じゃねぇか\n<NAME:0003>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0003>"
+      ]
+    },
+    {
+      "pointer_index": 15,
+      "pointer_offset": 138044,
+      "relative_offset": 1193,
+      "offset": 139177,
+      "jp_raw_hex": "16 00 03 00 5E 9B 1F 00 35 F1 57 6D F4 9B F0 A1 7C F3 6B 9D A0 26 26 1F 00 73 9E 5E AF E4 EA BD ED A1 5D 29 F3 57 23",
+      "jp_text": "<NAME:0003>から\n強い邪気を感じるわ……\nだれかキャンセルをお願い！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 16,
+      "pointer_offset": 138048,
+      "relative_offset": 1451,
+      "offset": 139435,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 AF E4 EA BD ED 36 F0 37 F0 1F 00 55 7C 72 7D 5D 90 5E 6E 6C 9D A0 23",
+      "jp_text": "<NAME:0001>！\nキャンセル攻撃\nあなたにおまかせするわ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 17,
+      "pointer_offset": 138052,
+      "relative_offset": 1685,
+      "offset": 139669,
+      "jp_raw_hex": "55 55 20 E9 A8 C9 68 90 1F 00 58 F4 A1 5D 8D F1 9C 62 73 68 57 26 26 23",
+      "jp_text": "ああ　ヨウトさま\n私をお守りください……！",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 18,
+      "pointer_offset": 138056,
+      "relative_offset": 1234,
+      "offset": 139218,
+      "jp_raw_hex": "16 00 03 00 80 97 F5 C5 F0 81 1F 00 58 F4 80 9A 59 79 6C 1F 00 AF E4 EA BD ED A1 5D 29 F3 57 6A 90 6C",
+      "jp_text": "<NAME:0003>の標的は\n私のようです\nキャンセルをお願いします",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 19,
+      "pointer_offset": 138060,
+      "relative_offset": 1483,
+      "offset": 139467,
+      "jp_raw_hex": "79 60 9D 5E 61 9C 79 5E 90 57 90 6E A2 1F 00 16 00 03 00 80 1F 00 AF E4 EA BD ED A1 8D F3 BF F5 6A 90 6C",
+      "jp_text": "できるかぎりでかまいません\n<NAME:0003>の\nキャンセルを希望します",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 20,
+      "pointer_offset": 138064,
+      "relative_offset": 1711,
+      "offset": 139695,
+      "jp_raw_hex": "75 F1 B1 F3 5F 81 F1 A0 6A 62 55 9C 90 6E A2 1F 00 16 00 01 00 7D 1F 00 58 F4 80 58 F2 B7 F2 A1 3E F3 62 F2 6A 90 6C",
+      "jp_text": "状況が思わしくありません\n<NAME:0001>に\n私の救援を依頼します",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 21,
+      "pointer_offset": 138068,
+      "relative_offset": 1752,
+      "offset": 139736,
+      "jp_raw_hex": "62 C4 20 DF BC 57 26 26 23 1F 00 16 00 02 00 5F DE F0 A0 9E 78 9D 23",
+      "jp_text": "くッ　マズい……！\n<NAME:0002>が狙われてる！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 22,
+      "pointer_offset": 138072,
+      "relative_offset": 2010,
+      "offset": 139994,
+      "jp_raw_hex": "AF E4 EA BD ED 36 F0 37 F0 5F D0 F3 90 9E 82 1F 00 16 00 02 00 5F 89 F4 5E 9D 23 1F 00 D0 F3 93 78 62 9E 20 16 00 01 00 26 26 23",
+      "jp_text": "キャンセル攻撃が決まれば\n<NAME:0002>が助かる！\n決めてくれ　<NAME:0001>……！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 23,
+      "pointer_offset": 138076,
+      "relative_offset": 2276,
+      "offset": 140260,
+      "jp_raw_hex": "16 00 03 00 80 1F 00 46 F0 60 5F 7D 88 57 26 26 23 1F 00 57 90 73 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>の\n動きがにぶい……！\nいまだ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 24,
+      "pointer_offset": 138080,
+      "relative_offset": 1777,
+      "offset": 139761,
+      "jp_raw_hex": "57 90 16 00 02 00 A1 58 F2 5B 9D 80 81 1F 00 55 7C 72 73 64 26 26 1F 00 5F A2 82 75 78 20 16 00 01 00 23",
+      "jp_text": "いま<NAME:0002>を救えるのは\nあなただけ……\nがんばって　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 25,
+      "pointer_offset": 138084,
+      "relative_offset": 2055,
+      "offset": 140039,
+      "jp_raw_hex": "57 90 9A 20 16 00 01 00 23 1F 00 16 00 03 00 80 46 F0 60 A1 1F 00 AF E4 EA BD ED 6A 78 75 23",
+      "jp_text": "いまよ　<NAME:0001>！\n<NAME:0003>の動きを\nキャンセルしてっ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 26,
+      "pointer_offset": 138088,
+      "relative_offset": 2306,
+      "offset": 140290,
+      "jp_raw_hex": "16 00 02 00 5F D5 EA C3 7C 80 23 1F 00 89 F4 64 78 55 65 78 20 16 00 01 00 23",
+      "jp_text": "<NAME:0002>がピンチなの！\n助けてあげて　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 27,
+      "pointer_offset": 138092,
+      "relative_offset": 1814,
+      "offset": 139798,
+      "jp_raw_hex": "16 00 02 00 A1 D6 AB EF 27 6A 7C 57 7A 1F 00 DF BC 57 A0 7F 26 26 1F 00 57 75 74 95 5B 20 16 00 01 00 23",
+      "jp_text": "<NAME:0002>をフォローしないと\nマズいわね……\nいっちゃえ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 28,
+      "pointer_offset": 138096,
+      "relative_offset": 2088,
+      "offset": 140072,
+      "jp_raw_hex": "87 A2 82 9C 7B 66 9F 9A 20 16 00 01 00 1F 00 16 00 03 00 80 46 F0 60 A1 1F 00 23 F1 93 74 95 57 7C 68 57 23",
+      "jp_text": "ふんばりどころよ　<NAME:0001>\n<NAME:0003>の動きを\n止めちゃいなさい！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 29,
+      "pointer_offset": 138100,
+      "relative_offset": 2334,
+      "offset": 140318,
+      "jp_raw_hex": "16 00 03 00 75 72 9B 1F 00 3C F3 3C F1 B2 BC 7C 80 7F 5A 1F 00 AF E4 EA BD ED 79 60 74 95 57 70 59 9A 23",
+      "jp_text": "<NAME:0003>ったら\n案外グズなのねぇ\nキャンセルできちゃいそうよ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 30,
+      "pointer_offset": 138104,
+      "relative_offset": 1851,
+      "offset": 139835,
+      "jp_raw_hex": "DF BC 57 20 16 00 02 00 A1 B7 F2 DD F1 73 23 1F 00 AF E4 EA BD ED 36 F0 37 F0 A1 88 74 66 93 23 1F 00 16 00 01 00 23",
+      "jp_text": "マズい　<NAME:0002>を援護だ！\nキャンセル攻撃をぶちこめ！\n<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 31,
+      "pointer_offset": 138108,
+      "relative_offset": 2126,
+      "offset": 140110,
+      "jp_raw_hex": "16 00 02 00 A1 89 F4 64 9B 9E A2 80 81 1F 00 5D 90 5B 73 64 73 23 1F 00 9B F0 83 F1 57 60 F0 9E 78 64 20 16 00 01 00 23",
+      "jp_text": "<NAME:0002>を助けられんのは\nおまえだけだ！\n気合い入れてけ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 32,
+      "pointer_offset": 138112,
+      "relative_offset": 2371,
+      "offset": 140355,
+      "jp_raw_hex": "16 00 02 00 5F 55 88 7F 5A 23 1F 00 16 00 03 00 A1 1F 00 7C 7D 5F 7C A2 79 94 23 F1 93 9D A2 73 C4 23",
+      "jp_text": "<NAME:0002>があぶねぇ！\n<NAME:0003>を\nなにがなんでも止めるんだッ！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 33,
+      "pointer_offset": 138116,
+      "relative_offset": 1892,
+      "offset": 139876,
+      "jp_raw_hex": "16 00 02 00 5F 1F 00 E5 D1 57 A2 6B 95 7F 5A 5E 24 1F 00 89 F4 64 78 96 9E 9A 20 16 00 01 00 23",
+      "jp_text": "<NAME:0002>が\nヤバいんじゃねぇか？\n助けてやれよ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 34,
+      "pointer_offset": 138120,
+      "relative_offset": 2168,
+      "offset": 140152,
+      "jp_raw_hex": "AC A6 EB 6B 95 AA F2 7D 83 F1 A0 7C 57 23 1F 00 16 00 03 00 81 62 F2 A2 73 6F 1F 00 16 00 01 00 23",
+      "jp_text": "オイラじゃ間に合わない！\n<NAME:0003>は頼んだぜ\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 35,
+      "pointer_offset": 138124,
+      "relative_offset": 2407,
+      "offset": 140391,
+      "jp_raw_hex": "16 00 03 00 80 E5 C5 1F 00 78 A2 79 C9 EF 57 A2 79 96 A2 80 23 1F 00 AF E4 EA BD ED 6A 78 96 A2 7C 23",
+      "jp_text": "<NAME:0003>のヤツ\nてんでトロいんでやんの！\nキャンセルしてやんな！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 36,
+      "pointer_offset": 138128,
+      "relative_offset": 1926,
+      "offset": 139910,
+      "jp_raw_hex": "57 90 89 F4 64 7C 57 7A 1F 00 16 00 02 00 5F 8C F3 4D F1 73 A0 23 1F 00 AF E4 EA BD ED 6A 78 55 65 78 23",
+      "jp_text": "いま助けないと\n<NAME:0002>が危険だわ！\nキャンセルしてあげて！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 37,
+      "pointer_offset": 138132,
+      "relative_offset": 2203,
+      "offset": 140187,
+      "jp_raw_hex": "16 00 02 00 5F 89 F4 5E 9D 5E 7B 59 5E 1F 00 55 7C 72 ED F1 30 F3 9A 1F 00 16 00 01 00 23",
+      "jp_text": "<NAME:0002>が助かるかどうか\nあなた次第よ\n<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 38,
+      "pointer_offset": 138136,
+      "relative_offset": 2443,
+      "offset": 140427,
+      "jp_raw_hex": "16 00 03 00 80 46 F0 60 7C 9B 1F 00 AF E4 EA BD ED 79 60 70 59 9A 1F 00 D7 F0 74 76 57 78 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>の動きなら\nキャンセルできそうよ\n落ちついて　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 39,
+      "pointer_offset": 138140,
+      "relative_offset": 1963,
+      "offset": 139947,
+      "jp_raw_hex": "16 00 02 00 A1 B7 F2 DD F1 6A 7C 57 7A 1F 00 8C F3 8F F3 C5 F0 75 F1 B1 F3 7D 5D 74 57 9D 66 7A 5F 1F 00 E4 F5 D1 F4 68 9E 90 6C 26 26",
+      "jp_text": "<NAME:0002>を援護しないと\n危機的状況におちいることが\n予想されます……",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 40,
+      "pointer_offset": 138144,
+      "relative_offset": 2235,
+      "offset": 140219,
+      "jp_raw_hex": "16 00 01 00 73 64 5F 1F 00 66 80 75 F1 B1 F3 A1 C7 F0 74 21 F2 9E 90 6C 1F 00 7B 59 5E 16 00 02 00 80 58 F2 68 F0 A1",
+      "jp_text": "<NAME:0001>だけが\nこの状況を打ち破れます\nどうか<NAME:0002>の救出を",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 41,
+      "pointer_offset": 138148,
+      "relative_offset": 2481,
+      "offset": 140465,
+      "jp_raw_hex": "16 00 02 00 5F 1F 00 8C F3 4D F1 7C 75 F1 76 F1 7D 55 9C 90 6C 1F 00 AF E4 EA BD ED 7D D7 F2 BC F2 6A 90 6A 99 59",
+      "jp_text": "<NAME:0002>が\n危険な状態にあります\nキャンセルに集中しましょう",
+      "control_codes": [
+        "<NAME:0002>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 42,
+      "pointer_offset": 138152,
+      "relative_offset": 2521,
+      "offset": 140505,
+      "jp_raw_hex": "16 00 03 00 5E 9B 1F 00 A6 E5 7C 9B F0 5C F0 A1 7C F3 6B 9D 26 26 23 1F 00 91 A2 7C 9B F0 A1 DF F2 62 7C 23",
+      "jp_text": "<NAME:0003>から\nイヤな気配を感じる……！\nみんな気を抜くな！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 43,
+      "pointer_offset": 138156,
+      "relative_offset": 2766,
+      "offset": 140750,
+      "jp_raw_hex": "57 90 7C 9B 20 AF E4 EA BD ED 5F 1F 00 AA F2 7D 83 F1 57 70 59 73 23 1F 00 57 64 75 20 16 00 01 00 23",
+      "jp_text": "いまなら　キャンセルが\n間に合いそうだ！\nいけっ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 44,
+      "pointer_offset": 138160,
+      "relative_offset": 3004,
+      "offset": 140988,
+      "jp_raw_hex": "59 75 20 66 9E 81 22 1F 00 16 00 03 00 80 36 F0 37 F0 A1 1F 00 AF E4 EA BD ED 6A 7C 57 7A 23",
+      "jp_text": "うっ　これは？\n<NAME:0003>の攻撃を\nキャンセルしないと！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 45,
+      "pointer_offset": 138164,
+      "relative_offset": 2559,
+      "offset": 140543,
+      "jp_raw_hex": "16 00 03 00 5F 1F 00 DE F0 75 78 57 9D 80 81 26 26 1F 00 16 00 01 00 22",
+      "jp_text": "<NAME:0003>が\n狙っているのは……\n<NAME:0001>？",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 46,
+      "pointer_offset": 138168,
+      "relative_offset": 2802,
+      "offset": 140786,
+      "jp_raw_hex": "AF E4 EA BD ED 5F AA F2 7D 83 F1 57 70 59 26 26 1F 00 5F A2 82 75 78 20 16 00 01 00 23",
+      "jp_text": "キャンセルが間に合いそう……\nがんばって　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 47,
+      "pointer_offset": 138172,
+      "relative_offset": 3037,
+      "offset": 141021,
+      "jp_raw_hex": "16 00 03 00 5F 1F 00 7C 7D 5E 6A 9A 59 7A 6A 78 9D 23 1F 00 59 F2 57 79 AF E4 EA BD ED 6A 78 75 23",
+      "jp_text": "<NAME:0003>が\nなにかしようとしてる！\n急いでキャンセルしてっ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 48,
+      "pointer_offset": 138176,
+      "relative_offset": 2585,
+      "offset": 140569,
+      "jp_raw_hex": "75 72 62 20 80 A2 9B F0 7C 8B F3 6A 78 26 26 1F 00 DE F0 A0 9E 78 A2 80 81 55 A2 72 9A 1F 00 16 00 01 00",
+      "jp_text": "ったく　のん気な顔して……\n狙われてんのはあんたよ\n<NAME:0001>",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 49,
+      "pointer_offset": 138180,
+      "relative_offset": 2833,
+      "offset": 140817,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 57 90 7C 9B AF E4 EA BD ED 5F 1F 00 CA EA D5 B9 E4 79 D0 F3 90 9D A0 23",
+      "jp_text": "<NAME:0001>！\nいまならキャンセルが\nドンピシャで決まるわ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 50,
+      "pointer_offset": 138184,
+      "relative_offset": 3072,
+      "offset": 141056,
+      "jp_raw_hex": "16 00 03 00 A1 1F 00 6A 75 5E 9C AF E4 EA BD ED 7C 68 57 23 1F 00 96 9B 9E 72 62 7C 60 95 7F 23",
+      "jp_text": "<NAME:0003>を\nしっかりキャンセルなさい！\nやられたくなきゃね！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 51,
+      "pointer_offset": 138188,
+      "relative_offset": 2622,
+      "offset": 140606,
+      "jp_raw_hex": "5D 57 20 16 00 01 00 23 1F 00 16 00 03 00 5E 9B 1F 00 5F F1 5A 76 64 9B 9E 78 9D 91 72 57 73 6F 23",
+      "jp_text": "おい　<NAME:0001>！\n<NAME:0003>から\n目ぇつけられてるみたいだぜ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 52,
+      "pointer_offset": 138192,
+      "relative_offset": 2866,
+      "offset": 140850,
+      "jp_raw_hex": "D7 F0 74 76 64 20 16 00 01 00 23 1F 00 9A 5C 62 81 F0 78 9C 95 1F 00 74 F3 4F F2 7D AF E4 EA BD ED 79 60 9D 23",
+      "jp_text": "落ちつけ　<NAME:0001>！\nよぉく見てりゃ\n確実にキャンセルできる！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 53,
+      "pointer_offset": 138196,
+      "relative_offset": 3106,
+      "offset": 141090,
+      "jp_raw_hex": "7E 5C 5C 20 CD F0 7E 9A 9C 95 DF B9 73 23 1F 00 16 00 03 00 A1 1F 00 A6 C3 5E D1 C3 5E AF E4 EA BD ED 6A 9F 23",
+      "jp_text": "ぬぉぉ　死ぬよりゃマシだ！\n<NAME:0003>を\nイチかバチかキャンセルしろ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 54,
+      "pointer_offset": 138200,
+      "relative_offset": 2657,
+      "offset": 140641,
+      "jp_raw_hex": "16 00 03 00 5E 9B 1F 00 E5 D1 57 7D 5D 57 A1 7C F3 6B 9D 71 23 1F 00 DA F5 26 F5 6C A2 7C 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>から\nヤバいにおいを感じるぞ！\n油断すんな　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 55,
+      "pointer_offset": 138204,
+      "relative_offset": 2905,
+      "offset": 140889,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 5D 90 5B 7C 9B AA F2 7D 83 F1 59 23 1F 00 E5 C5 A1 AF E4 EA BD ED 6A 74 90 5B 23",
+      "jp_text": "<NAME:0001>！\nおまえなら間に合う！\nヤツをキャンセルしちまえ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 56,
+      "pointer_offset": 138208,
+      "relative_offset": 3145,
+      "offset": 141129,
+      "jp_raw_hex": "16 00 03 00 A1 1F 00 AF E4 EA BD ED 73 23 20 79 7C 60 95 1F 00 B9 D4 9E 9D 8D 7B D5 EA C3 7D 7C 9D 6F 23",
+      "jp_text": "<NAME:0003>を\nキャンセルだ！　でなきゃ\nシビれるほどピンチになるぜ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 57,
+      "pointer_offset": 138212,
+      "relative_offset": 2695,
+      "offset": 140679,
+      "jp_raw_hex": "9A 70 81 F0 6A 7C 57 79 20 16 00 01 00 23 1F 00 55 7C 72 5F DE F0 A0 9E 78 9D 80 9A 23",
+      "jp_text": "よそ見しないで　<NAME:0001>！\nあなたが狙われてるのよ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 58,
+      "pointer_offset": 138216,
+      "relative_offset": 2941,
+      "offset": 140925,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 57 90 5F C3 E4 EA BB 9A 1F 00 AF E4 EA BD ED 6A 78 23",
+      "jp_text": "<NAME:0001>！\nいまがチャンスよ\nキャンセルして！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 59,
+      "pointer_offset": 138220,
+      "relative_offset": 3182,
+      "offset": 141166,
+      "jp_raw_hex": "16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 7C 57 7A 1F 00 80 F1 33 F8 7C CA F5 64 F1 5F E4 F4 75 78 9D A0 26 26",
+      "jp_text": "<NAME:0003>を\nキャンセルしないと\n不吉な未来が待ってるわ……",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 60,
+      "pointer_offset": 138224,
+      "relative_offset": 2726,
+      "offset": 140710,
+      "jp_raw_hex": "16 00 03 00 5F 1F 00 55 7C 72 A1 DE F0 75 78 57 9D 26 26 1F 00 8C F3 8F F3 3F F0 34 F3 80 72 93 80 22 F1 46 F0 A1",
+      "jp_text": "<NAME:0003>が\nあなたを狙っている……\n危機回避のための行動を",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 61,
+      "pointer_offset": 138228,
+      "relative_offset": 2968,
+      "offset": 140952,
+      "jp_raw_hex": "AF E4 EA BD ED 79 23 F1 93 9E 82 1F 00 9F F5 62 55 9C 90 6E A2 1F 00 D7 F0 74 76 57 78 20 16 00 01 00",
+      "jp_text": "キャンセルで止めれば\n怖くありません\n落ちついて　<NAME:0001>",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 62,
+      "pointer_offset": 138232,
+      "relative_offset": 3220,
+      "offset": 141204,
+      "jp_raw_hex": "16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 7C 57 7A 1F 00 58 F4 72 74 80 8D F3 BF F5 81 BC F1 72 9E 90 6C 26 26",
+      "jp_text": "<NAME:0003>を\nキャンセルしないと\n私たちの希望は絶たれます……",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 63,
+      "pointer_offset": 138236,
+      "relative_offset": 3258,
+      "offset": 141242,
+      "jp_raw_hex": "16 00 04 00 5F 64 F1 9D 23 1F 00 23 F1 93 9B 9E 9D 5E 20 16 00 01 00 22",
+      "jp_text": "<NAME:0004>が来る！\n止められるか　<NAME:0001>？",
+      "control_codes": [
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 64,
+      "pointer_offset": 138240,
+      "relative_offset": 3504,
+      "offset": 141488,
+      "jp_raw_hex": "16 00 03 00 5F 1F 00 4A F0 4B F0 A1 54 F0 75 78 60 70 59 73 23 1F 00 9B F0 A1 76 64 9F 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>が\n魔法を使ってきそうだ！\n気をつけろ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 65,
+      "pointer_offset": 138244,
+      "relative_offset": 3765,
+      "offset": 141749,
+      "jp_raw_hex": "57 62 A2 73 20 16 00 01 00 23 1F 00 16 00 04 00 5F 1F 00 64 F1 9D A0 F0 7D BF F0 62 23",
+      "jp_text": "いくんだ　<NAME:0001>！\n<NAME:0004>が\n来る前に早く！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0004>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 66,
+      "pointer_offset": 138248,
+      "relative_offset": 3284,
+      "offset": 141268,
+      "jp_raw_hex": "81 F0 78 20 55 80 46 F0 60 23 1F 00 16 00 03 00 5F 1F 00 4A F0 4B F0 A1 54 F0 5D 59 7A 6A 78 9D A0 23",
+      "jp_text": "見て　あの動き！\n<NAME:0003>が\n魔法を使おうとしてるわ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 67,
+      "pointer_offset": 138252,
+      "relative_offset": 3541,
+      "offset": 141525,
+      "jp_raw_hex": "16 00 03 00 7D 1F 00 4A F0 4B F0 79 DE F0 A0 9E 78 9D A0 23 1F 00 DA F5 26 F5 6A 7C 57 79 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>に\n魔法で狙われてるわ！\n油断しないで　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 68,
+      "pointer_offset": 138256,
+      "relative_offset": 3796,
+      "offset": 141780,
+      "jp_raw_hex": "16 00 04 00 22 1F 00 70 A2 7C 8C F3 4D F1 7C 4A F0 4B F0 A1 1F 00 54 F0 59 9B F0 7C 80 22",
+      "jp_text": "<NAME:0004>？\nそんな危険な魔法を\n使う気なの？",
+      "control_codes": [
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 69,
+      "pointer_offset": 138260,
+      "relative_offset": 3320,
+      "offset": 141304,
+      "jp_raw_hex": "7C A2 5E E5 D1 57 66 7A 24 F4 5B 78 9D A0 9A 1F 00 16 00 03 00 5E 9B 1F 00 5F F1 A1 44 F1 6A 74 95 C2 E2 23",
+      "jp_text": "なんかヤバいこと考えてるわよ\n<NAME:0003>から\n目を離しちゃダメ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 70,
+      "pointer_offset": 138264,
+      "relative_offset": 3579,
+      "offset": 141563,
+      "jp_raw_hex": "DE F0 A0 9E 78 9D A0 9A 20 55 A2 72 23 1F 00 68 75 68 7A 16 00 03 00 A1 1F 00 72 72 57 74 95 57 7C 68 57 23",
+      "jp_text": "狙われてるわよ　あんた！\nさっさと<NAME:0003>を\nたたいちゃいなさい！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 71,
+      "pointer_offset": 138268,
+      "relative_offset": 3828,
+      "offset": 141812,
+      "jp_raw_hex": "16 00 04 00 5F 64 F1 9D A0 23 1F 00 3E F5 57 80 94 9B 75 74 95 59 A0 F0 7D 1F 00 AF E4 EA BD ED 6A 78 96 A2 7C 68 57 23",
+      "jp_text": "<NAME:0004>が来るわ！\n痛いのもらっちゃう前に\nキャンセルしてやんなさい！",
+      "control_codes": [
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 72,
+      "pointer_offset": 138272,
+      "relative_offset": 3358,
+      "offset": 141342,
+      "jp_raw_hex": "5D 57 20 DD E5 DD E5 6A 78 75 7A 1F 00 16 00 03 00 7D 1F 00 4A F0 4B F0 A1 54 F0 A0 9E 74 90 59 71 23",
+      "jp_text": "おい　ボヤボヤしてっと\n<NAME:0003>に\n魔法を使われちまうぞ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 73,
+      "pointer_offset": 138276,
+      "relative_offset": 3617,
+      "offset": 141601,
+      "jp_raw_hex": "16 00 03 00 80 D7 F5 3B F6 1F 00 16 00 04 00 A1 1F 00 88 74 5E 90 6A 78 60 96 5F 9D 9B F0 73 6F 23",
+      "jp_text": "<NAME:0003>の野郎\n<NAME:0004>を\nぶちかましてきやがる気だぜ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0004>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 74,
+      "pointer_offset": 138280,
+      "relative_offset": 3870,
+      "offset": 141854,
+      "jp_raw_hex": "96 9B 9E 9D A0 F0 7D 96 9E 73 23 1F 00 16 00 04 00 A1 1F 00 23 F1 93 74 90 57 7C 20 16 00 01 00 23",
+      "jp_text": "やられる前にやれだ！\n<NAME:0004>を\n止めちまいな　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 75,
+      "pointer_offset": 138284,
+      "relative_offset": 3394,
+      "offset": 141378,
+      "jp_raw_hex": "DD B3 C4 7A 6A 78 A2 6B 95 7F 5A 23 1F 00 16 00 03 00 A1 81 F0 9F 23 1F 00 7C A2 5E E5 D1 57 66 7A 6A 78 62 9D 71 23",
+      "jp_text": "ボケッとしてんじゃねぇ！\n<NAME:0003>を見ろ！\nなんかヤバいことしてくるぞ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 76,
+      "pointer_offset": 138288,
+      "relative_offset": 3652,
+      "offset": 141636,
+      "jp_raw_hex": "16 00 03 00 80 E5 C5 1F 00 4A F0 4B F0 A1 54 F0 57 96 5F 9D 9B F0 73 23 1F 00 DE F0 A0 9E 78 9D 71 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>のヤツ\n魔法を使いやがる気だ！\n狙われてるぞ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 77,
+      "pointer_offset": 138292,
+      "relative_offset": 3905,
+      "offset": 141889,
+      "jp_raw_hex": "D9 C4 23 1F 00 16 00 04 00 5F 7C A2 73 23 1F 00 23 F1 93 74 90 5B 20 16 00 01 00 23",
+      "jp_text": "ヘッ！\n<NAME:0004>がなんだ！\n止めちまえ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 78,
+      "pointer_offset": 138296,
+      "relative_offset": 3435,
+      "offset": 141419,
+      "jp_raw_hex": "16 00 03 00 5E 9B 1F 00 80 F1 A0 F6 7C 9B F0 5C F0 A1 7C F3 6B 9D A0 23 1F 00 7C 7D 5E 6A 5E 64 78 62 9D 26 26 23",
+      "jp_text": "<NAME:0003>から\n不穏な気配を感じるわ！\nなにかしかけてくる……！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 79,
+      "pointer_offset": 138300,
+      "relative_offset": 3693,
+      "offset": 141677,
+      "jp_raw_hex": "16 00 04 00 5F 64 F1 9D A0 7F 1F 00 16 00 03 00 A1 1F 00 23 F1 93 7C 64 9E 82 26 26 23",
+      "jp_text": "<NAME:0004>が来るわね\n<NAME:0003>を\n止めなければ……！",
+      "control_codes": [
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 80,
+      "pointer_offset": 138304,
+      "relative_offset": 3935,
+      "offset": 141919,
+      "jp_raw_hex": "55 7C 72 7C 9B AA F2 7D 83 F1 59 79 6A 99 23 1F 00 16 00 03 00 A1 23 F1 93 78 23 1F 00 16 00 01 00 23",
+      "jp_text": "あなたなら間に合うでしょ！\n<NAME:0003>を止めて！\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 81,
+      "pointer_offset": 138308,
+      "relative_offset": 3475,
+      "offset": 141459,
+      "jp_raw_hex": "16 00 03 00 80 1F 00 55 80 46 F0 60 81 26 26 1F 00 16 00 04 00 80 2A F3 5A F0 22",
+      "jp_text": "<NAME:0003>の\nあの動きは……\n<NAME:0004>の準備？",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0004>"
+      ]
+    },
+    {
+      "pointer_index": 82,
+      "pointer_offset": 138312,
+      "relative_offset": 3724,
+      "offset": 141708,
+      "jp_raw_hex": "E9 F1 2A F4 6A 90 6C 1F 00 55 7C 72 81 16 00 03 00 80 1F 00 36 F0 37 F0 DD F0 99 F4 7D DE F1 B2 F1 68 9E 78 57 90 6C",
+      "jp_text": "警告します\nあなたは<NAME:0003>の\n攻撃対象に指定されています",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 83,
+      "pointer_offset": 138316,
+      "relative_offset": 3971,
+      "offset": 141955,
+      "jp_raw_hex": "66 66 81 16 00 04 00 A1 1F 00 23 F1 93 9D 80 5F 1F 00 34 F1 51 F1 80 73 F0 74 F0 73 7A 81 F1 57 90 6C",
+      "jp_text": "ここは<NAME:0004>を\n止めるのが\n最良の選択だと思います",
+      "control_codes": [
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 84,
+      "pointer_offset": 138320,
+      "relative_offset": 4007,
+      "offset": 141991,
+      "jp_raw_hex": "A4 A6 C5 26 26 1F 00 7C A2 5E 6A 5E 64 78 62 9D 7C 22",
+      "jp_text": "アイツ……\nなんかしかけてくるな？",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 85,
+      "pointer_offset": 138324,
+      "relative_offset": 4250,
+      "offset": 142234,
+      "jp_raw_hex": "BB AF 73 9B 64 73 23 1F 00 AF E4 EA BD ED 6C 9D 7C 9B 57 90 73 23 1F 00 57 64 75 20 16 00 01 00 23",
+      "jp_text": "スキだらけだ！\nキャンセルするならいまだ！\nいけっ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 86,
+      "pointer_offset": 138328,
+      "relative_offset": 4486,
+      "offset": 142470,
+      "jp_raw_hex": "16 00 04 00 81 1F 00 23 F1 93 7C 60 95 DF BC 57 23 1F 00 90 5E 6E 72 20 16 00 01 00 23",
+      "jp_text": "<NAME:0004>は\n止めなきゃマズい！\nまかせた　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0004>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 87,
+      "pointer_offset": 138332,
+      "relative_offset": 4027,
+      "offset": 142011,
+      "jp_raw_hex": "74 99 75 7A E4 F4 75 78 23 1F 00 16 00 03 00 80 5E 90 5B 1F 00 9B F0 7D 7C 9B 7C 57 22",
+      "jp_text": "ちょっと待って！\n<NAME:0003>のかまえ\n気にならない？",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 88,
+      "pointer_offset": 138336,
+      "relative_offset": 4285,
+      "offset": 142269,
+      "jp_raw_hex": "AF E4 EA BD ED 80 C3 E4 EA BB 9A 23 1F 00 5F A2 82 75 78 20 16 00 01 00 23",
+      "jp_text": "キャンセルのチャンスよ！\nがんばって　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 89,
+      "pointer_offset": 138340,
+      "relative_offset": 4517,
+      "offset": 142501,
+      "jp_raw_hex": "57 90 81 AF E4 EA BD ED 6A 5E 7C 57 A0 23 1F 00 70 59 81 F1 59 79 6A 99 1F 00 16 00 01 00 94 24",
+      "jp_text": "いまはキャンセルしかないわ！\nそう思うでしょ\n<NAME:0001>も？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 90,
+      "pointer_offset": 138344,
+      "relative_offset": 4058,
+      "offset": 142042,
+      "jp_raw_hex": "A1 F1 3B F1 9B F0 7D 4E F0 A1 54 F0 75 78 62 9D 9B F0 7F 1F 00 5D 94 6A 9F 57 6B 95 7C 57 1F 00 68 75 68 7A 5E 5E 75 78 9B 75 6A 95 57 23",
+      "jp_text": "生意気に技を使ってくる気ね\nおもしろいじゃない\nさっさとかかってらっしゃい！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 91,
+      "pointer_offset": 138348,
+      "relative_offset": 4312,
+      "offset": 142296,
+      "jp_raw_hex": "81 F0 78 9A 20 55 80 39 F1 1F 00 AF E4 EA BD ED 6A 78 EE F5 6A 70 59 7C 1F 00 8B F3 6A 78 9D 7A 81 F1 A0 7C 57 24",
+      "jp_text": "見てよ　あの子\nキャンセルして欲しそうな\n顔してると思わない？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 92,
+      "pointer_offset": 138352,
+      "relative_offset": 4551,
+      "offset": 142535,
+      "jp_raw_hex": "90 20 66 80 3C F4 1F 00 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6C 9D 6A 5E 7C 57 75 6A 99",
+      "jp_text": "ま　この際\n<NAME:0003>を\nキャンセルするしかないっしょ",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 93,
+      "pointer_offset": 138356,
+      "relative_offset": 4106,
+      "offset": 142090,
+      "jp_raw_hex": "16 00 03 00 93 1F 00 55 9C 95 4E F0 A1 54 F0 59 76 94 9C 73 7C 1F 00 90 74 5F 57 7C 57 23",
+      "jp_text": "<NAME:0003>め\nありゃ技を使うつもりだな\nまちがいない！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 94,
+      "pointer_offset": 138360,
+      "relative_offset": 4352,
+      "offset": 142336,
+      "jp_raw_hex": "83 F5 37 F0 80 C3 E4 EA BB 73 23 1F 00 D7 F0 74 76 57 78 57 64 23 1F 00 16 00 01 00 23",
+      "jp_text": "反撃のチャンスだ！\n落ちついていけ！\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 95,
+      "pointer_offset": 138364,
+      "relative_offset": 4582,
+      "offset": 142566,
+      "jp_raw_hex": "40 F6 80 AD EA 6B 95 1F 00 66 66 81 AF E4 EA BD ED 6A 5E 7F 5A 23 1F 00 61 F2 6B 9F 20 16 00 01 00 23",
+      "jp_text": "俺のカンじゃ\nここはキャンセルしかねぇ！\n信じろ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 96,
+      "pointer_offset": 138368,
+      "relative_offset": 4138,
+      "offset": 142122,
+      "jp_raw_hex": "55 A2 7D 95 9F 1F 00 57 75 74 99 90 5B 7D 4E F0 7C A2 5E 1F 00 54 F0 75 78 60 96 5F 9D 9B F0 5E 22",
+      "jp_text": "あんにゃろ\nいっちょまえに技なんか\n使ってきやがる気か？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 97,
+      "pointer_offset": 138372,
+      "relative_offset": 4383,
+      "offset": 142367,
+      "jp_raw_hex": "9A 75 6A 95 23 1F 00 D0 F3 93 A2 7C 9B 20 57 90 6A 5E 7F 5A 23 1F 00 96 75 74 90 5B 20 16 00 01 00 23",
+      "jp_text": "よっしゃ！\n決めんなら　いましかねぇ！\nやっちまえ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 98,
+      "pointer_offset": 138376,
+      "relative_offset": 4618,
+      "offset": 142602,
+      "jp_raw_hex": "E5 D1 57 75 78 A4 A6 C5 23 1F 00 AF E4 EA BD ED 79 23 F1 93 7A 57 72 3C F0 5F 1F 00 57 57 A2 6B 95 7F 5A 5E 22",
+      "jp_text": "ヤバいってアイツ！\nキャンセルで止めといた方が\nいいんじゃねぇか？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 99,
+      "pointer_offset": 138380,
+      "relative_offset": 4173,
+      "offset": 142157,
+      "jp_raw_hex": "16 00 03 00 80 1F 00 46 F0 60 7D C4 F2 3B F1 7C 68 57 23 1F 00 AD 27 CA 5F 58 F4 7D 2A F4 65 78 57 9D 26 26",
+      "jp_text": "<NAME:0003>の\n動きに注意なさい！\nカードが私に告げている……",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 100,
+      "pointer_offset": 138384,
+      "relative_offset": 4419,
+      "offset": 142403,
+      "jp_raw_hex": "57 90 81 55 7C 72 5F 1F 00 AF E4 EA BD ED 6C 8B 60 9A 1F 00 AD 27 CA 94 70 59 2A F4 65 78 57 9D 94 80",
+      "jp_text": "いまはあなたが\nキャンセルすべきよ\nカードもそう告げているもの",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 101,
+      "pointer_offset": 138388,
+      "relative_offset": 4657,
+      "offset": 142641,
+      "jp_raw_hex": "AF E4 EA BD ED 73 64 5F 1F 00 57 90 55 7C 72 80 7A 9D 8B 60 57 F0 1F 00 AD 27 CA 94 70 59 2A F4 65 78 57 9D A0 26 26",
+      "jp_text": "キャンセルだけが\nいまあなたのとるべき道\nカードもそう告げているわ……",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 102,
+      "pointer_offset": 138392,
+      "relative_offset": 4211,
+      "offset": 142195,
+      "jp_raw_hex": "16 00 03 00 5E 9B 1F 00 7C 7D 5E A1 7C F3 6B 90 6C 1F 00 3A F0 3B F1 20 D0 F2 9C 20 70 9E 7D 50 F7 C1 F0 26 26",
+      "jp_text": "<NAME:0003>から\nなにかを感じます\n敵意　怒り　それに憎悪……",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 103,
+      "pointer_offset": 138396,
+      "relative_offset": 4455,
+      "offset": 142439,
+      "jp_raw_hex": "57 90 7C 9B 3A F0 A1 2B F9 70 F3 79 60 90 6C 1F 00 68 54 20 26 F1 96 5E 7D 16 00 01 00",
+      "jp_text": "いまなら敵を妨害できます\nさぁ　速やかに<NAME:0001>",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 104,
+      "pointer_offset": 138400,
+      "relative_offset": 4698,
+      "offset": 142682,
+      "jp_raw_hex": "57 90 81 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6C 9D 66 7A 73 64 24 F4 5B 78 1F 00 70 9E 5F A1 F1 60 4B F4 9D 57 F0 79 6C",
+      "jp_text": "いまは<NAME:0003>を\nキャンセルすることだけ考えて\nそれが生き残る道です",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 105,
+      "pointer_offset": 138404,
+      "relative_offset": 4740,
+      "offset": 142724,
+      "jp_raw_hex": "67 93 A2 20 16 00 01 00 23 1F 00 94 59 86 F0 6A 20 94 59 86 F0 6A 73 64 1F 00 87 A2 82 75 78 62 9E 23",
+      "jp_text": "ごめん　<NAME:0001>！\nもう少し　もう少しだけ\nふんばってくれ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 106,
+      "pointer_offset": 138408,
+      "relative_offset": 4977,
+      "offset": 142961,
+      "jp_raw_hex": "C2 E2 73 23 1F 00 AF E4 EA BD ED 5F AA F2 7D 83 F1 A0 7C 57 23 1F 00 21 F1 65 78 62 9E 20 16 00 01 00 23",
+      "jp_text": "ダメだ！\nキャンセルが間に合わない！\n逃げてくれ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 107,
+      "pointer_offset": 138412,
+      "relative_offset": 5210,
+      "offset": 143194,
+      "jp_raw_hex": "E1 EC 6C 9D 7C 20 16 00 01 00 23 1F 00 57 90 81 3F F0 B6 F0 5F DC F0 73 23",
+      "jp_text": "ムリするな　<NAME:0001>！\nいまは回復が先だ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 108,
+      "pointer_offset": 138416,
+      "relative_offset": 4776,
+      "offset": 142760,
+      "jp_raw_hex": "A8 F5 66 5B 9D 20 16 00 01 00 22 1F 00 55 60 9B 93 7C 57 79 23 1F 00 9B F0 A1 6A 75 5E 9C 98 F1 75 78 23",
+      "jp_text": "聞こえる　<NAME:0001>？\nあきらめないで！\n気をしっかり持って！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 109,
+      "pointer_offset": 138420,
+      "relative_offset": 5014,
+      "offset": 142998,
+      "jp_raw_hex": "21 F1 65 78 20 16 00 01 00 23 1F 00 94 59 81 F0 78 9B 9E 7C 57 23",
+      "jp_text": "逃げて　<NAME:0001>！\nもう見てられない！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 110,
+      "pointer_offset": 138424,
+      "relative_offset": 5237,
+      "offset": 143221,
+      "jp_raw_hex": "94 59 6B 97 59 88 A2 9A 23 1F 00 57 90 81 3D F0 5B F0 A1 3F F0 B6 F0 6C 9D 66 7A 73 64 1F 00 24 F4 5B 78 23",
+      "jp_text": "もうじゅうぶんよ！\nいまは自分を回復することだけ\n考えて！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 111,
+      "pointer_offset": 138428,
+      "relative_offset": 4813,
+      "offset": 142797,
+      "jp_raw_hex": "74 99 75 7A 74 99 75 7A 20 16 00 01 00 1F 00 55 A2 72 20 70 9E 79 94 7D F0 9B F0 7C 80 24",
+      "jp_text": "ちょっとちょっと　<NAME:0001>\nあんた　それでも本気なの？",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 112,
+      "pointer_offset": 138432,
+      "relative_offset": 5038,
+      "offset": 143022,
+      "jp_raw_hex": "C3 EA C1 EB 96 75 78 72 9B 1F 00 A1 F5 64 74 95 59 75 6A 99 1F 00 DF BA 80 55 A2 72 A1 81 F0 6E 7C 68 57 23",
+      "jp_text": "チンタラやってたら\n負けちゃうっしょ\nマジのあんたを見せなさい！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 113,
+      "pointer_offset": 138436,
+      "relative_offset": 5275,
+      "offset": 143259,
+      "jp_raw_hex": "6F F4 57 5E 9B 75 78 81 6A 95 61 6C 61 1F 00 55 A2 72 80 66 7A 9A 1F 00 16 00 01 00 23",
+      "jp_text": "若いからってはしゃぎすぎ\nあんたのことよ\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 114,
+      "pointer_offset": 138440,
+      "relative_offset": 4845,
+      "offset": 142829,
+      "jp_raw_hex": "E1 C3 E4 5F 68 F3 61 9D 6F 1F 00 16 00 01 00 74 95 A2 1F 00 94 75 7A 3D F0 5B F0 A1 42 F0 C0 F0 7D 75 78 7C",
+      "jp_text": "ムチャが過ぎるぜ\n<NAME:0001>ちゃん\nもっと自分を大切にってな",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 115,
+      "pointer_offset": 138444,
+      "relative_offset": 5076,
+      "offset": 143060,
+      "jp_raw_hex": "94 6A 94 ED F1 80 36 F0 37 F0 79 1F 00 4A F2 5F 55 75 72 9B 5D 7C 63 68 91 75 78 5E",
+      "jp_text": "もしも次の攻撃で\n命があったらおなぐさみってか",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 116,
+      "pointer_offset": 138448,
+      "relative_offset": 5306,
+      "offset": 143290,
+      "jp_raw_hex": "A1 F1 60 78 68 5B 57 9C 95 7C A2 7A 5E 7C 9D 1F 00 66 66 81 69 F0 5F 75 78 3F F0 B6 F0 6A 7C",
+      "jp_text": "生きてさえいりゃなんとかなる\nここは下がって回復しな",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 117,
+      "pointer_offset": 138452,
+      "relative_offset": 4883,
+      "offset": 142867,
+      "jp_raw_hex": "73 57 6B 99 59 88 5E 20 16 00 01 00 22 1F 00 CD F0 A2 79 78 94 69 F1 BA F0 63 9B 57 6A 9F 23",
+      "jp_text": "だいじょうぶか　<NAME:0001>？\n死んでても返事ぐらいしろ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 118,
+      "pointer_offset": 138456,
+      "relative_offset": 5106,
+      "offset": 143090,
+      "jp_raw_hex": "ED F1 20 A3 F4 9B 75 74 90 75 72 9B 1F 00 E5 D1 57 73 9F 1F 00 57 62 9B D6 F4 5D F0 5F B8 B5 79 94 9A AB",
+      "jp_text": "次　食らっちまったら\nヤバいだろ\nいくら相手がザコでもよォ",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 119,
+      "pointer_offset": 138460,
+      "relative_offset": 5339,
+      "offset": 143323,
+      "jp_raw_hex": "5D 57 5D 57 20 E1 C3 E4 6A 6C 61 73 9F 1F 00 69 F0 5F 75 78 3F F0 B6 F0 79 94 6A 78 9F 75 78 82",
+      "jp_text": "おいおい　ムチャしすぎだろ\n下がって回復でもしてろってば",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 120,
+      "pointer_offset": 138464,
+      "relative_offset": 4916,
+      "offset": 142900,
+      "jp_raw_hex": "ED F1 80 2D F0 37 F0 81 4A F2 6A F0 9C 9A 23 1F 00 7C A2 7A 5E 5E A0 6A 78 1F 00 16 00 01 00 23",
+      "jp_text": "次の一撃は命取りよ！\nなんとかかわして\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 121,
+      "pointer_offset": 138468,
+      "relative_offset": 5143,
+      "offset": 143127,
+      "jp_raw_hex": "60 75 7A 20 39 F2 8F F0 81 A5 F2 60 9D 1F 00 16 00 01 00 7D 1F 00 E9 A8 C9 68 90 80 67 AE F1 DD F1 A1 26 26 23",
+      "jp_text": "きっと　奇跡は起きる\n<NAME:0001>に\nヨウトさまのご加護を……！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 122,
+      "pointer_offset": 138472,
+      "relative_offset": 5373,
+      "offset": 143357,
+      "jp_raw_hex": "5D 29 F3 57 20 16 00 01 00 23 1F 00 86 F0 6A 81 3D F0 5B F0 80 BB F2 A1 9B F0 77 5E 75 78 23 1F 00 5F A2 82 9C 6C 61 9A 23",
+      "jp_text": "お願い　<NAME:0001>！\n少しは自分の身を気づかって！\nがんばりすぎよ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 123,
+      "pointer_offset": 138476,
+      "relative_offset": 4950,
+      "offset": 142934,
+      "jp_raw_hex": "B2 EC D6 9A 1F 00 58 F4 7D 16 00 01 00 A1 1F 00 DD F1 9D 85 F0 A1 26 26 23",
+      "jp_text": "グリフよ\n私に<NAME:0001>を\n護る力を……！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 124,
+      "pointer_offset": 138480,
+      "relative_offset": 5182,
+      "offset": 143166,
+      "jp_raw_hex": "ED F1 80 36 F0 37 F0 A1 5E A0 6E 7C 64 9E 82 1F 00 55 7C 72 81 94 59 26 26 23",
+      "jp_text": "次の攻撃をかわせなければ\nあなたはもう……！",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 125,
+      "pointer_offset": 138484,
+      "relative_offset": 5416,
+      "offset": 143400,
+      "jp_raw_hex": "7A 7D 5E 62 3F F0 B6 F0 7D C6 F4 69 F5 6C 9D 26 26 1F 00 70 9E 94 47 F0 7D 81 42 F0 C0 F0 7C 66 7A 79 6C 1F 00 79 6A 99 59 20 16 00 01 00 24",
+      "jp_text": "とにかく回復に専念する……\nそれも時には大切なことです\nでしょう　<NAME:0001>？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 126,
+      "pointer_offset": 138488,
+      "relative_offset": 5465,
+      "offset": 143449,
+      "jp_raw_hex": "16 00 03 00 80 1F 00 46 F0 60 5F 55 96 6A 57 23 1F 00 9B F0 A1 76 64 9F 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>の\n動きがあやしい！\n気をつけろ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 127,
+      "pointer_offset": 138492,
+      "relative_offset": 5731,
+      "offset": 143715,
+      "jp_raw_hex": "E5 C5 80 36 F0 37 F0 7D 5A F0 5B 9F 23 1F 00 57 76 94 80 A2 F7 B1 F1 9B F0 6B 95 7C 57 26 26 1F 00 7C 7D 5E DE F0 75 78 62 9D 71 23",
+      "jp_text": "ヤツの攻撃に備えろ！\nいつもの雰囲気じゃない……\nなにか狙ってくるぞ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 128,
+      "pointer_offset": 138496,
+      "relative_offset": 6022,
+      "offset": 144006,
+      "jp_raw_hex": "16 00 03 00 80 36 F0 37 F0 81 1F 00 A3 F4 9B 59 7A DF BC 57 23 1F 00 66 66 81 38 F0 39 F0 73 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>の攻撃は\n食らうとマズい！\nここは防御だ　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 129,
+      "pointer_offset": 138500,
+      "relative_offset": 5497,
+      "offset": 143481,
+      "jp_raw_hex": "16 00 03 00 A1 81 F0 78 23 1F 00 57 76 94 7A 7C 7D 5E 5F 74 5F 59 1F 00 7C 7D 5E 5F 26 26 23",
+      "jp_text": "<NAME:0003>を見て！\nいつもとなにかがちがう\nなにかが……！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 130,
+      "pointer_offset": 138504,
+      "relative_offset": 5777,
+      "offset": 143761,
+      "jp_raw_hex": "16 00 03 00 80 36 F0 37 F0 26 26 1F 00 5E A0 6E 7C 57 7C 9B 1F 00 6E 93 78 38 F0 61 23 F1 93 78 23",
+      "jp_text": "<NAME:0003>の攻撃……\nかわせないなら\nせめて防ぎ止めて！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 131,
+      "pointer_offset": 138508,
+      "relative_offset": 6061,
+      "offset": 144045,
+      "jp_raw_hex": "57 F1 DB F4 61 5F 6C 9D 80 26 26 1F 00 16 00 03 00 80 36 F0 37 F0 A1 1F 00 38 F0 57 79 20 16 00 01 00 23",
+      "jp_text": "胸騒ぎがするの……\n<NAME:0003>の攻撃を\n防いで　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 132,
+      "pointer_offset": 138512,
+      "relative_offset": 5530,
+      "offset": 143514,
+      "jp_raw_hex": "59 5E 76 7D 5D F0 5A 68 F0 6A 74 95 C2 E2 9A 1F 00 55 57 76 80 36 F0 37 F0 94 9B 75 72 9B 1F 00 C1 C2 6B 95 6C 90 7C 57 A2 73 5E 9B 23",
+      "jp_text": "うかつに手ぇ出しちゃダメよ\nあいつの攻撃もらったら\nタダじゃすまないんだから！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 133,
+      "pointer_offset": 138516,
+      "relative_offset": 5812,
+      "offset": 143796,
+      "jp_raw_hex": "16 00 03 00 5E 54 1F 00 E5 D1 57 80 9A 7F 20 55 57 76 80 36 F0 37 F0 1F 00 7B F1 EB F1 9A 64 74 95 5B 82 D4 F5 EB F4 7C 57 B3 CA",
+      "jp_text": "<NAME:0003>かぁ\nヤバいのよね　あいつの攻撃\n全部よけちゃえば問題ないケド",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 134,
+      "pointer_offset": 138520,
+      "relative_offset": 6098,
+      "offset": 144082,
+      "jp_raw_hex": "92 F6 8F F3 B6 F2 50 F0 23 1F 00 47 F0 7D 81 38 F0 39 F0 6C 9D 66 7A 94 1F 00 42 F0 BA F0 75 78 B5 C9 23",
+      "jp_text": "臨機応変！\n時には防御することも\n大事ってコト！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 135,
+      "pointer_offset": 138524,
+      "relative_offset": 5577,
+      "offset": 143561,
+      "jp_raw_hex": "DF BC 57 7C 26 26 1F 00 55 80 36 F0 37 F0 94 9B 75 74 90 59 7A 1F 00 96 75 5E 57 7C 66 7A 7D 7C 9C 70 59 73 6F",
+      "jp_text": "マズいな……\nあの攻撃もらっちまうと\nやっかいなことになりそうだぜ",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 136,
+      "pointer_offset": 138528,
+      "relative_offset": 5857,
+      "offset": 143841,
+      "jp_raw_hex": "96 9E 96 9E 26 26 1F 00 E5 C5 7A EB F0 59 7A 60 4C F0 ED F5 7C 80 81 1F 00 50 F5 85 F0 7A E8 F2 65 F0 20 55 7A 81 9D F0 73 7C",
+      "jp_text": "やれやれ……\nヤツと戦うとき必要なのは\n努力と根性　あとは薬だな",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 137,
+      "pointer_offset": 138532,
+      "relative_offset": 6135,
+      "offset": 144119,
+      "jp_raw_hex": "7C 7D DD B7 C4 7A 6A 78 9D 23 1F 00 E5 C5 80 36 F0 37 F0 81 8C F3 4D F1 73 23 1F 00 6C 63 38 F0 39 F0 6A 9F C4 23",
+      "jp_text": "なにボサッとしてる！\nヤツの攻撃は危険だ！\nすぐ防御しろッ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 138,
+      "pointer_offset": 138536,
+      "relative_offset": 5616,
+      "offset": 143600,
+      "jp_raw_hex": "E5 D1 57 71 20 16 00 01 00 23 1F 00 55 80 22 F4 5B 26 26 1F 00 7C A2 5E 6A 5E 64 78 62 9D 9B F0 73 23",
+      "jp_text": "ヤバいぞ　<NAME:0001>！\nあの構え……\nなんかしかけてくる気だ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 139,
+      "pointer_offset": 138540,
+      "relative_offset": 5901,
+      "offset": 143885,
+      "jp_raw_hex": "72 6A 5E A4 A6 C5 1F 00 E5 7C 36 F0 37 F0 A1 98 F1 75 78 72 81 6D 73 1F 00 9B F0 56 DF F2 62 7C 9A 20 16 00 01 00 23",
+      "jp_text": "たしかアイツ\nヤな攻撃を持ってたはずだ\n気ぃ抜くなよ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 140,
+      "pointer_offset": 138544,
+      "relative_offset": 6175,
+      "offset": 144159,
+      "jp_raw_hex": "55 80 36 F0 37 F0 73 64 81 1F 00 BE C4 C1 A6 A3 F4 9B 57 72 62 7F 27 1F 00 38 F0 39 F0 6A 7A 64 20 16 00 01 00 23",
+      "jp_text": "あの攻撃だけは\nゼッタイ食らいたくねー\n防御しとけ　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 141,
+      "pointer_offset": 138548,
+      "relative_offset": 5652,
+      "offset": 143636,
+      "jp_raw_hex": "55 80 36 F0 37 F0 7D 81 1F 00 7C 7D 5E 40 F1 5F 55 9D 26 26 1F 00 E9 F0 84 F1 6A 78 20 16 00 01 00 23",
+      "jp_text": "あの攻撃には\nなにか裏がある……\n用心して　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 142,
+      "pointer_offset": 138552,
+      "relative_offset": 5942,
+      "offset": 143926,
+      "jp_raw_hex": "16 00 03 00 5E 9B 1F 00 6D F4 C1 F0 7C 9B F0 A1 7C F3 6B 9D 26 26 1F 00 44 F1 9E 78 20 16 00 01 00 23",
+      "jp_text": "<NAME:0003>から\n邪悪な気を感じる……\n離れて　<NAME:0001>！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 143,
+      "pointer_offset": 138556,
+      "relative_offset": 6215,
+      "offset": 144199,
+      "jp_raw_hex": "55 80 36 F0 37 F0 81 1F 00 38 F0 39 F0 6C 9D 66 7A A1 6C 6C 93 9D A0 1F 00 AD 27 CA 94 70 59 2A F4 65 78 57 9D 26 26",
+      "jp_text": "あの攻撃は\n防御することをすすめるわ\nカードもそう告げている……",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 144,
+      "pointer_offset": 138560,
+      "relative_offset": 5688,
+      "offset": 143672,
+      "jp_raw_hex": "E9 F1 2A F4 6A 90 6C 1F 00 16 00 03 00 80 36 F0 37 F0 81 1F 00 8C F3 4D F1 7C 75 F1 76 F1 77 F1 78 F1 A1 A5 F2 66 6A 90 6C",
+      "jp_text": "警告します\n<NAME:0003>の攻撃は\n危険な状態異常を起こします",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 145,
+      "pointer_offset": 138564,
+      "relative_offset": 5978,
+      "offset": 143962,
+      "jp_raw_hex": "16 00 03 00 80 36 F0 37 F0 81 1F 00 55 90 9C 7D 8C F3 4D F1 6C 61 90 6C 1F 00 7C A2 9B 5E 80 DD F0 86 F4 5F 4C F0 ED F5 79 6C",
+      "jp_text": "<NAME:0003>の攻撃は\nあまりに危険すぎます\nなんらかの対処が必要です",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 146,
+      "pointer_offset": 138568,
+      "relative_offset": 6256,
+      "offset": 144240,
+      "jp_raw_hex": "DF F7 26 F1 7C DD F0 B6 F2 5F 8C F3 8F F3 A1 58 F2 57 90 6C 1F 00 66 66 81 38 F0 39 F0 79 6C 1F 00 16 00 01 00",
+      "jp_text": "迅速な対応が危機を救います\nここは防御です\n<NAME:0001>",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 147,
+      "pointer_offset": 138572,
+      "relative_offset": 6295,
+      "offset": 144279,
+      "jp_raw_hex": "AF E4 EA BD ED 5F AA F2 7D 83 F1 A0 7C 57 23 1F 00 38 F0 39 F0 79 52 F1 5B 78 62 9E 23 1F 00 16 00 01 00 23",
+      "jp_text": "キャンセルが間に合わない！\n防御で耐えてくれ！\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 148,
+      "pointer_offset": 138576,
+      "relative_offset": 6566,
+      "offset": 144550,
+      "jp_raw_hex": "6B F3 6A 57 80 81 A0 5E 75 78 9D 23 1F 00 64 7B 20 52 F1 5B 9D A2 73 20 57 90 81 23",
+      "jp_text": "悔しいのはわかってる！\nけど　耐えるんだ　いまは！",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 149,
+      "pointer_offset": 138580,
+      "relative_offset": 6833,
+      "offset": 144817,
+      "jp_raw_hex": "62 70 C4 21 1F 00 7C A2 7D 94 79 60 7C 57 80 5E 23 1F 00 16 00 01 00 5F D5 EA C3 7C 80 7D 23",
+      "jp_text": "くそッ。\nなんにもできないのか！\n<NAME:0001>がピンチなのに！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 150,
+      "pointer_offset": 138584,
+      "relative_offset": 6333,
+      "offset": 144317,
+      "jp_raw_hex": "ED F1 80 36 F0 37 F0 5F 64 F1 72 9B 1F 00 72 7A 5B 16 00 01 00 79 94 26 26 1F 00 5D 29 F3 57 20 38 F0 39 F0 6A 78 23",
+      "jp_text": "次の攻撃が来たら\nたとえ<NAME:0001>でも……\nお願い　防御して！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 151,
+      "pointer_offset": 138588,
+      "relative_offset": 6596,
+      "offset": 144580,
+      "jp_raw_hex": "94 59 E1 C3 E4 81 6A 7C 57 79 23 1F 00 91 A2 7C 73 75 78 57 9D A2 73 5E 9B 23 1F 00 7F 75 23",
+      "jp_text": "もうムチャはしないで！\nみんなだっているんだから！\nねっ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 152,
+      "pointer_offset": 138592,
+      "relative_offset": 6866,
+      "offset": 144850,
+      "jp_raw_hex": "16 00 01 00 80 72 93 7D 1F 00 7C 7D 5E 6A 78 55 65 72 57 23 1F 00 79 94 26 26 23",
+      "jp_text": "<NAME:0001>のために\nなにかしてあげたい！\nでも……！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 153,
+      "pointer_offset": 138596,
+      "relative_offset": 6374,
+      "offset": 144358,
+      "jp_raw_hex": "36 F0 37 F0 73 64 6B 95 1F 00 8C F4 78 75 66 7C 57 75 6A 99 1F 00 55 72 6A 80 57 57 72 57 B5 C9 A0 5E 9D 24",
+      "jp_text": "攻撃だけじゃ\n勝てっこないっしょ\nあたしのいいたいコトわかる？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 154,
+      "pointer_offset": 138600,
+      "relative_offset": 6629,
+      "offset": 144613,
+      "jp_raw_hex": "70 F0 78 F2 7A 70 F0 CD F6 81 8C F4 23 F6 80 3A F0 9A 1F 00 70 6A 78 55 72 6A 81 8C F4 23 F6 80 8A F4 D3 F1 1F 00 26 26 7C A2 74 95 75 78",
+      "jp_text": "無茶と無謀は勝利の敵よ\nそしてあたしは勝利の女神\n……なんちゃって",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 155,
+      "pointer_offset": 138604,
+      "relative_offset": 6895,
+      "offset": 144879,
+      "jp_raw_hex": "A2 94 58 20 A6 EB A6 EB 6C 9D A0 7F 23 1F 00 66 80 7E F0 5F 46 F0 60 68 5B 6C 9E 82 26 26 23",
+      "jp_text": "んもぅ　イライラするわね！\nこの体が動きさえすれば……！",
+      "control_codes": [
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 156,
+      "pointer_offset": 138608,
+      "relative_offset": 6412,
+      "offset": 144396,
+      "jp_raw_hex": "74 99 57 7A AA F2 5F C1 F0 5E 75 72 5E 1F 00 6B F3 6A 57 73 9F 59 5F 1F 00 66 66 81 38 F0 39 F0 80 2D F0 5D F0 73 7C",
+      "jp_text": "ちょいと間が悪かったか\n悔しいだろうが\nここは防御の一手だな",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 157,
+      "pointer_offset": 138612,
+      "relative_offset": 6677,
+      "offset": 144661,
+      "jp_raw_hex": "E1 EC 6C A2 7C 20 16 00 01 00 23 1F 00 66 66 81 38 F0 39 F0 79 96 9C 6C 67 6E C4 23",
+      "jp_text": "ムリすんな　<NAME:0001>！\nここは防御でやりすごせッ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 158,
+      "pointer_offset": 138616,
+      "relative_offset": 6928,
+      "offset": 144912,
+      "jp_raw_hex": "D5 EA C3 80 BC F2 7D 66 70 C3 E4 EA BB 55 9C 1F 00 70 57 76 5F D6 F1 24 F6 75 78 94 A2 73 6F 1F 00 16 00 01 00 23",
+      "jp_text": "ピンチの中にこそチャンスあり\nそいつが真理ってもんだぜ\n<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 159,
+      "pointer_offset": 138620,
+      "relative_offset": 6453,
+      "offset": 144437,
+      "jp_raw_hex": "5D 57 5D 57 20 64 75 66 59 1F 00 D5 EA C3 6B 95 A2 9A 1F 00 38 F0 39 F0 6A 7A 57 72 3C F0 5F 9A 62 7F 24",
+      "jp_text": "おいおい　けっこう\nピンチじゃんよ\n防御しといた方がよくね？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 160,
+      "pointer_offset": 138624,
+      "relative_offset": 6707,
+      "offset": 144691,
+      "jp_raw_hex": "E1 C3 E4 6C 61 A2 73 9F 20 16 00 01 00 1F 00 74 75 72 54 D6 AB EF 27 6C 9D BB F2 7D 94 1F 00 7C 9E 75 78 80",
+      "jp_text": "ムチャすぎんだろ　<NAME:0001>\nちったぁフォローする身にも\nなれっての",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 161,
+      "pointer_offset": 138628,
+      "relative_offset": 6968,
+      "offset": 144952,
+      "jp_raw_hex": "74 62 6A 99 27 23 1F 00 7E F0 5F 46 F0 5E 7F 5A 23 20 1F 00 AE DF EA 6C 9D 6A 5E 7F 5A 80 5E 9A 22",
+      "jp_text": "ちくしょー！\n体が動かねぇ！　\nガマンするしかねぇのかよ？",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 162,
+      "pointer_offset": 138632,
+      "relative_offset": 6490,
+      "offset": 144474,
+      "jp_raw_hex": "2D F4 3F F0 81 38 F0 39 F0 79 52 F1 5B 78 23 1F 00 70 59 6C 9E 82 57 F0 81 6E F3 64 9D A0 1F 00 4C F0 6D 26 26 23",
+      "jp_text": "今回は防御で耐えて！\nそうすれば道は開けるわ\n必ず……！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 163,
+      "pointer_offset": 138636,
+      "relative_offset": 6745,
+      "offset": 144729,
+      "jp_raw_hex": "55 7C 72 84 7A 9C 79 1F 00 EB F0 75 78 9D A2 6B 95 7C 57 80 23 1F 00 2D F5 AA F2 A1 61 F2 6B 78 20 16 00 01 00 23",
+      "jp_text": "あなたひとりで\n戦ってるんじゃないの！\n仲間を信じて　<NAME:0001>！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 164,
+      "pointer_offset": 138640,
+      "relative_offset": 7003,
+      "offset": 144987,
+      "jp_raw_hex": "16 00 01 00 5F D5 EA C3 80 66 80 75 F1 B1 F3 1F 00 55 7C 72 7C 9B 7B 59 6C 9D 80 1F 00 C8 E6 EA B3 ED 26 26",
+      "jp_text": "<NAME:0001>がピンチのこの状況\nあなたならどうするの\nデュンケル……",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 165,
+      "pointer_offset": 138644,
+      "relative_offset": 6530,
+      "offset": 144514,
+      "jp_raw_hex": "B7 F2 DD F1 5F AA F2 7D 83 F1 57 90 6E A2 1F 00 57 90 81 72 73 1F 00 52 F1 5B 78 62 73 68 57 26 26 23",
+      "jp_text": "援護が間に合いません\nいまはただ\n耐えてください……！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 166,
+      "pointer_offset": 138648,
+      "relative_offset": 6785,
+      "offset": 144769,
+      "jp_raw_hex": "84 7A 9C 80 70 F0 24 F6 5F 1F 00 7B F1 9C F1 80 8C F3 8F F3 A1 90 F4 62 66 7A 94 55 9D 1F 00 7B 59 5E 20 70 9E A1 92 F0 9E 7C 57 79 26 26",
+      "jp_text": "ひとりの無理が\n全滅の危機を招くこともある\nどうか　それを忘れないで……",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 167,
+      "pointer_offset": 138652,
+      "relative_offset": 7041,
+      "offset": 145025,
+      "jp_raw_hex": "52 F1 5B 2D F2 88 66 7A 7D 81 7D F3 9E 78 57 90 6C 1F 00 55 7C 72 94 70 9E A1 4F F0 5B 78 1F 00 16 00 01 00 26 26 23",
+      "jp_text": "耐え忍ぶことには慣れています\nあなたもそれを覚えて\n<NAME:0001>……！",
+      "control_codes": [
+        "LINE_BREAK",
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 168,
+      "pointer_offset": 138656,
+      "relative_offset": 7082,
+      "offset": 145066,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 5F DF BC A6 71 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>がマズイぞ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 169,
+      "pointer_offset": 138660,
+      "relative_offset": 7229,
+      "offset": 145213,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 B7 F2 DD F1 6A 9A 59 6F 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>を\n援護しようぜ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 170,
+      "pointer_offset": 138664,
+      "relative_offset": 7426,
+      "offset": 145410,
+      "jp_raw_hex": "AD F2 7D D4 F5 EB F4 81 7C 68 70 59 73 7C 1F 00 16 00 01 00 80 ED F3 60 7C BA F0 A1 6A 9A 59 6F 23",
+      "jp_text": "特に問題はなさそうだな\n<NAME:0001>の好きな事をしようぜ！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 171,
+      "pointer_offset": 138668,
+      "relative_offset": 7101,
+      "offset": 145085,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 5F 8C F3 7C 57 79 6C 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>が危ないです！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 172,
+      "pointer_offset": 138672,
+      "relative_offset": 7254,
+      "offset": 145238,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 A1 B7 F2 DD F1 6A 78 69 F0 68 57 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>を援護して下さい！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 173,
+      "pointer_offset": 138676,
+      "relative_offset": 7461,
+      "offset": 145445,
+      "jp_raw_hex": "91 7C 68 A2 D4 F5 EB F4 7C 57 91 72 57 79 6C 1F 00 16 00 01 00 68 A2 80 81 F1 59 9A 59 7D 22 F1 46 F0 6A 78 1F 00 91 72 9B 57 5E 5F 79 6C 5E 24",
+      "jp_text": "みなさん問題ないみたいです\n<NAME:0001>さんの思うように行動して\nみたらいかがですか？",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 174,
+      "pointer_offset": 138680,
+      "relative_offset": 7122,
+      "offset": 145106,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 5F DF BC A6 A0 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>がマズイわ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 175,
+      "pointer_offset": 138684,
+      "relative_offset": 7279,
+      "offset": 145263,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 B7 F2 DD F1 6A 78 7F 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>を\n援護してね！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 176,
+      "pointer_offset": 138688,
+      "relative_offset": 7511,
+      "offset": 145495,
+      "jp_raw_hex": "AD F2 7D D4 F5 EB F4 81 7C 68 70 59 7F 1F 00 16 00 01 00 80 ED F3 60 7C BA F0 A1 6A 72 9B 24",
+      "jp_text": "特に問題はなさそうね\n<NAME:0001>の好きな事をしたら？",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 177,
+      "pointer_offset": 138692,
+      "relative_offset": 7141,
+      "offset": 145125,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 5F 8C F3 7C 57 71 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>が危ないぞ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 178,
+      "pointer_offset": 138696,
+      "relative_offset": 7303,
+      "offset": 145287,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 B7 F2 DD F1 6C 9D A2 73 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>を\n援護するんだ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 179,
+      "pointer_offset": 138700,
+      "relative_offset": 7544,
+      "offset": 145528,
+      "jp_raw_hex": "91 A2 7C D4 F5 EB F4 81 70 F0 57 7C 1F 00 16 00 01 00 80 ED F3 60 7D 6A 7C 23",
+      "jp_text": "みんな問題は無いな\n<NAME:0001>の好きにしな！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 180,
+      "pointer_offset": 138704,
+      "relative_offset": 7161,
+      "offset": 145145,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 5F D5 EA C3 73 71 23 1F 00",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>がピンチだぞ！\n",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 181,
+      "pointer_offset": 138708,
+      "relative_offset": 7328,
+      "offset": 145312,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 5F E5 EB 9E 70 59 73 6F 23 1F 00 B7 F2 DD F1 7D 3F F0 75 78 96 9E 9A 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>がヤラれそうだぜ！\n援護に回ってやれよ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 182,
+      "pointer_offset": 138712,
+      "relative_offset": 7572,
+      "offset": 145556,
+      "jp_raw_hex": "2D F4 A2 C9 B5 D4 F5 EB F4 7C 68 70 59 6B 95 A2 1F 00 16 00 01 00 5F 96 9C 72 57 9A 59 7D 1F 00 96 9E 82 51 F1 57 A2 6B 95 7F 27 5E 24",
+      "jp_text": "今んトコ問題なさそうじゃん\n<NAME:0001>がやりたいように\nやれば良いんじゃねーか？",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 183,
+      "pointer_offset": 138716,
+      "relative_offset": 7183,
+      "offset": 145167,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 5F 8C F3 4D F1 79 6C 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>が危険です！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 184,
+      "pointer_offset": 138720,
+      "relative_offset": 7365,
+      "offset": 145349,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 02 00 80 D6 AB EF 27 7D 1F 00 3F F0 75 78 69 F0 68 57 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0002>のフォローに\n回って下さい！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 185,
+      "pointer_offset": 138724,
+      "relative_offset": 7619,
+      "offset": 145603,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 2D F4 81 AD F2 7D D4 F5 EB F4 55 9C 90 6E A2 9A 23 1F 00 E9 F0 84 F1 6A 78 57 60 90 6A 99 59 23",
+      "jp_text": "<NAME:0001>！\n今は特に問題ありませんよ！\n用心していきましょう！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 186,
+      "pointer_offset": 138728,
+      "relative_offset": 7204,
+      "offset": 145188,
+      "jp_raw_hex": "16 00 01 00 68 A2 23 1F 00 16 00 02 00 68 A2 5F 8C F3 4D F1 79 6C 23",
+      "jp_text": "<NAME:0001>さん！\n<NAME:0002>さんが危険です！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>"
+      ]
+    },
+    {
+      "pointer_index": 187,
+      "pointer_offset": 138732,
+      "relative_offset": 7395,
+      "offset": 145379,
+      "jp_raw_hex": "16 00 01 00 68 A2 23 1F 00 16 00 02 00 68 A2 A1 1F 00 B7 F2 DD F1 6A 78 69 F0 68 57 23",
+      "jp_text": "<NAME:0001>さん！\n<NAME:0002>さんを\n援護して下さい！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0002>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 188,
+      "pointer_offset": 138736,
+      "relative_offset": 7660,
+      "offset": 145644,
+      "jp_raw_hex": "91 7C 68 A2 D4 F5 EB F4 7C 57 91 72 57 79 6C 7F 1F 00 16 00 01 00 68 A2 80 3B F1 81 F1 79 7B 59 71",
+      "jp_text": "みなさん問題ないみたいですね\n<NAME:0001>さんの意思でどうぞ",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 189,
+      "pointer_offset": 138740,
+      "relative_offset": 7695,
+      "offset": 145679,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 5F 9B F0 A1 DF F2 62 7C 9A",
+      "jp_text": "<NAME:0001>！\n状況は悪くないが気を抜くなよ",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 190,
+      "pointer_offset": 138744,
+      "relative_offset": 7941,
+      "offset": 145925,
+      "jp_raw_hex": "16 00 01 00 1F 00 DA F5 26 F5 6C 9D 7C 9A 23 1F 00 60 F3 5F 55 9D 5E A0 5E 9B 7C 57 6F 23",
+      "jp_text": "<NAME:0001>\n油断するなよ！\n何があるかわからないぜ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 191,
+      "pointer_offset": 138748,
+      "relative_offset": 8178,
+      "offset": 146162,
+      "jp_raw_hex": "16 00 01 00 42 F0 5A F1 5B F1 5E 24 1F 00 B8 F1 57 80 81 90 F1 2D F0 6B F6 73 6F 23 1F 00 66 59 57 59 47 F0 66 70 5C F1 32 F5 9F 59 7C 23",
+      "jp_text": "<NAME:0001>大丈夫か？\n辛いのは皆一緒だぜ！\nこういう時こそ頑張ろうな！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 192,
+      "pointer_offset": 138752,
+      "relative_offset": 7723,
+      "offset": 145707,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 79 6C 7F 23 1F 00 66 80 A2 F2 39 F1 79 5C F1 32 F5 9C 90 6A 99 59 23",
+      "jp_text": "<NAME:0001>！\n状況は悪くないですね！\nこの調子で頑張りましょう！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 193,
+      "pointer_offset": 138756,
+      "relative_offset": 7973,
+      "offset": 145957,
+      "jp_raw_hex": "16 00 01 00 6A 75 5E 9C 6A 78 23 1F 00 55 7C 72 5F 62 F2 9C 7C A2 79 6C 23",
+      "jp_text": "<NAME:0001>しっかりして！\nあなたが頼りなんです！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 194,
+      "pointer_offset": 138760,
+      "relative_offset": 8226,
+      "offset": 146210,
+      "jp_raw_hex": "42 F0 5A F1 5B F1 24 16 00 01 00 24 1F 00 B8 F1 57 BA F0 94 55 9C 90 6C 64 7B 1F 00 2D F0 6B F6 7D 5C F1 32 F5 9C 90 6A 99 59 7F 23",
+      "jp_text": "大丈夫？<NAME:0001>？\n辛い事もありますけど\n一緒に頑張りましょうね！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 195,
+      "pointer_offset": 138764,
+      "relative_offset": 7765,
+      "offset": 145749,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 64 7B 1F 00 9B F0 A1 DF F2 57 74 95 73 93 9A 23",
+      "jp_text": "<NAME:0001>！\n状況は悪くないけど\n気を抜いちゃだめよ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 196,
+      "pointer_offset": 138768,
+      "relative_offset": 8000,
+      "offset": 145984,
+      "jp_raw_hex": "16 00 01 00 1F 00 DA F5 26 F5 6A 7C 57 79 7F 23 1F 00 60 F3 5F 55 9D 5E A0 5E 9B 7C 57 A0 23",
+      "jp_text": "<NAME:0001>\n油断しないでね！\n何があるかわからないわ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 197,
+      "pointer_offset": 138772,
+      "relative_offset": 8272,
+      "offset": 146256,
+      "jp_raw_hex": "16 00 01 00 42 F0 5A F1 5B F1 24 1F 00 66 80 EB F0 EC F0 5F C3 F1 A0 75 72 9B 1F 00 86 F0 6A 9F F3 94 59 5E 6A 9B 24",
+      "jp_text": "<NAME:0001>大丈夫？\nこの戦闘が終わったら\n少し休もうかしら？",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 198,
+      "pointer_offset": 138776,
+      "relative_offset": 7800,
+      "offset": 145784,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 EB F0 EC F0 81 34 F1 C5 F1 90 79 9B F0 A1 DF F2 62 7C 9A 23",
+      "jp_text": "<NAME:0001>！\n戦闘は最後まで気を抜くなよ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 199,
+      "pointer_offset": 138780,
+      "relative_offset": 8033,
+      "offset": 146017,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 6A 75 5E 9C 6A 7F 5A 7A 1F 00 84 75 62 9C 69 F1 68 9E 74 90 59 71 23",
+      "jp_text": "<NAME:0001>！\nしっかりしねぇと\nひっくり返されちまうぞ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 200,
+      "pointer_offset": 138784,
+      "relative_offset": 8313,
+      "offset": 146297,
+      "jp_raw_hex": "16 00 01 00 23 42 F0 5A F1 5B F1 5E 24 1F 00 66 80 75 F1 B1 F3 A1 C0 F0 9C DF F2 64 9B 9E 9D 5E 1F 00 E3 F5 88 F5 79 94 4D F5 64 78 91 9D 5E 24",
+      "jp_text": "<NAME:0001>！大丈夫か？\nこの状況を切り抜けられるか\n夕飯でも賭けてみるか？",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 201,
+      "pointer_offset": 138788,
+      "relative_offset": 7829,
+      "offset": 145813,
+      "jp_raw_hex": "60 F3 5F 55 75 78 94 34 F1 C5 F1 90 79 1F 00 9B F0 81 DF F2 64 7C 57 9A 7C 3D F6 16 00 01 00",
+      "jp_text": "何があっても最後まで\n気は抜けないよな、<NAME:0001>",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>"
+      ]
+    },
+    {
+      "pointer_index": 202,
+      "pointer_offset": 138792,
+      "relative_offset": 8065,
+      "offset": 146049,
+      "jp_raw_hex": "6A 75 5E 9C 96 9F 59 6E 23 1F 00 16 00 01 00 5F 6A 75 5E 9C 6A 7C 57 7A 1F 00 E5 D1 62 7C 75 74 90 59 5E 9B 7C 23",
+      "jp_text": "しっかりやろうせ！\n<NAME:0001>がしっかりしないと\nヤバくなっちまうからな！",
+      "control_codes": [
+        "LINE_BREAK",
+        "<NAME:0001>",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 203,
+      "pointer_offset": 138796,
+      "relative_offset": 8363,
+      "offset": 146347,
+      "jp_raw_hex": "42 F0 5A F1 5B F1 5E 24 16 00 01 00 1F 00 68 75 68 7A C3 F1 A0 9B 6E 78 1F 00 E2 B9 7D 6A 9A 59 6F 25 23",
+      "jp_text": "大丈夫か？<NAME:0001>\nさっさと終わらせて\nメシにしようぜ～！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 204,
+      "pointer_offset": 138800,
+      "relative_offset": 7862,
+      "offset": 145846,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 79 6C 9A 23 1F 00 34 F1 C5 F1 90 79 E9 F0 84 F1 6A 90 6A 99 59 23",
+      "jp_text": "<NAME:0001>！\n状況は悪くないですよ！\n最後まで用心しましょう！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 205,
+      "pointer_offset": 138804,
+      "relative_offset": 8105,
+      "offset": 146089,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 34 F1 C5 F1 90 79 DA F5 26 F5 B7 F3 C3 F0 79 6C 9A 23 1F 00",
+      "jp_text": "<NAME:0001>！\n最後まで油断禁物ですよ！\n",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 206,
+      "pointer_offset": 138808,
+      "relative_offset": 8400,
+      "offset": 146384,
+      "jp_raw_hex": "16 00 01 00 42 F0 5A F1 5B F1 79 6C 5E 24 1F 00 59 F2 63 4C F0 ED F5 81 7C 57 79 6C 5E 9B 1F 00 74 F3 4F F2 7D AB F4 A2 79 57 60 90 6A 99 59 23",
+      "jp_text": "<NAME:0001>大丈夫ですか？\n急ぐ必要はないですから\n確実に進んでいきましょう！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 207,
+      "pointer_offset": 138812,
+      "relative_offset": 7903,
+      "offset": 145887,
+      "jp_raw_hex": "16 00 01 00 68 A2 23 1F 00 34 F1 C5 F1 90 79 9B F0 A1 DF F2 5E 7C 57 79 1F 00 5C F1 32 F5 9C 90 6A 99 59 23",
+      "jp_text": "<NAME:0001>さん！\n最後まで気を抜かないで\n頑張りましょう！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 208,
+      "pointer_offset": 138816,
+      "relative_offset": 8134,
+      "offset": 146118,
+      "jp_raw_hex": "16 00 01 00 68 A2 6A 75 5E 9C 6A 78 23 1F 00 55 7C 72 5F 5C F1 32 F5 9E 7C 57 7A 1F 00 90 F1 5F 5C F1 32 F5 9E 90 6E A2 9A 23",
+      "jp_text": "<NAME:0001>さんしっかりして！\nあなたが頑張れないと\n皆が頑張れませんよ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 209,
+      "pointer_offset": 138820,
+      "relative_offset": 8450,
+      "offset": 146434,
+      "jp_raw_hex": "42 F0 5A F1 5B F1 79 6C 5E 16 00 01 00 68 A2 24 1F 00 2D F4 5F 2D F0 7C F2 B9 F0 6A 57 7A 66 9F 79 6C 5F 1F 00 66 9E A1 9C F2 9C C0 F0 9E 82 D2 F1 5F 81 F0 5B 90 6C",
+      "jp_text": "大丈夫ですか<NAME:0001>さん？\n今が一番苦しいところですが\nこれを乗り切れば光が見えます",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "LINE_BREAK"
+      ]
+    },
+    {
+      "pointer_index": 231,
+      "pointer_offset": 138908,
+      "relative_offset": 8549,
+      "offset": 146533,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 6A 5E 7C 57 9A 7C 24",
+      "jp_text": "<NAME:0001>！\n<NAME:0003>には\n<NAME:0005>しかないよな？",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 232,
+      "pointer_offset": 138912,
+      "relative_offset": 8755,
+      "offset": 146739,
+      "jp_raw_hex": "16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 73 75 72 71 23",
+      "jp_text": "<NAME:0003>は\n<NAME:0005>が弱点だったぞ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 233,
+      "pointer_offset": 138916,
+      "relative_offset": 8917,
+      "offset": 146901,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 73 9A 7C 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>が有効だよな！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 234,
+      "pointer_offset": 138920,
+      "relative_offset": 8577,
+      "offset": 146561,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 79 6C 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0003>には\n<NAME:0005>が有効です！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 235,
+      "pointer_offset": 138924,
+      "relative_offset": 8778,
+      "offset": 146762,
+      "jp_raw_hex": "16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 79 6C 23",
+      "jp_text": "<NAME:0003>は\n<NAME:0005>が弱点です！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 236,
+      "pointer_offset": 138928,
+      "relative_offset": 8940,
+      "offset": 146924,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 79 42 F0 5A F1 5B F1 79 6C 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>で大丈夫です！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 237,
+      "pointer_offset": 138932,
+      "relative_offset": 8606,
+      "offset": 146590,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 6A 5E 7C 57 A0 9A 7F 24",
+      "jp_text": "<NAME:0001>！\n<NAME:0003>には\n<NAME:0005>しかないわよね？",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 238,
+      "pointer_offset": 138936,
+      "relative_offset": 8799,
+      "offset": 146783,
+      "jp_raw_hex": "16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 73 75 72 A0 9A 23",
+      "jp_text": "<NAME:0003>は\n<NAME:0005>が弱点だったわよ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 239,
+      "pointer_offset": 138940,
+      "relative_offset": 8964,
+      "offset": 146948,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 9A 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>が有効よ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 240,
+      "pointer_offset": 138944,
+      "relative_offset": 8635,
+      "offset": 146619,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 03 00 81 1F 00 16 00 05 00 5F 88 F1 BC F0 73 71 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0003>は\n<NAME:0005>が有効だぞ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 241,
+      "pointer_offset": 138948,
+      "relative_offset": 8823,
+      "offset": 146807,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 5F 78 F1 23 F9 5D F0 E6 F0 73 71 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>が常套手段だぞ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 242,
+      "pointer_offset": 138952,
+      "relative_offset": 8985,
+      "offset": 146969,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 5F 51 F1 62 BC F0 62 71 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>が良く効くぞ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 243,
+      "pointer_offset": 138956,
+      "relative_offset": 8663,
+      "offset": 146647,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 79 AE C4 C5 EC 22 F1 66 59 6F 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0003>には\n<NAME:0005>でガッツリ行こうぜ！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 244,
+      "pointer_offset": 138960,
+      "relative_offset": 8849,
+      "offset": 146833,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 5F A6 A6 7C F3 6B 79 BC F0 62 6F 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>がイイ感じで効くぜ！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 245,
+      "pointer_offset": 138964,
+      "relative_offset": 9008,
+      "offset": 146992,
+      "jp_raw_hex": "16 00 03 00 81 1F 00 16 00 05 00 6A 5E 7C 57 73 9F 24",
+      "jp_text": "<NAME:0003>は\n<NAME:0005>しかないだろ？",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 246,
+      "pointer_offset": 138968,
+      "relative_offset": 8695,
+      "offset": 146679,
+      "jp_raw_hex": "16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 79 6C 23",
+      "jp_text": "<NAME:0001>！\n<NAME:0003>には\n<NAME:0005>が有効です！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 247,
+      "pointer_offset": 138972,
+      "relative_offset": 8875,
+      "offset": 146859,
+      "jp_raw_hex": "16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 79 6C 23",
+      "jp_text": "<NAME:0003>は\n<NAME:0005>が弱点です！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 248,
+      "pointer_offset": 138976,
+      "relative_offset": 9028,
+      "offset": 147012,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 79 42 F0 5A F1 5B F1 79 6C 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>で大丈夫です！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 249,
+      "pointer_offset": 138980,
+      "relative_offset": 8724,
+      "offset": 146708,
+      "jp_raw_hex": "16 00 01 00 68 A2 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 79 6C 23",
+      "jp_text": "<NAME:0001>さん！\n<NAME:0003>には\n<NAME:0005>が有効です！",
+      "control_codes": [
+        "<NAME:0001>",
+        "LINE_BREAK",
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 250,
+      "pointer_offset": 138984,
+      "relative_offset": 8896,
+      "offset": 146880,
+      "jp_raw_hex": "16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 79 6C 23",
+      "jp_text": "<NAME:0003>は\n<NAME:0005>が弱点です！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    },
+    {
+      "pointer_index": 251,
+      "pointer_offset": 138988,
+      "relative_offset": 9052,
+      "offset": 147036,
+      "jp_raw_hex": "16 00 03 00 7D 81 1F 00 16 00 05 00 79 42 F0 5A F1 5B F1 79 6C 23",
+      "jp_text": "<NAME:0003>には\n<NAME:0005>で大丈夫です！",
+      "control_codes": [
+        "<NAME:0003>",
+        "LINE_BREAK",
+        "<NAME:0005>"
+      ]
+    }
+  ]
+}

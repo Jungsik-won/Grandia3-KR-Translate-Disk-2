@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00ad",
+  "stream_key": "0xAD",
+  "sample_ids": [
+    "0x4E0",
+    "0x4E1"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00ad.flac",
+  "audio_sha256": "b5319f905ad4f981238322d9a065433343e5c224b31d2114b6267fa3d3b66298",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "お、それは?もう、私には必要ありません。絶望を叶でるより、もっと大切なことがあると教えてもらいましたから。私たちがふうじていたのは、ゾーンではなく、私たち自身の心だったのかもしれません。 あ、ありがとう。エクトさん。 あ、高い。泣いたり、怒ったり、笑ったり。そんな気持ちをもう一度、未来を信じるユウキ。 このバース会のみんなに伝えたい。 スタワールさ、あ、大丈夫。いつか必ず。 何だ? エクトさん、あなたやはり、コミュートだったのね。 私の代わりに、地上階で聖場にあってください。求める真実に、きっと道臂でくれます。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 29.8,
+      "speaker": "",
+      "text": "お、それは?もう、私には必要ありません。絶望を叶でるより、もっと大切なことがあると教えてもらいましたから。私たちがふうじていたのは、ゾーンではなく、私たち自身の心だったのかもしれません。",
+      "avg_logprob": -0.27958,
+      "no_speech_prob": 0.05914,
+      "compression_ratio": 1.51366,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "あ、ありがとう。エクトさん。",
+      "avg_logprob": -0.39611,
+      "no_speech_prob": 0.01325,
+      "compression_ratio": 1.3125,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 40.0,
+      "end": 59.8,
+      "speaker": "",
+      "text": "あ、高い。泣いたり、怒ったり、笑ったり。そんな気持ちをもう一度、未来を信じるユウキ。",
+      "avg_logprob": -0.39611,
+      "no_speech_prob": 0.01325,
+      "compression_ratio": 1.3125,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 60.8,
+      "end": 64.8,
+      "speaker": "",
+      "text": "このバース会のみんなに伝えたい。",
+      "avg_logprob": -0.49515,
+      "no_speech_prob": 0.00696,
+      "compression_ratio": 1.10891,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 64.8,
+      "end": 71.8,
+      "speaker": "",
+      "text": "スタワールさ、あ、大丈夫。いつか必ず。",
+      "avg_logprob": -0.49515,
+      "no_speech_prob": 0.00696,
+      "compression_ratio": 1.10891,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 71.8,
+      "end": 75.8,
+      "speaker": "",
+      "text": "何だ?",
+      "avg_logprob": -0.49515,
+      "no_speech_prob": 0.00696,
+      "compression_ratio": 1.10891,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 76.8,
+      "end": 89.8,
+      "speaker": "",
+      "text": "エクトさん、あなたやはり、コミュートだったのね。",
+      "avg_logprob": -0.28144,
+      "no_speech_prob": 0.03456,
+      "compression_ratio": 1.30612,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 90.8,
+      "end": 103.8,
+      "speaker": "",
+      "text": "私の代わりに、地上階で聖場にあってください。求める真実に、きっと道臂でくれます。",
+      "avg_logprob": -0.28144,
+      "no_speech_prob": 0.03456,
+      "compression_ratio": 1.30612,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

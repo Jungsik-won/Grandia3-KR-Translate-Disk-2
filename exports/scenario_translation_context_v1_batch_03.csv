@@ -1,0 +1,297 @@
+id,category,sub_category,source_file,inner_file,record_id,scene_id,string_index,original_offset,pointer_offset,jp_raw_hex,jp_text,kr_text,kr_encoded_hex,speaker,control_codes,status,game_verified,translator_note,review_note,canonical_jp_text,reference_glyph_status,reference_glyphs_used
+SCN_00030600_00740000_0022,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,21,0x0025ea0d,0x0025ea08,7d 95 8c 43 08 9b 79 44 21 94 b5 c2 9a b9 f2 77 98 bd 44 0d ff 00,"おっす！
+どう？、ちゃんと焼いてる？","안녕!
+어때? 제대로 굽고 있어?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":4,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":19,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"おっす！
+どう？<G0001>ちゃんと焼いてる？",SUPPORTED,0001
+SCN_00030600_00740000_0023,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,22,0x0025ea70,0x0025ea6b,2c f0 3a f0 e9 7e 74 44 08 8b b5 75 21 90 a0 50 f1 dd f1 95 98 9b be 44 08 a1 f0 8e 98 82 be 43 0d ff 00,"ホントかぁ？
+じゃあ、その作品ってどれ？
+見せてくれ！","정말이야?
+그럼 그 작품은 어느 거야?
+보여 줘!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":24,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":32,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ホントか<G0054>？
+じゃあ<G0001>その作品ってどれ？
+見せてくれ！",SUPPORTED,"0001,0054"
+SCN_00030600_00740000_0024,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,23,0x0025eaed,0x0025eae8,b9 f2 80 b0 82 95 98 c2 93 bf 44 08 9c c2 99 21 50 f1 dd f1 7f 90 f0 77 c2 93 ba 44 0d ff 00,"焼きまくってんだろ？
+なんで、作品が無いんだよ？","계속 굽고 있는 거잖아?
+그런데 왜 작품이 하나도 없어?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0b 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":11},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":28,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_12; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"焼きまくってんだろ？
+なんで<G0001>作品が無いんだよ？",SUPPORTED,0001
+SCN_00030600_00740000_0027,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,26,0x0025ed67,0x0025ed62,7b 44 21 3f f0 e4 e5 46 44 0d ff 00,え？、ロッツ…？,어? 롯츠…?,UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":9,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,え？<G0001>ロッツ<G0026>？,SUPPORTED,"0001,0026"
+SCN_00030600_00740000_0030,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,29,0x0025ef94,0x0025ef8f,b0 92 e6 f1 8e f4 bc 92 a0 7e 43 08 4d f4 b9 f1 a1 21 93 be 9d 44 0d ff 00,"また金借りたのか！
+あ度は、だれに？","또 돈을 빌린 거야!
+이번에는 누구한테?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"また金<G047E>りたのか！
+<G043D>度は<G0001>だれに？",SUPPORTED,"0001,043D,047E"
+SCN_00030600_00740000_0033,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,32,0x0025f0f7,0x0025f0f2,90 be 7f 88 46 21 c4 c6 e5 21 8a a2 bb 82 08 b0 f3 95 98 84 f1 9c 77 bb 8a 77 c2 93 08 b5 f0 9d 88 f0 bd 95 98 88 46 0d ff 00,"それがさ…、アイツ、しばらく
+戻って来ないらしいんだ
+旅に出るってさ…","그게 말이야… 그 녀석, 당분간
+돌아오지 않을 모양이야
+여행을 떠난다나 봐…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 09 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":9},{""offset"":14,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":28,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_10; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"それがさ<G0026><G0001>アイツ<G0001>しばらく
+<G03D0>って来ないらしいんだ
+旅に出るってさ<G0026>",SUPPORTED,"0001,0026,03D0"
+SCN_00030600_00740000_0034,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,33,0x0025f18b,0x0025f186,49 f1 42 f1 af f3 8b b5 9c 77 84 9b 46 08 80 f1 87 f6 75 95 98 88 46 0d ff 00,"飛行機じゃないけど…
+色々あってさ…","비행기는 아니지만…
+여러 가지 일이 있었어…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":13,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"飛行機じゃないけど<G0026>
+色々あってさ<G0026>",SUPPORTED,0026
+SCN_00030600_00740000_0036,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,35,0x0025f251,0x0025f24c,77 b6 21 87 b3 c2 46 0d ff 00,いや、ごめん…,"아니, 미안…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":7,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,いや<G0001>ごめん<G0026>,SUPPORTED,"0001,0026"
+SCN_00030600_00740000_0037,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,36,0x0025f2c4,0x0025f2bf,8d 95 9a 21 7e b0 b1 f0 9d 77 92 a0 7e ba 44 08 5c f1 8b b5 62 f0 da f0 22 f4 7f 75 95 92 c2 93 8f 43 08 d2 3b f0 e8 c5 db 88 c2 7f 08 d7 f0 85 f4 9d 88 be 98 88 43 0d ff 00,"ずっと、かま場にいたのかよ？
+外じゃ大事件があったんだよ！
+グラディスさんが
+人質にされてさ！","계속 가마터에만 있었던 거야?
+밖에서는 큰 사건이 있었다고!
+글래디스 씨가
+인질로 잡혔었다니까!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":34,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":44,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":55,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ずっと<G0001>かま場にいたのかよ？
+<G01DC>じゃ大事<G0412>があったんだ<G006F>！
+グラディスさんが
+人質にされてさ！",SUPPORTED,"0001,006F,01DC,0412"
+SCN_00030600_00740000_0039,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,38,0x0025f3c7,0x0025f3c2,a7 45 c2 08 99 21 93 77 92 77 08 9b be 82 bb 77 21 27 f1 94 9a f0 c2 99 c2 a0 44 0d ff 00,"ふ〜ん
+で、だいたい
+どれくらい、落ち込んでんの？","흐음
+그래서, 대체
+얼마나 풀이 죽은 거야?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":3,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ふ〜ん
+で<G0001>だいたい
+どれくらい<G0001>落ち込んでんの？",SUPPORTED,0001
+SCN_00030600_00740000_0040,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,39,0x0025f48c,0x0025f487,a6 f0 4a f1 ba e4 41 41 08 5c f9 9a a1 80 f3 7e e4 42 0d ff 00,"少年よッ！！
+夢とは何かッ？","소년이여!!
+꿈이란 무엇인가!?",UNASSIGNED,アロンソ,"[{""offset"":-5,""raw_hex"":""22 0e 00 24 00"",""kind"":""MESSAGE_HEADER"",""opcode"":34,""argument"":36},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":18,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_alonso_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"少<G01CA>よッ<G0021><G0021>
+<G085C>とは何かッ<G0022>",SUPPORTED,"0021,0022,01CA,085C"
+SCN_00030600_00740000_0041,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,40,0x0025f53f,0x0025f53a,eb 2f f0 2e f4 95 98 c2 8b b5 9c 77 a0 43 08 ad c2 9a 9d 21 ce d9 34 f0 3a f0 7d 8b 88 c2 08 6b f2 be 98 82 bd c0 ba 44 0d ff 00,"ナマ言ってんじゃないの！
+ほんとに、ガシャンおじさん
+連れてくるわよ？","허세 부리지 마!
+정말 가샨 아저씨를
+데려온다?",UNASSIGNED,ミランダ,"[{""offset"":-5,""raw_hex"":""22 0e 00 20 00"",""kind"":""MESSAGE_HEADER"",""opcode"":34,""argument"":32},{""offset"":14,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":30,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":40,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_miranda_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ナマ<G041E>ってんじゃないの！
+ほんとに<G0001>ガシャンおじさん
+連れてくるわよ？",SUPPORTED,"0001,041E"
+SCN_00030600_00740000_0044,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,43,0x0025f748,0x0025f743,7d 95 8c 43 08 90 95 94 86 90 08 ba 82 d1 24 f0 9d 88 be 98 9c 77 9c 43 08 a5 95 82 bc 93 8f 43 0d ff 00,"おっす！
+そっちこそ
+よくクビにされてないな！
+びっくりだよ！","안녕!
+너야말로
+아직도 안 잘렸네!
+놀랍다, 정말!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":4,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":24,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":32,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"おっす！
+そっちこそ
+よくクビにされてないな！
+びっくりだ<G006F>！",SUPPORTED,006F
+SCN_00030600_00740000_0047,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,46,0x0025f9d8,0x0025f9d3,c2 44 21 9b 79 8a 98 44 0d ff 00,ん？、どうして？,응? 왜?,UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0b 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":11},{""offset"":8,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_12; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,ん？<G0001>どうして？,SUPPORTED,0001
+SCN_00030600_00740000_0048,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,47,0x0025fb05,0x0025fb00,3f f0 e4 e5 42 08 b0 88 7e 21 75 77 96 b4 08 49 f1 42 f1 af f3 99 b0 f3 95 98 84 f1 92 a0 7e 44 0d ff 00,"ロッツ？
+まさか、あいつも
+飛行機で戻って来たのか？","롯츠?
+설마 그 녀석도
+비행기로 돌아온 거야?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":5,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":14,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":32,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ロッツ<G0022>
+まさか<G0001>あいつも
+飛行機で<G03D0>って来たのか？",SUPPORTED,"0001,0022,03D0"
+SCN_00030600_00740000_0049,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,48,0x0025fb6f,0x0025fb6a,90 79 7e 21 3f f0 e4 e5 b4 46 43 0d ff 00,そうか、ロッツも…！,"그렇구나, 롯츠도…!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 09 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":9},{""offset"":11,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_10; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,そうか<G0001>ロッツも<G0026>！,SUPPORTED,"0001,0026"
+SCN_00030600_00740000_0050,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,49,0x0025fb95,0x0025fb90,c3 f0 5b f0 9c 49 f1 42 f1 af f3 7e 46 08 75 77 96 21 cd 3b f0 47 3c f0 3a f0 d2 9a 7e 08 d2 f3 5b f0 9c 88 90 79 93 b4 c2 9c 46 43 0d ff 00,"地味な飛行機か…
+あいつ、カラーリングとか
+興味なさそうだもんな…！","수수한 비행기인가…
+그 녀석은 도색 같은 건
+관심 없어 보이니까…!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":13,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":29,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":44,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"地味な飛行機か<G0026>
+あいつ<G0001>カラーリングとか
+<G03F2>味なさそうだもんな<G0026>！",SUPPORTED,"0001,0026,03F2"
+SCN_00030600_00740000_0051,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,50,0x0025fce2,0x0025fcdd,3f f0 e4 e5 42 08 b0 88 7e 21 75 77 96 b4 08 49 f1 42 f1 af f3 99 b0 f3 95 98 84 f1 92 a0 7e 44 0d ff 00,"ロッツ？
+まさか、あいつも
+飛行機で戻って来たのか？","롯츠?
+설마 그 녀석도
+비행기로 돌아온 거야?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":5,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":14,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":32,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ロッツ<G0022>
+まさか<G0001>あいつも
+飛行機で<G03D0>って来たのか？",SUPPORTED,"0001,0022,03D0"
+SCN_00030600_00740000_0052,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,51,0x0025fd6b,0x0025fd66,50 f6 b6 a0 f3 44 08 80 f3 7f 75 95 92 c2 93 ba 0d ff 00,"冷や汗？
+何があったんだよ","식은땀?
+무슨 일이 있었던 거야?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":6,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":16,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"冷や<G03C0>？
+何があったんだよ",SUPPORTED,03C0
+SCN_00030600_00740000_0053,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,52,0x0025fddb,0x0025fdd6,7b 44 21 93 84 9b 21 86 9c 77 93 08 c3 f3 49 f6 7f 80 f0 95 98 08 e6 f1 c1 89 f1 8e bd 9a 7e 2e f4 95 98 92 ba 9c 44 0d ff 00,"え？、だけど、こないだ
+給料が入って
+金を返せるとか言ってたよな？","어? 그런데 얼마 전에는
+월급을 받아서
+돈을 갚을 수 있다고 했잖아?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":21,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"え？<G0001>だけど<G0001>こないだ
+給<G05D9>が入って
+金を<G0209>せるとか<G041E>ってたよな？",SUPPORTED,"0001,0209,041E,05D9"
+SCN_00030600_00740000_0056,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,55,0x00260028,0x00260023,b0 74 21 3b f4 d4 3a f0 cd 9c bb 08 77 96 b4 a0 86 9a 93 bf 08 90 be 9a b4 21 77 9c 82 9c 95 92 bb 08 80 f3 7e 4e f4 bd a0 44 0d ff 00,"まぁ、口ゲンカなら
+いつものことだろ
+それとも、いなくなったら
+何か困るの？","뭐, 말다툼이라면
+늘 있는 일이잖아
+아니면 그 사람이 없어지면
+곤란한 일이라도 있어?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":20,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":33,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":42,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ま<G0054><G0001>口ゲンカなら
+いつものことだろ
+それとも<G0001>いなくなったら
+何か<G043E>るの？",SUPPORTED,"0001,0054,043E"
+SCN_00030600_00740000_0057,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,56,0x0026036d,0x00260368,7d 8b 88 c2 21 6c f4 da f0 44 08 26 f5 70 f0 c0 bb 8d de f5 8a 90 79 93 9f 0d ff 00,"おじさん、仕事？
+相変わらず忙しそうだね","아저씨, 일하는 중이야?
+여전히 바빠 보이네",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"おじさん<G0001>仕事？
+<G04E6>変わらず<G059E>しそうだね",SUPPORTED,"0001,04E6,059E"
+SCN_00030600_00740000_0058,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,57,0x00260422,0x0026041d,77 b6 cc 3e f0 21 e5 2d f0 a0 86 9a 08 ba 82 7b f0 7e bb 9c 77 84 9b 88 08 b6 95 a3 21 7d 8b 88 c2 a0 e5 2d f0 95 98 08 9c c2 7e 71 f1 77 bb f0 7f 8c bd ba 0d ff 00,"いやオレ、ツボのこと
+よく分からないけどさ
+やっぱ、おじさんのツボって
+なんか良い気がするよ","아니, 난 항아리는
+잘 모르지만 말이야
+역시 아저씨 항아리는
+뭔가 좋은 것 같아",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":24,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":52,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"いやオレ<G0001>ツボのこと
+よく分からないけどさ
+やっ<G0083><G0001>おじさんのツボって
+なんか良い気がするよ",SUPPORTED,"0001,0083"
+SCN_00030600_00740000_0059,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,58,0x002604ba,0x002604b5,a1 a1 46 21 90 bc b5 cf 24 f0 d9 c6 9c 46 0d ff 00,はは…、そりゃキビシイな…,하하… 그건 좀 심하네…,UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":14,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,はは<G0026><G0001>そりゃキビシイな<G0026>,SUPPORTED,"0001,0026"
+SCN_00030600_00740000_0060,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,59,0x002605e8,0x002605e3,79 b0 90 79 93 9c 46 08 90 79 77 b6 cc 3e f0 08 b0 93 32 f0 d9 c3 f4 95 98 9c 77 c2 93 08 a6 f0 8a c4 f5 aa 95 92 9c 46 0d ff 00,"うまそうだな…
+そういやオレ
+まだメシ食ってないんだ
+少し腹へったな…","맛있어 보이네…
+그러고 보니 나
+아직 밥을 안 먹었어
+좀 배고프네…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":7,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":29,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":40,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"うまそうだな<G0026>
+そういやオレ
+まだメシ食ってないんだ
+少し<G0584>へったな<G0026>",SUPPORTED,"0026,0584"
+SCN_00030600_00740000_0061,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,60,0x0026066a,0x00260665,46 c2 43 21 77 77 b6 08 77 b0 21 79 94 9d d3 ce d7 f0 7f 77 bd c2 93 08 df f0 82 20 f0 47 27 f0 c1 08 b8 f1 95 98 77 95 98 75 85 9c 77 9a 43 0d ff 00,"…ん！、いいや
+いま、うちにケガ人がいるんだ
+早くハーブを
+持っていってあげないと！","…응! 아니, 됐어
+지금 우리 집에 다친 사람이 있어
+얼른 허브를
+가져다줘야 해!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":7,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":33,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":47,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"<G0026>ん！<G0001>いいや
+いま<G0001>うちにケガ人がいるんだ
+早くハーブを
+持っていってあげないと！",SUPPORTED,"0001,0026"
+SCN_00030600_00740000_0062,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,61,0x002606dc,0x002606d7,7d a2 88 c2 7f 21 90 c2 9c a4 f1 7c f0 8a 98 08 9b 79 8c c2 93 ba 43 08 93 77 8b b9 79 a8 21 8c 83 9d bc f0 bd 88 0d ff 00,"おばさんが、そんな心配して
+どうすんだよ！
+だいじょうぶ、すぐに治るさ","아줌마가 그렇게 걱정해서
+어쩌려고 그래!
+괜찮아, 금방 나을 거야",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":38,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"おばさんが<G0001>そんな心<G012C>して
+どうすんだよ！
+だいじょうぶ<G0001>すぐに治るさ",SUPPORTED,"0001,012C"
+SCN_00030600_00740000_0065,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,64,0x002609ba,0x002609b5,94 21 94 7f 79 95 98 43 08 77 bf 77 bf 75 95 98 08 4d f0 8b f6 9d b5 f0 8c bd da f0 9d 9c 95 92 93 84 88 08 29 f0 3a f0 9c 86 9a 21 2e f4 79 9c ba 43 0d ff 00,"ち、ちがうって！
+いろいろあって
+一緒に旅する事になっただけさ
+ヘンなこと、言うなよ！","아, 아니라니까!
+여러 일이 있어서
+같이 여행하게 됐을 뿐이야
+이상한 소리 하지 마!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":16,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":35,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":50,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ち<G0001>ちがうって！
+いろいろあって
+一<G061B>に旅する事になっただけさ
+ヘンなこと<G0001><G041E>うなよ！",SUPPORTED,"0001,041E,061B"
+SCN_00030600_00740000_0066,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,65,0x00260a86,0x00260a81,46 2c f0 3a f0 e9 90 79 ba 9f 08 9f 7a 21 c4 3d f0 26 f0 c5 eb 95 98 08 77 b0 21 77 82 96 9c a0 44 0d ff 00,"…ホントそうよね
+ねぇ、アルフィナって
+いま、いくつなの？","…정말 그렇네
+저기, 알피나는
+지금 몇 살이야?",UNASSIGNED,ミランダ,"[{""offset"":-5,""raw_hex"":""22 0e 00 20 00"",""kind"":""MESSAGE_HEADER"",""opcode"":34,""argument"":32},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":33,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_miranda_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"<G0026>ホントそうよね
+ね<G005A><G0001>アルフィナって
+いま<G0001>いくつなの？",SUPPORTED,"0001,0026,005A"
+SCN_00030600_00740000_0070,SCENARIO,scenario_message,DATA/00030600.MDZ,DATA/00030600.MDT,0x00740000,00030600,69,0x00260fd9,0x00260fd4,94 f3 7e 9d 46 08 99 b4 46 21 78 f1 7b f0 08 b0 f3 95 98 86 9c 90 79 93 9c 46 0d ff 00,"確かに…
+でも…、当分
+戻ってこなそうだな…","확실히…
+하지만… 당분간은
+돌아오지 않을 것 같네…",UNASSIGNED,アルフィナ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0c 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":12},{""offset"":5,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":14,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":26,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_alfina_01; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"<G03B4>かに<G0026>
+でも<G0026><G0001>当分
+<G03D0>ってこなそうだな<G0026>",SUPPORTED,"0001,0026,03B4,03D0"
+SCN_00030800_00740000_0006,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,5,0x0029f4e5,0x0029f4e0,46 49 f1 c2 99 92 93 bf 44 0d ff 00,…飛んでただろ？,…날고 있었잖아?,UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":9,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,<G0026>飛んでただろ？,SUPPORTED,0026
+SCN_00030800_00740000_0007,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,6,0x0029f57f,0x0029f57a,46 d5 e4 2b f0 21 7d b0 7b 93 95 98 08 49 f1 ab bd c2 93 8f 21 77 f1 c2 dc f2 9d 08 55 f1 77 21 f5 77 7f 75 be a2 9c 0d ff 00,"…コッペ、おまえだって
+飛べるんだよ、胸ん中に
+強い思いがあればな","…코페, 너도
+날 수 있어. 가슴속에
+강한 마음만 있다면 말이야",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"<G0026>コッペ<G0001>おまえだって
+飛べるんだ<G006F><G0001>胸ん中に
+強い<G04E1>いがあればな",SUPPORTED,"0001,0026,006F,04E1"
+SCN_00030800_00740000_0009,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,8,0x0029f6dc,0x0029f6d7,46 49 f1 c2 99 92 93 bf 44 0d ff 00,…飛んでただろ？,…날고 있었잖아?,UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":9,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,<G0026>飛んでただろ？,SUPPORTED,0026
+SCN_00030800_00740000_0010,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,9,0x0029f776,0x0029f771,46 d5 e4 2b f0 21 7d b0 7b 93 95 98 08 49 f1 ab bd c2 93 8f 21 77 f1 c2 dc f2 9d 08 55 f1 77 21 f5 77 7f 75 be a2 9c 0d ff 00,"…コッペ、おまえだって
+飛べるんだよ、胸ん中に
+強い思いがあればな","…코페, 너도
+날 수 있어. 가슴속에
+강한 마음만 있다면 말이야",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"<G0026>コッペ<G0001>おまえだって
+飛べるんだ<G006F><G0001>胸ん中に
+強い<G04E1>いがあればな",SUPPORTED,"0001,0026,006F,04E1"
+SCN_00030800_00740000_0011,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,10,0x0029f84d,0x0029f848,75 75 21 d5 e4 2b f0 08 90 be 7f 75 be a2 46 08 49 f1 ab bd 88 43 0d ff 00,"ああ、コッペ
+それがあれば…
+飛べるさ！","그래, 코페
+그것만 있으면…
+날 수 있어!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0a 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":10},{""offset"":7,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_11; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ああ<G0001>コッペ
+それがあれば<G0026>
+飛べるさ！",SUPPORTED,"0001,0026"
+SCN_00030800_00740000_0013,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,12,0x0029fa31,0x0029fa2c,7b 95 21 23 f2 3a f3 8a 46 44 0d ff 00,えっ、神隠し…？,"뭐, 신묘한 실종…?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":10,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,えっ<G0001>神<G035A>し<G0026>？,SUPPORTED,"0001,0026,035A"
+SCN_00030800_00740000_0014,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,13,0x0029fad5,0x0029fad0,23 f2 3a f3 8a 21 7e 46 08 77 b0 9a 9c 95 98 a1 08 90 c2 9c b4 a0 9c 77 9c c2 98 08 2e f4 7b 9c 77 ba 9c 46 0d ff 00,"神隠し、か…
+いまとなっては
+そんなものないなんて
+言えないよな…","신묘한 실종이라…
+이제 와서는
+그런 건 없다고
+말할 수 없겠네…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":16,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"神<G035A>し<G0001>か<G0026>
+いまとなっては
+そんなものないなんて
+<G041E>えないよな<G0026>",SUPPORTED,"0001,0026,035A,041E"
+SCN_00030800_00740000_0016,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,15,0x0029fc5d,0x0029fc58,75 75 21 75 77 96 7f 77 92 7e bb 08 86 86 b0 99 84 f1 be 92 c2 93 08 9c c2 98 77 79 7e 46 08 db f2 9e f0 a0 4d f0 3b f2 b1 92 77 9c b4 c2 88 0d ff 00,"ああ、あいつがいたから
+ここまで来れたんだ
+なんていうか…
+身体の一部みたいなもんさ","그래, 그 녀석이 있었기에
+여기까지 올 수 있었어
+뭐랄까…
+몸의 일부나 다름없지",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":30,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":47,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ああ<G0001>あいつがいたから
+ここまで来れたんだ
+なんていうか<G0026>
+身体の一部みたいなもんさ",SUPPORTED,"0001,0026"
+SCN_00030800_00740000_0021,SCENARIO,scenario_message,DATA/00030800.MDZ,DATA/00030800.MDT,0x00740000,00030800,20,0x0029ff31,0x0029ff2c,86 86 99 ee f5 c1 bb f2 95 98 9c 7e 95 92 bb 08 c4 3d f0 26 f0 c5 eb 9d b4 08 63 f0 7b 9c 7e 95 92 c2 93 46 0d ff 00,"ここで夢を追ってなかったら
+アルフィナにも
+会えなかったんだ…","여기서 꿈을 좇지 않았다면
+알피나도
+만나지 못했을 거야…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ここで夢を<G030B>ってなかったら
+アルフィナにも
+<G0113>えなかったんだ<G0026>",SUPPORTED,"0026,0113,030B"
+SCN_00030900_00740000_0005,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,4,0x001cb5be,0x001cb5b9,c0 95 21 c0 7e bc b0 8c e4 08 46 9a a1 f1 77 b0 8c e4 43 08 9c c2 9a 9c 82 e4 43 0d ff 00,"わっ、わかりますッ
+…と思いますッ！
+なんとなくッ！","아, 알겠습니다!
+…라고 생각합니다!
+왠지 모르게요!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":9,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":19,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"わっ<G0001>わかりますッ
+<G0026>と思いますッ！
+なんとなくッ！",SUPPORTED,"0001,0026"
+SCN_00030900_00740000_0006,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,5,0x001cb62a,0x001cb625,80 f3 95 98 21 e5 2d f0 a0 41 f2 4b f1 a0 38 f1 46 08 46 93 ba 9c 44 0d ff 00,"何って、ツボの破片の山…
+…だよな？","뭐냐니, 항아리 파편 더미…
+…맞지?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0b 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":11},{""offset"":17,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_12; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"何って<G0001>ツボの破片の山<G0026>
+<G0026>だよな？",SUPPORTED,"0001,0026"
+SCN_00030900_00740000_0007,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,6,0x001cb6ad,0x001cb6a8,cc 3e f0 21 de f5 8a 77 7e bb 88 08 b0 92 4d f4 b9 f1 9f 43 0d ff 00,"オレ、忙しいからさ
+またあ度ね！","나 바쁘니까
+또 다음에!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":20,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"オレ<G0001><G059E>しいからさ
+また<G043D>度ね！",SUPPORTED,"0001,043D,059E"
+SCN_00030900_00740000_0008,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,7,0x001cb77f,0x001cb77a,9b 95 7e 42 f1 82 a0 44 08 7d 8b 88 c2 7f b5 f0 42 f1 9c c2 98 08 5b f1 5c f1 93 ba 9c 43 0d ff 00,"どっか行くの？
+おじさんが旅行なんて
+意外だよな！","어디 가는 거야?
+아저씨가 여행이라니
+의외네!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":21,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":30,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"どっか行くの？
+おじさんが旅行なんて
+意<G01DC>だよな！",SUPPORTED,01DC
+SCN_00030900_00740000_0011,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,10,0x001cb8f4,0x001cb8ef,84 9b 21 30 f0 3b f0 3a f0 e2 9d a1 08 86 f5 8b f6 93 8f 41 0d ff 00,"けど、ミランダには
+内緒だよ！","하지만 미란다한테는
+비밀이야!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":20,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"けど<G0001>ミランダには
+内<G061B>だ<G006F><G0021>",SUPPORTED,"0001,0021,006F,061B"
+SCN_00030900_00740000_0012,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,11,0x001cb9a2,0x001cb99d,d6 32 f0 3a f0 21 77 b0 a0 21 9c c2 93 7e 08 ba 82 c0 7e bb 9c 7e 95 92 ba 0d ff 00,"ゴメン、いまの、なんだか
+よくわからなかったよ","미안, 방금 건 뭔가
+잘 모르겠어",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":14,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ゴメン<G0001>いまの<G0001>なんだか
+よくわからなかったよ",SUPPORTED,0001
+SCN_00030900_00740000_0016,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,15,0x001cbcd4,0x001cbccf,95 92 82 21 9c c2 93 95 98 a0 ba 46 08 5c f9 7f 4c f1 be 92 a0 a1 08 75 92 8a a0 8e 77 44 0d ff 00,"ったく、なんだってのよ…
+夢が黙れたのは
+あたしのせい？","정말이지, 뭐라는 거야…
+꿈이 망가진 게
+내 탓이라는 거야?",UNASSIGNED,ミランダ,"[{""offset"":-5,""raw_hex"":""22 0e 00 20 00"",""kind"":""MESSAGE_HEADER"",""opcode"":34,""argument"":32},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":30,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_miranda_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ったく<G0001>なんだってのよ<G0026>
+<G085C>が<G01CC>れたのは
+あたしのせい？",SUPPORTED,"0001,0026,01CC,085C"
+SCN_00030900_00740000_0020,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,19,0x001cc354,0x001cc34f,7d 8b 88 c2 46 44 08 4c 90 95 9a 8a 98 7d 86 79 46 4d 0d ff 00,"おじさん…？
+「そっとしておこう…」","아저씨…?
+「모른 척하자…」",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":6,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":18,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"おじさん<G0026>？
+<G002C>そっとしておこう<G0026><G002D>",SUPPORTED,"0026,002C,002D"
+SCN_00030900_00740000_0021,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,20,0x001cc448,0x001cc443,7d 8b 88 c2 21 90 86 9d 81 f0 7e 77 bd a0 44 08 4c 90 95 9a 8a 98 7d 86 79 46 4d 0d ff 00,"おじさん、そこに誰かいるの？
+「そっとしておこう…」","아저씨, 거기 누가 있어?
+「모른 척하자…」",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"おじさん<G0001>そこに誰かいるの？
+<G002C>そっとしておこう<G0026><G002D>",SUPPORTED,"0001,0026,002C,002D"
+SCN_00030900_00740000_0022,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,21,0x001cc551,0x001cc54c,75 75 95 21 bb f0 b8 f1 94 e1 f0 77 9c 74 95 43 08 4c 72 f1 7b bf 43 90 be 7f 2b f6 8a 88 93 43 4d 0d ff 00,"ああっ、気持ち悪いなぁっ！
+「耐えろ！それが優しさだ！」","아아, 징그러워!
+「참아! 그게 배려야!」",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 07 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":7},{""offset"":16,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":33,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_08; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"ああっ<G0001>気持ち悪いな<G0054>っ！
+<G002C>耐えろ！それが優しさだ！<G002D>",SUPPORTED,"0001,002C,002D,0054"
+SCN_00030900_00740000_0023,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,22,0x001cc5dc,0x001cc5d7,75 95 21 87 b3 c2 46 43 08 8d f4 6a f0 8c bd 96 b4 bc a1 08 90 f0 7e 95 92 92 c2 93 0d ff 00,"あっ、ごめん…！
+邪魔するつもりは
+無かったたんだ","앗, 미안…!
+방해할 생각은
+없었어",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":19,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":28,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"あっ<G0001>ごめん<G0026>！
+邪魔するつもりは
+無かったたんだ",SUPPORTED,"0001,0026"
+SCN_00030900_00740000_0024,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,23,0x001cc630,0x001cc62b,79 c2 46 08 77 b0 a1 f0 92 86 9a 08 81 f0 9d b4 2e f4 c0 9c 77 7e bb 88 46 0d ff 00,"うん…
+いま見たこと
+誰にも言わないからさ…","응…
+방금 본 건
+아무에게도 말하지 않을게…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":3,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,"うん<G0026>
+いま見たこと
+誰にも<G041E>わないからさ<G0026>",SUPPORTED,"0026,041E"
+SCN_00030900_00740000_0028,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,27,0x001ccc57,0x001ccc52,75 74 46 21 e5 2d f0 b9 f2 80 2a f1 e2 f4 7f 46 43 0d ff 00,あぁ…、ツボ焼き伝説が…！,아아… 항아리 굽기 전설이…!,UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":17,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,あ<G0054><G0026><G0001>ツボ焼き伝説が<G0026>！,SUPPORTED,"0001,0026,0054"
+SCN_00030900_00740000_0030,SCENARIO,scenario_message,DATA/00030900.MDZ,DATA/00030900.MDT,0x00740000,00030900,29,0x001ccda4,0x001ccd9f,7d 8b 88 c2 46 0d ff 00,おじさん…,아저씨…,UNASSIGNED,アルフィナ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0c 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":12},{""offset"":5,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역.,SUPPORTED: structured scenario command; header FACE slot maps to face_alfina_01; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. TERM: 버스피어·파스·도박장.,おじさん<G0026>,SUPPORTED,0026

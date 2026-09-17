@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b8",
+  "stream_key": "0xB8",
+  "sample_ids": [
+    "0x4FA",
+    "0x4FB"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b8.flac",
+  "audio_sha256": "cc0ebc3572b6cf9494fce29f7c0171d8b94063a9754f4a25dda4f36eccefa49e",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "LOW_CHARACTER_DIVERSITY:0.117",
+    "HIGH_COMPRESSION_RATIO:11.684"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミラ ダメだ!アルフィア! 戦うしかない! リンザー!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミラ",
+      "avg_logprob": -0.18099,
+      "no_speech_prob": 0.00134,
+      "compression_ratio": 11.68421,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 31.16,
+      "speaker": "",
+      "text": "ダメだ!アルフィア!",
+      "avg_logprob": -0.64546,
+      "no_speech_prob": 0.00632,
+      "compression_ratio": 0.87879,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 31.76,
+      "end": 32.84,
+      "speaker": "",
+      "text": "戦うしかない!",
+      "avg_logprob": -0.64546,
+      "no_speech_prob": 0.00632,
+      "compression_ratio": 0.87879,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 33.52,
+      "end": 34.76,
+      "speaker": "",
+      "text": "リンザー!",
+      "avg_logprob": -0.64546,
+      "no_speech_prob": 0.00632,
+      "compression_ratio": 0.87879,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

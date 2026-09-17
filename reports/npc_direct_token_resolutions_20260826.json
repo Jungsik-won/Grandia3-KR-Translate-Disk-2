@@ -1,0 +1,2045 @@
+{
+  "mode": "NPC_DIRECT_ASCII_NUMBER_TOKEN_RESOLUTION",
+  "input": "/Users/j.swon/Desktop/Grandia3_KR/exports/npc_dialogue_standard_ko.csv",
+  "output": "/Users/j.swon/Desktop/Grandia3_KR/exports/npc_dialogue_standard_ko.csv",
+  "database": "/Users/j.swon/Desktop/Grandia3_KR/translation.db",
+  "rows": 11637,
+  "changed_rows": 179,
+  "applied_occurrences": 232,
+  "before_counts": {
+    "G0034": 43,
+    "G0036": 35,
+    "G0037": 18,
+    "G0038": 54,
+    "G0039": 42,
+    "G003A": 2,
+    "G003F": 2,
+    "G0040": 24,
+    "G0042": 2,
+    "G0044": 1,
+    "G0045": 2,
+    "G0047": 2,
+    "G0051": 5
+  },
+  "remaining_decision_tokens": {
+    "G0034": 0,
+    "G0036": 0,
+    "G0037": 0,
+    "G0038": 0,
+    "G0039": 0,
+    "G003A": 0,
+    "G003F": 0,
+    "G0040": 0,
+    "G0042": 0,
+    "G0044": 0,
+    "G0045": 0,
+    "G0047": 0,
+    "G0051": 0
+  },
+  "database_promoted_ids": [
+    "NPC_D1_00008000_R00740000_O32_0008",
+    "NPC_D1_00008000_R00740000_O32_0009",
+    "NPC_D1_00030000_R00740000_O81_0063",
+    "NPC_D1_00030000_R00740000_O81_0078",
+    "NPC_D1_00030000_R00740000_O81_0092",
+    "NPC_D1_00030000_R00740000_O81_0103",
+    "NPC_D1_00030000_R00740000_O81_0113",
+    "NPC_D1_00030000_R00740000_O81_0114",
+    "NPC_D1_00030000_R00740000_O81_0119",
+    "NPC_D1_00030000_R00740000_O81_0149",
+    "NPC_D1_00030000_R00740000_O81_0162",
+    "NPC_D1_00030000_R00740000_O81_0333",
+    "NPC_D1_00030500_R00740000_O42_0001",
+    "NPC_D1_00030600_R00740000_O12_0001",
+    "NPC_D1_00030600_R00740000_O81_0100",
+    "NPC_D1_00030900_R00740000_O81_0054",
+    "NPC_D1_00120000_R00740000_O81_0003",
+    "NPC_D1_00120000_R00740000_O81_0005",
+    "NPC_D1_00120000_R00740000_O81_0008",
+    "NPC_D1_00120000_R00740000_O81_0010",
+    "NPC_D1_00120000_R00740000_O81_0013",
+    "NPC_D1_00120000_R00740000_O81_0016",
+    "NPC_D1_00120000_R00740000_O81_0054",
+    "NPC_D1_00120000_R00740000_O81_0064",
+    "NPC_D1_00120000_R00740000_O81_0071",
+    "NPC_D1_00120000_R00740000_O81_0073",
+    "NPC_D1_00120000_R00740000_O81_0074",
+    "NPC_D1_00120000_R00740000_O81_0077",
+    "NPC_D1_00120000_R00740000_O81_0078",
+    "NPC_D1_00120000_R00740000_O81_0080",
+    "NPC_D1_00120100_R00740000_O81_0025",
+    "NPC_D1_00120100_R00740000_O81_0093",
+    "NPC_D1_00120100_R00740000_O81_0096",
+    "NPC_D1_00120100_R00740000_O81_0097",
+    "NPC_D1_00120100_R00740000_O81_0131",
+    "NPC_D1_00120100_R00740000_O81_0133",
+    "NPC_D1_00120100_R00740000_O81_0161",
+    "NPC_D1_00120100_R00740000_O81_0187",
+    "NPC_D1_00120200_R00740000_O81_0039",
+    "NPC_D1_00120200_R00740000_O81_0068",
+    "NPC_D1_00211000_R00740000_O32_0007",
+    "NPC_D1_00211000_R00740000_O42_0022",
+    "NPC_D1_00211000_R00740000_O81_0049",
+    "NPC_D1_00211000_R00740000_O81_0187",
+    "NPC_D1_00211000_R00740000_O81_0191",
+    "NPC_D1_00211000_R00740000_O81_0202",
+    "NPC_D1_00212000_R00740000_O12_0016",
+    "NPC_D1_00212000_R00740000_O12_0017",
+    "NPC_D1_00212000_R00740000_O81_0014",
+    "NPC_D1_00212000_R00740000_O81_0017",
+    "NPC_D1_00212000_R00740000_O81_0018",
+    "NPC_D1_00212000_R00740000_O81_0034",
+    "NPC_D1_00212000_R00740000_O81_0037",
+    "NPC_D1_00212000_R00740000_O81_0044",
+    "NPC_D1_00212000_R00740000_O81_0134",
+    "NPC_D1_00212000_R00740000_O81_0136",
+    "NPC_D1_00212000_R00740000_O81_0224",
+    "NPC_D1_00212000_R00740000_O81_0276",
+    "NPC_D1_00212000_R00740000_O81_0277",
+    "NPC_D1_00214000_R00740000_O81_0008",
+    "NPC_D1_00214000_R00740000_O81_0166",
+    "NPC_D1_00214000_R00740000_O81_0366",
+    "NPC_D1_00214000_R00740000_O81_0487",
+    "NPC_D1_00214000_R00740000_O81_0580",
+    "NPC_D1_00214000_R00740000_O81_0581",
+    "NPC_D1_00214000_R00740000_O81_0582",
+    "NPC_D1_00214000_R00740000_O81_0586",
+    "NPC_D1_00214000_R00740000_O81_0619",
+    "NPC_D1_00214000_R00740000_O81_0620",
+    "NPC_D1_00214000_R00740000_O81_0625",
+    "NPC_D1_00214000_R00740000_O81_0628",
+    "NPC_D1_00214000_R00740000_O81_0641",
+    "NPC_D1_00214000_R00740000_O81_0645",
+    "NPC_D1_00214000_R00740000_O81_0648",
+    "NPC_D1_00214100_R00740000_O42_0108",
+    "NPC_D1_00214100_R00740000_O42_0109",
+    "NPC_D1_00214100_R00740000_O42_0110",
+    "NPC_D1_00214100_R00740000_O42_0111",
+    "NPC_D1_00214100_R00740000_O42_0112",
+    "NPC_D1_00214100_R00740000_O42_0113",
+    "NPC_D1_00214100_R00740000_O52_0027",
+    "NPC_D1_00214100_R00740000_O52_0036",
+    "NPC_D1_00214100_R00740000_O81_0024",
+    "NPC_D1_00214100_R00740000_O81_0031",
+    "NPC_D1_00214100_R00740000_O81_0033",
+    "NPC_D1_00214100_R00740000_O81_0034",
+    "NPC_D1_00214100_R00740000_O81_0035",
+    "NPC_D1_00216100_R00740000_O81_0005",
+    "NPC_D1_00216100_R00740000_O81_0008",
+    "NPC_D1_00216100_R00740000_O81_0009",
+    "NPC_D1_00241000_R00740000_O81_0038",
+    "NPC_D1_00241900_R00740000_O81_0003",
+    "NPC_D1_00241900_R00740000_O81_0004",
+    "NPC_D1_00242300_R00740000_O12_0017",
+    "NPC_D1_00242300_R00740000_O12_0019",
+    "NPC_D1_00242300_R00740000_O12_0027",
+    "NPC_D1_00242300_R00740000_O81_0010",
+    "NPC_D1_00360600_R00740000_O12_0015",
+    "NPC_D1_00361100_R00740000_O81_0014",
+    "NPC_D1_00362100_R00740000_O42_0023",
+    "NPC_D1_00362100_R00740000_O81_0158",
+    "NPC_D1_00362100_R00740000_O81_0167",
+    "NPC_D1_00362100_R00740000_O81_0198",
+    "NPC_D1_00362100_R00740000_O81_0199",
+    "NPC_D1_00450000_R00740000_O12_0016",
+    "NPC_D1_00450000_R00740000_O42_0019",
+    "NPC_D1_00450000_R00740000_O81_0130",
+    "NPC_D1_00630800_R00740000_O81_0059",
+    "NPC_D1_00630900_R00740000_O81_0055",
+    "NPC_D1_00635000_R00740000_O81_0131",
+    "NPC_D1_00635000_R00740000_O82_0008",
+    "NPC_D1_00635000_R00740000_O82_0013",
+    "NPC_D1_01140401_R00740000_O12_0015",
+    "NPC_D1_01160301_R00740000_O12_0016",
+    "NPC_D1_01160301_R00740000_O42_0019",
+    "NPC_D1_01160301_R00740000_O81_0130",
+    "NPC_D1_01180604_R00740000_O12_0015",
+    "NPC_D1_01210401_R00740000_O82_0001",
+    "NPC_D1_01210502_R00740000_O81_0038",
+    "NPC_D1_01240401_R00740000_O81_0131",
+    "NPC_D1_01240401_R00740000_O82_0008",
+    "NPC_D1_01240401_R00740000_O82_0013",
+    "NPC_D1_01240501_R00740000_O81_0131",
+    "NPC_D1_01240501_R00740000_O82_0008",
+    "NPC_D1_01240501_R00740000_O82_0013",
+    "NPC_D1_10214101_R00740000_O42_0108",
+    "NPC_D1_10214101_R00740000_O42_0109",
+    "NPC_D1_10214101_R00740000_O42_0110",
+    "NPC_D1_10214101_R00740000_O42_0111",
+    "NPC_D1_10214101_R00740000_O42_0112",
+    "NPC_D1_10214101_R00740000_O42_0113",
+    "NPC_D1_10214101_R00740000_O52_0027",
+    "NPC_D1_10214101_R00740000_O52_0036",
+    "NPC_D1_10214101_R00740000_O81_0024",
+    "NPC_D1_10214101_R00740000_O81_0031",
+    "NPC_D1_10214101_R00740000_O81_0033",
+    "NPC_D1_10214101_R00740000_O81_0034",
+    "NPC_D1_10214101_R00740000_O81_0035",
+    "NPC_D1_10214102_R00740000_O42_0108",
+    "NPC_D1_10214102_R00740000_O42_0109",
+    "NPC_D1_10214102_R00740000_O42_0110",
+    "NPC_D1_10214102_R00740000_O42_0111",
+    "NPC_D1_10214102_R00740000_O42_0112",
+    "NPC_D1_10214102_R00740000_O42_0113",
+    "NPC_D1_10214102_R00740000_O52_0027",
+    "NPC_D1_10214102_R00740000_O52_0036",
+    "NPC_D1_10214102_R00740000_O81_0024",
+    "NPC_D1_10214102_R00740000_O81_0031",
+    "NPC_D1_10214102_R00740000_O81_0033",
+    "NPC_D1_10214102_R00740000_O81_0034",
+    "NPC_D1_10214102_R00740000_O81_0035",
+    "NPC_D1_10214103_R00740000_O42_0108",
+    "NPC_D1_10214103_R00740000_O42_0109",
+    "NPC_D1_10214103_R00740000_O42_0110",
+    "NPC_D1_10214103_R00740000_O42_0111",
+    "NPC_D1_10214103_R00740000_O42_0112",
+    "NPC_D1_10214103_R00740000_O42_0113",
+    "NPC_D1_10214103_R00740000_O52_0027",
+    "NPC_D1_10214103_R00740000_O52_0036",
+    "NPC_D1_10214103_R00740000_O81_0024",
+    "NPC_D1_10214103_R00740000_O81_0031",
+    "NPC_D1_10214103_R00740000_O81_0033",
+    "NPC_D1_10214103_R00740000_O81_0034",
+    "NPC_D1_10214103_R00740000_O81_0035",
+    "NPC_D1_10214104_R00740000_O42_0108",
+    "NPC_D1_10214104_R00740000_O42_0109",
+    "NPC_D1_10214104_R00740000_O42_0110",
+    "NPC_D1_10214104_R00740000_O42_0111",
+    "NPC_D1_10214104_R00740000_O42_0112",
+    "NPC_D1_10214104_R00740000_O42_0113",
+    "NPC_D1_10214104_R00740000_O52_0027",
+    "NPC_D1_10214104_R00740000_O52_0036",
+    "NPC_D1_10214104_R00740000_O81_0024",
+    "NPC_D1_10214104_R00740000_O81_0031",
+    "NPC_D1_10214104_R00740000_O81_0033",
+    "NPC_D1_10214104_R00740000_O81_0034",
+    "NPC_D1_10214104_R00740000_O81_0035",
+    "NPC_D1_10360601_R00740000_O12_0015",
+    "NPC_D1_10360602_R00740000_O12_0015"
+  ],
+  "decisions": {
+    "G0034": {
+      "replacement": "4",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    "G0036": {
+      "replacement": "6",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    "G0037": {
+      "replacement": "7",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    "G0038": {
+      "replacement": "8",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    "G0039": {
+      "replacement": "9",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    "G003A": {
+      "replacement": "A",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    "G003F": {
+      "replacement": "F",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    "G0040": {
+      "replacement": "G",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    "G0042": {
+      "replacement": "I",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    "G0044": {
+      "replacement": "K",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    "G0045": {
+      "replacement": "L",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    "G0047": {
+      "replacement": "N",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    "G0051": {
+      "replacement": "X",
+      "evidence": "Repeated Latin-letter contexts."
+    }
+  },
+  "applied": [
+    {
+      "id": "NPC_D1_00008000_R00740000_O32_0008",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00008000_R00740000_O32_0008",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00008000_R00740000_O32_0009",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00008000_R00740000_O32_0009",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0063",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0078",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0092",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0103",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0113",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0114",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0119",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0149",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0162",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030000_R00740000_O81_0333",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030500_R00740000_O42_0001",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00030600_R00740000_O12_0001",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030600_R00740000_O81_0100",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00030900_R00740000_O81_0054",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0003",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0003",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0003",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0005",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0005",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0005",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0008",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0008",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0008",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0010",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0010",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0010",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0013",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0013",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0013",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0016",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0016",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0016",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0054",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0064",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0071",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0073",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0074",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0077",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0078",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120000_R00740000_O81_0080",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0025",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0093",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0096",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0097",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0131",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0133",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0161",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120100_R00740000_O81_0187",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120200_R00740000_O81_0039",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00120200_R00740000_O81_0068",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120200_R00740000_O81_0068",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00120200_R00740000_O81_0068",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00211000_R00740000_O81_0049",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00211000_R00740000_O32_0007",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00211000_R00740000_O81_0187",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00211000_R00740000_O42_0022",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00211000_R00740000_O81_0191",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00211000_R00740000_O81_0202",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0014",
+      "glyph_id": "G0051",
+      "replacement": "X",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0017",
+      "glyph_id": "G0051",
+      "replacement": "X",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0018",
+      "glyph_id": "G0051",
+      "replacement": "X",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0034",
+      "glyph_id": "G003A",
+      "replacement": "A",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0034",
+      "glyph_id": "G003F",
+      "replacement": "F",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0034",
+      "glyph_id": "G0042",
+      "replacement": "I",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0034",
+      "glyph_id": "G0045",
+      "replacement": "L",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0034",
+      "glyph_id": "G0047",
+      "replacement": "N",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0037",
+      "glyph_id": "G003A",
+      "replacement": "A",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0037",
+      "glyph_id": "G003F",
+      "replacement": "F",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0037",
+      "glyph_id": "G0042",
+      "replacement": "I",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0037",
+      "glyph_id": "G0045",
+      "replacement": "L",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0037",
+      "glyph_id": "G0047",
+      "replacement": "N",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0044",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0134",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O12_0016",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O12_0017",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0136",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0224",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0276",
+      "glyph_id": "G0051",
+      "replacement": "X",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00212000_R00740000_O81_0277",
+      "glyph_id": "G0051",
+      "replacement": "X",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0008",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0166",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0366",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0487",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0580",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0581",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0582",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0582",
+      "glyph_id": "G0040",
+      "replacement": "G",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0586",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0619",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0620",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0625",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0628",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0641",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0645",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214000_R00740000_O81_0648",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O81_0024",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O81_0024",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O81_0031",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O81_0033",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O81_0034",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O81_0035",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O52_0027",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0108",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0109",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0109",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O52_0036",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0110",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0111",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0112",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0112",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00214100_R00740000_O42_0113",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00216100_R00740000_O81_0005",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00216100_R00740000_O81_0008",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00216100_R00740000_O81_0009",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00241000_R00740000_O81_0038",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00241900_R00740000_O81_0003",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00241900_R00740000_O81_0004",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00242300_R00740000_O81_0010",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00242300_R00740000_O12_0017",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00242300_R00740000_O12_0017",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_00242300_R00740000_O12_0019",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00242300_R00740000_O12_0027",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00360600_R00740000_O12_0015",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00361100_R00740000_O81_0014",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00362100_R00740000_O81_0158",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00362100_R00740000_O81_0167",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00362100_R00740000_O81_0198",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00362100_R00740000_O81_0199",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00362100_R00740000_O42_0023",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00450000_R00740000_O81_0130",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00450000_R00740000_O12_0016",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00450000_R00740000_O42_0019",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00630800_R00740000_O81_0059",
+      "glyph_id": "G0044",
+      "replacement": "K",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated Latin-letter contexts."
+    },
+    {
+      "id": "NPC_D1_00630900_R00740000_O81_0055",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00630900_R00740000_O81_0055",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00635000_R00740000_O81_0131",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00635000_R00740000_O82_0008",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_00635000_R00740000_O82_0013",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01140401_R00740000_O12_0015",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01160301_R00740000_O81_0130",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01160301_R00740000_O12_0016",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01160301_R00740000_O42_0019",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01180604_R00740000_O12_0015",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01210401_R00740000_O82_0001",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01210502_R00740000_O81_0038",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01240401_R00740000_O81_0131",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01240401_R00740000_O82_0008",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01240401_R00740000_O82_0013",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01240501_R00740000_O81_0131",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01240501_R00740000_O82_0008",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_01240501_R00740000_O82_0013",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O81_0024",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O81_0024",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O81_0031",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O81_0033",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O81_0034",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O81_0035",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O52_0027",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0108",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0109",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0109",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O52_0036",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0110",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0111",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0112",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0112",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214101_R00740000_O42_0113",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O81_0024",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O81_0024",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O81_0031",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O81_0033",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O81_0034",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O81_0035",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O52_0027",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0108",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0109",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0109",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O52_0036",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0110",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0111",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0112",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0112",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214102_R00740000_O42_0113",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O81_0024",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O81_0024",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O81_0031",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O81_0033",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O81_0034",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O81_0035",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O52_0027",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0108",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0109",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0109",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O52_0036",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0110",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0111",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0112",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0112",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214103_R00740000_O42_0113",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O81_0024",
+      "glyph_id": "G0037",
+      "replacement": "7",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated contexts include 7만 나오면, 7 대 3, 19살, 7대 불가사의."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O81_0024",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 2,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O81_0031",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O81_0033",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O81_0034",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O81_0035",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O52_0027",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0108",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0109",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0109",
+      "glyph_id": "G0038",
+      "replacement": "8",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O52_0036",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0110",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0111",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0112",
+      "glyph_id": "G0034",
+      "replacement": "4",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0112",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10214104_R00740000_O42_0113",
+      "glyph_id": "G0039",
+      "replacement": "9",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10360601_R00740000_O12_0015",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    },
+    {
+      "id": "NPC_D1_10360602_R00740000_O12_0015",
+      "glyph_id": "G0036",
+      "replacement": "6",
+      "occurrences": 1,
+      "confidence": "HIGH",
+      "evidence": "Repeated numeric Korean contexts."
+    }
+  ],
+  "iso_created": false
+}

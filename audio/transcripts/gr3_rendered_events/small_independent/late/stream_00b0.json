@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b0",
+  "stream_key": "0xB0",
+  "sample_ids": [
+    "0x4E6",
+    "0x4E7"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b0.flac",
+  "audio_sha256": "3d598886a78215a960f8cddc1f987c101770945846b501ffd55bc2b4a67a9fe4",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "LOW_CHARACTER_DIVERSITY:0.116",
+    "HIGH_COMPRESSION_RATIO:37.167"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エ なぜ! セイバ様! なぜ兄なのですか? なぜ!ゾーンは兄を… その答えはお前の中にある 絆は時に悲しみを生み そして己を苦しめる それでもなお 人の絆は力なのだ 人の絆は力? アルフィナよ コミュートである前に人である 人と人を繋ぐ力 絆 お前のもっとも強い力だ セイバ様 アアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアア",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エメリウス、エ",
+      "avg_logprob": -0.08113,
+      "no_speech_prob": 0.01659,
+      "compression_ratio": 19.11429,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 32.0,
+      "speaker": "",
+      "text": "なぜ!",
+      "avg_logprob": -0.34165,
+      "no_speech_prob": 0.55502,
+      "compression_ratio": 1.22059,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 32.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "セイバ様!",
+      "avg_logprob": -0.34165,
+      "no_speech_prob": 0.55502,
+      "compression_ratio": 1.22059,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 34.0,
+      "end": 37.0,
+      "speaker": "",
+      "text": "なぜ兄なのですか?",
+      "avg_logprob": -0.34165,
+      "no_speech_prob": 0.55502,
+      "compression_ratio": 1.22059,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 37.0,
+      "end": 41.0,
+      "speaker": "",
+      "text": "なぜ!ゾーンは兄を…",
+      "avg_logprob": -0.34165,
+      "no_speech_prob": 0.55502,
+      "compression_ratio": 1.22059,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 45.0,
+      "end": 49.0,
+      "speaker": "",
+      "text": "その答えはお前の中にある",
+      "avg_logprob": -0.34165,
+      "no_speech_prob": 0.55502,
+      "compression_ratio": 1.22059,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 50.0,
+      "end": 53.0,
+      "speaker": "",
+      "text": "絆は時に悲しみを生み",
+      "avg_logprob": -0.34165,
+      "no_speech_prob": 0.55502,
+      "compression_ratio": 1.22059,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 53.0,
+      "end": 56.0,
+      "speaker": "",
+      "text": "そして己を苦しめる",
+      "avg_logprob": -0.34165,
+      "no_speech_prob": 0.55502,
+      "compression_ratio": 1.22059,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 56.0,
+      "end": 61.0,
+      "speaker": "",
+      "text": "それでもなお 人の絆は力なのだ",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 61.0,
+      "end": 64.0,
+      "speaker": "",
+      "text": "人の絆は力?",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 64.0,
+      "end": 66.0,
+      "speaker": "",
+      "text": "アルフィナよ",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 66.0,
+      "end": 69.0,
+      "speaker": "",
+      "text": "コミュートである前に人である",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 69.0,
+      "end": 72.0,
+      "speaker": "",
+      "text": "人と人を繋ぐ力",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 72.0,
+      "end": 74.0,
+      "speaker": "",
+      "text": "絆",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 74.0,
+      "end": 78.0,
+      "speaker": "",
+      "text": "お前のもっとも強い力だ",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 78.0,
+      "end": 80.0,
+      "speaker": "",
+      "text": "セイバ様",
+      "avg_logprob": -0.26307,
+      "no_speech_prob": 0.3609,
+      "compression_ratio": 1.37226,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 86.0,
+      "end": 101.69,
+      "speaker": "",
+      "text": "アアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアアア",
+      "avg_logprob": -0.07518,
+      "no_speech_prob": 0.67245,
+      "compression_ratio": 37.16667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

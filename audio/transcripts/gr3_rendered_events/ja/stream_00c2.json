@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c2",
+  "stream_key": "0xC2",
+  "sample_ids": [
+    "0x516",
+    "0x517"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c2.flac",
+  "audio_sha256": "882df03acb405a46b67481450a77db95e26acd5680ad04af648d572262db01a8",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:1/6"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "Everyday, every way あの日の君が そこにいるのさ君と一緒に 憧れてる空を目指して 飛べくと信じて 疑いもせず My dream ねえ 僕も食べるかな? 知ってみたい 立ちマジでいいじゃん ここも近いそれが 何て夢を逆なってくよ 輝く空へとアメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン ア",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "Everyday, every way あの日の君が そこにいるのさ君と一緒に 憧れてる空を目指して 飛べくと信じて 疑いもせず",
+      "avg_logprob": -0.34793,
+      "no_speech_prob": 0.15341,
+      "compression_ratio": 1.05882,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 29.0,
+      "end": 31.0,
+      "speaker": "",
+      "text": "My dream",
+      "avg_logprob": -0.75111,
+      "no_speech_prob": 0.02238,
+      "compression_ratio": 0.82222,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 37.6,
+      "end": 40.6,
+      "speaker": "",
+      "text": "ねえ 僕も食べるかな?",
+      "avg_logprob": -0.75111,
+      "no_speech_prob": 0.02238,
+      "compression_ratio": 0.82222,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 59.0,
+      "end": 71.0,
+      "speaker": "",
+      "text": "知ってみたい 立ちマジでいいじゃん ここも近いそれが 何て夢を逆なってくよ",
+      "avg_logprob": -0.53027,
+      "no_speech_prob": 0.06583,
+      "compression_ratio": 1.5124,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 71.0,
+      "end": 88.0,
+      "speaker": "",
+      "text": "輝く空へとアメーセン アメーセン アメーセン アメーセン",
+      "avg_logprob": -0.53027,
+      "no_speech_prob": 0.06583,
+      "compression_ratio": 1.5124,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 89.0,
+      "end": 94.37,
+      "speaker": "",
+      "text": "アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン アメーセン ア",
+      "avg_logprob": -0.05067,
+      "no_speech_prob": 0.56679,
+      "compression_ratio": 18.59375,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.027",
+        "HIGH_COMPRESSION_RATIO:18.594"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

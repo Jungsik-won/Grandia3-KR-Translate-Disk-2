@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00cd",
+  "stream_key": "0xCD",
+  "sample_ids": [
+    "0x588",
+    "0x589"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00cd.flac",
+  "audio_sha256": "568ba7c7954ced6cbd114944e888e62e8d67d54a7fb2bdc8d3504dfb3f5fb0ef",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:6.104"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ!アルフィナ! んー…ここは… アルフィナ!アルフィナ! アルフィナ! アルフィナ! アルフィナ! アルフィナ!アルフィナ! アルフィナ!アルフィナ! アルフィナ!アルフィナ! アルフィナ!アルフィナ! アルフィナ!アルフィナ! ここは? 静かだな 気持ち悪いぐらい アロンソが言ってたように あいつがバースカイへの入り口だとしたら ここは? 受け柄だわ 命の えっ? ここがバスカイなはずない そんなはずないわ 行きましょう、ユキ 私たちのいる場所じゃないのよ、ここは アルフィナ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 4.0,
+      "end": 8.0,
+      "speaker": "",
+      "text": "んー…ここは…",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 8.0,
+      "end": 11.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 11.0,
+      "end": 13.0,
+      "speaker": "",
+      "text": "アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 13.0,
+      "end": 15.0,
+      "speaker": "",
+      "text": "アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 15.0,
+      "end": 17.0,
+      "speaker": "",
+      "text": "アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 17.0,
+      "end": 20.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 20.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 22.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 24.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 26.0,
+      "end": 28.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.32374,
+      "no_speech_prob": 0.00485,
+      "compression_ratio": 6.10417,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 28.0,
+      "end": 29.12,
+      "speaker": "",
+      "text": "ここは?",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 38.6,
+      "end": 39.72,
+      "speaker": "",
+      "text": "静かだな",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 40.32,
+      "end": 41.44,
+      "speaker": "",
+      "text": "気持ち悪いぐらい",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 44.68,
+      "end": 46.0,
+      "speaker": "",
+      "text": "アロンソが言ってたように",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 46.56,
+      "end": 48.84,
+      "speaker": "",
+      "text": "あいつがバースカイへの入り口だとしたら",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 49.68,
+      "end": 50.36,
+      "speaker": "",
+      "text": "ここは?",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 55.04,
+      "end": 56.08,
+      "speaker": "",
+      "text": "受け柄だわ",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 18,
+      "start": 56.44,
+      "end": 57.2,
+      "speaker": "",
+      "text": "命の",
+      "avg_logprob": -0.49333,
+      "no_speech_prob": 0.05851,
+      "compression_ratio": 1.25,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 19,
+      "start": 58.0,
+      "end": 58.5,
+      "speaker": "",
+      "text": "えっ?",
+      "avg_logprob": -0.34892,
+      "no_speech_prob": 0.12414,
+      "compression_ratio": 1.35833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 20,
+      "start": 62.8,
+      "end": 64.6,
+      "speaker": "",
+      "text": "ここがバスカイなはずない",
+      "avg_logprob": -0.34892,
+      "no_speech_prob": 0.12414,
+      "compression_ratio": 1.35833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 21,
+      "start": 65.9,
+      "end": 67.2,
+      "speaker": "",
+      "text": "そんなはずないわ",
+      "avg_logprob": -0.34892,
+      "no_speech_prob": 0.12414,
+      "compression_ratio": 1.35833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 22,
+      "start": 70.7,
+      "end": 72.2,
+      "speaker": "",
+      "text": "行きましょう、ユキ",
+      "avg_logprob": -0.34892,
+      "no_speech_prob": 0.12414,
+      "compression_ratio": 1.35833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 23,
+      "start": 73.3,
+      "end": 75.7,
+      "speaker": "",
+      "text": "私たちのいる場所じゃないのよ、ここは",
+      "avg_logprob": -0.34892,
+      "no_speech_prob": 0.12414,
+      "compression_ratio": 1.35833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 24,
+      "start": 77.5,
+      "end": 78.3,
+      "speaker": "",
+      "text": "アルフィナ",
+      "avg_logprob": -0.34892,
+      "no_speech_prob": 0.12414,
+      "compression_ratio": 1.35833,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c3",
+  "stream_key": "0xC3",
+  "sample_ids": [
+    "0x538",
+    "0x539"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c3.flac",
+  "audio_sha256": "c70e64b48f34b0f9ca06342dcdfbbfe10b0f5fac858f124f72441f7f1370062c",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "カミサマの言葉を人々に伝え、 豊かな世界にするのがコミュートの役目。私は、ニーさんのことを信じていた。ニーさんがコミュートになる運命を信じていた。 でも今は一人、きっと、私の運命なのかもしれない。 違うよ、アルフィナ。 アルフィナがそれを選んだからだよ。 ユウキ。 ここに車で俺たちは選んできたよね。 あ、やっぱり暖かい。 明日、あれるといいね。 うん。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 29.66,
+      "speaker": "",
+      "text": "カミサマの言葉を人々に伝え、 豊かな世界にするのがコミュートの役目。私は、ニーさんのことを信じていた。ニーさんがコミュートになる運命を信じていた。",
+      "avg_logprob": -0.27122,
+      "no_speech_prob": 0.03367,
+      "compression_ratio": 1.45638,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 31.0,
+      "end": 39.0,
+      "speaker": "",
+      "text": "でも今は一人、きっと、私の運命なのかもしれない。",
+      "avg_logprob": -0.23072,
+      "no_speech_prob": 0.00904,
+      "compression_ratio": 1.47945,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 41.0,
+      "end": 44.0,
+      "speaker": "",
+      "text": "違うよ、アルフィナ。",
+      "avg_logprob": -0.23072,
+      "no_speech_prob": 0.00904,
+      "compression_ratio": 1.47945,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 45.0,
+      "end": 49.0,
+      "speaker": "",
+      "text": "アルフィナがそれを選んだからだよ。",
+      "avg_logprob": -0.23072,
+      "no_speech_prob": 0.00904,
+      "compression_ratio": 1.47945,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 50.0,
+      "end": 52.0,
+      "speaker": "",
+      "text": "ユウキ。",
+      "avg_logprob": -0.23072,
+      "no_speech_prob": 0.00904,
+      "compression_ratio": 1.47945,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 52.0,
+      "end": 55.0,
+      "speaker": "",
+      "text": "ここに車で俺たちは選んできたよね。",
+      "avg_logprob": -0.23072,
+      "no_speech_prob": 0.00904,
+      "compression_ratio": 1.47945,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 61.0,
+      "end": 65.0,
+      "speaker": "",
+      "text": "あ、やっぱり暖かい。",
+      "avg_logprob": -0.33697,
+      "no_speech_prob": 0.13778,
+      "compression_ratio": 1.02857,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 70.0,
+      "end": 72.0,
+      "speaker": "",
+      "text": "明日、あれるといいね。",
+      "avg_logprob": -0.33697,
+      "no_speech_prob": 0.13778,
+      "compression_ratio": 1.02857,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 73.0,
+      "end": 74.0,
+      "speaker": "",
+      "text": "うん。",
+      "avg_logprob": -0.33697,
+      "no_speech_prob": 0.13778,
+      "compression_ratio": 1.02857,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

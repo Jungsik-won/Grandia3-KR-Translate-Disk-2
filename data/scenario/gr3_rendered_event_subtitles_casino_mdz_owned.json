@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "ticks_per_second": 60,
+  "purpose": "Casino-only MDZ-owned subtitle runtime probe",
+  "events": [
+    {
+      "event_id": "beauty_bianca_alonso_rematch_event_0071",
+      "resource_path": "DATA/00008000.MDZ",
+      "runtime_resource_paths": ["DATA/00008000.MDZ"],
+      "stream_key": "0x71",
+      "gr3_sample_ids": ["0x434", "0x435"],
+      "runtime_trigger_sample_ids": ["0x434", "0x435"],
+      "runtime_sample_mode": "ACTIVE_DISPLAY",
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/gr3_stream_0071_cues.json",
+      "status": "CASINO_MDZ_OWNED_RUNTIME_PENDING"
+    },
+    {
+      "event_id": "beauty_bianca_miranda_alonso_combo_event_0072",
+      "resource_path": "DATA/01040902.MDZ",
+      "runtime_resource_paths": ["DATA/01040902.MDZ"],
+      "stream_key": "0x72",
+      "gr3_sample_ids": ["0x436", "0x437"],
+      "runtime_trigger_sample_ids": ["0x436"],
+      "runtime_sample_addresses": ["0x00213550", "0x002135DC"],
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/gr3_stream_0072_cues.json",
+      "status": "CASINO_MDZ_OWNED_ROTATING_SLOT_PAIR_RUNTIME_PASS"
+    }
+  ]
+}

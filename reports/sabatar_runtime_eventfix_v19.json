@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "status": "RUNTIME_FAILED_SUPERSEDED_BY_V21_ORIGINAL_RESTORE",
+  "runtime_failure_evidence": "/Users/j.swon/Desktop/Grandia III [Disc 1 of 2]_SLPM-65976_20260827014409.mp4",
+  "supersedes": "reports/sabatar_00120000_relocation_v18.json",
+  "root_causes": [
+    {
+      "container": "DATA/00120200.MDZ",
+      "record_id": "0x00740000",
+      "member_index": 6,
+      "member_type": "0x2002",
+      "command": "10 00 <u16 record-relative target> 02 05 00 06 04",
+      "old_reference_offset": "0x274D",
+      "new_reference_offset": "0x28F1",
+      "old_encoded_target": "0x25AD",
+      "new_encoded_target": "0x2741",
+      "failure": "the untranslated return target landed before the relocated continuation, preventing subsequent lodging NPC dialogue"
+    },
+    {
+      "container": "DATA/00120000.MDZ",
+      "record_id": "0x00740000",
+      "member_index": 14,
+      "member_type": "0x4000",
+      "command": "10 00 <u16 target> with a coordinate proven by other references to the same target",
+      "coordinate": "member-data-minus-4-relative",
+      "old_encoded_target": "0x70B6",
+      "new_encoded_target": "0x74FE",
+      "reference_count": 7,
+      "old_reference_offsets": ["0x7040", "0x70B2", "0x7138", "0x71AC", "0x721A", "0x7264", "0x72C1"],
+      "new_reference_offsets": ["0x7470", "0x74EC", "0x7575", "0x75F5", "0x7667", "0x76AC", "0x7709"],
+      "failure": "v18 recognized only selected suffixes and left seven commands sharing the same proven target at the old offset"
+    }
+  ],
+  "disc1_full_rebuild": {
+    "manifest": "build/central-runtime-cumulative-v19/scenario-manifest.json",
+    "container_count": 346,
+    "translated_message_count": 18205,
+    "internal_reference_update_count": 19300,
+    "proven_coordinate_propagated_count": 122,
+    "record_relative_npc_return_count": 1,
+    "field_table_container_count": 165,
+    "field_table_string_occurrence_count": 915
+  },
+  "verification": {
+    "unit_tests": "45 PASS, 3 SKIP",
+    "mdz_mdt_roundtrip": "346/346 PASS",
+    "manifest_path_size_hash": "346/346 PASS",
+    "serialized_reference_fields": "19300/19300 PASS",
+    "iso_full_file_verification": "1265/1265 PASS",
+    "iso_scenario_verification": "346/346 PASS",
+    "iso_direct_00120000_hash_match": true,
+    "iso_direct_00120200_hash_match": true,
+    "iso_direct_focus_reference_fields": "8/8 PASS",
+    "runtime_tested": true,
+    "runtime_result": "FAILED: dialogue still delayed, Mikeroma purchase did not complete, and NPCs disappeared after map transitions"
+  },
+  "iso": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v19_sabatar_actual_eventfix_20260827.iso",
+    "size": 4612028416,
+    "sha256": "d997fd3df3b0ff2f3ef65f465ceee74fa14a755fed7f9052176580d14ab81b5e",
+    "replacement_count": 354,
+    "repacked_file_count": 1265,
+    "reverse_verified": true,
+    "build_report": "build/central-runtime-cumulative-v19/iso-build-report.json",
+    "final_verification": "build/central-runtime-cumulative-v19/final-iso-verification.json"
+  },
+  "superseded_by": {
+    "report": "reports/sabatar_original_event_restore_v21.json",
+    "iso": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v21_sabatar_original_event_restore_20260827.iso"
+  }
+}

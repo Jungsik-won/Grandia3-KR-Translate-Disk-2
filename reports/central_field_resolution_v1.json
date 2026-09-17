@@ -1,0 +1,2775 @@
+{
+  "schema_version": 1,
+  "mode": "PRE_ISO_CENTRAL_FIELD_CANDIDATE",
+  "input": "build/central-resolution-v1/original/FIELD.BIN",
+  "input_size": 869632,
+  "input_sha256": "64f4fcda078c6dd561c81458df5d0d0d65509efa068a38444ea8d5c0f19eece0",
+  "output": "build/central-resolution-v1/FIELD.BIN",
+  "output_size": 869632,
+  "output_sha256": "89cc267d31ec3476cdd6201724f1e3233c568ebe21f8150a400901f97c3805cf",
+  "eligible_rows": 377,
+  "unique_patched_offsets": 289,
+  "suppressed_duplicate_rows": 88,
+  "rows_by_owner": {
+    "SYSTEM": 201,
+    "STATUS": 32,
+    "EQUIPMENT": 46,
+    "FIELD": 10
+  },
+  "suppressed": [
+    {
+      "id": "SYS_MENU_0017",
+      "category": "SYSTEM",
+      "offset": "0x000CE848"
+    },
+    {
+      "id": "SYS_MENU_0018",
+      "category": "SYSTEM",
+      "offset": "0x000CE850"
+    },
+    {
+      "id": "SYS_MENU_0019",
+      "category": "SYSTEM",
+      "offset": "0x000CE858"
+    },
+    {
+      "id": "SYS_MENU_0020",
+      "category": "SYSTEM",
+      "offset": "0x000CE860"
+    },
+    {
+      "id": "SYS_MENU_0021",
+      "category": "SYSTEM",
+      "offset": "0x000CE870"
+    },
+    {
+      "id": "SYS_MENU_0022",
+      "category": "SYSTEM",
+      "offset": "0x000CE880"
+    },
+    {
+      "id": "SYS_MENU_0023",
+      "category": "SYSTEM",
+      "offset": "0x000CE890"
+    },
+    {
+      "id": "SYS_MENU_0024",
+      "category": "SYSTEM",
+      "offset": "0x000CE898"
+    },
+    {
+      "id": "SYS_MENU_0025",
+      "category": "SYSTEM",
+      "offset": "0x000CE8A0"
+    },
+    {
+      "id": "SYS_MENU_0026",
+      "category": "SYSTEM",
+      "offset": "0x000CE8A8"
+    },
+    {
+      "id": "SYS_MENU_0027",
+      "category": "SYSTEM",
+      "offset": "0x000CE8B0"
+    },
+    {
+      "id": "SYS_MENU_0028",
+      "category": "SYSTEM",
+      "offset": "0x000CE8B8"
+    },
+    {
+      "id": "SYS_MENU_0029",
+      "category": "SYSTEM",
+      "offset": "0x000CE8C0"
+    },
+    {
+      "id": "SYS_MENU_0030",
+      "category": "SYSTEM",
+      "offset": "0x000CE8C8"
+    },
+    {
+      "id": "SYS_MENU_0031",
+      "category": "SYSTEM",
+      "offset": "0x000CE8D0"
+    },
+    {
+      "id": "SYS_MENU_0032",
+      "category": "SYSTEM",
+      "offset": "0x000CE8D8"
+    },
+    {
+      "id": "SYS_MENU_0033",
+      "category": "SYSTEM",
+      "offset": "0x000CE8E0"
+    },
+    {
+      "id": "SYS_MENU_0034",
+      "category": "SYSTEM",
+      "offset": "0x000CE8E8"
+    },
+    {
+      "id": "SYS_MENU_0035",
+      "category": "SYSTEM",
+      "offset": "0x000CE8F0"
+    },
+    {
+      "id": "SYS_MENU_0036",
+      "category": "SYSTEM",
+      "offset": "0x000CE8F8"
+    },
+    {
+      "id": "SYS_MENU_0037",
+      "category": "SYSTEM",
+      "offset": "0x000CE900"
+    },
+    {
+      "id": "SYS_MENU_0038",
+      "category": "SYSTEM",
+      "offset": "0x000CE908"
+    },
+    {
+      "id": "SYS_MENU_0039",
+      "category": "SYSTEM",
+      "offset": "0x000CE910"
+    },
+    {
+      "id": "SYS_MENU_0040",
+      "category": "SYSTEM",
+      "offset": "0x000CE920"
+    },
+    {
+      "id": "SYS_MENU_0041",
+      "category": "SYSTEM",
+      "offset": "0x000CE930"
+    },
+    {
+      "id": "SYS_MENU_0042",
+      "category": "SYSTEM",
+      "offset": "0x000CE940"
+    },
+    {
+      "id": "SYS_MENU_0043",
+      "category": "SYSTEM",
+      "offset": "0x000CE950"
+    },
+    {
+      "id": "SYS_MENU_0044",
+      "category": "SYSTEM",
+      "offset": "0x000CE958"
+    },
+    {
+      "id": "SYS_MENU_0045",
+      "category": "SYSTEM",
+      "offset": "0x000CE960"
+    },
+    {
+      "id": "SYS_MENU_0046",
+      "category": "SYSTEM",
+      "offset": "0x000CE970"
+    },
+    {
+      "id": "SYS_MENU_0047",
+      "category": "SYSTEM",
+      "offset": "0x000CE988"
+    },
+    {
+      "id": "SYS_MENU_0048",
+      "category": "SYSTEM",
+      "offset": "0x000CE998"
+    },
+    {
+      "id": "SYS_MENU_0049",
+      "category": "SYSTEM",
+      "offset": "0x000CE9B0"
+    },
+    {
+      "id": "SYS_MENU_0050",
+      "category": "SYSTEM",
+      "offset": "0x000CE9C8"
+    },
+    {
+      "id": "SYS_SHOP_0003",
+      "category": "SYSTEM",
+      "offset": "0x000CF088"
+    },
+    {
+      "id": "SYS_SHOP_0004",
+      "category": "SYSTEM",
+      "offset": "0x000CF098"
+    },
+    {
+      "id": "SYS_SHOP_0005",
+      "category": "SYSTEM",
+      "offset": "0x000CF0A0"
+    },
+    {
+      "id": "SYS_SHOP_0006",
+      "category": "SYSTEM",
+      "offset": "0x000CF0B0"
+    },
+    {
+      "id": "SYS_SHOP_0009",
+      "category": "SYSTEM",
+      "offset": "0x000CF0D8"
+    },
+    {
+      "id": "SYS_SHOP_0010",
+      "category": "SYSTEM",
+      "offset": "0x000CF0E8"
+    },
+    {
+      "id": "SYS_HELP_0001",
+      "category": "SYSTEM",
+      "offset": "0x000CFFE0"
+    },
+    {
+      "id": "SYS_HELP_0004",
+      "category": "SYSTEM",
+      "offset": "0x000D00D0"
+    },
+    {
+      "id": "SYS_HELP_0005",
+      "category": "SYSTEM",
+      "offset": "0x000D0130"
+    },
+    {
+      "id": "SYS_HELP_0006",
+      "category": "SYSTEM",
+      "offset": "0x000D01B0"
+    },
+    {
+      "id": "SYS_HELP_0007",
+      "category": "SYSTEM",
+      "offset": "0x000D0230"
+    },
+    {
+      "id": "SYS_HELP_0008",
+      "category": "SYSTEM",
+      "offset": "0x000D02A0"
+    },
+    {
+      "id": "SYS_HELP_0009",
+      "category": "SYSTEM",
+      "offset": "0x000D0320"
+    },
+    {
+      "id": "SYS_HELP_0010",
+      "category": "SYSTEM",
+      "offset": "0x000D0380"
+    },
+    {
+      "id": "SYS_HELP_0011",
+      "category": "SYSTEM",
+      "offset": "0x000D03F0"
+    },
+    {
+      "id": "SYS_HELP_0012",
+      "category": "SYSTEM",
+      "offset": "0x000D0450"
+    },
+    {
+      "id": "SYS_HELP_0013",
+      "category": "SYSTEM",
+      "offset": "0x000D04C0"
+    },
+    {
+      "id": "SYS_HELP_0014",
+      "category": "SYSTEM",
+      "offset": "0x000D0530"
+    },
+    {
+      "id": "SYS_HELP_0015",
+      "category": "SYSTEM",
+      "offset": "0x000D0580"
+    },
+    {
+      "id": "SYS_HELP_0016",
+      "category": "SYSTEM",
+      "offset": "0x000D05F0"
+    },
+    {
+      "id": "SYS_HELP_0017",
+      "category": "SYSTEM",
+      "offset": "0x000D0660"
+    },
+    {
+      "id": "SYS_HELP_0018",
+      "category": "SYSTEM",
+      "offset": "0x000D06A0"
+    },
+    {
+      "id": "SYS_HELP_0019",
+      "category": "SYSTEM",
+      "offset": "0x000D0710"
+    },
+    {
+      "id": "SYS_HELP_0020",
+      "category": "SYSTEM",
+      "offset": "0x000D0770"
+    },
+    {
+      "id": "SYS_HELP_0021",
+      "category": "SYSTEM",
+      "offset": "0x000D07C0"
+    },
+    {
+      "id": "SYS_HELP_0022",
+      "category": "SYSTEM",
+      "offset": "0x000D0830"
+    },
+    {
+      "id": "SYS_HELP_0023",
+      "category": "SYSTEM",
+      "offset": "0x000D0890"
+    },
+    {
+      "id": "SYS_HELP_0024",
+      "category": "SYSTEM",
+      "offset": "0x000D0900"
+    },
+    {
+      "id": "SYS_HELP_0025",
+      "category": "SYSTEM",
+      "offset": "0x000D0960"
+    },
+    {
+      "id": "SYS_HELP_0028",
+      "category": "SYSTEM",
+      "offset": "0x000D0A90"
+    },
+    {
+      "id": "SYS_HELP_0029",
+      "category": "SYSTEM",
+      "offset": "0x000D0AF0"
+    },
+    {
+      "id": "SYS_HELP_0030",
+      "category": "SYSTEM",
+      "offset": "0x000D0B60"
+    },
+    {
+      "id": "SYS_HELP_0031",
+      "category": "SYSTEM",
+      "offset": "0x000D0BB0"
+    },
+    {
+      "id": "SYS_HELP_0032",
+      "category": "SYSTEM",
+      "offset": "0x000D0C10"
+    },
+    {
+      "id": "SYS_HELP_0036",
+      "category": "SYSTEM",
+      "offset": "0x000D0D60"
+    },
+    {
+      "id": "SYS_HELP_0037",
+      "category": "SYSTEM",
+      "offset": "0x000D0DD0"
+    },
+    {
+      "id": "SYS_COMMON_0021",
+      "category": "SYSTEM",
+      "offset": "0x000D1018"
+    },
+    {
+      "id": "SYS_COMMON_0022",
+      "category": "SYSTEM",
+      "offset": "0x000D1028"
+    },
+    {
+      "id": "SYS_COMMON_0023",
+      "category": "SYSTEM",
+      "offset": "0x000D1038"
+    },
+    {
+      "id": "SYS_COMMON_0024",
+      "category": "SYSTEM",
+      "offset": "0x000D1040"
+    },
+    {
+      "id": "SYS_COMMON_0025",
+      "category": "SYSTEM",
+      "offset": "0x000D1048"
+    },
+    {
+      "id": "SYS_COMMON_0026",
+      "category": "SYSTEM",
+      "offset": "0x000D1050"
+    },
+    {
+      "id": "SYS_COMMON_0027",
+      "category": "SYSTEM",
+      "offset": "0x000D1058"
+    },
+    {
+      "id": "SYS_COMMON_0028",
+      "category": "SYSTEM",
+      "offset": "0x000D1060"
+    },
+    {
+      "id": "SYS_SHOP_0066",
+      "category": "SYSTEM",
+      "offset": "0x000CF580"
+    },
+    {
+      "id": "SYS_SHOP_0067",
+      "category": "SYSTEM",
+      "offset": "0x000CF590"
+    },
+    {
+      "id": "SYS_SHOP_0068",
+      "category": "SYSTEM",
+      "offset": "0x000CF5A0"
+    },
+    {
+      "id": "SYS_SHOP_0069",
+      "category": "SYSTEM",
+      "offset": "0x000CF5B0"
+    },
+    {
+      "id": "SYS_SHOP_0070",
+      "category": "SYSTEM",
+      "offset": "0x000CF5C0"
+    },
+    {
+      "id": "SYS_SHOP_0071",
+      "category": "SYSTEM",
+      "offset": "0x000CF5D0"
+    },
+    {
+      "id": "SYS_SHOP_0072",
+      "category": "SYSTEM",
+      "offset": "0x000CF5E0"
+    },
+    {
+      "id": "SYS_SHOP_0073",
+      "category": "SYSTEM",
+      "offset": "0x000CF5F0"
+    },
+    {
+      "id": "SYS_SHOP_0074",
+      "category": "SYSTEM",
+      "offset": "0x000CF600"
+    },
+    {
+      "id": "SYS_SHOP_0075",
+      "category": "SYSTEM",
+      "offset": "0x000CF610"
+    }
+  ],
+  "patches": [
+    {
+      "id": "SYS_SAVE_0001",
+      "category": "SYSTEM",
+      "offset": "0xCC6A0",
+      "slot_size": 32,
+      "kr_text": "그란디아　３　저장　데이터",
+      "encoded_hex": "92 57 89 EA 94 E3 90 B1 81 40 82 52 81 40 8E EB 8C F0 81 40 9C 6A 89 AA 8F 82"
+    },
+    {
+      "id": "SYS_MENU_0001",
+      "category": "SYSTEM",
+      "offset": "0xCE768",
+      "slot_size": 16,
+      "kr_text": "메인메뉴　",
+      "encoded_hex": "92 E5 90 B1 92 E5 94 C0 81 40"
+    },
+    {
+      "id": "SYS_MENU_0002",
+      "category": "SYSTEM",
+      "offset": "0xCE778",
+      "slot_size": 16,
+      "kr_text": "플레이시간　",
+      "encoded_hex": "8E BD 89 C0 89 AA 90 6F 95 E6 81 40"
+    },
+    {
+      "id": "SYS_MENU_0003",
+      "category": "SYSTEM",
+      "offset": "0xCE788",
+      "slot_size": 8,
+      "kr_text": "위치",
+      "encoded_hex": "91 EA 8A CF"
+    },
+    {
+      "id": "SYS_MENU_0004",
+      "category": "SYSTEM",
+      "offset": "0xCE790",
+      "slot_size": 16,
+      "kr_text": "캐릭터",
+      "encoded_hex": "94 C5 97 A6 8F 82"
+    },
+    {
+      "id": "SYS_MENU_0005",
+      "category": "SYSTEM",
+      "offset": "0xCE7A0",
+      "slot_size": 16,
+      "kr_text": "마법사용　",
+      "encoded_hex": "8D 7C 95 5B 8A 6E 97 4E 81 40"
+    },
+    {
+      "id": "SYS_MENU_0006",
+      "category": "SYSTEM",
+      "offset": "0xCE7B0",
+      "slot_size": 16,
+      "kr_text": "장비변경　",
+      "encoded_hex": "8C F0 90 CF 93 6E 91 7A 81 40"
+    },
+    {
+      "id": "SYS_MENU_0007",
+      "category": "SYSTEM",
+      "offset": "0xCE7C0",
+      "slot_size": 16,
+      "kr_text": "상태확인　",
+      "encoded_hex": "97 D7 9D 7C 91 6D 90 B1 81 40"
+    },
+    {
+      "id": "SYS_MENU_0008",
+      "category": "SYSTEM",
+      "offset": "0xCE7D0",
+      "slot_size": 16,
+      "kr_text": "파티",
+      "encoded_hex": "95 D7 94 E4"
+    },
+    {
+      "id": "SYS_MENU_0009",
+      "category": "SYSTEM",
+      "offset": "0xCE7E0",
+      "slot_size": 16,
+      "kr_text": "아이템사용　",
+      "encoded_hex": "90 B1 89 AA 8E 9A 8A 6E 97 4E 81 40"
+    },
+    {
+      "id": "SYS_MENU_0010",
+      "category": "SYSTEM",
+      "offset": "0xCE7F0",
+      "slot_size": 16,
+      "kr_text": "소지품확인　",
+      "encoded_hex": "92 CD 97 E1 95 B4 91 6D 90 B1 81 40"
+    },
+    {
+      "id": "SYS_MENU_0011",
+      "category": "SYSTEM",
+      "offset": "0xCE800",
+      "slot_size": 8,
+      "kr_text": "소지금",
+      "encoded_hex": "92 CD 97 E1 93 54"
+    },
+    {
+      "id": "SYS_MENU_0012",
+      "category": "SYSTEM",
+      "offset": "0xCE808",
+      "slot_size": 8,
+      "kr_text": "Ｇ",
+      "encoded_hex": "82 66"
+    },
+    {
+      "id": "SYS_MENU_0013",
+      "category": "SYSTEM",
+      "offset": "0xCE810",
+      "slot_size": 16,
+      "kr_text": "시스템",
+      "encoded_hex": "90 6F 8A F7 8E 9A"
+    },
+    {
+      "id": "SYS_MENU_0014",
+      "category": "SYSTEM",
+      "offset": "0xCE820",
+      "slot_size": 16,
+      "kr_text": "전투설정　",
+      "encoded_hex": "91 DC 88 C3 8E B6 94 D4 81 40"
+    },
+    {
+      "id": "SYS_MENU_0015",
+      "category": "SYSTEM",
+      "offset": "0xCE830",
+      "slot_size": 16,
+      "kr_text": "시스템설정　",
+      "encoded_hex": "90 6F 8A F7 8E 9A 8E B6 94 D4 81 40"
+    },
+    {
+      "id": "SYS_MENU_0016",
+      "category": "SYSTEM",
+      "offset": "0xCE840",
+      "slot_size": 8,
+      "kr_text": "로드",
+      "encoded_hex": "E0 56 94 40"
+    },
+    {
+      "id": "EQUIP_SLOT_0001",
+      "category": "EQUIPMENT",
+      "offset": "0xCE848",
+      "slot_size": 8,
+      "kr_text": "무기",
+      "encoded_hex": "81 94 92 7A"
+    },
+    {
+      "id": "EQUIP_SLOT_0002",
+      "category": "EQUIPMENT",
+      "offset": "0xCE850",
+      "slot_size": 8,
+      "kr_text": "방어구",
+      "encoded_hex": "93 9B 87 5A 8E 5E"
+    },
+    {
+      "id": "EQUIP_SLOT_0003",
+      "category": "EQUIPMENT",
+      "offset": "0xCE858",
+      "slot_size": 8,
+      "kr_text": "신발",
+      "encoded_hex": "9A 4C 91 AD"
+    },
+    {
+      "id": "EQUIP_SLOT_0004",
+      "category": "EQUIPMENT",
+      "offset": "0xCE860",
+      "slot_size": 16,
+      "kr_text": "액세서리",
+      "encoded_hex": "8C 71 90 CD 8A F8 E0 A6"
+    },
+    {
+      "id": "EQUIP_SLOT_0005",
+      "category": "EQUIPMENT",
+      "offset": "0xCE870",
+      "slot_size": 16,
+      "kr_text": "마나　에그",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57"
+    },
+    {
+      "id": "EQUIP_SLOT_0006",
+      "category": "EQUIPMENT",
+      "offset": "0xCE880",
+      "slot_size": 16,
+      "kr_text": "스킬북",
+      "encoded_hex": "8A F7 97 86 8A 79"
+    },
+    {
+      "id": "STATUS_PARAM_0001",
+      "category": "STATUS",
+      "offset": "0xCE890",
+      "slot_size": 8,
+      "kr_text": "공격력",
+      "encoded_hex": "97 74 90 AE 8C E1"
+    },
+    {
+      "id": "STATUS_PARAM_0002",
+      "category": "STATUS",
+      "offset": "0xCE898",
+      "slot_size": 8,
+      "kr_text": "마력",
+      "encoded_hex": "8D 7C 8C E1"
+    },
+    {
+      "id": "STATUS_PARAM_0003",
+      "category": "STATUS",
+      "offset": "0xCE8A0",
+      "slot_size": 8,
+      "kr_text": "방어력",
+      "encoded_hex": "93 9B 87 5A 8C E1"
+    },
+    {
+      "id": "STATUS_PARAM_0004",
+      "category": "STATUS",
+      "offset": "0xCE8A8",
+      "slot_size": 8,
+      "kr_text": "저항력",
+      "encoded_hex": "8E EB 89 69 8C E1"
+    },
+    {
+      "id": "STATUS_PARAM_0005",
+      "category": "STATUS",
+      "offset": "0xCE8B0",
+      "slot_size": 8,
+      "kr_text": "행동력",
+      "encoded_hex": "94 67 99 68 8C E1"
+    },
+    {
+      "id": "STATUS_PARAM_0006",
+      "category": "STATUS",
+      "offset": "0xCE8B8",
+      "slot_size": 8,
+      "kr_text": "이동력",
+      "encoded_hex": "89 AA 99 68 8C E1"
+    },
+    {
+      "id": "STATUS_PARAM_0007",
+      "category": "STATUS",
+      "offset": "0xCE8C0",
+      "slot_size": 8,
+      "kr_text": "불",
+      "encoded_hex": "8A C8"
+    },
+    {
+      "id": "STATUS_PARAM_0008",
+      "category": "STATUS",
+      "offset": "0xCE8C8",
+      "slot_size": 8,
+      "kr_text": "땅",
+      "encoded_hex": "96 78"
+    },
+    {
+      "id": "STATUS_PARAM_0009",
+      "category": "STATUS",
+      "offset": "0xCE8D0",
+      "slot_size": 8,
+      "kr_text": "물",
+      "encoded_hex": "81 A2"
+    },
+    {
+      "id": "STATUS_PARAM_0010",
+      "category": "STATUS",
+      "offset": "0xCE8D8",
+      "slot_size": 8,
+      "kr_text": "바람",
+      "encoded_hex": "8F 8D 8C 49"
+    },
+    {
+      "id": "STATUS_PARAM_0011",
+      "category": "STATUS",
+      "offset": "0xCE8E0",
+      "slot_size": 8,
+      "kr_text": "독",
+      "encoded_hex": "89 EB"
+    },
+    {
+      "id": "STATUS_PARAM_0012",
+      "category": "STATUS",
+      "offset": "0xCE8E8",
+      "slot_size": 8,
+      "kr_text": "수면",
+      "encoded_hex": "94 E2 96 57"
+    },
+    {
+      "id": "STATUS_PARAM_0013",
+      "category": "STATUS",
+      "offset": "0xCE8F0",
+      "slot_size": 8,
+      "kr_text": "마비",
+      "encoded_hex": "8D 7C 90 CF"
+    },
+    {
+      "id": "STATUS_PARAM_0014",
+      "category": "STATUS",
+      "offset": "0xCE8F8",
+      "slot_size": 8,
+      "kr_text": "혼란",
+      "encoded_hex": "90 8C 89 EA"
+    },
+    {
+      "id": "STATUS_PARAM_0015",
+      "category": "STATUS",
+      "offset": "0xCE900",
+      "slot_size": 8,
+      "kr_text": "봉인",
+      "encoded_hex": "8F AB 90 B1"
+    },
+    {
+      "id": "STATUS_PARAM_0016",
+      "category": "STATUS",
+      "offset": "0xCE908",
+      "slot_size": 8,
+      "kr_text": "질병",
+      "encoded_hex": "96 EF 95 7A"
+    },
+    {
+      "id": "STATUS_PARAM_0017",
+      "category": "STATUS",
+      "offset": "0xCE910",
+      "slot_size": 16,
+      "kr_text": "마법　강화",
+      "encoded_hex": "8D 7C 95 5B 81 40 89 E5 91 63"
+    },
+    {
+      "id": "STATUS_PARAM_0018",
+      "category": "STATUS",
+      "offset": "0xCE920",
+      "slot_size": 16,
+      "kr_text": "스킬　강화",
+      "encoded_hex": "8A F7 97 86 81 40 89 E5 91 63"
+    },
+    {
+      "id": "EQUIP_ACTION_0001",
+      "category": "EQUIPMENT",
+      "offset": "0xCE930",
+      "slot_size": 16,
+      "kr_text": "장착　마법",
+      "encoded_hex": "8C F0 92 47 81 40 8D 7C 95 5B"
+    },
+    {
+      "id": "EQUIP_ACTION_0002",
+      "category": "EQUIPMENT",
+      "offset": "0xCE940",
+      "slot_size": 16,
+      "kr_text": "장착　스킬",
+      "encoded_hex": "8C F0 92 47 81 40 8A F7 97 86"
+    },
+    {
+      "id": "EQUIP_ACTION_0003",
+      "category": "EQUIPMENT",
+      "offset": "0xCE950",
+      "slot_size": 8,
+      "kr_text": "해제",
+      "encoded_hex": "8B C6 8E E5"
+    },
+    {
+      "id": "EQUIP_ACTION_0004",
+      "category": "EQUIPMENT",
+      "offset": "0xCE958",
+      "slot_size": 8,
+      "kr_text": "없음",
+      "encoded_hex": "8F E9 8E 98"
+    },
+    {
+      "id": "STATUS_LABEL_0001",
+      "category": "STATUS",
+      "offset": "0xCE960",
+      "slot_size": 16,
+      "kr_text": "습득　필살기",
+      "encoded_hex": "89 AD 8E 88 81 40 89 46 98 6C 92 7A"
+    },
+    {
+      "id": "STATUS_LABEL_0002",
+      "category": "STATUS",
+      "offset": "0xCE970",
+      "slot_size": 24,
+      "kr_text": "상세　능력치",
+      "encoded_hex": "97 D7 90 CD 81 40 8C B7 8C E1 8A CF"
+    },
+    {
+      "id": "STATUS_LABEL_0003",
+      "category": "STATUS",
+      "offset": "0xCE988",
+      "slot_size": 16,
+      "kr_text": "마법　레벨",
+      "encoded_hex": "8D 7C 95 5B 81 40 89 C0 97 5A"
+    },
+    {
+      "id": "STATUS_LABEL_0004",
+      "category": "STATUS",
+      "offset": "0xCE998",
+      "slot_size": 24,
+      "kr_text": "스킬　레벨",
+      "encoded_hex": "8A F7 97 86 81 40 89 C0 97 5A"
+    },
+    {
+      "id": "STATUS_LABEL_0005",
+      "category": "STATUS",
+      "offset": "0xCE9B0",
+      "slot_size": 24,
+      "kr_text": "필살기　레벨",
+      "encoded_hex": "89 46 98 6C 92 7A 81 40 89 C0 97 5A"
+    },
+    {
+      "id": "STATUS_LABEL_0006",
+      "category": "STATUS",
+      "offset": "0xCE9C8",
+      "slot_size": 8,
+      "kr_text": "저항력",
+      "encoded_hex": "8E EB 89 69 8C E1"
+    },
+    {
+      "id": "SYS_MENU_0051",
+      "category": "SYSTEM",
+      "offset": "0xCE9D0",
+      "slot_size": 8,
+      "kr_text": "장비품",
+      "encoded_hex": "8C F0 90 CF 95 B4"
+    },
+    {
+      "id": "SYS_MENU_0052",
+      "category": "SYSTEM",
+      "offset": "0xCE9D8",
+      "slot_size": 8,
+      "kr_text": "소모품",
+      "encoded_hex": "92 CD 83 BF 95 B4"
+    },
+    {
+      "id": "SYS_MENU_0053",
+      "category": "SYSTEM",
+      "offset": "0xCE9E0",
+      "slot_size": 8,
+      "kr_text": "귀중품",
+      "encoded_hex": "95 E7 93 4B 95 B4"
+    },
+    {
+      "id": "SYS_MENU_0054",
+      "category": "SYSTEM",
+      "offset": "0xCE9E8",
+      "slot_size": 8,
+      "kr_text": "마법",
+      "encoded_hex": "8D 7C 95 5B"
+    },
+    {
+      "id": "SYS_MENU_0055",
+      "category": "SYSTEM",
+      "offset": "0xCE9F0",
+      "slot_size": 8,
+      "kr_text": "스킬",
+      "encoded_hex": "8A F7 97 86"
+    },
+    {
+      "id": "SYS_MENU_0056",
+      "category": "SYSTEM",
+      "offset": "0xCE9F8",
+      "slot_size": 8,
+      "kr_text": "ＳＡＳ",
+      "encoded_hex": "82 72 82 60 82 72"
+    },
+    {
+      "id": "SYS_SETTINGS_0001",
+      "category": "SYSTEM",
+      "offset": "0xCEA00",
+      "slot_size": 8,
+      "kr_text": "켜기",
+      "encoded_hex": "88 E4 92 7A"
+    },
+    {
+      "id": "SYS_SETTINGS_0002",
+      "category": "SYSTEM",
+      "offset": "0xCEA08",
+      "slot_size": 8,
+      "kr_text": "끄기",
+      "encoded_hex": "8C CB 92 7A"
+    },
+    {
+      "id": "SYS_SETTINGS_0003",
+      "category": "SYSTEM",
+      "offset": "0xCEA10",
+      "slot_size": 16,
+      "kr_text": "전투ＡＩ설정",
+      "encoded_hex": "91 DC 88 C3 82 60 82 68 8E B6 94 D4"
+    },
+    {
+      "id": "SYS_SETTINGS_0004",
+      "category": "SYSTEM",
+      "offset": "0xCEA20",
+      "slot_size": 8,
+      "kr_text": "설정Ａ",
+      "encoded_hex": "8E B6 94 D4 82 60"
+    },
+    {
+      "id": "SYS_SETTINGS_0005",
+      "category": "SYSTEM",
+      "offset": "0xCEA28",
+      "slot_size": 8,
+      "kr_text": "설정Ｂ",
+      "encoded_hex": "8E B6 94 D4 82 61"
+    },
+    {
+      "id": "SYS_SETTINGS_0006",
+      "category": "SYSTEM",
+      "offset": "0xCEA30",
+      "slot_size": 16,
+      "kr_text": "수동　조작",
+      "encoded_hex": "94 E2 99 68 81 40 89 AB 99 E1"
+    },
+    {
+      "id": "SYS_SETTINGS_0007",
+      "category": "SYSTEM",
+      "offset": "0xCEA40",
+      "slot_size": 16,
+      "kr_text": "정정당당",
+      "encoded_hex": "94 D4 94 D4 8E E9 8E E9"
+    },
+    {
+      "id": "SYS_SETTINGS_0008",
+      "category": "SYSTEM",
+      "offset": "0xCEA50",
+      "slot_size": 16,
+      "kr_text": "광란의　춤",
+      "encoded_hex": "95 71 89 EA 97 53 81 40 8D AA"
+    },
+    {
+      "id": "SYS_SETTINGS_0009",
+      "category": "SYSTEM",
+      "offset": "0xCEA60",
+      "slot_size": 16,
+      "kr_text": "명석한　두뇌",
+      "encoded_hex": "8E 7D 96 70 90 F7 81 40 8F BC 94 B1"
+    },
+    {
+      "id": "SYS_SETTINGS_0010",
+      "category": "SYSTEM",
+      "offset": "0xCEA70",
+      "slot_size": 16,
+      "kr_text": "전투　기록",
+      "encoded_hex": "91 DC 88 C3 81 40 92 7A 8F CB"
+    },
+    {
+      "id": "SYS_SETTINGS_0011",
+      "category": "SYSTEM",
+      "offset": "0xCEA80",
+      "slot_size": 16,
+      "kr_text": "최대　피해량",
+      "encoded_hex": "89 85 9E 9E 81 40 8D B9 8B C6 92 CB"
+    },
+    {
+      "id": "SYS_SETTINGS_0012",
+      "category": "SYSTEM",
+      "offset": "0xCEA90",
+      "slot_size": 24,
+      "kr_text": "최대　연속　히트",
+      "encoded_hex": "89 85 9E 9E 81 40 8E B7 92 DC 81 40 93 E7 8E 81"
+    },
+    {
+      "id": "SYS_SETTINGS_0013",
+      "category": "SYSTEM",
+      "offset": "0xCEAA8",
+      "slot_size": 8,
+      "kr_text": "회",
+      "encoded_hex": "94 72"
+    },
+    {
+      "id": "SYS_SETTINGS_0014",
+      "category": "SYSTEM",
+      "offset": "0xCEAB0",
+      "slot_size": 24,
+      "kr_text": "최대　공중　콤보　높이",
+      "encoded_hex": "89 85 9E 9E 81 40 97 74 93 4B 81 40 8D 80 88 C0 81 40 8F 40 89 AA"
+    },
+    {
+      "id": "SYS_SETTINGS_0015",
+      "category": "SYSTEM",
+      "offset": "0xCEAC8",
+      "slot_size": 8,
+      "kr_text": "Ｍ",
+      "encoded_hex": "82 6C"
+    },
+    {
+      "id": "SYS_SETTINGS_0016",
+      "category": "SYSTEM",
+      "offset": "0xCEAD0",
+      "slot_size": 80,
+      "kr_text": "전투　중　표시되는\n도움말　메시지를\n켜기／끄기로　설정합니다",
+      "encoded_hex": "91 DC 88 C3 81 40 93 4B 81 40 8E 41 90 6F 81 84 91 40 0A 9C 70 8F A0 9D 43 81 40 92 E5 90 6F 97 E1 90 D1 0A 88 E4 92 7A 81 5E 8C CB 92 7A E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0017",
+      "category": "SYSTEM",
+      "offset": "0xCEB20",
+      "slot_size": 96,
+      "kr_text": "전투　상황과　관계없이\n도움말　메시지를　표시하지　않습니다\n전투에　익숙한　분께　권합니다",
+      "encoded_hex": "91 DC 88 C3 81 40 97 D7 97 DE 97 A2 81 40 96 D3 91 7C 8F E9 89 AA 0A 9C 70 8F A0 9D 43 81 40 92 E5 90 6F 97 E1 90 D1 81 40 8E 41 90 6F 93 85 97 E1 81 40 8C 81 89 AD 97 D8 98 52 0A 91 DC 88 C3 8A C7 81 40 9D F0 98 70 90 F7 81 40 8A A6 97 41 81 40 91 68 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0018",
+      "category": "SYSTEM",
+      "offset": "0xCEB80",
+      "slot_size": 96,
+      "kr_text": "전투　중에\n도움말　메시지를　표시합니다\n전투가　익숙하지　않은　분께　권합니다",
+      "encoded_hex": "91 DC 88 C3 81 40 93 4B 8A C7 0A 9C 70 8F A0 9D 43 81 40 92 E5 90 6F 97 E1 90 D1 81 40 8E 41 90 6F 91 81 97 D8 98 52 0A 91 DC 88 C3 82 70 81 40 9D F0 98 70 93 85 97 E1 81 40 8C 81 98 5A 81 40 8A A6 97 41 81 40 91 68 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0019",
+      "category": "SYSTEM",
+      "offset": "0xCEBE0",
+      "slot_size": 48,
+      "kr_text": "자동　전투　ＡＩ를\n원하는　대로　설정합니다",
+      "encoded_hex": "97 4F 99 68 81 40 91 DC 88 C3 81 40 82 60 82 68 90 D1 0A 8F BB 93 85 91 40 81 40 9E 9E E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0020",
+      "category": "SYSTEM",
+      "offset": "0xCEC10",
+      "slot_size": 64,
+      "kr_text": "ＡＩ를　사용하지　않고\n직접　명령을　입력합니다",
+      "encoded_hex": "82 60 82 68 90 D1 81 40 8A 6E 97 4E 93 85 97 E1 81 40 8C 81 92 53 0A 91 50 93 F7 81 40 8E 7D 8D 47 8F 63 81 40 94 D8 8C E1 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0021",
+      "category": "SYSTEM",
+      "offset": "0xCEC50",
+      "slot_size": 64,
+      "kr_text": "콤보와　크리티컬만　사용해\n자원을　아끼며　전투합니다",
+      "encoded_hex": "8D 80 88 C0 8F 72 81 40 93 DD E0 A6 94 E4 98 56 8D 7C 81 40 8A 6E 97 4E 8B C6 0A 97 4F 8F BB 8F 63 81 40 90 B1 8C F3 8D CA 81 40 91 DC 88 C3 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0022",
+      "category": "SYSTEM",
+      "offset": "0xCEC90",
+      "slot_size": 80,
+      "kr_text": "강력한　필살기와　마법으로\n적에게　큰　피해를　주는　공격형　작전입니다",
+      "encoded_hex": "89 E5 8C E1 90 F7 81 40 89 46 98 6C 92 7A 8F 72 81 40 8D 7C 95 5B 8E 54 E0 56 0A 97 A0 8A C7 8F DA 81 40 95 B5 81 40 8D B9 8B C6 90 D1 81 40 8F 47 91 40 81 40 97 74 90 AE 8D D5 81 40 99 E1 91 DC 94 D8 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0023",
+      "category": "SYSTEM",
+      "offset": "0xCECE0",
+      "slot_size": 64,
+      "kr_text": "상황과　적의　강함에　맞춰\n행동하는　만능형　작전입니다",
+      "encoded_hex": "97 D7 97 DE 97 A2 81 40 97 A0 97 53 81 40 89 E5 87 5D 8A C7 81 40 8A DF 88 CC 0A 94 67 99 68 93 85 91 40 81 40 8D 7C 8C B7 8D D5 81 40 99 E1 91 DC 94 D8 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0024",
+      "category": "SYSTEM",
+      "offset": "0xCED20",
+      "slot_size": 16,
+      "kr_text": "사운드",
+      "encoded_hex": "8A 6E 97 67 94 40"
+    },
+    {
+      "id": "SYS_SETTINGS_0025",
+      "category": "SYSTEM",
+      "offset": "0xCED30",
+      "slot_size": 16,
+      "kr_text": "오른쪽　스틱",
+      "encoded_hex": "94 71 92 43 8F CD 81 40 8A F7 95 A5"
+    },
+    {
+      "id": "SYS_SETTINGS_0026",
+      "category": "SYSTEM",
+      "offset": "0xCED40",
+      "slot_size": 16,
+      "kr_text": "장면　건너뛰기",
+      "encoded_hex": "8C F0 96 57 81 40 8C C5 92 9B 93 D6 92 7A"
+    },
+    {
+      "id": "SYS_SETTINGS_0027",
+      "category": "SYSTEM",
+      "offset": "0xCED50",
+      "slot_size": 16,
+      "kr_text": "스테레오",
+      "encoded_hex": "8A F7 93 EC 89 C0 94 71"
+    },
+    {
+      "id": "SYS_SETTINGS_0028",
+      "category": "SYSTEM",
+      "offset": "0xCED60",
+      "slot_size": 16,
+      "kr_text": "모노",
+      "encoded_hex": "83 BF 8C 7C"
+    },
+    {
+      "id": "SYS_SETTINGS_0029",
+      "category": "SYSTEM",
+      "offset": "0xCED70",
+      "slot_size": 16,
+      "kr_text": "일반",
+      "encoded_hex": "91 93 91 65"
+    },
+    {
+      "id": "SYS_SETTINGS_0030",
+      "category": "SYSTEM",
+      "offset": "0xCED80",
+      "slot_size": 16,
+      "kr_text": "반전",
+      "encoded_hex": "91 65 91 DC"
+    },
+    {
+      "id": "SYS_SETTINGS_0031",
+      "category": "SYSTEM",
+      "offset": "0xCED90",
+      "slot_size": 64,
+      "kr_text": "사운드　출력을\n스테레오　또는　모노로　설정합니다",
+      "encoded_hex": "8A 6E 97 67 94 40 81 40 97 6E 8C E1 8F 63 0A 8A F7 93 EC 89 C0 94 71 81 40 8D 57 91 40 81 40 83 BF 8C 7C E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0032",
+      "category": "SYSTEM",
+      "offset": "0xCEDD0",
+      "slot_size": 48,
+      "kr_text": "사운드　출력을\n스테레오로　설정합니다",
+      "encoded_hex": "8A 6E 97 67 94 40 81 40 97 6E 8C E1 8F 63 0A 8A F7 93 EC 89 C0 94 71 E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0033",
+      "category": "SYSTEM",
+      "offset": "0xCEE00",
+      "slot_size": 48,
+      "kr_text": "사운드　출력을\n모노로　설정합니다",
+      "encoded_hex": "8A 6E 97 67 94 40 81 40 97 6E 8C E1 8F 63 0A 83 BF 8C 7C E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0034",
+      "category": "SYSTEM",
+      "offset": "0xCEE30",
+      "slot_size": 64,
+      "kr_text": "오른쪽　스틱의　카메라　회전을\n일반　또는　반전으로　설정합니다",
+      "encoded_hex": "94 71 92 43 8F CD 81 40 8A F7 95 A5 97 53 81 40 93 73 92 E5 8E C4 81 40 94 72 91 DC 8F 63 0A 91 93 91 65 81 40 8D 57 91 40 81 40 91 65 91 DC 8E 54 E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0035",
+      "category": "SYSTEM",
+      "offset": "0xCEE70",
+      "slot_size": 64,
+      "kr_text": "오른쪽　스틱의　카메라　회전을\n일반으로　설정합니다",
+      "encoded_hex": "94 71 92 43 8F CD 81 40 8A F7 95 A5 97 53 81 40 93 73 92 E5 8E C4 81 40 94 72 91 DC 8F 63 0A 91 93 91 65 8E 54 E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0036",
+      "category": "SYSTEM",
+      "offset": "0xCEEB0",
+      "slot_size": 64,
+      "kr_text": "오른쪽　스틱의　카메라　회전을\n반전으로　설정합니다",
+      "encoded_hex": "94 71 92 43 8F CD 81 40 8A F7 95 A5 97 53 81 40 93 73 92 E5 8E C4 81 40 94 72 91 DC 8F 63 0A 91 65 91 DC 8E 54 E0 56 81 40 8E B6 94 D4 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0037",
+      "category": "SYSTEM",
+      "offset": "0xCEEF0",
+      "slot_size": 192,
+      "kr_text": "장면을　건너뛰는　기능입니다\n처음　보는　장면도　건너뛸　수　있어\n내용을　이해하지　못하거나\n게임　진행이　어려워질　수　있습니다\n이　기능은　플레이어의　책임　아래\n사용해　주세요",
+      "encoded_hex": "8C F0 96 57 8F 63 81 40 8C C5 92 9B 93 D6 91 40 81 40 92 7A 8C B7 94 D8 97 D8 98 52 0A 97 9A 8E 98 81 40 88 C0 91 40 81 40 8C F0 96 57 9C 70 81 40 8C C5 92 9B 8D 5F 81 40 94 E2 81 40 8D 50 87 5A 0A 9A 71 97 4E 8F 63 81 40 89 AA 8B C6 93 85 97 E1 81 40 8B 58 93 85 8B AB 89 5D 0A 8F DA 90 49 81 40 8F 8F 94 67 89 AA 81 40 87 5A 89 C3 89 7B 96 EF 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52 0A 89 AA 81 40 92 7A 8C B7 98 5A 81 40 8E BD 89 C0 89 AA 87 5A 97 53 81 40 E0 79 90 49 81 40 90 B1 95 E3 0A 8A 6E 97 4E 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "SYS_SETTINGS_0038",
+      "category": "SYSTEM",
+      "offset": "0xCEFB0",
+      "slot_size": 96,
+      "kr_text": "장면　건너뛰기　켜기\n장면　중　ＳＥＬＥＣＴ　버튼을　누르면\n장면을　건너뜁니다",
+      "encoded_hex": "8C F0 96 57 81 40 8C C5 92 9B 93 D6 92 7A 81 40 88 E4 92 7A 0A 8C F0 96 57 81 40 93 4B 81 40 82 72 82 64 82 6B 82 64 82 62 82 73 81 40 94 41 90 95 8F 63 81 40 92 F7 92 9A 96 57 0A 8C F0 96 57 8F 63 81 40 8C C5 92 9B 8D 61 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SETTINGS_0039",
+      "category": "SYSTEM",
+      "offset": "0xCF010",
+      "slot_size": 104,
+      "kr_text": "장면　건너뛰기　끄기\n장면　중　ＳＥＬＥＣＴ　버튼을　눌러도\n장면을　건너뛰지　않습니다",
+      "encoded_hex": "8C F0 96 57 81 40 8C C5 92 9B 93 D6 92 7A 81 40 8C CB 92 7A 0A 8C F0 96 57 81 40 93 4B 81 40 82 72 82 64 82 6B 82 64 82 62 82 73 81 40 94 41 90 95 8F 63 81 40 93 DC 97 E6 9C 70 0A 8C F0 96 57 8F 63 81 40 8C C5 92 9B 93 D6 97 E1 81 40 8C 81 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0001",
+      "category": "SYSTEM",
+      "offset": "0xCF078",
+      "slot_size": 8,
+      "kr_text": "금액",
+      "encoded_hex": "93 54 8C 71"
+    },
+    {
+      "id": "SYS_SHOP_0002",
+      "category": "SYSTEM",
+      "offset": "0xCF080",
+      "slot_size": 8,
+      "kr_text": "개",
+      "encoded_hex": "8A 6C"
+    },
+    {
+      "id": "EQUIP_STATE_0001",
+      "category": "EQUIPMENT",
+      "offset": "0xCF088",
+      "slot_size": 16,
+      "kr_text": "장비　가능",
+      "encoded_hex": "8C F0 90 CF 81 40 82 70 8C B7"
+    },
+    {
+      "id": "EQUIP_STATE_0002",
+      "category": "EQUIPMENT",
+      "offset": "0xCF098",
+      "slot_size": 8,
+      "kr_text": "장비중",
+      "encoded_hex": "8C F0 90 CF 93 4B"
+    },
+    {
+      "id": "EQUIP_STATE_0003",
+      "category": "EQUIPMENT",
+      "offset": "0xCF0A0",
+      "slot_size": 16,
+      "kr_text": "장비　불가",
+      "encoded_hex": "8C F0 90 CF 81 40 8A C8 82 70"
+    },
+    {
+      "id": "EQUIP_STATE_0004",
+      "category": "EQUIPMENT",
+      "offset": "0xCF0B0",
+      "slot_size": 8,
+      "kr_text": "장착중",
+      "encoded_hex": "8C F0 92 47 93 4B"
+    },
+    {
+      "id": "SYS_SHOP_0007",
+      "category": "SYSTEM",
+      "offset": "0xCF0B8",
+      "slot_size": 16,
+      "kr_text": "보유　메달",
+      "encoded_hex": "88 C0 95 C3 81 40 92 E5 99 F9"
+    },
+    {
+      "id": "SYS_SHOP_0008",
+      "category": "SYSTEM",
+      "offset": "0xCF0C8",
+      "slot_size": 16,
+      "kr_text": "보유　수　×",
+      "encoded_hex": "88 C0 95 C3 81 40 94 E2 81 40 81 7E"
+    },
+    {
+      "id": "EQUIP_STATE_0005",
+      "category": "EQUIPMENT",
+      "offset": "0xCF0D8",
+      "slot_size": 16,
+      "kr_text": "장비　중　×",
+      "encoded_hex": "8C F0 90 CF 81 40 93 4B 81 40 81 7E"
+    },
+    {
+      "id": "EQUIP_STATE_0006",
+      "category": "EQUIPMENT",
+      "offset": "0xCF0E8",
+      "slot_size": 16,
+      "kr_text": "　장비　중",
+      "encoded_hex": "81 40 8C F0 90 CF 81 40 93 4B"
+    },
+    {
+      "id": "SYS_SHOP_0011",
+      "category": "SYSTEM",
+      "offset": "0xCF0F8",
+      "slot_size": 8,
+      "kr_text": "구매량",
+      "encoded_hex": "8E 5E 8A 7D 92 CB"
+    },
+    {
+      "id": "SYS_SHOP_0012",
+      "category": "SYSTEM",
+      "offset": "0xCF100",
+      "slot_size": 8,
+      "kr_text": "판매량",
+      "encoded_hex": "8F AA 8A 7D 92 CB"
+    },
+    {
+      "id": "SYS_SHOP_0013",
+      "category": "SYSTEM",
+      "offset": "0xCF108",
+      "slot_size": 8,
+      "kr_text": "교환량",
+      "encoded_hex": "8E 5D 95 B6 92 CB"
+    },
+    {
+      "id": "SYS_SHOP_0014",
+      "category": "SYSTEM",
+      "offset": "0xCF110",
+      "slot_size": 8,
+      "kr_text": "구매",
+      "encoded_hex": "8E 5E 8A 7D"
+    },
+    {
+      "id": "SYS_SHOP_0015",
+      "category": "SYSTEM",
+      "offset": "0xCF118",
+      "slot_size": 8,
+      "kr_text": "뒤로",
+      "encoded_hex": "90 C0 E0 56"
+    },
+    {
+      "id": "SYS_SHOP_0016",
+      "category": "SYSTEM",
+      "offset": "0xCF120",
+      "slot_size": 8,
+      "kr_text": "판매",
+      "encoded_hex": "8F AA 8A 7D"
+    },
+    {
+      "id": "SYS_SHOP_0017",
+      "category": "SYSTEM",
+      "offset": "0xCF128",
+      "slot_size": 8,
+      "kr_text": "교환",
+      "encoded_hex": "8E 5D 95 B6"
+    },
+    {
+      "id": "SYS_SHOP_0018",
+      "category": "SYSTEM",
+      "offset": "0xCF130",
+      "slot_size": 16,
+      "kr_text": "아이템　구매",
+      "encoded_hex": "90 B1 89 AA 8E 9A 81 40 8E 5E 8A 7D"
+    },
+    {
+      "id": "SYS_SHOP_0019",
+      "category": "SYSTEM",
+      "offset": "0xCF140",
+      "slot_size": 16,
+      "kr_text": "소지품　판매",
+      "encoded_hex": "92 CD 97 E1 95 B4 81 40 8F AA 8A 7D"
+    },
+    {
+      "id": "SYS_SHOP_0020",
+      "category": "SYSTEM",
+      "offset": "0xCF150",
+      "slot_size": 16,
+      "kr_text": "마법　구매",
+      "encoded_hex": "8D 7C 95 5B 81 40 8E 5E 8A 7D"
+    },
+    {
+      "id": "SYS_SHOP_0021",
+      "category": "SYSTEM",
+      "offset": "0xCF160",
+      "slot_size": 16,
+      "kr_text": "마법　생성",
+      "encoded_hex": "8D 7C 95 5B 81 40 99 F4 90 B4"
+    },
+    {
+      "id": "SYS_SHOP_0022",
+      "category": "SYSTEM",
+      "offset": "0xCF170",
+      "slot_size": 24,
+      "kr_text": "생성할마나　에그선택",
+      "encoded_hex": "99 F4 90 B4 95 4D 8D 7C 89 5D 81 40 8A C7 92 57 98 65 81 B8"
+    },
+    {
+      "id": "SYS_SHOP_0023",
+      "category": "SYSTEM",
+      "offset": "0xCF188",
+      "slot_size": 16,
+      "kr_text": "강화",
+      "encoded_hex": "89 E5 91 63"
+    },
+    {
+      "id": "SYS_SHOP_0024",
+      "category": "SYSTEM",
+      "offset": "0xCF198",
+      "slot_size": 24,
+      "kr_text": "생성　마법",
+      "encoded_hex": "99 F4 90 B4 81 40 8D 7C 95 5B"
+    },
+    {
+      "id": "SYS_SHOP_0025",
+      "category": "SYSTEM",
+      "offset": "0xCF1B0",
+      "slot_size": 48,
+      "kr_text": "마나　에그로　마법을　생성할까요？",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 E0 56 81 40 8D 7C 95 5B 8F 63 81 40 99 F4 90 B4 95 4D E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SHOP_0026",
+      "category": "SYSTEM",
+      "offset": "0xCF1E0",
+      "slot_size": 48,
+      "kr_text": "보유한　마나　에그가　사라집니다",
+      "encoded_hex": "88 C0 95 C3 90 F7 81 40 8D 7C 89 5D 81 40 8A C7 92 57 82 70 81 40 8A 6E 8E C4 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0027",
+      "category": "SYSTEM",
+      "offset": "0xCF210",
+      "slot_size": 48,
+      "kr_text": "장비한　마나　에그가　사라집니다",
+      "encoded_hex": "8C F0 90 CF 90 F7 81 40 8D 7C 89 5D 81 40 8A C7 92 57 82 70 81 40 8A 6E 8E C4 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0028",
+      "category": "SYSTEM",
+      "offset": "0xCF240",
+      "slot_size": 40,
+      "kr_text": "생성　마법이　한도를　넘어　사라집니다",
+      "encoded_hex": "99 F4 90 B4 81 40 8D 7C 95 5B 89 AA 81 40 90 F7 9C 70 90 D1 81 40 8D 43 87 5A 81 40 8A 6E 8E C4 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0029",
+      "category": "SYSTEM",
+      "offset": "0xCF268",
+      "slot_size": 24,
+      "kr_text": "마법　생성　중",
+      "encoded_hex": "8D 7C 95 5B 81 40 99 F4 90 B4 81 40 93 4B"
+    },
+    {
+      "id": "SYS_SHOP_0030",
+      "category": "SYSTEM",
+      "offset": "0xCF280",
+      "slot_size": 24,
+      "kr_text": "마법을　생성했습니다",
+      "encoded_hex": "8D 7C 95 5B 8F 63 81 40 99 F4 90 B4 8B 4C 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0031",
+      "category": "SYSTEM",
+      "offset": "0xCF298",
+      "slot_size": 16,
+      "kr_text": "마나　에그합성",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 91 81 90 B4"
+    },
+    {
+      "id": "SYS_SHOP_0032",
+      "category": "SYSTEM",
+      "offset": "0xCF2A8",
+      "slot_size": 8,
+      "kr_text": "첫번째",
+      "encoded_hex": "8A B7 94 4C 89 49"
+    },
+    {
+      "id": "SYS_SHOP_0033",
+      "category": "SYSTEM",
+      "offset": "0xCF2B0",
+      "slot_size": 8,
+      "kr_text": "두번째",
+      "encoded_hex": "8F BC 94 4C 89 49"
+    },
+    {
+      "id": "SYS_SHOP_0034",
+      "category": "SYSTEM",
+      "offset": "0xCF2B8",
+      "slot_size": 8,
+      "kr_text": "합성후",
+      "encoded_hex": "91 81 90 B4 81 81"
+    },
+    {
+      "id": "SYS_SHOP_0035",
+      "category": "SYSTEM",
+      "offset": "0xCF2C0",
+      "slot_size": 8,
+      "kr_text": "불명",
+      "encoded_hex": "8A C8 8E 7D"
+    },
+    {
+      "id": "SYS_SHOP_0036",
+      "category": "SYSTEM",
+      "offset": "0xCF2C8",
+      "slot_size": 24,
+      "kr_text": "합성할　수　없습니다",
+      "encoded_hex": "91 81 90 B4 95 4D 81 40 94 E2 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0037",
+      "category": "SYSTEM",
+      "offset": "0xCF2E0",
+      "slot_size": 32,
+      "kr_text": "마나　에그를　합성할까요？",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 90 D1 81 40 91 81 90 B4 95 4D E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SHOP_0038",
+      "category": "SYSTEM",
+      "offset": "0xCF300",
+      "slot_size": 32,
+      "kr_text": "마나　에그　합성　중",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 81 40 91 81 90 B4 81 40 93 4B"
+    },
+    {
+      "id": "SYS_SHOP_0039",
+      "category": "SYSTEM",
+      "offset": "0xCF320",
+      "slot_size": 32,
+      "kr_text": "마나　에그를　합성했습니다",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 90 D1 81 40 91 81 90 B4 8B 4C 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0040",
+      "category": "SYSTEM",
+      "offset": "0xCF340",
+      "slot_size": 16,
+      "kr_text": "스킬　구매",
+      "encoded_hex": "8A F7 97 86 81 40 8E 5E 8A 7D"
+    },
+    {
+      "id": "SYS_SHOP_0041",
+      "category": "SYSTEM",
+      "offset": "0xCF350",
+      "slot_size": 16,
+      "kr_text": "스킬　생성",
+      "encoded_hex": "8A F7 97 86 81 40 99 F4 90 B4"
+    },
+    {
+      "id": "SYS_SHOP_0042",
+      "category": "SYSTEM",
+      "offset": "0xCF360",
+      "slot_size": 24,
+      "kr_text": "생성할　스킬북　선택",
+      "encoded_hex": "99 F4 90 B4 95 4D 81 40 8A F7 97 86 8A 79 81 40 98 65 81 B8"
+    },
+    {
+      "id": "SYS_SHOP_0043",
+      "category": "SYSTEM",
+      "offset": "0xCF378",
+      "slot_size": 24,
+      "kr_text": "생성　스킬",
+      "encoded_hex": "99 F4 90 B4 81 40 8A F7 97 86"
+    },
+    {
+      "id": "SYS_SHOP_0044",
+      "category": "SYSTEM",
+      "offset": "0xCF390",
+      "slot_size": 48,
+      "kr_text": "스킬북으로　스킬을　생성할까요？",
+      "encoded_hex": "8A F7 97 86 8A 79 8E 54 E0 56 81 40 8A F7 97 86 8F 63 81 40 99 F4 90 B4 95 4D E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SHOP_0045",
+      "category": "SYSTEM",
+      "offset": "0xCF3C0",
+      "slot_size": 48,
+      "kr_text": "보유한　스킬북이　사라집니다",
+      "encoded_hex": "88 C0 95 C3 90 F7 81 40 8A F7 97 86 8A 79 89 AA 81 40 8A 6E 8E C4 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0046",
+      "category": "SYSTEM",
+      "offset": "0xCF3F0",
+      "slot_size": 48,
+      "kr_text": "장비한　스킬북이　사라집니다",
+      "encoded_hex": "8C F0 90 CF 90 F7 81 40 8A F7 97 86 8A 79 89 AA 81 40 8A 6E 8E C4 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0047",
+      "category": "SYSTEM",
+      "offset": "0xCF420",
+      "slot_size": 40,
+      "kr_text": "생성　스킬이　한도를　넘어　사라집니다",
+      "encoded_hex": "99 F4 90 B4 81 40 8A F7 97 86 89 AA 81 40 90 F7 9C 70 90 D1 81 40 8D 43 87 5A 81 40 8A 6E 8E C4 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0048",
+      "category": "SYSTEM",
+      "offset": "0xCF448",
+      "slot_size": 24,
+      "kr_text": "스킬　생성　중",
+      "encoded_hex": "8A F7 97 86 81 40 99 F4 90 B4 81 40 93 4B"
+    },
+    {
+      "id": "SYS_SHOP_0049",
+      "category": "SYSTEM",
+      "offset": "0xCF460",
+      "slot_size": 24,
+      "kr_text": "스킬을　생성했습니다",
+      "encoded_hex": "8A F7 97 86 8F 63 81 40 99 F4 90 B4 8B 4C 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SHOP_0050",
+      "category": "SYSTEM",
+      "offset": "0xCF478",
+      "slot_size": 16,
+      "kr_text": "경품　교환",
+      "encoded_hex": "91 7A 95 B4 81 40 8E 5D 95 B6"
+    },
+    {
+      "id": "SYS_SHOP_0051",
+      "category": "SYSTEM",
+      "offset": "0xCF488",
+      "slot_size": 16,
+      "kr_text": "메달　구매",
+      "encoded_hex": "92 E5 99 F9 81 40 8E 5E 8A 7D"
+    },
+    {
+      "id": "SYS_SHOP_0052",
+      "category": "SYSTEM",
+      "offset": "0xCF498",
+      "slot_size": 24,
+      "kr_text": "세트업",
+      "encoded_hex": "90 CD 8E 81 8B 7E"
+    },
+    {
+      "id": "SYS_SHOP_0053",
+      "category": "SYSTEM",
+      "offset": "0xCF4B0",
+      "slot_size": 32,
+      "kr_text": "마법　세트업",
+      "encoded_hex": "8D 7C 95 5B 81 40 90 CD 8E 81 8B 7E"
+    },
+    {
+      "id": "SYS_SHOP_0054",
+      "category": "SYSTEM",
+      "offset": "0xCF4D0",
+      "slot_size": 24,
+      "kr_text": "스킬　세트업",
+      "encoded_hex": "8A F7 97 86 81 40 90 CD 8E 81 8B 7E"
+    },
+    {
+      "id": "SYS_SHOP_0055",
+      "category": "SYSTEM",
+      "offset": "0xCF4E8",
+      "slot_size": 16,
+      "kr_text": "마법　장착",
+      "encoded_hex": "8D 7C 95 5B 81 40 8C F0 92 47"
+    },
+    {
+      "id": "SYS_SHOP_0056",
+      "category": "SYSTEM",
+      "offset": "0xCF4F8",
+      "slot_size": 16,
+      "kr_text": "마법　해제",
+      "encoded_hex": "8D 7C 95 5B 81 40 8B C6 8E E5"
+    },
+    {
+      "id": "SYS_SHOP_0057",
+      "category": "SYSTEM",
+      "offset": "0xCF508",
+      "slot_size": 8,
+      "kr_text": "장착됨",
+      "encoded_hex": "8C F0 92 47 92 D7"
+    },
+    {
+      "id": "SYS_SHOP_0058",
+      "category": "SYSTEM",
+      "offset": "0xCF510",
+      "slot_size": 16,
+      "kr_text": "스킬　장착",
+      "encoded_hex": "8A F7 97 86 81 40 8C F0 92 47"
+    },
+    {
+      "id": "SYS_SHOP_0059",
+      "category": "SYSTEM",
+      "offset": "0xCF520",
+      "slot_size": 16,
+      "kr_text": "스킬　해제",
+      "encoded_hex": "8A F7 97 86 81 40 8B C6 8E E5"
+    },
+    {
+      "id": "SYS_SHOP_0060",
+      "category": "SYSTEM",
+      "offset": "0xCF530",
+      "slot_size": 16,
+      "kr_text": "비행",
+      "encoded_hex": "90 CF 94 67"
+    },
+    {
+      "id": "SYS_SHOP_0061",
+      "category": "SYSTEM",
+      "offset": "0xCF540",
+      "slot_size": 8,
+      "kr_text": "저장",
+      "encoded_hex": "8E EB 8C F0"
+    },
+    {
+      "id": "SYS_SHOP_0062",
+      "category": "SYSTEM",
+      "offset": "0xCF548",
+      "slot_size": 8,
+      "kr_text": "종료",
+      "encoded_hex": "8B B5 8D 4F"
+    },
+    {
+      "id": "SYS_SHOP_0063",
+      "category": "SYSTEM",
+      "offset": "0xCF550",
+      "slot_size": 16,
+      "kr_text": "게임　계속",
+      "encoded_hex": "8F DA 90 49 81 40 91 7C 92 DC"
+    },
+    {
+      "id": "SYS_SHOP_0064",
+      "category": "SYSTEM",
+      "offset": "0xCF560",
+      "slot_size": 16,
+      "kr_text": "하늘　날기",
+      "encoded_hex": "93 85 91 47 81 40 90 92 92 7A"
+    },
+    {
+      "id": "SYS_SHOP_0065",
+      "category": "SYSTEM",
+      "offset": "0xCF570",
+      "slot_size": 16,
+      "kr_text": "다른　곳으로",
+      "encoded_hex": "98 52 92 43 81 40 96 F3 8E 54 E0 56"
+    },
+    {
+      "id": "FIELD_NAME_0001",
+      "category": "FIELD",
+      "offset": "0xCF580",
+      "slot_size": 16,
+      "kr_text": "안포그　마을",
+      "encoded_hex": "8B F8 91 9E 92 57 81 40 8D 7C 8F 63"
+    },
+    {
+      "id": "FIELD_NAME_0002",
+      "category": "FIELD",
+      "offset": "0xCF590",
+      "slot_size": 16,
+      "kr_text": "사바타르　항구",
+      "encoded_hex": "8A 6E 8F 8D 9C 5C 92 9A 81 40 89 69 8E 5E"
+    },
+    {
+      "id": "FIELD_NAME_0003",
+      "category": "FIELD",
+      "offset": "0xCF5A0",
+      "slot_size": 16,
+      "kr_text": "란도토　섬",
+      "encoded_hex": "89 EA 9C 70 94 B2 81 40 89 5C"
+    },
+    {
+      "id": "FIELD_NAME_0004",
+      "category": "FIELD",
+      "offset": "0xCF5B0",
+      "slot_size": 16,
+      "kr_text": "멘디　마을",
+      "encoded_hex": "E5 DA 94 E3 81 40 8D 7C 8F 63"
+    },
+    {
+      "id": "FIELD_NAME_0005",
+      "category": "FIELD",
+      "offset": "0xCF5C0",
+      "slot_size": 16,
+      "kr_text": "비룡의　계곡",
+      "encoded_hex": "90 CF 96 E7 97 53 81 40 91 7C 92 76"
+    },
+    {
+      "id": "FIELD_NAME_0006",
+      "category": "FIELD",
+      "offset": "0xCF5D0",
+      "slot_size": 16,
+      "kr_text": "바쿨라　촌락",
+      "encoded_hex": "8F 8D 90 86 8E C4 81 40 8A 47 91 62"
+    },
+    {
+      "id": "FIELD_NAME_0007",
+      "category": "FIELD",
+      "offset": "0xCF5E0",
+      "slot_size": 16,
+      "kr_text": "베자스　숲",
+      "encoded_hex": "96 9F 97 4F 8A F7 81 40 89 FA"
+    },
+    {
+      "id": "FIELD_NAME_0008",
+      "category": "FIELD",
+      "offset": "0xCF5F0",
+      "slot_size": 16,
+      "kr_text": "멜크　유적",
+      "encoded_hex": "93 85 93 DD 81 40 95 C3 97 A0"
+    },
+    {
+      "id": "FIELD_NAME_0009",
+      "category": "FIELD",
+      "offset": "0xCF600",
+      "slot_size": 16,
+      "kr_text": "라플리드　마을",
+      "encoded_hex": "8E C4 8E BD E0 A6 94 40 81 40 8D 7C 8F 63"
+    },
+    {
+      "id": "FIELD_NAME_0010",
+      "category": "FIELD",
+      "offset": "0xCF610",
+      "slot_size": 16,
+      "kr_text": "수르마니아",
+      "encoded_hex": "94 E2 92 9A 8D 7C 97 D8 90 B1"
+    },
+    {
+      "id": "SYS_SHOP_0076",
+      "category": "SYSTEM",
+      "offset": "0xCF620",
+      "slot_size": 16,
+      "kr_text": "ＤＡＴＡ",
+      "encoded_hex": "82 63 82 60 82 73 82 60"
+    },
+    {
+      "id": "SYS_SAVE_0002",
+      "category": "SYSTEM",
+      "offset": "0xCF630",
+      "slot_size": 32,
+      "kr_text": "데이터가　손상되었습니다",
+      "encoded_hex": "9C 6A 89 AA 8F 82 82 70 81 40 94 9B 97 D7 81 84 8A AE 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SAVE_0003",
+      "category": "SYSTEM",
+      "offset": "0xCF650",
+      "slot_size": 32,
+      "kr_text": "저장　데이터가　없습니다",
+      "encoded_hex": "8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 82 70 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SAVE_0004",
+      "category": "SYSTEM",
+      "offset": "0xCF670",
+      "slot_size": 32,
+      "kr_text": "빈　공간이　부족합니다",
+      "encoded_hex": "90 D3 81 40 97 74 95 E6 89 AA 81 40 8A 4B 89 BD 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_SAVE_0005",
+      "category": "SYSTEM",
+      "offset": "0xCF690",
+      "slot_size": 96,
+      "kr_text": "슬롯　１의　메모리　카드（ＰＳ２）가\n포맷되지　않았습니다．\n포맷할까요？",
+      "encoded_hex": "91 BF 95 46 81 40 82 50 97 53 81 40 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 82 70 0A 91 9E 94 4A 81 84 97 E1 81 40 8C 81 90 F7 89 AD 97 D8 98 52 81 44 0A 91 9E 94 4A 95 4D E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SAVE_0006",
+      "category": "SYSTEM",
+      "offset": "0xCF6F0",
+      "slot_size": 32,
+      "kr_text": "포맷에　실패했습니다．",
+      "encoded_hex": "91 9E 94 4A 8A C7 81 40 E1 D2 96 CE 8B 4C 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0007",
+      "category": "SYSTEM",
+      "offset": "0xCF710",
+      "slot_size": 96,
+      "kr_text": "포맷　중입니다．\n메모리　카드（ＰＳ２）를\n슬롯　１에서　빼지　마세요．",
+      "encoded_hex": "91 9E 94 4A 81 40 93 4B 94 D8 97 D8 98 52 81 44 0A 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 90 D1 0A 91 BF 95 46 81 40 82 50 8A C7 8A F8 81 40 95 B2 97 E1 81 40 8D 7C 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0008",
+      "category": "SYSTEM",
+      "offset": "0xCF770",
+      "slot_size": 48,
+      "kr_text": "저장　데이터를　덮어쓸까요？",
+      "encoded_hex": "8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 90 D1 81 40 90 76 87 5A 94 65 E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SAVE_0009",
+      "category": "SYSTEM",
+      "offset": "0xCF7A0",
+      "slot_size": 48,
+      "kr_text": "저장을　끝낼까요？",
+      "encoded_hex": "8E EB 8C F0 8F 63 81 40 8E AB 90 C7 E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SAVE_0010",
+      "category": "SYSTEM",
+      "offset": "0xCF7D0",
+      "slot_size": 48,
+      "kr_text": "새　저장　데이터를　만들까요？",
+      "encoded_hex": "92 7E 81 40 8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 90 D1 81 40 8D 7C 8C E2 E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SAVE_0011",
+      "category": "SYSTEM",
+      "offset": "0xCF800",
+      "slot_size": 112,
+      "kr_text": "슬롯　１의　메모리　카드（ＰＳ２）에\n빈　공간이　부족합니다．\n８５ＫＢ　이상의　빈　공간이　필요합니다．",
+      "encoded_hex": "91 BF 95 46 81 40 82 50 97 53 81 40 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 8A C7 0A 90 D3 81 40 97 74 95 E6 89 AA 81 40 8A 4B 89 BD 91 81 97 D8 98 52 81 44 0A 82 57 82 54 82 6A 82 61 81 40 89 AA 97 D7 97 53 81 40 90 D3 81 40 97 74 95 E6 89 AA 81 40 89 46 E3 59 91 81 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0012",
+      "category": "SYSTEM",
+      "offset": "0xCF870",
+      "slot_size": 32,
+      "kr_text": "저장에　실패했습니다．",
+      "encoded_hex": "8E EB 8C F0 8A C7 81 40 E1 D2 96 CE 8B 4C 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0013",
+      "category": "SYSTEM",
+      "offset": "0xCF890",
+      "slot_size": 32,
+      "kr_text": "저장이　완료되었습니다．",
+      "encoded_hex": "8E EB 8C F0 89 AA 81 40 81 A6 8D 4F 81 84 8A AE 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0014",
+      "category": "SYSTEM",
+      "offset": "0xCF8B0",
+      "slot_size": 64,
+      "kr_text": "메모리　카드（ＰＳ２）가\n슬롯　１에서　빠졌습니다．",
+      "encoded_hex": "92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 82 70 0A 91 BF 95 46 81 40 82 50 8A C7 8A F8 81 40 93 AD 89 87 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0015",
+      "category": "SYSTEM",
+      "offset": "0xCF8F0",
+      "slot_size": 64,
+      "kr_text": "슬롯　１에　메모리　카드（ＰＳ２）가\n들어　있지　않습니다．",
+      "encoded_hex": "91 BF 95 46 81 40 82 50 8A C7 81 40 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 82 70 0A 8C E2 87 5A 81 40 8D 50 97 E1 81 40 8C 81 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0016",
+      "category": "SYSTEM",
+      "offset": "0xCF930",
+      "slot_size": 144,
+      "kr_text": "슬롯　１의　메모리　카드（ＰＳ２）에\n빈　공간이　부족합니다．\n새　저장　데이터를　만들려면\n６ＫＢ　이상의　빈　공간이　필요합니다．",
+      "encoded_hex": "91 BF 95 46 81 40 82 50 97 53 81 40 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 8A C7 0A 90 D3 81 40 97 74 95 E6 89 AA 81 40 8A 4B 89 BD 91 81 97 D8 98 52 81 44 0A 92 7E 81 40 8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 90 D1 81 40 8D 7C 8C E2 89 C3 96 57 0A 82 55 82 6A 82 61 81 40 89 AA 97 D7 97 53 81 40 90 D3 81 40 97 74 95 E6 89 AA 81 40 89 46 E3 59 91 81 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0017",
+      "category": "SYSTEM",
+      "offset": "0xCF9C0",
+      "slot_size": 96,
+      "kr_text": "저장　정보를　읽는　중입니다．\n메모리　카드（ＰＳ２）를\n슬롯　１에서　빼지　마세요．",
+      "encoded_hex": "8E EB 8C F0 81 40 94 D4 88 C0 90 D1 81 40 98 54 91 40 81 40 93 4B 94 D8 97 D8 98 52 81 44 0A 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 90 D1 0A 91 BF 95 46 81 40 82 50 8A C7 8A F8 81 40 95 B2 97 E1 81 40 8D 7C 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0018",
+      "category": "SYSTEM",
+      "offset": "0xCFA20",
+      "slot_size": 80,
+      "kr_text": "저장　중입니다．\n메모리　카드（ＰＳ２）를\n슬롯　１에서　빼지　마세요．",
+      "encoded_hex": "8E EB 8C F0 81 40 93 4B 94 D8 97 D8 98 52 81 44 0A 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 90 D1 0A 91 BF 95 46 81 40 82 50 8A C7 8A F8 81 40 95 B2 97 E1 81 40 8D 7C 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_LOAD_0001",
+      "category": "SYSTEM",
+      "offset": "0xCFA70",
+      "slot_size": 48,
+      "kr_text": "불러오기를　끝낼까요？",
+      "encoded_hex": "8A C8 97 E6 94 71 92 7A 90 D1 81 40 8E AB 90 C7 E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_LOAD_0002",
+      "category": "SYSTEM",
+      "offset": "0xCFAA0",
+      "slot_size": 32,
+      "kr_text": "불러오기가　완료되었습니다．",
+      "encoded_hex": "8A C8 97 E6 94 71 92 7A 82 70 81 40 81 A6 8D 4F 81 84 8A AE 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_LOAD_0003",
+      "category": "SYSTEM",
+      "offset": "0xCFAC0",
+      "slot_size": 32,
+      "kr_text": "불러오기에　실패했습니다．",
+      "encoded_hex": "8A C8 97 E6 94 71 92 7A 8A C7 81 40 E1 D2 96 CE 8B 4C 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_LOAD_0004",
+      "category": "SYSTEM",
+      "offset": "0xCFAE0",
+      "slot_size": 64,
+      "kr_text": "슬롯　１에　그란디아　３\n저장　데이터가　없습니다．",
+      "encoded_hex": "91 BF 95 46 81 40 82 50 8A C7 81 40 92 57 89 EA 94 E3 90 B1 81 40 82 52 0A 8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 82 70 81 40 8F E9 89 AD 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_LOAD_0005",
+      "category": "SYSTEM",
+      "offset": "0xCFB20",
+      "slot_size": 144,
+      "kr_text": "ＤＩＳＣ　２의　저장　데이터입니다．\n그란디아　３　ＤＩＳＣ　２를\n넣고　게임을　다시　시작한　뒤\n이　데이터로　불러오기　하세요．",
+      "encoded_hex": "82 63 82 68 82 72 82 62 81 40 82 51 97 53 81 40 8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 94 D8 97 D8 98 52 81 44 0A 92 57 89 EA 94 E3 90 B1 81 40 82 52 81 40 82 63 82 68 82 72 82 62 81 40 82 51 90 D1 0A 8D 49 92 53 81 40 8F DA 90 49 8F 63 81 40 98 52 90 6F 81 40 90 6F 99 E1 90 F7 81 40 90 C0 0A 89 AA 81 40 9C 6A 89 AA 8F 82 E0 56 81 40 8A C8 97 E6 94 71 92 7A 81 40 93 85 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_LOAD_0006",
+      "category": "SYSTEM",
+      "offset": "0xCFBB0",
+      "slot_size": 144,
+      "kr_text": "ＤＩＳＣ　１의　저장　데이터입니다．\n그란디아　３　ＤＩＳＣ　１을\n넣고　게임을　다시　시작한　뒤\n이　데이터로　불러오기　하세요．",
+      "encoded_hex": "82 63 82 68 82 72 82 62 81 40 82 50 97 53 81 40 8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 94 D8 97 D8 98 52 81 44 0A 92 57 89 EA 94 E3 90 B1 81 40 82 52 81 40 82 63 82 68 82 72 82 62 81 40 82 50 8F 63 0A 8D 49 92 53 81 40 8F DA 90 49 8F 63 81 40 98 52 90 6F 81 40 90 6F 99 E1 90 F7 81 40 90 C0 0A 89 AA 81 40 9C 6A 89 AA 8F 82 E0 56 81 40 8A C8 97 E6 94 71 92 7A 81 40 93 85 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_LOAD_0007",
+      "category": "SYSTEM",
+      "offset": "0xCFC40",
+      "slot_size": 80,
+      "kr_text": "불러오기　중입니다．\n메모리　카드（ＰＳ２）를\n슬롯　１에서　빼지　마세요．",
+      "encoded_hex": "8A C8 97 E6 94 71 92 7A 81 40 93 4B 94 D8 97 D8 98 52 81 44 0A 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 90 D1 0A 91 BF 95 46 81 40 82 50 8A C7 8A F8 81 40 95 B2 97 E1 81 40 8D 7C 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_LOAD_0008",
+      "category": "SYSTEM",
+      "offset": "0xCFC90",
+      "slot_size": 176,
+      "kr_text": "슬롯　１에　메모리　카드（ＰＳ２）가\n들어　있지　않습니다．\n\n게임　데이터를　저장하려면\n８５ＫＢ　이상의　빈　공간이　필요합니다．\n\n그대로　게임을　시작할까요？",
+      "encoded_hex": "91 BF 95 46 81 40 82 50 8A C7 81 40 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 82 70 0A 8C E2 87 5A 81 40 8D 50 97 E1 81 40 8C 81 89 AD 97 D8 98 52 81 44 0A 0A 8F DA 90 49 81 40 9C 6A 89 AA 8F 82 90 D1 81 40 8E EB 8C F0 93 85 89 C3 96 57 0A 82 57 82 54 82 6A 82 61 81 40 89 AA 97 D7 97 53 81 40 90 D3 81 40 97 74 95 E6 89 AA 81 40 89 46 E3 59 91 81 97 D8 98 52 81 44 0A 0A 92 57 9E 9E E0 56 81 40 8F DA 90 49 8F 63 81 40 90 6F 99 E1 95 4D E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_LOAD_0009",
+      "category": "SYSTEM",
+      "offset": "0xCFD40",
+      "slot_size": 192,
+      "kr_text": "슬롯　１의　메모리　카드（ＰＳ２）에\n빈　공간이　부족합니다．\n\n게임　데이터를　저장하려면\n８５ＫＢ　이상의　빈　공간이　필요합니다．\n\n\n그대로　게임을　시작할까요？",
+      "encoded_hex": "91 BF 95 46 81 40 82 50 97 53 81 40 92 E5 83 BF E0 A6 81 40 93 73 94 40 81 69 82 6F 82 72 82 51 81 6A 8A C7 0A 90 D3 81 40 97 74 95 E6 89 AA 81 40 8A 4B 89 BD 91 81 97 D8 98 52 81 44 0A 0A 8F DA 90 49 81 40 9C 6A 89 AA 8F 82 90 D1 81 40 8E EB 8C F0 93 85 89 C3 96 57 0A 82 57 82 54 82 6A 82 61 81 40 89 AA 97 D7 97 53 81 40 90 D3 81 40 97 74 95 E6 89 AA 81 40 89 46 E3 59 91 81 97 D8 98 52 81 44 0A 0A 0A 92 57 9E 9E E0 56 81 40 8F DA 90 49 8F 63 81 40 90 6F 99 E1 95 4D E6 D2 E3 59 81 48"
+    },
+    {
+      "id": "SYS_SAVE_0019",
+      "category": "SYSTEM",
+      "offset": "0xCFE00",
+      "slot_size": 96,
+      "kr_text": "ＤＩＳＣ　１이　끝났습니다．\n⊆를　누르면　저장　화면으로　갑니다．\n반드시　저장해　주세요．",
+      "encoded_hex": "82 63 82 68 82 72 82 62 81 40 82 50 89 AA 81 40 8E AB 8F DC 89 AD 97 D8 98 52 81 44 0A 81 BA 90 D1 81 40 92 F7 92 9A 96 57 81 40 8E EB 8C F0 81 40 91 63 96 57 8E 54 E0 56 81 40 8C A2 97 D8 98 52 81 44 0A 91 65 94 40 90 6F 81 40 8E EB 8C F0 8B C6 81 40 8F 47 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_SAVE_0020",
+      "category": "SYSTEM",
+      "offset": "0xCFE60",
+      "slot_size": 160,
+      "kr_text": "이어서　플레이하려면\n그란디아　３　ＤＩＳＣ　２를\n넣고　게임을　다시　시작한　뒤\n저장　데이터　불러오기　후\n계속　즐겨　주세요．",
+      "encoded_hex": "89 AA 87 5A 8A F8 81 40 8E BD 89 C0 89 AA 93 85 89 C3 96 57 0A 92 57 89 EA 94 E3 90 B1 81 40 82 52 81 40 82 63 82 68 82 72 82 62 81 40 82 51 90 D1 0A 8D 49 92 53 81 40 8F DA 90 49 8F 63 81 40 98 52 90 6F 81 40 90 6F 99 E1 90 F7 81 40 90 C0 0A 8E EB 8C F0 81 40 9C 6A 89 AA 8F 82 81 40 8A C8 97 E6 94 71 92 7A 81 40 81 81 0A 91 7C 92 DC 81 40 95 77 90 AA 81 40 8F 47 90 CD E3 59 81 44"
+    },
+    {
+      "id": "SYS_COMMON_0001",
+      "category": "SYSTEM",
+      "offset": "0xCFF00",
+      "slot_size": 104,
+      "kr_text": "그란디아　３　ＤＩＳＣ　１을\n넣고　게임을　다시　시작해　주세요．\n⊇를　누르면　타이틀로　돌아갑니다．",
+      "encoded_hex": "92 57 89 EA 94 E3 90 B1 81 40 82 52 81 40 82 63 82 68 82 72 82 62 81 40 82 50 8F 63 0A 8D 49 92 53 81 40 8F DA 90 49 8F 63 81 40 98 52 90 6F 81 40 90 6F 99 E1 8B C6 81 40 8F 47 90 CD E3 59 81 44 0A 81 BB 90 D1 81 40 92 F7 92 9A 96 57 81 40 9C 5C 89 AA 91 9F E0 56 81 40 91 EC 90 B1 8C A2 97 D8 98 52 81 44"
+    },
+    {
+      "id": "SYS_COMMON_0002",
+      "category": "SYSTEM",
+      "offset": "0xCFF68",
+      "slot_size": 8,
+      "kr_text": "회복",
+      "encoded_hex": "94 72 89 EE"
+    },
+    {
+      "id": "SYS_COMMON_0003",
+      "category": "SYSTEM",
+      "offset": "0xCFF70",
+      "slot_size": 8,
+      "kr_text": "강화",
+      "encoded_hex": "89 E5 91 63"
+    },
+    {
+      "id": "SYS_COMMON_0004",
+      "category": "SYSTEM",
+      "offset": "0xCFF78",
+      "slot_size": 16,
+      "kr_text": "보조",
+      "encoded_hex": "88 C0 89 AB"
+    },
+    {
+      "id": "SYS_COMMON_0005",
+      "category": "SYSTEM",
+      "offset": "0xCFF88",
+      "slot_size": 8,
+      "kr_text": "단일",
+      "encoded_hex": "90 9D 91 93"
+    },
+    {
+      "id": "SYS_COMMON_0006",
+      "category": "SYSTEM",
+      "offset": "0xCFF90",
+      "slot_size": 8,
+      "kr_text": "원형",
+      "encoded_hex": "8F BB 8D D5"
+    },
+    {
+      "id": "SYS_COMMON_0007",
+      "category": "SYSTEM",
+      "offset": "0xCFF98",
+      "slot_size": 8,
+      "kr_text": "직선",
+      "encoded_hex": "91 50 98 65"
+    },
+    {
+      "id": "SYS_COMMON_0008",
+      "category": "SYSTEM",
+      "offset": "0xCFFA0",
+      "slot_size": 8,
+      "kr_text": "부채꼴",
+      "encoded_hex": "8A 4B E5 4E 96 66"
+    },
+    {
+      "id": "SYS_COMMON_0009",
+      "category": "SYSTEM",
+      "offset": "0xCFFA8",
+      "slot_size": 8,
+      "kr_text": "전체",
+      "encoded_hex": "91 DC 8B 8D"
+    },
+    {
+      "id": "SYS_COMMON_0010",
+      "category": "SYSTEM",
+      "offset": "0xCFFB0",
+      "slot_size": 8,
+      "kr_text": "자신",
+      "encoded_hex": "97 4F 9A 4C"
+    },
+    {
+      "id": "SYS_COMMON_0011",
+      "category": "SYSTEM",
+      "offset": "0xCFFB8",
+      "slot_size": 8,
+      "kr_text": "주변",
+      "encoded_hex": "8F 47 93 6E"
+    },
+    {
+      "id": "SYS_COMMON_0012",
+      "category": "SYSTEM",
+      "offset": "0xCFFC0",
+      "slot_size": 8,
+      "kr_text": "적",
+      "encoded_hex": "97 A0"
+    },
+    {
+      "id": "SYS_COMMON_0013",
+      "category": "SYSTEM",
+      "offset": "0xCFFC8",
+      "slot_size": 8,
+      "kr_text": "아군",
+      "encoded_hex": "90 B1 89 53"
+    },
+    {
+      "id": "SYS_COMMON_0014",
+      "category": "SYSTEM",
+      "offset": "0xCFFD0",
+      "slot_size": 16,
+      "kr_text": "모두",
+      "encoded_hex": "83 BF 8F BC"
+    },
+    {
+      "id": "STATUS_HELP_0001",
+      "category": "STATUS",
+      "offset": "0xCFFE0",
+      "slot_size": 80,
+      "kr_text": "상태　화면에서　마법과　아이템　사용、\n장비　변경과　소지품　확인이　가능합니다",
+      "encoded_hex": "97 D7 9D 7C 81 40 91 63 96 57 8A C7 8A F8 81 40 8D 7C 95 5B 97 A2 81 40 90 B1 89 AA 8E 9A 81 40 8A 6E 97 4E 81 41 0A 8C F0 90 CF 81 40 93 6E 91 7A 97 A2 81 40 92 CD 97 E1 95 B4 81 40 91 6D 90 B1 89 AA 81 40 82 70 8C B7 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0002",
+      "category": "SYSTEM",
+      "offset": "0xD0030",
+      "slot_size": 80,
+      "kr_text": "마법을　사용합니다．　전투용\n공격　마법은　여기서　선택할　수　없습니다",
+      "encoded_hex": "8D 7C 95 5B 8F 63 81 40 8A 6E 97 4E 91 81 97 D8 98 52 81 44 81 40 91 DC 88 C3 97 4E 0A 97 74 90 AE 81 40 8D 7C 95 5B 98 5A 81 40 8C B9 92 7A 8A F8 81 40 98 65 81 B8 95 4D 81 40 94 E2 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0003",
+      "category": "SYSTEM",
+      "offset": "0xD0080",
+      "slot_size": 80,
+      "kr_text": "마법　효과는　도움말　창에\n표시되니　확인해　주세요",
+      "encoded_hex": "8D 7C 95 5B 81 40 8F AE 97 A2 91 40 81 40 9C 70 8F A0 9D 43 81 40 8F 81 8A C7 0A 8E 41 90 6F 81 84 97 D8 81 40 91 6D 90 B1 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "EQUIP_HELP_0001",
+      "category": "EQUIPMENT",
+      "offset": "0xD00D0",
+      "slot_size": 96,
+      "kr_text": "장비를　변경합니다．　장비품은　모두　６가지\n종류로　나뉩니다．　변경할　장비를\n선택해　주세요",
+      "encoded_hex": "8C F0 90 CF 90 D1 81 40 93 6E 91 7A 91 81 97 D8 98 52 81 44 81 40 8C F0 90 CF 95 B4 98 5A 81 40 83 BF 8F BC 81 40 82 55 82 70 97 E1 0A 8B B5 8F C2 E0 56 81 40 89 5D 93 DE 97 D8 98 52 81 44 81 40 93 6E 91 7A 95 4D 81 40 8C F0 90 CF 90 D1 0A 98 65 81 B8 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "EQUIP_HELP_0002",
+      "category": "EQUIPMENT",
+      "offset": "0xD0130",
+      "slot_size": 128,
+      "kr_text": "무기는　공격력과　마력을　높입니다\n두　능력은　적에게　주는　피해와　관련되며\n강한　무기일수록　효과가　큽니다",
+      "encoded_hex": "81 94 92 7A 91 40 81 40 97 74 90 AE 8C E1 97 A2 81 40 8D 7C 8C E1 8F 63 81 40 8F 40 94 D8 97 D8 98 52 0A 8F BC 81 40 8C B7 8C E1 98 5A 81 40 97 A0 8A C7 8F DA 81 40 8F 47 91 40 81 40 8D B9 8B C6 8F 72 81 40 96 D3 92 DF 81 84 8D CA 0A 89 E5 90 F7 81 40 81 94 92 7A 91 93 94 E2 8F CB 81 40 8F AE 97 A2 82 70 81 40 8C 89 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0003",
+      "category": "EQUIPMENT",
+      "offset": "0xD01B0",
+      "slot_size": 128,
+      "kr_text": "캐릭터마다　잘　다루는　무기가　있으며\n다루지　못하는　무기는　장비할　수　없습니다\n그런　무기는　장비　불가로　표시됩니다",
+      "encoded_hex": "94 C5 97 A6 8F 82 8D 7C 98 52 81 40 9C 61 81 40 98 52 9C D4 91 40 81 40 81 94 92 7A 82 70 81 40 8D 50 8E 54 8D CA 0A 98 52 9C D4 97 E1 81 40 8B 58 93 85 91 40 81 40 81 94 92 7A 91 40 81 40 8C F0 90 CF 95 4D 81 40 94 E2 81 40 8F E9 89 AD 97 D8 98 52 0A 92 57 8A 94 81 40 81 94 92 7A 91 40 81 40 8C F0 90 CF 81 40 8A C8 82 70 E0 56 81 40 8E 41 90 6F 93 B6 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0004",
+      "category": "EQUIPMENT",
+      "offset": "0xD0230",
+      "slot_size": 112,
+      "kr_text": "도움말에　무기　사용이라　적힌　장비는\n전투　중　무기　사용　명령을　추가하여\n아이템처럼　사용할　수　있습니다",
+      "encoded_hex": "9C 70 8F A0 9D 43 8A C7 81 40 81 94 92 7A 81 40 8A 6E 97 4E 89 AA 8E C4 81 40 97 A0 94 89 81 40 8C F0 90 CF 91 40 0A 91 DC 88 C3 81 40 93 4B 81 40 81 94 92 7A 81 40 8A 6E 97 4E 81 40 8E 7D 8D 47 8F 63 81 40 8D 62 82 70 93 85 8C B9 0A 90 B1 89 AA 8E 9A 97 9A 96 4D 81 40 8A 6E 97 4E 95 4D 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0005",
+      "category": "EQUIPMENT",
+      "offset": "0xD02A0",
+      "slot_size": 128,
+      "kr_text": "방어구는　방어력과　저항력을　높입니다\n두　능력은　받는　피해와　관련되며\n강한　방어구일수록　효과가　큽니다",
+      "encoded_hex": "93 9B 87 5A 8E 5E 91 40 81 40 93 9B 87 5A 8C E1 97 A2 81 40 8E EB 89 69 8C E1 8F 63 81 40 8F 40 94 D8 97 D8 98 52 0A 8F BC 81 40 8C B7 8C E1 98 5A 81 40 91 69 91 40 81 40 8D B9 8B C6 8F 72 81 40 96 D3 92 DF 81 84 8D CA 0A 89 E5 90 F7 81 40 93 9B 87 5A 8E 5E 91 93 94 E2 8F CB 81 40 8F AE 97 A2 82 70 81 40 8C 89 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0006",
+      "category": "EQUIPMENT",
+      "offset": "0xD0320",
+      "slot_size": 96,
+      "kr_text": "캐릭터마다　장비가능한　방어구가\n다릅니다．　장비할　수　없는　방어구는\n장비불가로　표시됩니다",
+      "encoded_hex": "94 C5 97 A6 8F 82 8D 7C 98 52 81 40 8C F0 90 CF 82 70 8C B7 90 F7 81 40 93 9B 87 5A 8E 5E 82 70 0A 98 52 91 4B 97 D8 98 52 81 44 81 40 8C F0 90 CF 95 4D 81 40 94 E2 81 40 8F E9 91 40 81 40 93 9B 87 5A 8E 5E 91 40 0A 8C F0 90 CF 8A C8 82 70 E0 56 81 40 8E 41 90 6F 93 B6 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0007",
+      "category": "EQUIPMENT",
+      "offset": "0xD0380",
+      "slot_size": 112,
+      "kr_text": "신발은　행동력과　이동력을　높입니다\n행동력은　명령차례가　오는　속도、\n이동력은　전투　중　달리기　속도입니다",
+      "encoded_hex": "9A 4C 91 AD 98 5A 81 40 94 67 99 68 8C E1 97 A2 81 40 89 AA 99 68 8C E1 8F 63 81 40 8F 40 94 D8 97 D8 98 52 0A 94 67 99 68 8C E1 98 5A 81 40 8E 7D 8D 47 96 A6 88 ED 82 70 81 40 94 71 91 40 81 40 92 DC 9C 70 81 41 0A 89 AA 99 68 8C E1 98 5A 81 40 91 DC 88 C3 81 40 93 4B 81 40 99 F9 E0 A6 92 7A 81 40 92 DC 9C 70 94 D8 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0008",
+      "category": "EQUIPMENT",
+      "offset": "0xD03F0",
+      "slot_size": 96,
+      "kr_text": "캐릭터마다　장비　가능한　신발이\n다릅니다．　장비할　수　없는　신발은\n장비　불가로　표시됩니다",
+      "encoded_hex": "94 C5 97 A6 8F 82 8D 7C 98 52 81 40 8C F0 90 CF 81 40 82 70 8C B7 90 F7 81 40 9A 4C 91 AD 89 AA 0A 98 52 91 4B 97 D8 98 52 81 44 81 40 8C F0 90 CF 95 4D 81 40 94 E2 81 40 8F E9 91 40 81 40 9A 4C 91 AD 98 5A 0A 8C F0 90 CF 81 40 8A C8 82 70 E0 56 81 40 8E 41 90 6F 93 B6 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0009",
+      "category": "EQUIPMENT",
+      "offset": "0xD0450",
+      "slot_size": 112,
+      "kr_text": "액세서리에는　다양한　효과가　있습니다\n효과는　도움말　창에　표시되니\n확인해　주세요",
+      "encoded_hex": "8C 71 90 CD 8A F8 E0 A6 8A C7 91 40 81 40 98 52 95 85 90 F7 81 40 8F AE 97 A2 82 70 81 40 8D 50 89 AD 97 D8 98 52 0A 8F AE 97 A2 91 40 81 40 9C 70 8F A0 9D 43 81 40 8F 81 8A C7 81 40 8E 41 90 6F 81 84 97 D8 0A 91 6D 90 B1 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "EQUIP_HELP_0010",
+      "category": "EQUIPMENT",
+      "offset": "0xD04C0",
+      "slot_size": 112,
+      "kr_text": "마나　에그는　마법위력과　효과를　높입니다\n마법에는　４가지　속성이　있고　마나　에그마다\n강화속성이　다릅니다",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 91 40 81 40 8D 7C 95 5B 91 EA 8C E1 97 A2 81 40 8F AE 97 A2 90 D1 81 40 8F 40 94 D8 97 D8 98 52 0A 8D 7C 95 5B 8A C7 91 40 81 40 82 53 82 70 97 E1 81 40 92 DC 90 B4 89 AA 81 40 8D 50 92 53 81 40 8D 7C 89 5D 81 40 8A C7 92 57 8D 7C 98 52 0A 89 E5 91 63 92 DC 90 B4 89 AA 81 40 98 52 91 4B 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0011",
+      "category": "EQUIPMENT",
+      "offset": "0xD0530",
+      "slot_size": 80,
+      "kr_text": "강화　수치가　클수록　마법을　사용할　때\n위력과　효과도　커집니다",
+      "encoded_hex": "89 E5 91 63 81 40 94 E2 8A CF 82 70 81 40 97 9E 94 E2 8F CB 81 40 8D 7C 95 5B 8F 63 81 40 8A 6E 97 4E 95 4D 81 40 90 8A 0A 91 EA 8C E1 97 A2 81 40 8F AE 97 A2 9C 70 81 40 98 4A 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0012",
+      "category": "EQUIPMENT",
+      "offset": "0xD0580",
+      "slot_size": 112,
+      "kr_text": "저장용　빛의　구슬이나　상점에서\n세트업　명령을　선택하면　장착한\n마법을　변경할　수　있습니다",
+      "encoded_hex": "8E EB 8C F0 97 4E 81 40 93 8C 97 53 81 40 8E 5E 91 BF 89 AA 89 5D 81 40 97 D7 8B 75 8A C7 8A F8 0A 90 CD 8E 81 8B 7E 81 40 8E 7D 8D 47 8F 63 81 40 98 65 81 B8 93 85 96 57 81 40 8C F0 92 47 90 F7 0A 8D 7C 95 5B 8F 63 81 40 93 6E 91 7A 95 4D 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0013",
+      "category": "EQUIPMENT",
+      "offset": "0xD05F0",
+      "slot_size": 112,
+      "kr_text": "스킬북은　스킬　효과를　높입니다\n스킬에는　３가지　계통이　있으며　스킬북마다\n강화하는　계통이　다릅니다",
+      "encoded_hex": "8A F7 97 86 8A 79 98 5A 81 40 8A F7 97 86 81 40 8F AE 97 A2 90 D1 81 40 8F 40 94 D8 97 D8 98 52 0A 8A F7 97 86 8A C7 91 40 81 40 82 52 82 70 97 E1 81 40 91 7C 96 F1 89 AA 81 40 8D 50 8E 54 8D CA 81 40 8A F7 97 86 8A 79 8D 7C 98 52 0A 89 E5 91 63 93 85 91 40 81 40 91 7C 96 F1 89 AA 81 40 98 52 91 4B 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0014",
+      "category": "EQUIPMENT",
+      "offset": "0xD0660",
+      "slot_size": 64,
+      "kr_text": "강화　수치가　클수록　장착한　스킬의\n효과도　커집니다",
+      "encoded_hex": "89 E5 91 63 81 40 94 E2 8A CF 82 70 81 40 97 9E 94 E2 8F CB 81 40 8C F0 92 47 90 F7 81 40 8A F7 97 86 97 53 0A 8F AE 97 A2 9C 70 81 40 98 4A 89 B0 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0015",
+      "category": "EQUIPMENT",
+      "offset": "0xD06A0",
+      "slot_size": 112,
+      "kr_text": "저장용　빛의　구슬이나　상점에서\n세트업　명령을　선택하면\n장착한　스킬을　변경할　수　있습니다",
+      "encoded_hex": "8E EB 8C F0 97 4E 81 40 93 8C 97 53 81 40 8E 5E 91 BF 89 AA 89 5D 81 40 97 D7 8B 75 8A C7 8A F8 0A 90 CD 8E 81 8B 7E 81 40 8E 7D 8D 47 8F 63 81 40 98 65 81 B8 93 85 96 57 0A 8C F0 92 47 90 F7 81 40 8A F7 97 86 8F 63 81 40 93 6E 91 7A 95 4D 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "STATUS_HELP_0002",
+      "category": "STATUS",
+      "offset": "0xD0710",
+      "slot_size": 96,
+      "kr_text": "습득한　필살기　목록을　표시합니다\n전투　중　필살기를　계속　쓰면\n비결을　얻을　때가　있습니다",
+      "encoded_hex": "89 AD 8E 88 90 F7 81 40 89 46 98 6C 92 7A 81 40 89 8B 8F CB 8F 63 81 40 8E 41 90 6F 91 81 97 D8 98 52 0A 91 DC 88 C3 81 40 93 4B 81 40 89 46 98 6C 92 7A 90 D1 81 40 91 7C 92 DC 81 40 8E EA 96 57 0A 90 CF 90 B7 8F 63 81 40 97 A3 8F 63 81 40 90 8A 82 70 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "STATUS_HELP_0003",
+      "category": "STATUS",
+      "offset": "0xD0770",
+      "slot_size": 80,
+      "kr_text": "비결을　얻으면　더　강력한　필살기로\n강화됩니다\n최고의　경지에　도전해　보세요",
+      "encoded_hex": "90 CF 90 B7 8F 63 81 40 97 A3 8E 54 96 57 81 40 8A F2 81 40 89 E5 8C E1 90 F7 81 40 89 46 98 6C 92 7A E0 56 0A 89 E5 91 63 93 B6 97 D8 98 52 0A 89 85 92 53 97 53 81 40 91 7A 97 E1 8A C7 81 40 9C 70 91 DC 8B C6 81 40 88 C0 90 CD E3 59"
+    },
+    {
+      "id": "STATUS_HELP_0004",
+      "category": "STATUS",
+      "offset": "0xD07C0",
+      "slot_size": 112,
+      "kr_text": "필살기　레벨이　오르면　전투　중\n콤보　명령을　선택할　때　새　필살기를\n떠올릴　수　있습니다",
+      "encoded_hex": "89 46 98 6C 92 7A 81 40 89 C0 97 5A 89 AA 81 40 94 71 92 9A 96 57 81 40 91 DC 88 C3 81 40 93 4B 0A 8D 80 88 C0 81 40 8E 7D 8D 47 8F 63 81 40 98 65 81 B8 95 4D 81 40 90 8A 81 40 92 7E 81 40 89 46 98 6C 92 7A 90 D1 0A 8B 93 95 7C 89 F4 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "STATUS_HELP_0005",
+      "category": "STATUS",
+      "offset": "0xD0830",
+      "slot_size": 96,
+      "kr_text": "장착한　마법　목록을　표시합니다\n마법　레벨이　오르면　장착　가능한\n마법　수가　늘어납니다",
+      "encoded_hex": "8C F0 92 47 90 F7 81 40 8D 7C 95 5B 81 40 89 8B 8F CB 8F 63 81 40 8E 41 90 6F 91 81 97 D8 98 52 0A 8D 7C 95 5B 81 40 89 C0 97 5A 89 AA 81 40 94 71 92 9A 96 57 81 40 8C F0 92 47 81 40 82 70 8C B7 90 F7 0A 8D 7C 95 5B 81 40 94 E2 82 70 81 40 91 47 87 5A 90 AD 97 D8 98 52"
+    },
+    {
+      "id": "STATUS_HELP_0006",
+      "category": "STATUS",
+      "offset": "0xD0890",
+      "slot_size": 112,
+      "kr_text": "장착　마법을　변경하려면\n저장용　빛의　구슬이나　상점에서\n세트업　명령을　선택해　주세요",
+      "encoded_hex": "8C F0 92 47 81 40 8D 7C 95 5B 8F 63 81 40 93 6E 91 7A 93 85 89 C3 96 57 0A 8E EB 8C F0 97 4E 81 40 93 8C 97 53 81 40 8E 5E 91 BF 89 AA 89 5D 81 40 97 D7 8B 75 8A C7 8A F8 0A 90 CD 8E 81 8B 7E 81 40 8E 7D 8D 47 8F 63 81 40 98 65 81 B8 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "STATUS_HELP_0007",
+      "category": "STATUS",
+      "offset": "0xD0900",
+      "slot_size": 96,
+      "kr_text": "장착한　스킬　목록을　표시합니다\n스킬　레벨이　오르면　장착　가능한\n스킬　수가　늘어납니다",
+      "encoded_hex": "8C F0 92 47 90 F7 81 40 8A F7 97 86 81 40 89 8B 8F CB 8F 63 81 40 8E 41 90 6F 91 81 97 D8 98 52 0A 8A F7 97 86 81 40 89 C0 97 5A 89 AA 81 40 94 71 92 9A 96 57 81 40 8C F0 92 47 81 40 82 70 8C B7 90 F7 0A 8A F7 97 86 81 40 94 E2 82 70 81 40 91 47 87 5A 90 AD 97 D8 98 52"
+    },
+    {
+      "id": "STATUS_HELP_0008",
+      "category": "STATUS",
+      "offset": "0xD0960",
+      "slot_size": 112,
+      "kr_text": "장착　스킬을　변경하려면\n저장용　빛의　구슬이나　상점에서\n세트업　명령을　선택해　주세요",
+      "encoded_hex": "8C F0 92 47 81 40 8A F7 97 86 8F 63 81 40 93 6E 91 7A 93 85 89 C3 96 57 0A 8E EB 8C F0 97 4E 81 40 93 8C 97 53 81 40 8E 5E 91 BF 89 AA 89 5D 81 40 97 D7 8B 75 8A C7 8A F8 0A 90 CD 8E 81 8B 7E 81 40 8E 7D 8D 47 8F 63 81 40 98 65 81 B8 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "SYS_HELP_0026",
+      "category": "SYSTEM",
+      "offset": "0xD09D0",
+      "slot_size": 112,
+      "kr_text": "보유한　아이템을　사용합니다．　전투용\n공격　아이템은\n여기서　사용할　수　없습니다",
+      "encoded_hex": "88 C0 95 C3 90 F7 81 40 90 B1 89 AA 8E 9A 8F 63 81 40 8A 6E 97 4E 91 81 97 D8 98 52 81 44 81 40 91 DC 88 C3 97 4E 0A 97 74 90 AE 81 40 90 B1 89 AA 8E 9A 98 5A 0A 8C B9 92 7A 8A F8 81 40 8A 6E 97 4E 95 4D 81 40 94 E2 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0027",
+      "category": "SYSTEM",
+      "offset": "0xD0A40",
+      "slot_size": 80,
+      "kr_text": "아이템　효과는　도움말　창에\n표시되니　확인해　주세요",
+      "encoded_hex": "90 B1 89 AA 8E 9A 81 40 8F AE 97 A2 91 40 81 40 9C 70 8F A0 9D 43 81 40 8F 81 8A C7 0A 8E 41 90 6F 81 84 97 D8 81 40 91 6D 90 B1 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "EQUIP_HELP_0016",
+      "category": "EQUIPMENT",
+      "offset": "0xD0A90",
+      "slot_size": 96,
+      "kr_text": "장착한　스킬과　마법을　변경합니다\n스킬과　마법은　세트업　화면에서만\n변경할　수　있습니다",
+      "encoded_hex": "8C F0 92 47 90 F7 81 40 8A F7 97 86 97 A2 81 40 8D 7C 95 5B 8F 63 81 40 93 6E 91 7A 91 81 97 D8 98 52 0A 8A F7 97 86 97 A2 81 40 8D 7C 95 5B 98 5A 81 40 90 CD 8E 81 8B 7E 81 40 91 63 96 57 8A C7 8A F8 8D 7C 0A 93 6E 91 7A 95 4D 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0017",
+      "category": "EQUIPMENT",
+      "offset": "0xD0AF0",
+      "slot_size": 112,
+      "kr_text": "세트업　화면을　열려면　저장용\n빛의　구슬이나　스킬、　마법　상점에서\n세트업　명령을　선택해　주세요",
+      "encoded_hex": "90 CD 8E 81 8B 7E 81 40 91 63 96 57 8F 63 81 40 8F 54 89 C3 96 57 81 40 8E EB 8C F0 97 4E 0A 93 8C 97 53 81 40 8E 5E 91 BF 89 AA 89 5D 81 40 8A F7 97 86 81 41 81 40 8D 7C 95 5B 81 40 97 D7 8B 75 8A C7 8A F8 0A 90 CD 8E 81 8B 7E 81 40 8E 7D 8D 47 8F 63 81 40 98 65 81 B8 8B C6 81 40 8F 47 90 CD E3 59"
+    },
+    {
+      "id": "EQUIP_HELP_0018",
+      "category": "EQUIPMENT",
+      "offset": "0xD0B60",
+      "slot_size": 80,
+      "kr_text": "장착한　마법을　변경합니다\n마법　레벨에　따라　장착　가능한　마법이\n늘어납니다",
+      "encoded_hex": "8C F0 92 47 90 F7 81 40 8D 7C 95 5B 8F 63 81 40 93 6E 91 7A 91 81 97 D8 98 52 0A 8D 7C 95 5B 81 40 89 C0 97 5A 8A C7 81 40 95 C5 8E C4 81 40 8C F0 92 47 81 40 82 70 8C B7 90 F7 81 40 8D 7C 95 5B 89 AA 0A 91 47 87 5A 90 AD 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0019",
+      "category": "EQUIPMENT",
+      "offset": "0xD0BB0",
+      "slot_size": 96,
+      "kr_text": "장착한　스킬을　변경합니다\n스킬　레벨에　따라　장착　가능한　스킬이\n늘어납니다",
+      "encoded_hex": "8C F0 92 47 90 F7 81 40 8A F7 97 86 8F 63 81 40 93 6E 91 7A 91 81 97 D8 98 52 0A 8A F7 97 86 81 40 89 C0 97 5A 8A C7 81 40 95 C5 8E C4 81 40 8C F0 92 47 81 40 82 70 8C B7 90 F7 81 40 8A F7 97 86 89 AA 0A 91 47 87 5A 90 AD 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0020",
+      "category": "EQUIPMENT",
+      "offset": "0xD0C10",
+      "slot_size": 80,
+      "kr_text": "장착하는　스킬에　따라　스킬　레벨을\n여러　칸　소모할　수도　있습니다",
+      "encoded_hex": "8C F0 92 47 93 85 91 40 81 40 8A F7 97 86 8A C7 81 40 95 C5 8E C4 81 40 8A F7 97 86 81 40 89 C0 97 5A 8F 63 0A 8C B9 97 E6 81 40 93 9A 81 40 92 CD 83 BF 95 4D 81 40 94 E2 9C 70 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0033",
+      "category": "SYSTEM",
+      "offset": "0xD0C60",
+      "slot_size": 80,
+      "kr_text": "마나　에그를　없애　마법을　생성합니다\n생성할　수　있는　마법은　다양합니다",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 90 D1 81 40 8F E9 97 43 81 40 8D 7C 95 5B 8F 63 81 40 99 F4 90 B4 91 81 97 D8 98 52 0A 99 F4 90 B4 95 4D 81 40 94 E2 81 40 8D 50 91 40 81 40 8D 7C 95 5B 98 5A 81 40 98 52 95 85 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0034",
+      "category": "SYSTEM",
+      "offset": "0xD0CB0",
+      "slot_size": 96,
+      "kr_text": "스킬북을　없애　스킬을　생성합니다\n스킬북에　따라　생성할　수　있는\n스킬이　다릅니다",
+      "encoded_hex": "8A F7 97 86 8A 79 8F 63 81 40 8F E9 97 43 81 40 8A F7 97 86 8F 63 81 40 99 F4 90 B4 91 81 97 D8 98 52 0A 8A F7 97 86 8A 79 8A C7 81 40 95 C5 8E C4 81 40 99 F4 90 B4 95 4D 81 40 94 E2 81 40 8D 50 91 40 0A 8A F7 97 86 89 AA 81 40 98 52 91 4B 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0035",
+      "category": "SYSTEM",
+      "offset": "0xD0D10",
+      "slot_size": 80,
+      "kr_text": "마나　에그　２개를　하나로　합성해\n더　강력한　마나　에그를　만듭니다",
+      "encoded_hex": "8D 7C 89 5D 81 40 8A C7 92 57 81 40 82 51 8A 6C 90 D1 81 40 93 85 89 5D E0 56 81 40 91 81 90 B4 8B C6 0A 8A F2 81 40 89 E5 8C E1 90 F7 81 40 8D 7C 89 5D 81 40 8A C7 92 57 90 D1 81 40 8D 7C 90 62 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0021",
+      "category": "EQUIPMENT",
+      "offset": "0xD0D60",
+      "slot_size": 112,
+      "kr_text": "강력한　마나　에그에서는　강한　마법을\n생성할　수　있고　장비하면　마법　위력을\n크게　높일　수　있습니다",
+      "encoded_hex": "89 E5 8C E1 90 F7 81 40 8D 7C 89 5D 81 40 8A C7 92 57 8A C7 8A F8 91 40 81 40 89 E5 90 F7 81 40 8D 7C 95 5B 8F 63 0A 99 F4 90 B4 95 4D 81 40 94 E2 81 40 8D 50 92 53 81 40 8C F0 90 CF 93 85 96 57 81 40 8D 7C 95 5B 81 40 91 EA 8C E1 8F 63 0A 93 DD 8F DA 81 40 8F 40 91 93 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_HELP_0022",
+      "category": "EQUIPMENT",
+      "offset": "0xD0DD0",
+      "slot_size": 80,
+      "kr_text": "강력한　마나　에그를　장비하려면\n높은　마법　레벨이　필요합니다",
+      "encoded_hex": "89 E5 8C E1 90 F7 81 40 8D 7C 89 5D 81 40 8A C7 92 57 90 D1 81 40 8C F0 90 CF 93 85 89 C3 96 57 0A 8F 40 98 5A 81 40 8D 7C 95 5B 81 40 89 C0 97 5A 89 AA 81 40 89 46 E3 59 91 81 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0038",
+      "category": "SYSTEM",
+      "offset": "0xD0E20",
+      "slot_size": 80,
+      "kr_text": "메달을　하나도　가지고　있지　않아\n어레인지　다이스를　시작할　수　없습니다",
+      "encoded_hex": "92 E5 99 F9 8F 63 81 40 93 85 89 5D 9C 70 81 40 82 70 97 E1 92 53 81 40 8D 50 97 E1 81 40 8C 81 90 B1 0A 87 5A 89 C0 90 B1 97 E1 81 40 98 52 89 AA 8A F7 90 D1 81 40 90 6F 99 E1 95 4D 81 40 94 E2 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0039",
+      "category": "SYSTEM",
+      "offset": "0xD0E70",
+      "slot_size": 64,
+      "kr_text": "합성　결과가　마나　에그　한도를\n넘어　합성할　수　없습니다",
+      "encoded_hex": "91 81 90 B4 81 40 90 B7 97 A2 82 70 81 40 8D 7C 89 5D 81 40 8A C7 92 57 81 40 90 F7 9C 70 90 D1 0A 8D 43 87 5A 81 40 91 81 90 B4 95 4D 81 40 94 E2 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0040",
+      "category": "SYSTEM",
+      "offset": "0xD0EB0",
+      "slot_size": 96,
+      "kr_text": "비행기로　한　번　방문한　장소로\n월드　맵을　거치지　않고　이동하는\n명령입니다",
+      "encoded_hex": "90 CF 94 67 92 7A E0 56 81 40 90 F7 81 40 94 4C 81 40 93 9B 81 A0 90 F7 81 40 8C F0 92 CD E0 56 0A 91 DB 94 40 81 40 8A 9A 8F 63 81 40 8B AB 8A CF 97 E1 81 40 8C 81 92 53 81 40 89 AA 99 68 93 85 91 40 0A 8E 7D 8D 47 94 D8 97 D8 98 52"
+    },
+    {
+      "id": "SYS_HELP_0041",
+      "category": "SYSTEM",
+      "offset": "0xD0F10",
+      "slot_size": 112,
+      "kr_text": "월드　맵에서　지점을　선택해\n비행기가　한　번이라도　착륙한　장소로\n바로　이동할　수　있습니다",
+      "encoded_hex": "91 DB 94 40 81 40 8A 9A 8A C7 8A F8 81 40 97 E1 8B 75 8F 63 81 40 98 65 81 B8 8B C6 0A 90 CF 94 67 92 7A 82 70 81 40 90 F7 81 40 94 4C 89 AA 8E C4 9C 70 81 40 92 47 8C BA 90 F7 81 40 8C F0 92 CD E0 56 0A 8F 8D E0 56 81 40 89 AA 99 68 95 4D 81 40 94 E2 81 40 8D 50 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_COMMON_0015",
+      "category": "SYSTEM",
+      "offset": "0xD0F80",
+      "slot_size": 16,
+      "kr_text": "ＤＩＳＣ　１",
+      "encoded_hex": "82 63 82 68 82 72 82 62 81 40 82 50"
+    },
+    {
+      "id": "SYS_COMMON_0016",
+      "category": "SYSTEM",
+      "offset": "0xD0F90",
+      "slot_size": 16,
+      "kr_text": "ＤＩＳＣ　２",
+      "encoded_hex": "82 63 82 68 82 72 82 62 81 40 82 51"
+    },
+    {
+      "id": "SYS_COMMON_0017",
+      "category": "SYSTEM",
+      "offset": "0xD0FA0",
+      "slot_size": 32,
+      "kr_text": "습득한　기술이　없습니다",
+      "encoded_hex": "89 AD 8E 88 90 F7 81 40 92 7A 9F D3 89 AA 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_COMMON_0018",
+      "category": "SYSTEM",
+      "offset": "0xD0FC0",
+      "slot_size": 32,
+      "kr_text": "마법이　없습니다",
+      "encoded_hex": "8D 7C 95 5B 89 AA 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_COMMON_0019",
+      "category": "SYSTEM",
+      "offset": "0xD0FE0",
+      "slot_size": 32,
+      "kr_text": "스킬이　없습니다",
+      "encoded_hex": "8A F7 97 86 89 AA 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "SYS_COMMON_0020",
+      "category": "SYSTEM",
+      "offset": "0xD1000",
+      "slot_size": 24,
+      "kr_text": "아이템이　없습니다",
+      "encoded_hex": "90 B1 89 AA 8E 9A 89 AA 81 40 8F E9 89 AD 97 D8 98 52"
+    },
+    {
+      "id": "EQUIP_EFFECT_0001",
+      "category": "EQUIPMENT",
+      "offset": "0xD1018",
+      "slot_size": 16,
+      "kr_text": "최대ＨＰ증가",
+      "encoded_hex": "89 85 9E 9E 82 67 82 6F 95 A0 82 70"
+    },
+    {
+      "id": "EQUIP_EFFECT_0002",
+      "category": "EQUIPMENT",
+      "offset": "0xD1028",
+      "slot_size": 16,
+      "kr_text": "최대ＭＰ증가",
+      "encoded_hex": "89 85 9E 9E 82 6C 82 6F 95 A0 82 70"
+    },
+    {
+      "id": "EQUIP_EFFECT_0003",
+      "category": "EQUIPMENT",
+      "offset": "0xD1038",
+      "slot_size": 8,
+      "kr_text": "공격＋",
+      "encoded_hex": "97 74 90 AE 81 7B"
+    },
+    {
+      "id": "EQUIP_EFFECT_0004",
+      "category": "EQUIPMENT",
+      "offset": "0xD1040",
+      "slot_size": 8,
+      "kr_text": "마력＋",
+      "encoded_hex": "8D 7C 8C E1 81 7B"
+    },
+    {
+      "id": "EQUIP_EFFECT_0005",
+      "category": "EQUIPMENT",
+      "offset": "0xD1048",
+      "slot_size": 8,
+      "kr_text": "방어＋",
+      "encoded_hex": "93 9B 87 5A 81 7B"
+    },
+    {
+      "id": "EQUIP_EFFECT_0006",
+      "category": "EQUIPMENT",
+      "offset": "0xD1050",
+      "slot_size": 8,
+      "kr_text": "저항＋",
+      "encoded_hex": "8E EB 89 69 81 7B"
+    },
+    {
+      "id": "EQUIP_EFFECT_0007",
+      "category": "EQUIPMENT",
+      "offset": "0xD1058",
+      "slot_size": 8,
+      "kr_text": "행동＋",
+      "encoded_hex": "94 67 99 68 81 7B"
+    },
+    {
+      "id": "EQUIP_EFFECT_0008",
+      "category": "EQUIPMENT",
+      "offset": "0xD1060",
+      "slot_size": 16,
+      "kr_text": "이동＋",
+      "encoded_hex": "89 AA 99 68 81 7B"
+    },
+    {
+      "id": "SYS_COMMON_0029",
+      "category": "SYSTEM",
+      "offset": "0xD1070",
+      "slot_size": 24,
+      "kr_text": "캐릭터　교체",
+      "encoded_hex": "94 C5 97 A6 8F 82 81 40 8E 5D 8B 8D"
+    },
+    {
+      "id": "SYS_COMMON_0030",
+      "category": "SYSTEM",
+      "offset": "0xD1088",
+      "slot_size": 8,
+      "kr_text": "Ｒ１",
+      "encoded_hex": "82 71 82 50"
+    },
+    {
+      "id": "SYS_COMMON_0031",
+      "category": "SYSTEM",
+      "offset": "0xD1090",
+      "slot_size": 8,
+      "kr_text": "Ｌ１",
+      "encoded_hex": "82 6B 82 50"
+    },
+    {
+      "id": "SYS_COMMON_0032",
+      "category": "SYSTEM",
+      "offset": "0xD1098",
+      "slot_size": 8,
+      "kr_text": "：",
+      "encoded_hex": "81 46"
+    },
+    {
+      "id": "SYS_COMMON_0033",
+      "category": "SYSTEM",
+      "offset": "0xD10A0",
+      "slot_size": 8,
+      "kr_text": "×",
+      "encoded_hex": "81 7E"
+    },
+    {
+      "id": "SYS_COMMON_0034",
+      "category": "SYSTEM",
+      "offset": "0xD10A8",
+      "slot_size": 8,
+      "kr_text": "＋",
+      "encoded_hex": "81 7B"
+    },
+    {
+      "id": "SYS_COMMON_0035",
+      "category": "SYSTEM",
+      "offset": "0xD10B0",
+      "slot_size": 8,
+      "kr_text": "－",
+      "encoded_hex": "81 7C"
+    },
+    {
+      "id": "SYS_COMMON_0036",
+      "category": "SYSTEM",
+      "offset": "0xD10B8",
+      "slot_size": 8,
+      "kr_text": "０",
+      "encoded_hex": "82 4F"
+    },
+    {
+      "id": "SYS_COMMON_0037",
+      "category": "SYSTEM",
+      "offset": "0xD10C0",
+      "slot_size": 8,
+      "kr_text": "１",
+      "encoded_hex": "82 50"
+    },
+    {
+      "id": "SYS_COMMON_0038",
+      "category": "SYSTEM",
+      "offset": "0xD10C8",
+      "slot_size": 8,
+      "kr_text": "２",
+      "encoded_hex": "82 51"
+    },
+    {
+      "id": "SYS_COMMON_0039",
+      "category": "SYSTEM",
+      "offset": "0xD10D0",
+      "slot_size": 8,
+      "kr_text": "３",
+      "encoded_hex": "82 52"
+    },
+    {
+      "id": "SYS_COMMON_0040",
+      "category": "SYSTEM",
+      "offset": "0xD10D8",
+      "slot_size": 8,
+      "kr_text": "４",
+      "encoded_hex": "82 53"
+    },
+    {
+      "id": "SYS_COMMON_0041",
+      "category": "SYSTEM",
+      "offset": "0xD10E0",
+      "slot_size": 8,
+      "kr_text": "５",
+      "encoded_hex": "82 54"
+    },
+    {
+      "id": "SYS_COMMON_0042",
+      "category": "SYSTEM",
+      "offset": "0xD10E8",
+      "slot_size": 8,
+      "kr_text": "６",
+      "encoded_hex": "82 55"
+    },
+    {
+      "id": "SYS_COMMON_0043",
+      "category": "SYSTEM",
+      "offset": "0xD10F0",
+      "slot_size": 8,
+      "kr_text": "７",
+      "encoded_hex": "82 56"
+    },
+    {
+      "id": "SYS_COMMON_0044",
+      "category": "SYSTEM",
+      "offset": "0xD10F8",
+      "slot_size": 8,
+      "kr_text": "８",
+      "encoded_hex": "82 57"
+    },
+    {
+      "id": "SYS_COMMON_0045",
+      "category": "SYSTEM",
+      "offset": "0xD1100",
+      "slot_size": 8,
+      "kr_text": "９",
+      "encoded_hex": "82 58"
+    },
+    {
+      "id": "SYS_COMMON_0046",
+      "category": "SYSTEM",
+      "offset": "0xD1108",
+      "slot_size": 8,
+      "kr_text": "예",
+      "encoded_hex": "93 5C"
+    },
+    {
+      "id": "SYS_COMMON_0047",
+      "category": "SYSTEM",
+      "offset": "0xD1110",
+      "slot_size": 8,
+      "kr_text": "아니요",
+      "encoded_hex": "90 B1 97 D8 E3 59"
+    },
+    {
+      "id": "SYS_COMMON_0048",
+      "category": "SYSTEM",
+      "offset": "0xD1118",
+      "slot_size": 8,
+      "kr_text": "오류",
+      "encoded_hex": "94 71 8F C2"
+    }
+  ]
+}

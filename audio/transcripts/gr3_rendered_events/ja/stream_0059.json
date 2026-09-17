@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0059",
+  "stream_key": "0x59",
+  "sample_ids": [
+    "0x3F8",
+    "0x3F9"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0059.flac",
+  "audio_sha256": "dae3dd575357f7100a2584bd0385d9bd535aaa3cb1238d09de44f5587342c7c9",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:3/6"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットア アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、ア アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、ア コードが上がらない。あんなに軽量化したのに。なんで?それ、もう一回引いてみたら?うん、分かってるって。これ? お、落ちれったよね。かしてみなさい。うるさいな。だまってろって。って、なんで見らんだよな、ここに? え、へへ、あんたのやることなんかおみ通しだっての。あ、飛ぶわけないだろ?重量オーバーだよ。人のせいに住んじゃないの?ほら、前見て前。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アークリフ、メンディアIII。アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットア",
+      "avg_logprob": -0.14945,
+      "no_speech_prob": 0.21978,
+      "compression_ratio": 8.9625,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.071",
+        "HIGH_COMPRESSION_RATIO:8.963"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、ア",
+      "avg_logprob": -0.04744,
+      "no_speech_prob": 0.55936,
+      "compression_ratio": 14.17647,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.045",
+        "HIGH_COMPRESSION_RATIO:14.176"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、アクガレットアルフィナ、ア",
+      "avg_logprob": -0.02082,
+      "no_speech_prob": 0.00634,
+      "compression_ratio": 14.17647,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.045",
+        "HIGH_COMPRESSION_RATIO:14.176"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 90.0,
+      "end": 104.0,
+      "speaker": "",
+      "text": "コードが上がらない。あんなに軽量化したのに。なんで?それ、もう一回引いてみたら?うん、分かってるって。これ?",
+      "avg_logprob": -0.524,
+      "no_speech_prob": 0.16632,
+      "compression_ratio": 1.61828,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 104.0,
+      "end": 115.0,
+      "speaker": "",
+      "text": "お、落ちれったよね。かしてみなさい。うるさいな。だまってろって。って、なんで見らんだよな、ここに?",
+      "avg_logprob": -0.524,
+      "no_speech_prob": 0.16632,
+      "compression_ratio": 1.61828,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 115.0,
+      "end": 129.0,
+      "speaker": "",
+      "text": "え、へへ、あんたのやることなんかおみ通しだっての。あ、飛ぶわけないだろ?重量オーバーだよ。人のせいに住んじゃないの?ほら、前見て前。",
+      "avg_logprob": -0.38128,
+      "no_speech_prob": 0.1083,
+      "compression_ratio": 1.34722,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

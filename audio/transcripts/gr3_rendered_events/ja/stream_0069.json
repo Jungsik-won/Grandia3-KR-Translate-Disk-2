@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0069",
+  "stream_key": "0x69",
+  "sample_ids": [
+    "0x424",
+    "0x425"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0069.flac",
+  "audio_sha256": "d11369a6c3f1b3fd9971e1fb41d257eab531d2b2982b5aef33b30092be89f033",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アーチアガレー。まだわちいねーぞ! 一緒、そこにいいな。薄なの? もう、おってくんだよ。 あの、夜になると寒くなっちゃうから。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 10.0,
+      "speaker": "",
+      "text": "アーチアガレー。まだわちいねーぞ!",
+      "avg_logprob": -0.77199,
+      "no_speech_prob": 0.00667,
+      "compression_ratio": 1.17308,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 10.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "一緒、そこにいいな。薄なの?",
+      "avg_logprob": -0.77199,
+      "no_speech_prob": 0.00667,
+      "compression_ratio": 1.17308,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 22.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "もう、おってくんだよ。",
+      "avg_logprob": -0.77199,
+      "no_speech_prob": 0.00667,
+      "compression_ratio": 1.17308,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 30.0,
+      "end": 36.0,
+      "speaker": "",
+      "text": "あの、夜になると寒くなっちゃうから。",
+      "avg_logprob": -0.29578,
+      "no_speech_prob": 0.00353,
+      "compression_ratio": 0.93103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

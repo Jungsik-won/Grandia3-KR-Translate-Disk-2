@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0106",
+  "stream_key": "0x106",
+  "sample_ids": [
+    "0x690",
+    "0x691",
+    "0x696",
+    "0x697",
+    "0x698",
+    "0x699"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0106.flac",
+  "audio_sha256": "bf2c3abaf202e6431ac0c9f27add66ea3d6493e5d39102669d6b5794c12bdd4b",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アル",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.98,
+      "speaker": "",
+      "text": "アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アル",
+      "avg_logprob": -0.10929,
+      "no_speech_prob": 0.30705,
+      "compression_ratio": 10.67797,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.070",
+        "HIGH_COMPRESSION_RATIO:10.678"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

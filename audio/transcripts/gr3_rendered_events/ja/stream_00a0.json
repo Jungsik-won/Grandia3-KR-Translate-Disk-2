@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00a0",
+  "stream_key": "0xA0",
+  "sample_ids": [
+    "0x4BA",
+    "0x4BB"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00a0.flac",
+  "audio_sha256": "52c422f48f088a1a161360ea2b6bcc3b2df16ccf5ed7064ad66ce8ccf653b4fe",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アー アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。 アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アー",
+      "avg_logprob": -0.11942,
+      "no_speech_prob": 0.07465,
+      "compression_ratio": 11.94643,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.045",
+        "HIGH_COMPRESSION_RATIO:11.946"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。",
+      "avg_logprob": -0.04671,
+      "no_speech_prob": 0.07208,
+      "compression_ratio": 11.83929,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.045",
+        "HIGH_COMPRESSION_RATIO:11.839"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 75.86,
+      "speaker": "",
+      "text": "アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。アークリフ、メンディアIII。",
+      "avg_logprob": -0.03776,
+      "no_speech_prob": 0.10965,
+      "compression_ratio": 11.83929,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.045",
+        "HIGH_COMPRESSION_RATIO:11.839"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

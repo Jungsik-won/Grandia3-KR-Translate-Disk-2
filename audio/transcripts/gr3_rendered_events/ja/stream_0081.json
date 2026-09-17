@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0081",
+  "stream_key": "0x81",
+  "sample_ids": [
+    "0x45A",
+    "0x45B"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0081.flac",
+  "audio_sha256": "599a2f9f4159417eab9f18329ff64ab31c48b5896a12b406c6c429ee207a3e47",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "な、聞いてくれしみっと。これでも俺、飛行機のりなんだ。 ふらっ! はっ! 勝負くれてるなぁ。 いいかこぞ。本物のフライトユニットってのはなぁ。 こういうもんだ。 うーん。 すげー! あれ? しみっと?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 7.0,
+      "speaker": "",
+      "text": "な、聞いてくれしみっと。これでも俺、飛行機のりなんだ。 ふらっ!",
+      "avg_logprob": -0.49703,
+      "no_speech_prob": 0.00379,
+      "compression_ratio": 1.41401,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 7.0,
+      "end": 9.0,
+      "speaker": "",
+      "text": "はっ!",
+      "avg_logprob": -0.49703,
+      "no_speech_prob": 0.00379,
+      "compression_ratio": 1.41401,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 9.0,
+      "end": 12.0,
+      "speaker": "",
+      "text": "勝負くれてるなぁ。",
+      "avg_logprob": -0.49703,
+      "no_speech_prob": 0.00379,
+      "compression_ratio": 1.41401,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 12.0,
+      "end": 19.0,
+      "speaker": "",
+      "text": "いいかこぞ。本物のフライトユニットってのはなぁ。",
+      "avg_logprob": -0.49703,
+      "no_speech_prob": 0.00379,
+      "compression_ratio": 1.41401,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 19.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "こういうもんだ。",
+      "avg_logprob": -0.49703,
+      "no_speech_prob": 0.00379,
+      "compression_ratio": 1.41401,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 23.0,
+      "end": 25.0,
+      "speaker": "",
+      "text": "うーん。",
+      "avg_logprob": -0.74665,
+      "no_speech_prob": 0.03269,
+      "compression_ratio": 0.82353,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 28.0,
+      "end": 31.0,
+      "speaker": "",
+      "text": "すげー!",
+      "avg_logprob": -0.74665,
+      "no_speech_prob": 0.03269,
+      "compression_ratio": 0.82353,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 31.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "あれ?",
+      "avg_logprob": -0.74665,
+      "no_speech_prob": 0.03269,
+      "compression_ratio": 0.82353,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 34.0,
+      "end": 37.0,
+      "speaker": "",
+      "text": "しみっと?",
+      "avg_logprob": -0.74665,
+      "no_speech_prob": 0.03269,
+      "compression_ratio": 0.82353,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

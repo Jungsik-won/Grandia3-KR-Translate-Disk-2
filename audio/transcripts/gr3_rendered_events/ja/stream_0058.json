@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0058",
+  "stream_key": "0x58",
+  "sample_ids": [
+    "0x3F6",
+    "0x3F7"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0058.flac",
+  "audio_sha256": "52f39420ba272f3308271a26b2913d254a0609bdbb310aaf6c5059297f220ff1",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:4/18"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "イイカ、夜は初めてなんだから、リリクは慎重にな? 新派へ進んだって、俺たちの期待が信じられないのか? 信じられないのはお前のうで おい、ロッツ! よし! お前、いつの間に? 俺もすぐ村を出る、ユウキ、必ず、大陸までたどりつけ、向こうでまたおう。 あ! お前、いつの間に? 俺もすぐ村を出る、ユウキ、必ず、大陸までたどりつけ、向こうでまたおう。 あ! よっ! 忘れないユウキ! 忘れないユウキ! 俺たちの夢は海だって超える、それをお前が証明するんだ! よし! いやじゃな、発信! お前は海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 29.52,
+      "speaker": "",
+      "text": "イイカ、夜は初めてなんだから、リリクは慎重にな?",
+      "avg_logprob": -0.7485,
+      "no_speech_prob": 0.02453,
+      "compression_ratio": 0.97222,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 35.08,
+      "speaker": "",
+      "text": "新派へ進んだって、俺たちの期待が信じられないのか?",
+      "avg_logprob": -0.71065,
+      "no_speech_prob": 0.06529,
+      "compression_ratio": 1.23214,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 35.08,
+      "end": 39.72,
+      "speaker": "",
+      "text": "信じられないのはお前のうで",
+      "avg_logprob": -0.71065,
+      "no_speech_prob": 0.06529,
+      "compression_ratio": 1.23214,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 39.72,
+      "end": 41.76,
+      "speaker": "",
+      "text": "おい、ロッツ!",
+      "avg_logprob": -0.71065,
+      "no_speech_prob": 0.06529,
+      "compression_ratio": 1.23214,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 44.24,
+      "end": 45.24,
+      "speaker": "",
+      "text": "よし!",
+      "avg_logprob": -0.71065,
+      "no_speech_prob": 0.06529,
+      "compression_ratio": 1.23214,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 45.24,
+      "end": 47.24,
+      "speaker": "",
+      "text": "お前、いつの間に?",
+      "avg_logprob": -0.19387,
+      "no_speech_prob": 0.01026,
+      "compression_ratio": 5.14173,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.142"
+      ]
+    },
+    {
+      "segment_index": 6,
+      "start": 47.24,
+      "end": 55.24,
+      "speaker": "",
+      "text": "俺もすぐ村を出る、ユウキ、必ず、大陸までたどりつけ、向こうでまたおう。",
+      "avg_logprob": -0.19387,
+      "no_speech_prob": 0.01026,
+      "compression_ratio": 5.14173,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.142"
+      ]
+    },
+    {
+      "segment_index": 7,
+      "start": 55.24,
+      "end": 57.24,
+      "speaker": "",
+      "text": "あ!",
+      "avg_logprob": -0.19387,
+      "no_speech_prob": 0.01026,
+      "compression_ratio": 5.14173,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.142"
+      ]
+    },
+    {
+      "segment_index": 8,
+      "start": 58.24,
+      "end": 61.24,
+      "speaker": "",
+      "text": "お前、いつの間に?",
+      "avg_logprob": -0.34064,
+      "no_speech_prob": 0.04489,
+      "compression_ratio": 1.22556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 61.24,
+      "end": 69.24,
+      "speaker": "",
+      "text": "俺もすぐ村を出る、ユウキ、必ず、大陸までたどりつけ、向こうでまたおう。",
+      "avg_logprob": -0.34064,
+      "no_speech_prob": 0.04489,
+      "compression_ratio": 1.22556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 69.24,
+      "end": 71.24,
+      "speaker": "",
+      "text": "あ!",
+      "avg_logprob": -0.34064,
+      "no_speech_prob": 0.04489,
+      "compression_ratio": 1.22556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 11,
+      "start": 71.24,
+      "end": 73.24,
+      "speaker": "",
+      "text": "よっ!",
+      "avg_logprob": -0.34064,
+      "no_speech_prob": 0.04489,
+      "compression_ratio": 1.22556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 12,
+      "start": 81.24,
+      "end": 83.24,
+      "speaker": "",
+      "text": "忘れないユウキ!",
+      "avg_logprob": -0.34064,
+      "no_speech_prob": 0.04489,
+      "compression_ratio": 1.22556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 13,
+      "start": 84.24,
+      "end": 86.24,
+      "speaker": "",
+      "text": "忘れないユウキ!",
+      "avg_logprob": -0.34276,
+      "no_speech_prob": 0.00331,
+      "compression_ratio": 1.10833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 14,
+      "start": 86.24,
+      "end": 92.24,
+      "speaker": "",
+      "text": "俺たちの夢は海だって超える、それをお前が証明するんだ!",
+      "avg_logprob": -0.34276,
+      "no_speech_prob": 0.00331,
+      "compression_ratio": 1.10833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 15,
+      "start": 92.24,
+      "end": 95.24,
+      "speaker": "",
+      "text": "よし!",
+      "avg_logprob": -0.34276,
+      "no_speech_prob": 0.00331,
+      "compression_ratio": 1.10833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 16,
+      "start": 98.24,
+      "end": 103.24,
+      "speaker": "",
+      "text": "いやじゃな、発信!",
+      "avg_logprob": -0.34276,
+      "no_speech_prob": 0.00331,
+      "compression_ratio": 1.10833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 17,
+      "start": 113.24,
+      "end": 114.24,
+      "speaker": "",
+      "text": "お前は海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海だって、今からは海",
+      "avg_logprob": -0.1763,
+      "no_speech_prob": 0.02987,
+      "compression_ratio": 16.64706,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.040",
+        "HIGH_COMPRESSION_RATIO:16.647"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

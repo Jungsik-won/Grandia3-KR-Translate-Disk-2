@@ -1,0 +1,5204 @@
+{
+  "schema_version": 1,
+  "source_dir": "build/central-runtime-relocation-v8/mdt",
+  "mdt_count": 346,
+  "supported_member_count": 717,
+  "message_count": 649,
+  "container_count": 318,
+  "translated_count": 649,
+  "unresolved_glyph_count": 1949,
+  "messages": [
+    {
+      "id": "FIELD_RESOURCE_00000200_R00740000_M6000_0001",
+      "scene": "00000200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001562A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00000200_R00740000_M6000_0002",
+      "scene": "00000200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00156373",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00000201_R00740000_M6000_0001",
+      "scene": "00000201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001769A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00000201_R00740000_M6000_0002",
+      "scene": "00000201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00176A73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00008000_R00740000_M6000_0001",
+      "scene": "00008000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000493C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00008000_R00740000_M6000_0002",
+      "scene": "00008000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00049493",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030000_R00740000_M6000_0001",
+      "scene": "00030000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008D0D59",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030000_R00740000_M6000_0002",
+      "scene": "00030000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008D0E23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030100_R00740000_M6000_0001",
+      "scene": "00030100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A95D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030100_R00740000_M6000_0002",
+      "scene": "00030100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A96A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030100_R00740000_M4000_0001",
+      "scene": "00030100",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x002AA687",
+      "jp_text": "<G0141><G0142><G0001>セーブは出来ません"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030200_R00740000_M6000_0001",
+      "scene": "00030200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002F4F59",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030200_R00740000_M6000_0002",
+      "scene": "00030200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002F5023",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030300_R00740000_M6000_0001",
+      "scene": "00030300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001DDA59",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030300_R00740000_M6000_0002",
+      "scene": "00030300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001DDB23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030400_R00740000_M6000_0001",
+      "scene": "00030400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001357C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030400_R00740000_M6000_0002",
+      "scene": "00030400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00135893",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030500_R00740000_M6000_0001",
+      "scene": "00030500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00283669",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030500_R00740000_M6000_0002",
+      "scene": "00030500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00283733",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030600_R00740000_M6000_0001",
+      "scene": "00030600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0025D959",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030600_R00740000_M6000_0002",
+      "scene": "00030600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0025DA23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030800_R00740000_M6000_0001",
+      "scene": "00030800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0029F169",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030800_R00740000_M6000_0002",
+      "scene": "00030800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0029F233",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030900_R00740000_M6000_0001",
+      "scene": "00030900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001CB279",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00030900_R00740000_M6000_0002",
+      "scene": "00030900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001CB343",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00031100_R00740000_M6000_0001",
+      "scene": "00031100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002594B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00031100_R00740000_M6000_0002",
+      "scene": "00031100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00259583",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00031200_R00740000_M6000_0001",
+      "scene": "00031200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0021E5B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00031200_R00740000_M6000_0002",
+      "scene": "00031200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0021E683",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00031300_R00740000_M6000_0001",
+      "scene": "00031300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001E52D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00031300_R00740000_M6000_0002",
+      "scene": "00031300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001E53A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00037700_R00740000_M6000_0001",
+      "scene": "00037700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00680129",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00037700_R00740000_M6000_0002",
+      "scene": "00037700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006801F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M6000_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E1959",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M6000_0002",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E1A23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4000_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x002E1CB7",
+      "jp_text": "宝<G015C>を開けるには\n宝<G015C>の正面で<G08B6>を\n押してください"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4001_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4001",
+      "original_offset": "0x002E1CEF",
+      "jp_text": "この位置で<G08B6>を押すと\n宝<G015C>が開きます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4002_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4002",
+      "original_offset": "0x002E1D1F",
+      "jp_text": "宝<G015C>から出<G0141>したアイテムは\nその方向に<G020F>づくと\n入手することができます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00060000_R00740000_M4003_0001",
+      "scene": "00060000",
+      "record_id": "0x00740000",
+      "member_type": "0x4003",
+      "original_offset": "0x002E1D67",
+      "jp_text": "入手したアイテムは\n持ち物にストックされます<CTRL:07><G0542>じアイテムが<G0039><G012F>ある場合は\n入手することができません<CTRL:07>持ち物は<G08B9>を押すと開かれる\nステータス<G0330>面で<G03B4><G0548>できます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M6000_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004486F9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M6000_0002",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004487C3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4000_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x00448987",
+      "jp_text": "フィールドを歩いているとき\n<G08B8>で周辺<G0188><G0442>が行えます\n<G08B8>を押してみましょう"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4001_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4001",
+      "original_offset": "0x004489CF",
+      "jp_text": "周辺<G0188><G0442>を行うと\nサーチポイントが光ります\nまわりでなにか光ったら\nその場<G0348>に行ってみましょう"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4002_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4002",
+      "original_offset": "0x00448A1F",
+      "jp_text": "サーチポイントでは\nボタンとアクションの内<G05C8>が\n<G0330>面<G010E>に<G0579><G0470>されます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4003_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4003",
+      "original_offset": "0x00448A67",
+      "jp_text": "<G08B7>を押して剣を振ることで\nフィールド上にある<G04AA><G03B0>物を\n破壊することができます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061000_R00740000_M4004_0001",
+      "scene": "00061000",
+      "record_id": "0x00740000",
+      "member_type": "0x4004",
+      "original_offset": "0x00448AAF",
+      "jp_text": "この位置で<G08B7>を押すと\n<G01FF>の<G0170>にあるキノコを\n破壊することができます"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061100_R00740000_M6000_0001",
+      "scene": "00061100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00256069",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061100_R00740000_M6000_0002",
+      "scene": "00061100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00256133",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061100_R00740000_M4000_0001",
+      "scene": "00061100",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x002562F7",
+      "jp_text": "この宝<G015C>は開きません"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061100_R00740000_M4001_0001",
+      "scene": "00061100",
+      "record_id": "0x00740000",
+      "member_type": "0x4001",
+      "original_offset": "0x0025631F",
+      "jp_text": "<G0141><G0142><G0001>セーブは出来ません"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061300_R00740000_M6000_0001",
+      "scene": "00061300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003E7239",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061300_R00740000_M6000_0002",
+      "scene": "00061300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003E7303",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00061300_R00740000_M4000_0001",
+      "scene": "00061300",
+      "record_id": "0x00740000",
+      "member_type": "0x4000",
+      "original_offset": "0x003E74C7",
+      "jp_text": "この宝<G015C>は開きません"
+    },
+    {
+      "id": "FIELD_RESOURCE_00067700_R00740000_M6000_0001",
+      "scene": "00067700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00134829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00067700_R00740000_M6000_0002",
+      "scene": "00067700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001348F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00067800_R00740000_M6000_0001",
+      "scene": "00067800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001743A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00067800_R00740000_M6000_0002",
+      "scene": "00067800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00174473",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00090000_R00740000_M6000_0001",
+      "scene": "00090000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002754B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00090000_R00740000_M6000_0002",
+      "scene": "00090000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00275583",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00090100_R00740000_M6000_0001",
+      "scene": "00090100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0041A5A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00090100_R00740000_M6000_0002",
+      "scene": "00090100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0041A673",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00120000_R00740000_M6000_0001",
+      "scene": "00120000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00530879",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00120000_R00740000_M6000_0002",
+      "scene": "00120000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00530943",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00120100_R00740000_M6000_0001",
+      "scene": "00120100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E4AE9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00120100_R00740000_M6000_0002",
+      "scene": "00120100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E4BB3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00120200_R00740000_M6000_0001",
+      "scene": "00120200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00253629",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00120200_R00740000_M6000_0002",
+      "scene": "00120200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002536F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00150100_R00740000_M6000_0001",
+      "scene": "00150100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003D62D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00150100_R00740000_M6000_0002",
+      "scene": "00150100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003D63A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00150200_R00740000_M6000_0001",
+      "scene": "00150200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00258239",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00150200_R00740000_M6000_0002",
+      "scene": "00150200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00258303",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00151000_R00740000_M6000_0001",
+      "scene": "00151000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002EE639",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00151000_R00740000_M6000_0002",
+      "scene": "00151000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002EE703",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00151100_R00740000_M6000_0001",
+      "scene": "00151100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00162229",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00151100_R00740000_M6000_0002",
+      "scene": "00151100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001622F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00151200_R00740000_M6000_0001",
+      "scene": "00151200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0013E929",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00151200_R00740000_M6000_0002",
+      "scene": "00151200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0013E9F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00157700_R00740000_M6000_0001",
+      "scene": "00157700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A47A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00157700_R00740000_M6000_0002",
+      "scene": "00157700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A4873",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00157800_R00740000_M6000_0001",
+      "scene": "00157800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A47A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00157800_R00740000_M6000_0002",
+      "scene": "00157800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A4873",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180100_R00740000_M6000_0001",
+      "scene": "00180100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00283759",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180100_R00740000_M6000_0002",
+      "scene": "00180100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00283823",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180200_R00740000_M6000_0001",
+      "scene": "00180200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00346CA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180200_R00740000_M6000_0002",
+      "scene": "00180200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00346D73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180400_R00740000_M6000_0001",
+      "scene": "00180400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004F42B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180400_R00740000_M6000_0002",
+      "scene": "00180400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004F4383",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180500_R00740000_M6000_0001",
+      "scene": "00180500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002DA3E9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180500_R00740000_M6000_0002",
+      "scene": "00180500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002DA4B3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180600_R00740000_M6000_0001",
+      "scene": "00180600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000AAAA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180600_R00740000_M6000_0002",
+      "scene": "00180600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000AAB73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180700_R00740000_M6000_0001",
+      "scene": "00180700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002F36C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180700_R00740000_M6000_0002",
+      "scene": "00180700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002F3793",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180800_R00740000_M6000_0001",
+      "scene": "00180800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002AAC39",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00180800_R00740000_M6000_0002",
+      "scene": "00180800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002AAD03",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00181000_R00740000_M6000_0001",
+      "scene": "00181000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003BA9A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00181000_R00740000_M6000_0002",
+      "scene": "00181000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003BAA73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00187700_R00740000_M6000_0001",
+      "scene": "00187700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000CD529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00187700_R00740000_M6000_0002",
+      "scene": "00187700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000CD5F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00211000_R00740000_M6000_0001",
+      "scene": "00211000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006EA609",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00211000_R00740000_M6000_0002",
+      "scene": "00211000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006EA6D3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00212000_R00740000_M6000_0001",
+      "scene": "00212000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005365D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00212000_R00740000_M6000_0002",
+      "scene": "00212000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005366A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00212100_R00740000_M6000_0001",
+      "scene": "00212100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00285849",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00212100_R00740000_M6000_0002",
+      "scene": "00212100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00285913",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00212200_R00740000_M6000_0001",
+      "scene": "00212200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0021ABF9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00212200_R00740000_M6000_0002",
+      "scene": "00212200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0021ACC3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00213100_R00740000_M6000_0001",
+      "scene": "00213100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00264559",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00213100_R00740000_M6000_0002",
+      "scene": "00213100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00264623",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214000_R00740000_M6000_0001",
+      "scene": "00214000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00728E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214000_R00740000_M6000_0002",
+      "scene": "00214000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00728EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214100_R00740000_M6000_0001",
+      "scene": "00214100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0037F4B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214100_R00740000_M6000_0002",
+      "scene": "00214100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0037F583",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214200_R00740000_M6000_0001",
+      "scene": "00214200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001F2139",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214200_R00740000_M6000_0002",
+      "scene": "00214200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001F2203",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214300_R00740000_M6000_0001",
+      "scene": "00214300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00275B69",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00214300_R00740000_M6000_0002",
+      "scene": "00214300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00275C33",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00215100_R00740000_M6000_0001",
+      "scene": "00215100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00255D59",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00215100_R00740000_M6000_0002",
+      "scene": "00215100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00255E23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00215200_R00740000_M6000_0001",
+      "scene": "00215200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002507C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00215200_R00740000_M6000_0002",
+      "scene": "00215200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00250893",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00216000_R00740000_M6000_0001",
+      "scene": "00216000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00509FF9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00216000_R00740000_M6000_0002",
+      "scene": "00216000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0050A0C3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00216100_R00740000_M6000_0001",
+      "scene": "00216100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0043CC49",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00216100_R00740000_M6000_0002",
+      "scene": "00216100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0043CD13",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00217000_R00740000_M6000_0001",
+      "scene": "00217000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003C7479",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00217000_R00740000_M6000_0002",
+      "scene": "00217000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003C7543",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240100_R00740000_M6000_0001",
+      "scene": "00240100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A3BE9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240100_R00740000_M6000_0002",
+      "scene": "00240100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A3CB3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240200_R00740000_M6000_0001",
+      "scene": "00240200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002913A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240200_R00740000_M6000_0002",
+      "scene": "00240200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00291473",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240300_R00740000_M6000_0001",
+      "scene": "00240300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001E82B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240300_R00740000_M6000_0002",
+      "scene": "00240300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001E8383",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240400_R00740000_M6000_0001",
+      "scene": "00240400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00284FC9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00240400_R00740000_M6000_0002",
+      "scene": "00240400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00285093",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241000_R00740000_M6000_0001",
+      "scene": "00241000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003FECA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241000_R00740000_M6000_0002",
+      "scene": "00241000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003FED73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241100_R00740000_M6000_0001",
+      "scene": "00241100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E4AC9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241100_R00740000_M6000_0002",
+      "scene": "00241100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E4B93",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241200_R00740000_M6000_0001",
+      "scene": "00241200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00463D69",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241200_R00740000_M6000_0002",
+      "scene": "00241200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00463E33",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241300_R00740000_M6000_0001",
+      "scene": "00241300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00288959",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241300_R00740000_M6000_0002",
+      "scene": "00241300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00288A23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241400_R00740000_M6000_0001",
+      "scene": "00241400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00286F29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241400_R00740000_M6000_0002",
+      "scene": "00241400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00286FF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241500_R00740000_M6000_0001",
+      "scene": "00241500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00273139",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241500_R00740000_M6000_0002",
+      "scene": "00241500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00273203",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241600_R00740000_M6000_0001",
+      "scene": "00241600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002EEC49",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241600_R00740000_M6000_0002",
+      "scene": "00241600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002EED13",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241700_R00740000_M6000_0001",
+      "scene": "00241700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A2419",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241700_R00740000_M6000_0002",
+      "scene": "00241700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A24E3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241800_R00740000_M6000_0001",
+      "scene": "00241800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0033D429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241800_R00740000_M6000_0002",
+      "scene": "00241800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0033D4F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241900_R00740000_M6000_0001",
+      "scene": "00241900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A35E9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00241900_R00740000_M6000_0002",
+      "scene": "00241900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A36B3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00242000_R00740000_M6000_0001",
+      "scene": "00242000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00394ED9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00242000_R00740000_M6000_0002",
+      "scene": "00242000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00394FA3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00242300_R00740000_M6000_0001",
+      "scene": "00242300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0027FF79",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00242300_R00740000_M6000_0002",
+      "scene": "00242300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00280043",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243100_R00740000_M6000_0001",
+      "scene": "00243100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00266AA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243100_R00740000_M6000_0002",
+      "scene": "00243100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00266B73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243200_R00740000_M6000_0001",
+      "scene": "00243200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004CE8C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243200_R00740000_M6000_0002",
+      "scene": "00243200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004CE993",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243300_R00740000_M6000_0001",
+      "scene": "00243300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00339E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243300_R00740000_M6000_0002",
+      "scene": "00243300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00339EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243400_R00740000_M6000_0001",
+      "scene": "00243400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00341BA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243400_R00740000_M6000_0002",
+      "scene": "00243400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00341C73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243500_R00740000_M6000_0001",
+      "scene": "00243500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00459AB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243500_R00740000_M6000_0002",
+      "scene": "00243500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00459B83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243600_R00740000_M6000_0001",
+      "scene": "00243600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E9D29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00243600_R00740000_M6000_0002",
+      "scene": "00243600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002E9DF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00247700_R00740000_M6000_0001",
+      "scene": "00247700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003F5429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00247700_R00740000_M6000_0002",
+      "scene": "00247700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003F54F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270100_R00740000_M6000_0001",
+      "scene": "00270100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004475D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270100_R00740000_M6000_0002",
+      "scene": "00270100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004476A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270200_R00740000_M6000_0001",
+      "scene": "00270200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003EF429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270200_R00740000_M6000_0002",
+      "scene": "00270200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003EF4F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270300_R00740000_M6000_0001",
+      "scene": "00270300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0049C9A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270300_R00740000_M6000_0002",
+      "scene": "00270300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0049CA73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270400_R00740000_M6000_0001",
+      "scene": "00270400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003F9589",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00270400_R00740000_M6000_0002",
+      "scene": "00270400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003F9653",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330100_R00740000_M6000_0001",
+      "scene": "00330100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00433A29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330100_R00740000_M6000_0002",
+      "scene": "00330100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00433AF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330200_R00740000_M6000_0001",
+      "scene": "00330200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00555339",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330200_R00740000_M6000_0002",
+      "scene": "00330200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00555403",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330300_R00740000_M6000_0001",
+      "scene": "00330300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0023A0A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330300_R00740000_M6000_0002",
+      "scene": "00330300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0023A173",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330400_R00740000_M6000_0001",
+      "scene": "00330400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0036ACC9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00330400_R00740000_M6000_0002",
+      "scene": "00330400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0036AD93",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360000_R00740000_M6000_0001",
+      "scene": "00360000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005EFDA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360000_R00740000_M6000_0002",
+      "scene": "00360000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005EFE73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360100_R00740000_M6000_0001",
+      "scene": "00360100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001F73D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360100_R00740000_M6000_0002",
+      "scene": "00360100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001F74A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360200_R00740000_M6000_0001",
+      "scene": "00360200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0019CBC9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360200_R00740000_M6000_0002",
+      "scene": "00360200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0019CC93",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360300_R00740000_M6000_0001",
+      "scene": "00360300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C5749",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360300_R00740000_M6000_0002",
+      "scene": "00360300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C5813",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360400_R00740000_M6000_0001",
+      "scene": "00360400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002395A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360400_R00740000_M6000_0002",
+      "scene": "00360400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00239673",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360500_R00740000_M6000_0001",
+      "scene": "00360500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001D9F29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360500_R00740000_M6000_0002",
+      "scene": "00360500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001D9FF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360600_R00740000_M6000_0001",
+      "scene": "00360600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001E2AA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360600_R00740000_M6000_0002",
+      "scene": "00360600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001E2B73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360700_R00740000_M6000_0001",
+      "scene": "00360700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002039B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360700_R00740000_M6000_0002",
+      "scene": "00360700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00203A83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360800_R00740000_M6000_0001",
+      "scene": "00360800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002BA6D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00360800_R00740000_M6000_0002",
+      "scene": "00360800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002BA7A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361000_R00740000_M6000_0001",
+      "scene": "00361000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00259CB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361000_R00740000_M6000_0002",
+      "scene": "00361000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00259D83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361100_R00740000_M6000_0001",
+      "scene": "00361100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00258279",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361100_R00740000_M6000_0002",
+      "scene": "00361100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00258343",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361200_R00740000_M6000_0001",
+      "scene": "00361200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002066D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361200_R00740000_M6000_0002",
+      "scene": "00361200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002067A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361300_R00740000_M6000_0001",
+      "scene": "00361300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0045D6A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361300_R00740000_M6000_0002",
+      "scene": "00361300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0045D773",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361400_R00740000_M6000_0001",
+      "scene": "00361400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0027DCE9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00361400_R00740000_M6000_0002",
+      "scene": "00361400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0027DDB3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00362100_R00740000_M6000_0001",
+      "scene": "00362100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006F9079",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00362100_R00740000_M6000_0002",
+      "scene": "00362100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006F9143",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00362400_R00740000_M6000_0001",
+      "scene": "00362400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00231039",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00362400_R00740000_M6000_0002",
+      "scene": "00362400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00231103",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390000_R00740000_M6000_0001",
+      "scene": "00390000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005CDB29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390000_R00740000_M6000_0002",
+      "scene": "00390000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005CDBF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390200_R00740000_M6000_0001",
+      "scene": "00390200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006A4E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390200_R00740000_M6000_0002",
+      "scene": "00390200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006A4EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390300_R00740000_M6000_0001",
+      "scene": "00390300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00502729",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390300_R00740000_M6000_0002",
+      "scene": "00390300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005027F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390500_R00740000_M6000_0001",
+      "scene": "00390500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0060CFE9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00390500_R00740000_M6000_0002",
+      "scene": "00390500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0060D0B3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00397700_R00740000_M6000_0001",
+      "scene": "00397700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CE029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00397700_R00740000_M6000_0002",
+      "scene": "00397700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CE0F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420000_R00740000_M6000_0001",
+      "scene": "00420000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0020FFA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420000_R00740000_M6000_0002",
+      "scene": "00420000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00210073",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420100_R00740000_M6000_0001",
+      "scene": "00420100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0059FD29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420100_R00740000_M6000_0002",
+      "scene": "00420100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0059FDF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420200_R00740000_M6000_0001",
+      "scene": "00420200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00533929",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420200_R00740000_M6000_0002",
+      "scene": "00420200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005339F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420300_R00740000_M6000_0001",
+      "scene": "00420300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004B2A29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420300_R00740000_M6000_0002",
+      "scene": "00420300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004B2AF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420400_R00740000_M6000_0001",
+      "scene": "00420400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00758329",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420400_R00740000_M6000_0002",
+      "scene": "00420400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007583F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420500_R00740000_M6000_0001",
+      "scene": "00420500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004226B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00420500_R00740000_M6000_0002",
+      "scene": "00420500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00422783",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450000_R00740000_M6000_0001",
+      "scene": "00450000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0071E469",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450000_R00740000_M6000_0002",
+      "scene": "00450000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0071E533",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450200_R00740000_M6000_0001",
+      "scene": "00450200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002F6E09",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450200_R00740000_M6000_0002",
+      "scene": "00450200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002F6ED3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450300_R00740000_M6000_0001",
+      "scene": "00450300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002CA439",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450300_R00740000_M6000_0002",
+      "scene": "00450300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002CA503",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450400_R00740000_M6000_0001",
+      "scene": "00450400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00337DB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450400_R00740000_M6000_0002",
+      "scene": "00450400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00337E83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450500_R00740000_M6000_0001",
+      "scene": "00450500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A5139",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450500_R00740000_M6000_0002",
+      "scene": "00450500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002A5203",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450600_R00740000_M6000_0001",
+      "scene": "00450600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002129B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450600_R00740000_M6000_0002",
+      "scene": "00450600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00212A83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450700_R00740000_M6000_0001",
+      "scene": "00450700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001C1CB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450700_R00740000_M6000_0002",
+      "scene": "00450700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001C1D83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450800_R00740000_M6000_0001",
+      "scene": "00450800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002AD3B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450800_R00740000_M6000_0002",
+      "scene": "00450800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002AD483",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450900_R00740000_M6000_0001",
+      "scene": "00450900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002FCC59",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00450900_R00740000_M6000_0002",
+      "scene": "00450900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002FCD23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00480000_R00740000_M6000_0001",
+      "scene": "00480000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00326CD9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00480000_R00740000_M6000_0002",
+      "scene": "00480000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00326DA3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00480200_R00740000_M6000_0001",
+      "scene": "00480200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004C2759",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00480200_R00740000_M6000_0002",
+      "scene": "00480200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004C2823",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00480300_R00740000_M6000_0001",
+      "scene": "00480300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003611E9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00480300_R00740000_M6000_0002",
+      "scene": "00480300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003612B3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510000_R00740000_M6000_0001",
+      "scene": "00510000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001D2DB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510000_R00740000_M6000_0002",
+      "scene": "00510000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001D2E83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510100_R00740000_M6000_0001",
+      "scene": "00510100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002FCC29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510100_R00740000_M6000_0002",
+      "scene": "00510100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002FCCF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510200_R00740000_M6000_0001",
+      "scene": "00510200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004ADF29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510200_R00740000_M6000_0002",
+      "scene": "00510200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004ADFF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510300_R00740000_M6000_0001",
+      "scene": "00510300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00477639",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510300_R00740000_M6000_0002",
+      "scene": "00510300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00477703",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510400_R00740000_M6000_0001",
+      "scene": "00510400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005D84A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00510400_R00740000_M6000_0002",
+      "scene": "00510400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005D8573",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00517700_R00740000_M6000_0001",
+      "scene": "00517700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00254429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00517700_R00740000_M6000_0002",
+      "scene": "00517700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002544F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540000_R00740000_M6000_0001",
+      "scene": "00540000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006906A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540000_R00740000_M6000_0002",
+      "scene": "00540000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00690773",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540100_R00740000_M6000_0001",
+      "scene": "00540100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004C34A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540100_R00740000_M6000_0002",
+      "scene": "00540100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004C3573",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540200_R00740000_M6000_0001",
+      "scene": "00540200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00771A29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540200_R00740000_M6000_0002",
+      "scene": "00540200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00771AF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540300_R00740000_M6000_0001",
+      "scene": "00540300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005E2329",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540300_R00740000_M6000_0002",
+      "scene": "00540300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005E23F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540400_R00740000_M6000_0001",
+      "scene": "00540400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004839A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540400_R00740000_M6000_0002",
+      "scene": "00540400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00483A73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540500_R00740000_M6000_0001",
+      "scene": "00540500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C3A59",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540500_R00740000_M6000_0002",
+      "scene": "00540500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C3B23",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540600_R00740000_M6000_0001",
+      "scene": "00540600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00499C29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540600_R00740000_M6000_0002",
+      "scene": "00540600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00499CF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540700_R00740000_M6000_0001",
+      "scene": "00540700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003ED359",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00540700_R00740000_M6000_0002",
+      "scene": "00540700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003ED423",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570000_R00740000_M6000_0001",
+      "scene": "00570000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0056F4C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570000_R00740000_M6000_0002",
+      "scene": "00570000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0056F593",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570100_R00740000_M6000_0001",
+      "scene": "00570100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004085B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570100_R00740000_M6000_0002",
+      "scene": "00570100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00408683",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570200_R00740000_M6000_0001",
+      "scene": "00570200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00579929",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570200_R00740000_M6000_0002",
+      "scene": "00570200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005799F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570300_R00740000_M6000_0001",
+      "scene": "00570300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0069DD29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570300_R00740000_M6000_0002",
+      "scene": "00570300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0069DDF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570500_R00740000_M6000_0001",
+      "scene": "00570500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004A8EA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570500_R00740000_M6000_0002",
+      "scene": "00570500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004A8F73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570600_R00740000_M6000_0001",
+      "scene": "00570600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003572A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570600_R00740000_M6000_0002",
+      "scene": "00570600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00357373",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570700_R00740000_M6000_0001",
+      "scene": "00570700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00210BB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00570700_R00740000_M6000_0002",
+      "scene": "00570700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00210C83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00600000_R00740000_M6000_0001",
+      "scene": "00600000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003E1DE9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00600000_R00740000_M6000_0002",
+      "scene": "00600000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003E1EB3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00600100_R00740000_M6000_0001",
+      "scene": "00600100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002DF029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00600100_R00740000_M6000_0002",
+      "scene": "00600100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002DF0F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00600200_R00740000_M6000_0001",
+      "scene": "00600200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002AB429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00600200_R00740000_M6000_0002",
+      "scene": "00600200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002AB4F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00605000_R00740000_M6000_0001",
+      "scene": "00605000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00451DA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00605000_R00740000_M6000_0002",
+      "scene": "00605000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00451E73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00605100_R00740000_M6000_0001",
+      "scene": "00605100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002D4C29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00605100_R00740000_M6000_0002",
+      "scene": "00605100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002D4CF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00605200_R00740000_M6000_0001",
+      "scene": "00605200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0030CA39",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00605200_R00740000_M6000_0002",
+      "scene": "00605200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0030CB03",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630000_R00740000_M6000_0001",
+      "scene": "00630000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006FC6D9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630000_R00740000_M6000_0002",
+      "scene": "00630000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006FC7A3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630100_R00740000_M6000_0001",
+      "scene": "00630100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00373179",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630100_R00740000_M6000_0002",
+      "scene": "00630100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00373243",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630200_R00740000_M6000_0001",
+      "scene": "00630200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001CEDF9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630200_R00740000_M6000_0002",
+      "scene": "00630200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001CEEC3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630300_R00740000_M6000_0001",
+      "scene": "00630300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00244AA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630300_R00740000_M6000_0002",
+      "scene": "00630300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00244B73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630400_R00740000_M6000_0001",
+      "scene": "00630400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0024F339",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630400_R00740000_M6000_0002",
+      "scene": "00630400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0024F403",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630500_R00740000_M6000_0001",
+      "scene": "00630500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00350839",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630500_R00740000_M6000_0002",
+      "scene": "00630500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00350903",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630600_R00740000_M6000_0001",
+      "scene": "00630600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002603B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630600_R00740000_M6000_0002",
+      "scene": "00630600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00260483",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630700_R00740000_M6000_0001",
+      "scene": "00630700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0033EDE9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630700_R00740000_M6000_0002",
+      "scene": "00630700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0033EEB3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630800_R00740000_M6000_0001",
+      "scene": "00630800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00351779",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630800_R00740000_M6000_0002",
+      "scene": "00630800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00351843",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630900_R00740000_M6000_0001",
+      "scene": "00630900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00341409",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00630900_R00740000_M6000_0002",
+      "scene": "00630900",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003414D3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00635000_R00740000_M6000_0001",
+      "scene": "00635000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082FB19",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00635000_R00740000_M6000_0002",
+      "scene": "00635000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082FBE3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660000_R00740000_M6000_0001",
+      "scene": "00660000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00195669",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660000_R00740000_M6000_0002",
+      "scene": "00660000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00195733",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660100_R00740000_M6000_0001",
+      "scene": "00660100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003DFDA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660100_R00740000_M6000_0002",
+      "scene": "00660100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003DFE73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660200_R00740000_M6000_0001",
+      "scene": "00660200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CE1C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660200_R00740000_M6000_0002",
+      "scene": "00660200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CE293",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660300_R00740000_M6000_0001",
+      "scene": "00660300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006CB829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660300_R00740000_M6000_0002",
+      "scene": "00660300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006CB8F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660400_R00740000_M6000_0001",
+      "scene": "00660400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0045AF29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660400_R00740000_M6000_0002",
+      "scene": "00660400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0045AFF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660500_R00740000_M6000_0001",
+      "scene": "00660500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004374A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660500_R00740000_M6000_0002",
+      "scene": "00660500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00437573",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660700_R00740000_M6000_0001",
+      "scene": "00660700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00435BA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00660700_R00740000_M6000_0002",
+      "scene": "00660700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00435C73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00667700_R00740000_M6000_0001",
+      "scene": "00667700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00417529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00667700_R00740000_M6000_0002",
+      "scene": "00667700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004175F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00667800_R00740000_M6000_0001",
+      "scene": "00667800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C74A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00667800_R00740000_M6000_0002",
+      "scene": "00667800",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C7573",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690000_R00740000_M6000_0001",
+      "scene": "00690000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0071A749",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690000_R00740000_M6000_0002",
+      "scene": "00690000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0071A813",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690200_R00740000_M6000_0001",
+      "scene": "00690200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006B5539",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690200_R00740000_M6000_0002",
+      "scene": "00690200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006B5603",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690300_R00740000_M6000_0001",
+      "scene": "00690300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006E7229",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690300_R00740000_M6000_0002",
+      "scene": "00690300",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006E72F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690400_R00740000_M6000_0001",
+      "scene": "00690400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005CB9A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690400_R00740000_M6000_0002",
+      "scene": "00690400",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005CBA73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690500_R00740000_M6000_0001",
+      "scene": "00690500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00576629",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690500_R00740000_M6000_0002",
+      "scene": "00690500",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005766F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690600_R00740000_M6000_0001",
+      "scene": "00690600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006C9F69",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690600_R00740000_M6000_0002",
+      "scene": "00690600",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006CA033",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690700_R00740000_M6000_0001",
+      "scene": "00690700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001D36A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00690700_R00740000_M6000_0002",
+      "scene": "00690700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001D3773",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00695000_R00740000_M6000_0001",
+      "scene": "00695000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006636C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00695000_R00740000_M6000_0002",
+      "scene": "00695000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00663793",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00695200_R00740000_M6000_0001",
+      "scene": "00695200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005C2BB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00695200_R00740000_M6000_0002",
+      "scene": "00695200",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005C2C83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00697700_R00740000_M6000_0001",
+      "scene": "00697700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001303A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00697700_R00740000_M6000_0002",
+      "scene": "00697700",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00130473",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00700100_R00740000_M6000_0001",
+      "scene": "00700100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002418A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_00700100_R00740000_M6000_0002",
+      "scene": "00700100",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00241973",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010104_R00740000_M6000_0001",
+      "scene": "01010104",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0093AE29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010104_R00740000_M6000_0002",
+      "scene": "01010104",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0093AEF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010105_R00740000_M6000_0001",
+      "scene": "01010105",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0043A1A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010105_R00740000_M6000_0002",
+      "scene": "01010105",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0043A273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010201_R00740000_M6000_0001",
+      "scene": "01010201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00651AA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010201_R00740000_M6000_0002",
+      "scene": "01010201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00651B73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010502_R00740000_M6000_0001",
+      "scene": "01010502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00AD9B29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01010502_R00740000_M6000_0002",
+      "scene": "01010502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00AD9BF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020101_R00740000_M6000_0001",
+      "scene": "01020101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0043E1A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020101_R00740000_M6000_0002",
+      "scene": "01020101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0043E273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020201_R00740000_M6000_0001",
+      "scene": "01020201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003F56A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020201_R00740000_M6000_0002",
+      "scene": "01020201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003F5773",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020301_R00740000_M6000_0001",
+      "scene": "01020301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005043A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020301_R00740000_M6000_0002",
+      "scene": "01020301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00504473",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020801_R00740000_M6000_0001",
+      "scene": "01020801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00716929",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020801_R00740000_M6000_0002",
+      "scene": "01020801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007169F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020901_R00740000_M6000_0001",
+      "scene": "01020901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002BFB29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01020901_R00740000_M6000_0002",
+      "scene": "01020901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002BFBF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01021001_R00740000_M6000_0001",
+      "scene": "01021001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004E3E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01021001_R00740000_M6000_0002",
+      "scene": "01021001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004E3EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01021002_R00740000_M6000_0001",
+      "scene": "01021002",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007A5DA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01021002_R00740000_M6000_0002",
+      "scene": "01021002",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007A5E73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01021301_R00740000_M6000_0001",
+      "scene": "01021301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082F129",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01021301_R00740000_M6000_0002",
+      "scene": "01021301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082F1F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030201_R00740000_M6000_0001",
+      "scene": "01030201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00821C29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030201_R00740000_M6000_0002",
+      "scene": "01030201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00821CF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030401_R00740000_M6000_0001",
+      "scene": "01030401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003644F9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030401_R00740000_M6000_0002",
+      "scene": "01030401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003645C3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030501_R00740000_M6000_0001",
+      "scene": "01030501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D09A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030501_R00740000_M6000_0002",
+      "scene": "01030501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D0A73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030502_R00740000_M6000_0001",
+      "scene": "01030502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008320A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030502_R00740000_M6000_0002",
+      "scene": "01030502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00832173",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030601_R00740000_M6000_0001",
+      "scene": "01030601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00717BA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030601_R00740000_M6000_0002",
+      "scene": "01030601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00717C73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030801_R00740000_M6000_0001",
+      "scene": "01030801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0057D1A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01030801_R00740000_M6000_0002",
+      "scene": "01030801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0057D273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040102_R00740000_M6000_0001",
+      "scene": "01040102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008781A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040102_R00740000_M6000_0002",
+      "scene": "01040102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00878273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040501_R00740000_M6000_0001",
+      "scene": "01040501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00AB1129",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040501_R00740000_M6000_0002",
+      "scene": "01040501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00AB11F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040701_R00740000_M6000_0001",
+      "scene": "01040701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00C85A29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040701_R00740000_M6000_0002",
+      "scene": "01040701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00C85AF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040901_R00740000_M6000_0001",
+      "scene": "01040901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B1C429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040901_R00740000_M6000_0002",
+      "scene": "01040901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B1C4F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040902_R00740000_M6000_0001",
+      "scene": "01040902",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006972A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01040902_R00740000_M6000_0002",
+      "scene": "01040902",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00697373",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050301_R00740000_M6000_0001",
+      "scene": "01050301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0078F629",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050301_R00740000_M6000_0002",
+      "scene": "01050301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0078F6F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050501_R00740000_M6000_0001",
+      "scene": "01050501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D8AA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050501_R00740000_M6000_0002",
+      "scene": "01050501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D8B73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050701_R00740000_M6000_0001",
+      "scene": "01050701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004689A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050701_R00740000_M6000_0002",
+      "scene": "01050701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00468A73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050901_R00740000_M6000_0001",
+      "scene": "01050901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006EDAA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050901_R00740000_M6000_0002",
+      "scene": "01050901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006EDB73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050902_R00740000_M6000_0001",
+      "scene": "01050902",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082F429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01050902_R00740000_M6000_0002",
+      "scene": "01050902",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082F4F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01051101_R00740000_M6000_0001",
+      "scene": "01051101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003FD539",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01051101_R00740000_M6000_0002",
+      "scene": "01051101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003FD603",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01051201_R00740000_M6000_0001",
+      "scene": "01051201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006154A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01051201_R00740000_M6000_0002",
+      "scene": "01051201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00615573",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060101_R00740000_M6000_0001",
+      "scene": "01060101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00531AA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060101_R00740000_M6000_0002",
+      "scene": "01060101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00531B73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060601_R00740000_M6000_0001",
+      "scene": "01060601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00518B29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060601_R00740000_M6000_0002",
+      "scene": "01060601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00518BF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060701_R00740000_M6000_0001",
+      "scene": "01060701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007D2C29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060701_R00740000_M6000_0002",
+      "scene": "01060701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007D2CF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060801_R00740000_M6000_0001",
+      "scene": "01060801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009F9E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060801_R00740000_M6000_0002",
+      "scene": "01060801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009F9EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060901_R00740000_M6000_0001",
+      "scene": "01060901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00236C29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01060901_R00740000_M6000_0002",
+      "scene": "01060901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00236CF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070101_R00740000_M6000_0001",
+      "scene": "01070101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00680029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070101_R00740000_M6000_0002",
+      "scene": "01070101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006800F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070301_R00740000_M6000_0001",
+      "scene": "01070301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008191A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070301_R00740000_M6000_0002",
+      "scene": "01070301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00819273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070401_R00740000_M6000_0001",
+      "scene": "01070401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003EFF39",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070401_R00740000_M6000_0002",
+      "scene": "01070401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003F0003",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070501_R00740000_M6000_0001",
+      "scene": "01070501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008126A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01070501_R00740000_M6000_0002",
+      "scene": "01070501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00812773",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080101_R00740000_M6000_0001",
+      "scene": "01080101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009A95A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080101_R00740000_M6000_0002",
+      "scene": "01080101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009A9673",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080303_R00740000_M6000_0001",
+      "scene": "01080303",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005CE4A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080303_R00740000_M6000_0002",
+      "scene": "01080303",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005CE573",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080501_R00740000_M6000_0001",
+      "scene": "01080501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00874129",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080501_R00740000_M6000_0002",
+      "scene": "01080501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008741F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080502_R00740000_M6000_0001",
+      "scene": "01080502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00521BA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080502_R00740000_M6000_0002",
+      "scene": "01080502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00521C73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080503_R00740000_M6000_0001",
+      "scene": "01080503",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0061D329",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080503_R00740000_M6000_0002",
+      "scene": "01080503",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0061D3F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080504_R00740000_M6000_0001",
+      "scene": "01080504",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005ACBA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080504_R00740000_M6000_0002",
+      "scene": "01080504",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005ACC73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080505_R00740000_M6000_0001",
+      "scene": "01080505",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006DC329",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080505_R00740000_M6000_0002",
+      "scene": "01080505",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006DC3F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080701_R00740000_M6000_0001",
+      "scene": "01080701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C30B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080701_R00740000_M6000_0002",
+      "scene": "01080701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C3183",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080801_R00740000_M6000_0001",
+      "scene": "01080801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00446FB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080801_R00740000_M6000_0002",
+      "scene": "01080801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00447083",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080901_R00740000_M6000_0001",
+      "scene": "01080901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A74129",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01080901_R00740000_M6000_0002",
+      "scene": "01080901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A741F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01081002_R00740000_M6000_0001",
+      "scene": "01081002",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008CAAA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01081002_R00740000_M6000_0002",
+      "scene": "01081002",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x008CAB73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090401_R00740000_M6000_0001",
+      "scene": "01090401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001B4EB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090401_R00740000_M6000_0002",
+      "scene": "01090401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001B4F83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090701_R00740000_M6000_0001",
+      "scene": "01090701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00995329",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090701_R00740000_M6000_0002",
+      "scene": "01090701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009953F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090702_R00740000_M6000_0001",
+      "scene": "01090702",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082ED29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090702_R00740000_M6000_0002",
+      "scene": "01090702",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0082EDF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090901_R00740000_M6000_0001",
+      "scene": "01090901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00566EA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01090901_R00740000_M6000_0002",
+      "scene": "01090901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00566F73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01091001_R00740000_M6000_0001",
+      "scene": "01091001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00467B29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01091001_R00740000_M6000_0002",
+      "scene": "01091001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00467BF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100101_R00740000_M6000_0001",
+      "scene": "01100101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00941DA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100101_R00740000_M6000_0002",
+      "scene": "01100101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00941E73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100301_R00740000_M6000_0001",
+      "scene": "01100301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00585329",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100301_R00740000_M6000_0002",
+      "scene": "01100301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005853F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100401_R00740000_M6000_0001",
+      "scene": "01100401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0054C229",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100401_R00740000_M6000_0002",
+      "scene": "01100401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0054C2F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100501_R00740000_M6000_0001",
+      "scene": "01100501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0073B329",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01100501_R00740000_M6000_0002",
+      "scene": "01100501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0073B3F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110401_R00740000_M6000_0001",
+      "scene": "01110401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00592829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110401_R00740000_M6000_0002",
+      "scene": "01110401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005928F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110701_R00740000_M6000_0001",
+      "scene": "01110701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00682A29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110701_R00740000_M6000_0002",
+      "scene": "01110701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00682AF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110801_R00740000_M6000_0001",
+      "scene": "01110801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0099B029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110801_R00740000_M6000_0002",
+      "scene": "01110801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0099B0F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110802_R00740000_M6000_0001",
+      "scene": "01110802",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00293E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01110802_R00740000_M6000_0002",
+      "scene": "01110802",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00293EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111101_R00740000_M6000_0001",
+      "scene": "01111101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003501A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111101_R00740000_M6000_0002",
+      "scene": "01111101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00350273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111201_R00740000_M6000_0001",
+      "scene": "01111201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009EDB29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111201_R00740000_M6000_0002",
+      "scene": "01111201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009EDBF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111301_R00740000_M6000_0001",
+      "scene": "01111301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00667029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111301_R00740000_M6000_0002",
+      "scene": "01111301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006670F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111401_R00740000_M6000_0001",
+      "scene": "01111401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006054A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01111401_R00740000_M6000_0002",
+      "scene": "01111401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00605573",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120101_R00740000_M6000_0001",
+      "scene": "01120101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007CD829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120101_R00740000_M6000_0002",
+      "scene": "01120101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007CD8F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120102_R00740000_M6000_0001",
+      "scene": "01120102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B682A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120102_R00740000_M6000_0002",
+      "scene": "01120102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B68373",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120301_R00740000_M6000_0001",
+      "scene": "01120301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007D31A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120301_R00740000_M6000_0002",
+      "scene": "01120301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007D3273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120501_R00740000_M6000_0001",
+      "scene": "01120501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00673BA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01120501_R00740000_M6000_0002",
+      "scene": "01120501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00673C73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140201_R00740000_M6000_0001",
+      "scene": "01140201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00AD88A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140201_R00740000_M6000_0002",
+      "scene": "01140201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00AD8973",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140301_R00740000_M6000_0001",
+      "scene": "01140301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0078E029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140301_R00740000_M6000_0002",
+      "scene": "01140301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0078E0F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140401_R00740000_M6000_0001",
+      "scene": "01140401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0035F9A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140401_R00740000_M6000_0002",
+      "scene": "01140401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0035FA73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140801_R00740000_M6000_0001",
+      "scene": "01140801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A5A7A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140801_R00740000_M6000_0002",
+      "scene": "01140801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A5A873",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140901_R00740000_M6000_0001",
+      "scene": "01140901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00D72529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01140901_R00740000_M6000_0002",
+      "scene": "01140901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00D725F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01141001_R00740000_M6000_0001",
+      "scene": "01141001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007BE129",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01141001_R00740000_M6000_0002",
+      "scene": "01141001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007BE1F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01150201_R00740000_M6000_0001",
+      "scene": "01150201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009E20A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01150201_R00740000_M6000_0002",
+      "scene": "01150201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009E2173",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01150301_R00740000_M6000_0001",
+      "scene": "01150301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009407A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01150301_R00740000_M6000_0002",
+      "scene": "01150301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00940873",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01150401_R00740000_M6000_0001",
+      "scene": "01150401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00110129",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01150401_R00740000_M6000_0002",
+      "scene": "01150401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x001101F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160101_R00740000_M6000_0001",
+      "scene": "01160101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00297BA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160101_R00740000_M6000_0002",
+      "scene": "01160101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00297C73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160201_R00740000_M6000_0001",
+      "scene": "01160201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00756729",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160201_R00740000_M6000_0002",
+      "scene": "01160201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007567F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160301_R00740000_M6000_0001",
+      "scene": "01160301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0066B269",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160301_R00740000_M6000_0002",
+      "scene": "01160301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0066B333",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160501_R00740000_M6000_0001",
+      "scene": "01160501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00ACBEA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160501_R00740000_M6000_0002",
+      "scene": "01160501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00ACBF73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160601_R00740000_M6000_0001",
+      "scene": "01160601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0094AD29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160601_R00740000_M6000_0002",
+      "scene": "01160601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0094ADF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160901_R00740000_M6000_0001",
+      "scene": "01160901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0049F909",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01160901_R00740000_M6000_0002",
+      "scene": "01160901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0049F9D3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01170301_R00740000_M6000_0001",
+      "scene": "01170301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0069CAA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01170301_R00740000_M6000_0002",
+      "scene": "01170301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0069CB73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01170401_R00740000_M6000_0001",
+      "scene": "01170401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007F3429",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01170401_R00740000_M6000_0002",
+      "scene": "01170401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007F34F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01170601_R00740000_M6000_0001",
+      "scene": "01170601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009396A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01170601_R00740000_M6000_0002",
+      "scene": "01170601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00939773",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180101_R00740000_M6000_0001",
+      "scene": "01180101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006BDD29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180101_R00740000_M6000_0002",
+      "scene": "01180101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006BDDF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180301_R00740000_M6000_0001",
+      "scene": "01180301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00C84E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180301_R00740000_M6000_0002",
+      "scene": "01180301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00C84EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180501_R00740000_M6000_0001",
+      "scene": "01180501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00614929",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180501_R00740000_M6000_0002",
+      "scene": "01180501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006149F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180604_R00740000_M6000_0001",
+      "scene": "01180604",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CD529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01180604_R00740000_M6000_0002",
+      "scene": "01180604",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CD5F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01190301_R00740000_M6000_0001",
+      "scene": "01190301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A89F29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01190301_R00740000_M6000_0002",
+      "scene": "01190301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A89FF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01200101_R00740000_M6000_0001",
+      "scene": "01200101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00D97229",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01200101_R00740000_M6000_0002",
+      "scene": "01200101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00D972F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01200103_R00740000_M6000_0001",
+      "scene": "01200103",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006000A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01200103_R00740000_M6000_0002",
+      "scene": "01200103",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00600173",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01200105_R00740000_M6000_0001",
+      "scene": "01200105",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B8B029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01200105_R00740000_M6000_0002",
+      "scene": "01200105",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B8B0F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210101_R00740000_M6000_0001",
+      "scene": "01210101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004CCBC9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210101_R00740000_M6000_0002",
+      "scene": "01210101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004CCC93",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210301_R00740000_M6000_0001",
+      "scene": "01210301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00334EB9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210301_R00740000_M6000_0002",
+      "scene": "01210301",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00334F83",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210401_R00740000_M6000_0001",
+      "scene": "01210401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00482639",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210401_R00740000_M6000_0002",
+      "scene": "01210401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00482703",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210501_R00740000_M6000_0001",
+      "scene": "01210501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002576B9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210501_R00740000_M6000_0002",
+      "scene": "01210501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00257783",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210502_R00740000_M6000_0001",
+      "scene": "01210502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0041D929",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210502_R00740000_M6000_0002",
+      "scene": "01210502",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0041D9F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210701_R00740000_M6000_0001",
+      "scene": "01210701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00649CA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210701_R00740000_M6000_0002",
+      "scene": "01210701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00649D73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210801_R00740000_M6000_0001",
+      "scene": "01210801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004BB6C9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210801_R00740000_M6000_0002",
+      "scene": "01210801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004BB793",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210802_R00740000_M6000_0001",
+      "scene": "01210802",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0090AF29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01210802_R00740000_M6000_0002",
+      "scene": "01210802",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0090AFF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01211001_R00740000_M6000_0001",
+      "scene": "01211001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005F6829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01211001_R00740000_M6000_0002",
+      "scene": "01211001",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005F68F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01230101_R00740000_M6000_0001",
+      "scene": "01230101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0057B1A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01230101_R00740000_M6000_0002",
+      "scene": "01230101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0057B273",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01230701_R00740000_M6000_0001",
+      "scene": "01230701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006715A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01230701_R00740000_M6000_0002",
+      "scene": "01230701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00671673",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01230901_R00740000_M6000_0001",
+      "scene": "01230901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00ACD2A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01230901_R00740000_M6000_0002",
+      "scene": "01230901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00ACD373",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240401_R00740000_M6000_0001",
+      "scene": "01240401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00720299",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240401_R00740000_M6000_0002",
+      "scene": "01240401",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00720363",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240402_R00740000_M6000_0001",
+      "scene": "01240402",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00655C29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240402_R00740000_M6000_0002",
+      "scene": "01240402",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00655CF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240501_R00740000_M6000_0001",
+      "scene": "01240501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006DF099",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240501_R00740000_M6000_0002",
+      "scene": "01240501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x006DF163",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240601_R00740000_M6000_0001",
+      "scene": "01240601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A478A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240601_R00740000_M6000_0002",
+      "scene": "01240601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00A47973",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240701_R00740000_M6000_0001",
+      "scene": "01240701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B3E229",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240701_R00740000_M6000_0002",
+      "scene": "01240701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00B3E2F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240801_R00740000_M6000_0001",
+      "scene": "01240801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005C8AA9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01240801_R00740000_M6000_0002",
+      "scene": "01240801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x005C8B73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250101_R00740000_M6000_0001",
+      "scene": "01250101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002B3D29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250101_R00740000_M6000_0002",
+      "scene": "01250101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002B3DF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250501_R00740000_M6000_0001",
+      "scene": "01250501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00420A29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250501_R00740000_M6000_0002",
+      "scene": "01250501",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00420AF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250801_R00740000_M6000_0001",
+      "scene": "01250801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007BD829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250801_R00740000_M6000_0002",
+      "scene": "01250801",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x007BD8F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250901_R00740000_M6000_0001",
+      "scene": "01250901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00632E29",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01250901_R00740000_M6000_0002",
+      "scene": "01250901",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00632EF3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01260101_R00740000_M6000_0001",
+      "scene": "01260101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C5529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01260101_R00740000_M6000_0002",
+      "scene": "01260101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x002C55F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01260102_R00740000_M6000_0001",
+      "scene": "01260102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009A8029",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01260102_R00740000_M6000_0002",
+      "scene": "01260102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x009A80F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01260701_R00740000_M6000_0001",
+      "scene": "01260701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A89A9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_01260701_R00740000_M6000_0002",
+      "scene": "01260701",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003A8A73",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214101_R00740000_M6000_0001",
+      "scene": "10214101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00465639",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214101_R00740000_M6000_0002",
+      "scene": "10214101",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00465703",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214102_R00740000_M6000_0001",
+      "scene": "10214102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D2C39",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214102_R00740000_M6000_0002",
+      "scene": "10214102",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D2D03",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214103_R00740000_M6000_0001",
+      "scene": "10214103",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D2C39",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214103_R00740000_M6000_0002",
+      "scene": "10214103",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D2D03",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214104_R00740000_M6000_0001",
+      "scene": "10214104",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D2C39",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10214104_R00740000_M6000_0002",
+      "scene": "10214104",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x004D2D03",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10360601_R00740000_M6000_0001",
+      "scene": "10360601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CD529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10360601_R00740000_M6000_0002",
+      "scene": "10360601",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CD5F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10360602_R00740000_M6000_0001",
+      "scene": "10360602",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CD529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10360602_R00740000_M6000_0002",
+      "scene": "10360602",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x003CD5F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10450201_R00740000_M6000_0001",
+      "scene": "10450201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0049F909",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10450201_R00740000_M6000_0002",
+      "scene": "10450201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0049F9D3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10630201_R00740000_M6000_0001",
+      "scene": "10630201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0037C5F9",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_10630201_R00740000_M6000_0002",
+      "scene": "10630201",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x0037C6C3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_11000000_R00740000_M6000_0001",
+      "scene": "11000000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00001529",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_11000000_R00740000_M6000_0002",
+      "scene": "11000000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000015F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_11010000_R00740000_M6000_0001",
+      "scene": "11010000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00001829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_11010000_R00740000_M6000_0002",
+      "scene": "11010000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000018F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_11020000_R00740000_M6000_0001",
+      "scene": "11020000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x00001829",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    },
+    {
+      "id": "FIELD_RESOURCE_11020000_R00740000_M6000_0002",
+      "scene": "11020000",
+      "record_id": "0x00740000",
+      "member_type": "0x6000",
+      "original_offset": "0x000018F3",
+      "jp_text": "<G0001>\n<CTRL:12><CTRL:00><G0041>P・MPが全回復した\n<G0001>"
+    }
+  ]
+}

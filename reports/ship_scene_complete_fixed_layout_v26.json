@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "status": "STATIC_PASS_RUNTIME_PENDING",
+  "scene": "Alonso ship bedroom and meal dialogue complete fixed-layout Korean build",
+  "baseline": {
+    "version": "v24",
+    "status": "RUNTIME_PASS",
+    "report": "reports/ship_meal_selector_original_record_v24.json"
+  },
+  "record_id": "0x00740000",
+  "record_size": 22912,
+  "internal_member_count": 35,
+  "containers": [
+    "DATA/00151000.MDZ",
+    "DATA/01051101.MDZ",
+    "DATA/01070401.MDZ",
+    "DATA/01080701.MDZ",
+    "DATA/01080801.MDZ"
+  ],
+  "strategy": "Translate all 308 strings in each duplicate record while retaining every original message storage size and the complete v24 record/member geometry.",
+  "translation_config": "data/scenario/ship_meal_fixed_layout_v26.json",
+  "translated_message_count_per_container": 308,
+  "translated_message_count_total": 1540,
+  "preserved_message_count_per_container": 0,
+  "preserved_message_count_total": 0,
+  "japanese_kana_remaining_in_templates": 0,
+  "fixed_layout_verification": "build/central-runtime-cumulative-v26/ship-meal-fixed-layout-verification.json",
+  "fixed_layout_verification_status": "PASS_5_OF_5_LAYOUT_IDENTICAL_CHANGES_CONFINED_TO_1540_MESSAGE_SLOTS",
+  "scenario_reference_verification": "build/central-runtime-cumulative-v26/scenario-reference-verification.json",
+  "scenario_reference_verification_status": "PASS_18300_OF_18300",
+  "final_iso_verification": "build/central-runtime-cumulative-v26/final-iso-verification.json",
+  "final_iso_verification_status": "PASS_1265_OF_1265",
+  "iso": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v26_ship_scene_complete_fixed_layout_ko_test_20260827.iso",
+    "size": 4612028416,
+    "sha256": "35732e9bd652468501c5445924e2b83d7fb215dd2265af22d948804635523c24"
+  },
+  "tests": {
+    "total": 52,
+    "passed": 49,
+    "skipped": 3
+  },
+  "runtime_test": "Load savestate 8 or enter the ship bedroom/meal sequence. Verify that bedroom dialogue and every table selector branch are Korean, all NPC dialogue opens, and the scene completes. v24 remains the stable fallback until this passes."
+}

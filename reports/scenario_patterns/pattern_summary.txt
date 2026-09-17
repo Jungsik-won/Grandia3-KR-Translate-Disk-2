@@ -1,0 +1,102 @@
+SCENARIO PATTERN SUMMARY
+
+MDTs analyzed: 4 / 4
+scenario resources: 43
+messages: 176
+UNKNOWN_CONTROL blocks: 356
+UNKNOWN_CONTROL bytes: 31874
+
+CLASS SUMMARY
+0x2000: resources=13 messages=86 unknown=174 blocks/23909 bytes prefix4=03 00 01 20;03 00 01 21;03 00 01 22;03 00 01 23;03 00 01 24;03 00 01 25;03 00 01 26;03 00 01 27
+0x3000: resources=12 messages=52 unknown=104 blocks/2873 bytes prefix4=05 00 05 00;1f 05 04 00
+0x4000: resources=2 messages=4 unknown=10 blocks/1192 bytes prefix4=05 00 02 0c;0d 00 32 00
+0x5000: resources=8 messages=18 unknown=36 blocks/1244 bytes prefix4=05 00 00 00;06 01 a1 01;0d 05 30 00;13 ff 1e 0d;13 ff 3c 0d
+0x6000: resources=8 messages=16 unknown=32 blocks/2656 bytes prefix4=05 00 06 00
+
+RECURRING EXACT PATTERNS (top 30)
+message_window/message_header count=51 size=5..5 classes=0x2000;0x3000;0x4000;0x5000;0x6000 resources=0x00006000;0x00396001;0x00602000;0x00D23001;0x00F13003;0x015D2006;0x01813004;0x01B13005;0x01CB5000;0x02112002;0x02465001;0x047A2003;0x06642004;0x08562001;0x09592005;0x0B3A2007;0x0C843001;0x0CDE3000;0x0D2E5001;0x0D5F5002;0x0D824000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A957F
+unknown_control/unknown_control count=41 size=4..4 classes=0x2000 resources=0x00602000;0x015D2006;0x02112002;0x047A2003;0x06642004;0x08562001;0x09592005;0x0B3A2007 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A98C8
+message_window/message_header count=21 size=5..5 classes=0x2000;0x3000;0x5000 resources=0x00602000;0x00F13003;0x011E3000;0x01813004;0x02065002;0x02112002;0x047A2003;0x06642004;0x09592005;0x0C843001;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A98D2
+message_window/post8 count=16 size=8..8 classes=0x6000 resources=0x00006000;0x00396001 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A957F
+message_window/message_header count=15 size=5..5 classes=0x2000;0x3000;0x5000 resources=0x00602000;0x00BA3006;0x00E53002;0x02112002;0x047A2003;0x06642004;0x08562001;0x09592005;0x0C843001;0x0CDE3000;0x0D2E5001 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9A3F
+message_window/post8 count=15 size=8..8 classes=0x2000 resources=0x00602000;0x015D2006;0x02112002;0x047A2003;0x06642004;0x09592005;0x0B3A2007 sample=/private/tmp/gr3-ship-analysis.CYee09/DATA_00120000.MDT:0x00530BF6
+message_window/message_header count=13 size=5..5 classes=0x2000;0x3000 resources=0x00602000;0x00F13003;0x011E3000;0x01B13005;0x02112002;0x047A2003;0x06642004;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9D70
+message_window/post8 count=13 size=8..8 classes=0x2000 resources=0x00602000;0x02112002;0x047A2003;0x06642004;0x09592005 sample=/private/tmp/gr3-ship-analysis.CYee09/DATA_00120000.MDT:0x00530FB9
+unknown_control/unknown_control count=13 size=4..4 classes=0x2000;0x4000;0x6000 resources=0x00006000;0x00396001;0x00602000;0x0D824000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A959A
+unknown_control/unknown_control count=13 size=4..4 classes=0x2000 resources=0x015D2006;0x02112002;0x047A2003;0x06642004;0x08562001;0x09592005;0x0B3A2007 sample=/private/tmp/gr3-ship-analysis.CYee09/DATA_00120000.MDT:0x00531388
+message_window/message_header count=12 size=5..5 classes=0x2000;0x3000;0x5000 resources=0x00602000;0x00DC3004;0x011E3000;0x01813004;0x02112002;0x02465001;0x06642004;0x09592005;0x0B3A2007;0x0C843001 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9C68
+message_window/message_header count=12 size=5..5 classes=0x2000;0x3000;0x4000;0x5000 resources=0x00F13003;0x011E3000;0x015D2006;0x01B13005;0x01CB5000;0x01F95001;0x09592005;0x0B3A2007;0x0D824000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9E44
+unknown_control/unknown_control count=12 size=4..4 classes=0x2000;0x3000 resources=0x00602000;0x00F13003;0x015C3003;0x01813004;0x0C843001;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9A5D
+resource_prefix/resource_prefix_4 count=11 size=4..4 classes=0x3000 resources=0x00BA3006;0x00C43000;0x00D23001;0x00DC3004;0x00E53002;0x00F13003;0x011E3000;0x015C3003;0x01813004;0x0C843001;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9B38
+unknown_control/unknown_control count=11 size=4..4 classes=0x2000 resources=0x00602000;0x02112002;0x047A2003;0x06642004;0x08562001;0x0B3A2007 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A994C
+message_window/pre8 count=10 size=8..8 classes=0x2000 resources=0x00602000;0x047A2003;0x06642004;0x09592005 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9898
+message_window/message_header count=9 size=5..5 classes=0x2000;0x5000 resources=0x00602000;0x015D2006;0x01CB5000;0x02112002;0x02135003;0x06642004 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A993C
+message_window/message_header count=9 size=5..5 classes=0x2000;0x3000;0x5000 resources=0x00602000;0x00B62002;0x00F13003;0x02112002;0x02465001;0x047A2003 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9EA1
+message_window/pre8 count=9 size=8..8 classes=0x3000 resources=0x00C43000;0x00F13003;0x01813004;0x01B13005;0x0C843001;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9BA8
+message_window/pre8 count=8 size=8..8 classes=0x2000 resources=0x00602000;0x02112002;0x06642004 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9A19
+message_window/pre8 count=8 size=8..8 classes=0x2000 resources=0x00602000;0x047A2003;0x06642004;0x08562001;0x09592005 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A98D2
+resource_prefix/resource_prefix_4 count=8 size=4..4 classes=0x6000 resources=0x00006000;0x00396001 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9568
+message_window/message_header count=7 size=5..5 classes=0x2000;0x3000 resources=0x00602000;0x00F13003;0x047A2003;0x08562001;0x0C843001 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9898
+message_window/post8 count=7 size=8..8 classes=0x3000 resources=0x00F13003;0x01B13005;0x0C843001 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9F4D
+message_window/post8 count=7 size=8..8 classes=0x2000;0x4000;0x5000 resources=0x00602000;0x0D5F5002;0x0D824000 sample=/private/tmp/gr3-ship-analysis.CYee09/DATA_00120000.MDT:0x00530C6F
+message_window/pre8 count=7 size=8..8 classes=0x2000;0x6000 resources=0x00396001;0x00602000;0x047A2003;0x0B3A2007 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A97C7
+message_window/pre8 count=7 size=8..8 classes=0x3000 resources=0x00F13003;0x01B13005;0x0C843001;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9D10
+unknown_control/unknown_control count=7 size=4..4 classes=0x2000;0x3000 resources=0x00602000;0x00F13003;0x01813004;0x0C843001;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A99BD
+unknown_control/unknown_control count=7 size=4..4 classes=0x3000 resources=0x00F13003;0x01B13005;0x0C843001 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002A9F8E
+message_window/message_header count=6 size=5..5 classes=0x2000;0x3000 resources=0x00602000;0x00F13003;0x047A2003;0x0B3A2007;0x0CDE3000 sample=/Users/j.swon/Desktop/Grandia3_KR/work/scenario/resources/00030100/00030100.MDT:0x002AA2B8
+
+RECURRING NORMALIZED PATTERNS (top 30)
+normalized_wildcard/message_window/pre8 count=176 confidence=LOW kind=variable_byte_only
+normalized_wildcard/message_window/message_header count=143 confidence=SUPPORTED kind=message_header_argument_candidate
+normalized_byte_class_rle/message_window/message_header count=143 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre8 count=82 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre8 count=51 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/post8 count=43 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/unknown_control/unknown_control count=41 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/unknown_control/unknown_control count=37 confidence=MEDIUM kind=byte_class_only
+normalized_wildcard/message_window/message_header count=33 confidence=LOW kind=variable_byte_only
+normalized_byte_class_rle/message_window/post8 count=28 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/message_header count=26 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre16 count=21 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/resource_prefix/resource_prefix_4 count=19 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/post8 count=16 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/post8 count=15 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/unknown_control/unknown_control count=15 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre16 count=14 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/resource_prefix/resource_prefix_4 count=13 confidence=MEDIUM kind=byte_class_only
+normalized_wildcard/resource_prefix/resource_prefix_4 count=13 confidence=MEDIUM kind=resource_prefix_final_byte_candidate
+normalized_byte_class_rle/unknown_control/unknown_control count=13 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/post16 count=12 confidence=MEDIUM kind=byte_class_only
+normalized_wildcard/resource_prefix/resource_prefix_4 count=12 confidence=LOW kind=variable_byte_only
+normalized_byte_class_rle/message_window/post16 count=10 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/post16 count=10 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre8 count=10 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre8 count=9 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/post16 count=8 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre16 count=8 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre16 count=8 confidence=MEDIUM kind=byte_class_only
+normalized_byte_class_rle/message_window/pre8 count=8 confidence=MEDIUM kind=byte_class_only
+
+TOP RESOURCE OBSERVATIONS
+0x6000 0x00006000: 4 occurrence(s)
+0x6000 0x00396001: 4 occurrence(s)
+0x2000 0x00602000: 3 occurrence(s)
+0x3000 0x00BA3006: 1 occurrence(s)
+0x3000 0x00C43000: 1 occurrence(s)
+0x3000 0x00D23001: 1 occurrence(s)
+0x3000 0x00DC3004: 1 occurrence(s)
+0x3000 0x00E53002: 1 occurrence(s)
+0x3000 0x00F13003: 1 occurrence(s)
+0x3000 0x01B13005: 1 occurrence(s)
+
+TOP 10 STRUCTURAL NEIGHBORS OF 00150100:0x00602000
+00120000:0x00602000 score=0.646821 ngram=0.762887 prefix_equal=True message_position=0.0
+00030100:0x00602000 score=0.623596 ngram=0.808989 prefix_equal=True message_position=0.0
+00150100:0x01813004 score=0.542135 ngram=0.730337 prefix_equal=False message_position=0.0
+00120000:0x0B3A2007 score=0.538559 ngram=0.824176 prefix_equal=False message_position=0.0
+00120000:0x0D824000 score=0.535714 ngram=0.714286 prefix_equal=False message_position=0.0
+00120000:0x015D2006 score=0.530032 ngram=0.829545 prefix_equal=False message_position=0.0
+00120000:0x08562001 score=0.526337 ngram=0.824176 prefix_equal=False message_position=0.111111
+00150100:0x011E3000 score=0.522525 ngram=0.784091 prefix_equal=False message_position=0.0
+00150100:0x01CB5000 score=0.509574 ngram=0.648936 prefix_equal=False message_position=0.0
+00120000:0x09592005 score=0.465071 ngram=0.808511 prefix_equal=False message_position=0.0

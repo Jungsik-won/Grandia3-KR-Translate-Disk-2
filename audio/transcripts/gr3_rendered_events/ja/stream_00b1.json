@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b1",
+  "stream_key": "0xB1",
+  "sample_ids": [
+    "0x4E8",
+    "0x4E9"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b1.flac",
+  "audio_sha256": "4f294cd5db5629c032099a8a017c482ca2e11f49e5962f16a5132ac52752a550",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:1/6"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メン� エメリス、最愛のとおよもう、怖いしよ… エメリウス、キサマ! 弧役現れたか、オロカ、最後の生徒を… アルフィナヨ、コミュートである前に人である! アルフィナヨ、コミュートである!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アークリフ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メンディ、アークリフ、メン�",
+      "avg_logprob": -0.12705,
+      "no_speech_prob": 0.05121,
+      "compression_ratio": 12.92308,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.054",
+        "HIGH_COMPRESSION_RATIO:12.923"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "エメリス、最愛のとおよもう、怖いしよ…",
+      "avg_logprob": -0.93369,
+      "no_speech_prob": 0.13033,
+      "compression_ratio": 0.90476,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 66.0,
+      "speaker": "",
+      "text": "エメリウス、キサマ!",
+      "avg_logprob": -0.72497,
+      "no_speech_prob": 0.23242,
+      "compression_ratio": 1.17742,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 66.0,
+      "end": 75.0,
+      "speaker": "",
+      "text": "弧役現れたか、オロカ、最後の生徒を…",
+      "avg_logprob": -0.72497,
+      "no_speech_prob": 0.23242,
+      "compression_ratio": 1.17742,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 75.0,
+      "end": 84.0,
+      "speaker": "",
+      "text": "アルフィナヨ、コミュートである前に人である!",
+      "avg_logprob": -0.72497,
+      "no_speech_prob": 0.23242,
+      "compression_ratio": 1.17742,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 90.0,
+      "end": 99.0,
+      "speaker": "",
+      "text": "アルフィナヨ、コミュートである!",
+      "avg_logprob": -0.54986,
+      "no_speech_prob": 0.75251,
+      "compression_ratio": 0.83636,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

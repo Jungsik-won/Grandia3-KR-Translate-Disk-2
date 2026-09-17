@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0053",
+  "stream_key": "0x53",
+  "sample_ids": [
+    "0x3EC",
+    "0x3ED"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0053.flac",
+  "audio_sha256": "128e0a32c2c16ae02b60d89a84629d8111782be5894509fcb9b1e1b943543c21",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:2/3"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "スープは、アイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイ おぉー!やみランダー!ちょいとうちでお茶でも飲んでいかないかい?ありがとう!でも、今日はハブしたごしライドあるんで、あたこんどね。いつでもよっといで!おびきりのうわさばなし、聞かせてあげるからさ! おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!お",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "スープは、アイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイスクリフトのアイ",
+      "avg_logprob": -0.20976,
+      "no_speech_prob": 0.41485,
+      "compression_ratio": 12.16364,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.050",
+        "HIGH_COMPRESSION_RATIO:12.164"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "おぉー!やみランダー!ちょいとうちでお茶でも飲んでいかないかい?ありがとう!でも、今日はハブしたごしライドあるんで、あたこんどね。いつでもよっといで!おびきりのうわさばなし、聞かせてあげるからさ!",
+      "avg_logprob": -0.53451,
+      "no_speech_prob": 0.13362,
+      "compression_ratio": 1.54098,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 61.37,
+      "speaker": "",
+      "text": "おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!おぉー!お",
+      "avg_logprob": -0.06847,
+      "no_speech_prob": 0.54011,
+      "compression_ratio": 22.12,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.018",
+        "HIGH_COMPRESSION_RATIO:22.120"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

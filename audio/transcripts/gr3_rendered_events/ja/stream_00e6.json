@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00e6",
+  "stream_key": "0xE6",
+  "sample_ids": [
+    "0x5DE",
+    "0x5DF"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00e6.flac",
+  "audio_sha256": "4ea4ed829292ae57c8e3328422f03e3bd3cd9a3dfcd629b3120afd07d84f0f50",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "んー!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 19.41,
+      "speaker": "",
+      "text": "んー!",
+      "avg_logprob": -0.88308,
+      "no_speech_prob": 0.13535,
+      "compression_ratio": 0.46667,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

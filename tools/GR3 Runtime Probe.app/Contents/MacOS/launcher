@@ -1,0 +1,12 @@
+#!/bin/bash
+set -eu
+
+CONTENTS_DIR="$(cd "$(dirname "$0")/.." && pwd)"
+PROJECT_DIR="$(cd "$CONTENTS_DIR/../../.." && pwd)"
+PYTHON_BIN="/Library/Frameworks/Python.framework/Versions/3.8/bin/python3"
+
+if [ ! -x "$PYTHON_BIN" ]; then
+  PYTHON_BIN="$(command -v python3)"
+fi
+
+exec "$PYTHON_BIN" "$PROJECT_DIR/tools/gr3_runtime_probe_gui.py"

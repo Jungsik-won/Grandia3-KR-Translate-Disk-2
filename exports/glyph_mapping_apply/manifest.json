@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "source": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/exports/scenario_reference_context_v1_resolved.csv",
+    "sha256": "63c9036d60d4cd12fb077bf87b6255eb41a8231ddf524185059537a23add21fd",
+    "rows": 5903
+  },
+  "focused": {
+    "path": "/Users/j.swon/Downloads/grandia3_unresolved_glyph_mapping_focused_review.csv",
+    "sha256": "2dbaf06fafdbdf157aa71065271b7309c5ffc5e5090dbdb2f4bc939903468a7a",
+    "rows": 335
+  },
+  "remaining": {
+    "path": "/Users/j.swon/Downloads/grandia3_unresolved_glyph_review_remaining.csv",
+    "sha256": "97a6f3888b4563d3df7bac86c48b03d873345476685b0ec58d90cd02eb975ac9",
+    "rows": 6
+  },
+  "mapping_priority": [
+    "runtime_verified",
+    "existing base/context mapping",
+    "image_reviewed_high",
+    "unresolved"
+  ],
+  "counts": {
+    "focused_high_input": 329,
+    "focused_medium_low_input": 6,
+    "applied_high_excluding_g0865": 328,
+    "pending_medium_low_and_g0865": 7,
+    "collision_rows": 0,
+    "before_unique_unresolved": 342,
+    "after_unique_unresolved": 14,
+    "before_unresolved_occurrences": 1738,
+    "after_unresolved_occurrences": 362,
+    "changed_sample_count": 30
+  },
+  "outputs": {
+    "derived_scenario": "/Users/j.swon/Desktop/Grandia3_KR/exports/scenario_reference_context_v1_image_high_resolved.csv",
+    "override": "/Users/j.swon/Desktop/Grandia3_KR/data/scenario/image_verified_glyph_overrides_20260822.csv",
+    "pending": "/Users/j.swon/Desktop/Grandia3_KR/data/scenario/glyph_review_pending_20260822.csv",
+    "report_dir": "/Users/j.swon/Desktop/Grandia3_KR/exports/glyph_mapping_apply"
+  },
+  "status": "SUPPORTED_BITMAP_ONLY"
+}

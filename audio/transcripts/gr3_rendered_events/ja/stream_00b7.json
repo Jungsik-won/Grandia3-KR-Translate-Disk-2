@@ -1,0 +1,314 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b7",
+  "stream_key": "0xB7",
+  "sample_ids": [
+    "0x4F8",
+    "0x4F9"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b7.flac",
+  "audio_sha256": "fc758e8cc886416360e017d5de55407ac301e421bd2a505c33a8d31b830435b1",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:8/23"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "何?何の音だ?ユウキン! スープ! 天気に! 電気ル。 オマエは神には慣れなかったな。 何がおかしい。 電気ル。 キサマ! サラバダ。 止めよう。 電気ル。 キサマ! サラバダ。 止めよう。 電気ル。 電気ル。 オマエは神の力を 手を染めてしまった。 電気ル。 キサマ! やっぱりあなたは最後まで私が愛したあなただった! あなたは私が愛したあなただった! あなたは私が愛したあなただった! あなたは私が愛したあなただった! ありがとう。 電気ル。 電気ル。 電気ル。 私は私は ギュンケルとようやく一つになれました。 私は私が愛したあなただった! 私は私が愛したあなただった! 私は私が愛したあなただった! 私は私が愛したあなただった!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "何?何の音だ?ユウキン! スープ! 天気に!",
+      "avg_logprob": -0.98137,
+      "no_speech_prob": 0.01286,
+      "compression_ratio": 0.8254,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 44.0,
+      "speaker": "",
+      "text": "電気ル。 オマエは神には慣れなかったな。 何がおかしい。",
+      "avg_logprob": -0.84745,
+      "no_speech_prob": 0.01632,
+      "compression_ratio": 1.0,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 44.0,
+      "end": 51.0,
+      "speaker": "",
+      "text": "電気ル。 キサマ!",
+      "avg_logprob": -0.97305,
+      "no_speech_prob": 0.01365,
+      "compression_ratio": 0.93103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 51.0,
+      "end": 56.0,
+      "speaker": "",
+      "text": "サラバダ。 止めよう。",
+      "avg_logprob": -0.97305,
+      "no_speech_prob": 0.01365,
+      "compression_ratio": 0.93103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 56.0,
+      "end": 61.0,
+      "speaker": "",
+      "text": "電気ル。 キサマ!",
+      "avg_logprob": -0.27172,
+      "no_speech_prob": 0.00172,
+      "compression_ratio": 1.08197,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 61.0,
+      "end": 67.0,
+      "speaker": "",
+      "text": "サラバダ。 止めよう。",
+      "avg_logprob": -0.27172,
+      "no_speech_prob": 0.00172,
+      "compression_ratio": 1.08197,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 73.0,
+      "end": 76.0,
+      "speaker": "",
+      "text": "電気ル。",
+      "avg_logprob": -0.27172,
+      "no_speech_prob": 0.00172,
+      "compression_ratio": 1.08197,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 86.0,
+      "end": 108.0,
+      "speaker": "",
+      "text": "電気ル。 オマエは神の力を 手を染めてしまった。",
+      "avg_logprob": -0.81017,
+      "no_speech_prob": 0.00413,
+      "compression_ratio": 0.88312,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 108.0,
+      "end": 113.0,
+      "speaker": "",
+      "text": "電気ル。 キサマ!",
+      "avg_logprob": -0.45463,
+      "no_speech_prob": 0.00349,
+      "compression_ratio": 1.0814,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 113.0,
+      "end": 125.0,
+      "speaker": "",
+      "text": "やっぱりあなたは最後まで私が愛したあなただった!",
+      "avg_logprob": -0.45463,
+      "no_speech_prob": 0.00349,
+      "compression_ratio": 1.0814,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 125.0,
+      "end": 132.0,
+      "speaker": "",
+      "text": "あなたは私が愛したあなただった!",
+      "avg_logprob": -0.57582,
+      "no_speech_prob": 0.02693,
+      "compression_ratio": 2.55738,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.557"
+      ]
+    },
+    {
+      "segment_index": 11,
+      "start": 132.0,
+      "end": 137.0,
+      "speaker": "",
+      "text": "あなたは私が愛したあなただった!",
+      "avg_logprob": -0.57582,
+      "no_speech_prob": 0.02693,
+      "compression_ratio": 2.55738,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.557"
+      ]
+    },
+    {
+      "segment_index": 12,
+      "start": 137.0,
+      "end": 143.0,
+      "speaker": "",
+      "text": "あなたは私が愛したあなただった!",
+      "avg_logprob": -0.57582,
+      "no_speech_prob": 0.02693,
+      "compression_ratio": 2.55738,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.557"
+      ]
+    },
+    {
+      "segment_index": 13,
+      "start": 143.0,
+      "end": 147.0,
+      "speaker": "",
+      "text": "ありがとう。",
+      "avg_logprob": -0.57582,
+      "no_speech_prob": 0.02693,
+      "compression_ratio": 2.55738,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:2.557"
+      ]
+    },
+    {
+      "segment_index": 14,
+      "start": 147.0,
+      "end": 154.0,
+      "speaker": "",
+      "text": "電気ル。",
+      "avg_logprob": -0.5301,
+      "no_speech_prob": 0.06688,
+      "compression_ratio": 1.0,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 15,
+      "start": 154.0,
+      "end": 158.0,
+      "speaker": "",
+      "text": "電気ル。",
+      "avg_logprob": -0.5301,
+      "no_speech_prob": 0.06688,
+      "compression_ratio": 1.0,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 16,
+      "start": 177.0,
+      "end": 184.0,
+      "speaker": "",
+      "text": "電気ル。",
+      "avg_logprob": -0.70483,
+      "no_speech_prob": 0.44285,
+      "compression_ratio": 0.57143,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 17,
+      "start": 207.0,
+      "end": 214.0,
+      "speaker": "",
+      "text": "私は私は",
+      "avg_logprob": -0.41335,
+      "no_speech_prob": 0.02697,
+      "compression_ratio": 0.97183,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 18,
+      "start": 214.0,
+      "end": 222.0,
+      "speaker": "",
+      "text": "ギュンケルとようやく一つになれました。",
+      "avg_logprob": -0.41335,
+      "no_speech_prob": 0.02697,
+      "compression_ratio": 0.97183,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 19,
+      "start": 238.0,
+      "end": 244.0,
+      "speaker": "",
+      "text": "私は私が愛したあなただった!",
+      "avg_logprob": -0.37603,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 3.40426,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.404"
+      ]
+    },
+    {
+      "segment_index": 20,
+      "start": 244.0,
+      "end": 251.0,
+      "speaker": "",
+      "text": "私は私が愛したあなただった!",
+      "avg_logprob": -0.37603,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 3.40426,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.404"
+      ]
+    },
+    {
+      "segment_index": 21,
+      "start": 251.0,
+      "end": 259.0,
+      "speaker": "",
+      "text": "私は私が愛したあなただった!",
+      "avg_logprob": -0.37603,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 3.40426,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.404"
+      ]
+    },
+    {
+      "segment_index": 22,
+      "start": 259.0,
+      "end": 266.0,
+      "speaker": "",
+      "text": "私は私が愛したあなただった!",
+      "avg_logprob": -0.37603,
+      "no_speech_prob": 0.75842,
+      "compression_ratio": 3.40426,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.404"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_009f",
+  "stream_key": "0x9F",
+  "sample_ids": [
+    "0x4B6",
+    "0x4B7"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_009f.flac",
+  "audio_sha256": "9cbcd092bd2c8fd52b16681ed6af63357ed89772093d9f45cceb0e9d4212cdc1",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:1/5"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "エメリウスは、エメリウスの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの 次の朝、二人の姿はすでになく、養党様のゾウが破壊されていました。そして、扉の風員が破られていたのです。 このバスピアコソ、開くことを許されなかった金顔の飛びら、キレド。 行こう。何が見たくて何が見えないのか、俺にはそれさえ分からない。 けど、だからこそ知りたい。それを、俺は掴む。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "エメリウスは、エメリウスの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの時に、アークリフトの",
+      "avg_logprob": -0.18066,
+      "no_speech_prob": 0.01716,
+      "compression_ratio": 10.45312,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.070",
+        "HIGH_COMPRESSION_RATIO:10.453"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 48.12,
+      "speaker": "",
+      "text": "次の朝、二人の姿はすでになく、養党様のゾウが破壊されていました。そして、扉の風員が破られていたのです。",
+      "avg_logprob": -0.38805,
+      "no_speech_prob": 0.14423,
+      "compression_ratio": 1.20472,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 48.12,
+      "end": 63.24,
+      "speaker": "",
+      "text": "このバスピアコソ、開くことを許されなかった金顔の飛びら、キレド。",
+      "avg_logprob": -0.52084,
+      "no_speech_prob": 0.44903,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 63.24,
+      "end": 74.68,
+      "speaker": "",
+      "text": "行こう。何が見たくて何が見えないのか、俺にはそれさえ分からない。",
+      "avg_logprob": -0.52084,
+      "no_speech_prob": 0.44903,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 74.68,
+      "end": 83.96,
+      "speaker": "",
+      "text": "けど、だからこそ知りたい。それを、俺は掴む。",
+      "avg_logprob": -0.42884,
+      "no_speech_prob": 0.22731,
+      "compression_ratio": 0.95652,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

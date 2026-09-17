@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0082",
+  "stream_key": "0x82",
+  "sample_ids": [
+    "0x45C",
+    "0x45D"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0082.flac",
+  "audio_sha256": "60a2b6f40f6b350774fc941dc856c0f8cd139a914a9f6da7c3a84543359f2fb1",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "エーイ。 そっか!この機体は、主翼と美翼の角度を微妙に変えることで、 用力を得ると同時に戦界性能を高めてるんだ! こそ。飛行機の軽減は? 今までに19機。 こいつが20機目になるはずだったんだ。 はぁ。 落ちたな、全部 んん はい でも、カンドカサ! あれ? 趣味った?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "エーイ。",
+      "avg_logprob": -0.33392,
+      "no_speech_prob": 0.02105,
+      "compression_ratio": 1.31553,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 4.0,
+      "end": 9.0,
+      "speaker": "",
+      "text": "そっか!この機体は、主翼と美翼の角度を微妙に変えることで、",
+      "avg_logprob": -0.33392,
+      "no_speech_prob": 0.02105,
+      "compression_ratio": 1.31553,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 9.0,
+      "end": 12.0,
+      "speaker": "",
+      "text": "用力を得ると同時に戦界性能を高めてるんだ!",
+      "avg_logprob": -0.33392,
+      "no_speech_prob": 0.02105,
+      "compression_ratio": 1.31553,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 13.0,
+      "end": 15.0,
+      "speaker": "",
+      "text": "こそ。飛行機の軽減は?",
+      "avg_logprob": -0.33392,
+      "no_speech_prob": 0.02105,
+      "compression_ratio": 1.31553,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 16.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "今までに19機。",
+      "avg_logprob": -0.33392,
+      "no_speech_prob": 0.02105,
+      "compression_ratio": 1.31553,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 19.0,
+      "end": 21.0,
+      "speaker": "",
+      "text": "こいつが20機目になるはずだったんだ。",
+      "avg_logprob": -0.33392,
+      "no_speech_prob": 0.02105,
+      "compression_ratio": 1.31553,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 25.0,
+      "end": 27.0,
+      "speaker": "",
+      "text": "はぁ。",
+      "avg_logprob": -0.33392,
+      "no_speech_prob": 0.02105,
+      "compression_ratio": 1.31553,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 27.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "落ちたな、全部",
+      "avg_logprob": -0.67946,
+      "no_speech_prob": 0.12722,
+      "compression_ratio": 0.92857,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 29.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "んん",
+      "avg_logprob": -0.67946,
+      "no_speech_prob": 0.12722,
+      "compression_ratio": 0.92857,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 32.0,
+      "end": 33.0,
+      "speaker": "",
+      "text": "はい",
+      "avg_logprob": -0.67946,
+      "no_speech_prob": 0.12722,
+      "compression_ratio": 0.92857,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 35.0,
+      "end": 37.0,
+      "speaker": "",
+      "text": "でも、カンドカサ!",
+      "avg_logprob": -0.67946,
+      "no_speech_prob": 0.12722,
+      "compression_ratio": 0.92857,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 37.0,
+      "end": 38.0,
+      "speaker": "",
+      "text": "あれ?",
+      "avg_logprob": -0.67946,
+      "no_speech_prob": 0.12722,
+      "compression_ratio": 0.92857,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 39.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "趣味った?",
+      "avg_logprob": -0.67946,
+      "no_speech_prob": 0.12722,
+      "compression_ratio": 0.92857,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    }
+  ]
+}

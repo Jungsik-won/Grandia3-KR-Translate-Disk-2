@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0058",
+  "stream_key": "0x58",
+  "sample_ids": [
+    "0x3F6",
+    "0x3F7"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0058.flac",
+  "audio_sha256": "52f39420ba272f3308271a26b2913d254a0609bdbb310aaf6c5059297f220ff1",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:20.273"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。 ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。 ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。 ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。 ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。 ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。 ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。 初めてなんだから リリックは慎重にな 心配すんなって 俺たちの期待が信じられないのか 信じられないのは お前の腕 おい ロッツ よっしゃ お前、いつの間に? 俺もすぐ村を出る 雪 必ず大陸まで辿り着け 向こうでまた会おう ああ 忘れるな、雪 忘れるなぁ! 勇気! 俺たちの夢は 海だって超える! それをお前が証明するんだ! よし! やったぁ! 発進! さあ、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.15684,
+      "no_speech_prob": 0.15436,
+      "compression_ratio": 7.63636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 4.0,
+      "end": 8.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.15684,
+      "no_speech_prob": 0.15436,
+      "compression_ratio": 7.63636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 8.0,
+      "end": 12.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.15684,
+      "no_speech_prob": 0.15436,
+      "compression_ratio": 7.63636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 12.0,
+      "end": 16.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.15684,
+      "no_speech_prob": 0.15436,
+      "compression_ratio": 7.63636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 16.0,
+      "end": 20.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.15684,
+      "no_speech_prob": 0.15436,
+      "compression_ratio": 7.63636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 20.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.15684,
+      "no_speech_prob": 0.15436,
+      "compression_ratio": 7.63636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 24.0,
+      "end": 27.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.15684,
+      "no_speech_prob": 0.15436,
+      "compression_ratio": 7.63636,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 27.0,
+      "end": 29.46,
+      "speaker": "",
+      "text": "初めてなんだから リリックは慎重にな",
+      "avg_logprob": -0.51966,
+      "no_speech_prob": 0.23186,
+      "compression_ratio": 1.36296,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 30.96,
+      "end": 34.68,
+      "speaker": "",
+      "text": "心配すんなって 俺たちの期待が信じられないのか",
+      "avg_logprob": -0.51966,
+      "no_speech_prob": 0.23186,
+      "compression_ratio": 1.36296,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 35.2,
+      "end": 39.2,
+      "speaker": "",
+      "text": "信じられないのは お前の腕",
+      "avg_logprob": -0.51966,
+      "no_speech_prob": 0.23186,
+      "compression_ratio": 1.36296,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 39.88,
+      "end": 41.22,
+      "speaker": "",
+      "text": "おい ロッツ",
+      "avg_logprob": -0.51966,
+      "no_speech_prob": 0.23186,
+      "compression_ratio": 1.36296,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 44.32,
+      "end": 45.12,
+      "speaker": "",
+      "text": "よっしゃ",
+      "avg_logprob": -0.51966,
+      "no_speech_prob": 0.23186,
+      "compression_ratio": 1.36296,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 57.0,
+      "end": 59.0,
+      "speaker": "",
+      "text": "お前、いつの間に?",
+      "avg_logprob": -0.46304,
+      "no_speech_prob": 0.02201,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 60.0,
+      "end": 62.0,
+      "speaker": "",
+      "text": "俺もすぐ村を出る",
+      "avg_logprob": -0.46304,
+      "no_speech_prob": 0.02201,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 62.0,
+      "end": 63.0,
+      "speaker": "",
+      "text": "雪",
+      "avg_logprob": -0.46304,
+      "no_speech_prob": 0.02201,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 63.0,
+      "end": 66.0,
+      "speaker": "",
+      "text": "必ず大陸まで辿り着け",
+      "avg_logprob": -0.46304,
+      "no_speech_prob": 0.02201,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 66.0,
+      "end": 68.0,
+      "speaker": "",
+      "text": "向こうでまた会おう",
+      "avg_logprob": -0.46304,
+      "no_speech_prob": 0.02201,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 69.0,
+      "end": 70.0,
+      "speaker": "",
+      "text": "ああ",
+      "avg_logprob": -0.46304,
+      "no_speech_prob": 0.02201,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 18,
+      "start": 81.0,
+      "end": 83.0,
+      "speaker": "",
+      "text": "忘れるな、雪",
+      "avg_logprob": -0.46304,
+      "no_speech_prob": 0.02201,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 19,
+      "start": 83.0,
+      "end": 85.0,
+      "speaker": "",
+      "text": "忘れるなぁ! 勇気!",
+      "avg_logprob": -0.50045,
+      "no_speech_prob": 0.02068,
+      "compression_ratio": 1.06612,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 20,
+      "start": 85.0,
+      "end": 88.0,
+      "speaker": "",
+      "text": "俺たちの夢は 海だって超える!",
+      "avg_logprob": -0.50045,
+      "no_speech_prob": 0.02068,
+      "compression_ratio": 1.06612,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 21,
+      "start": 88.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "それをお前が証明するんだ!",
+      "avg_logprob": -0.50045,
+      "no_speech_prob": 0.02068,
+      "compression_ratio": 1.06612,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 22,
+      "start": 92.0,
+      "end": 93.0,
+      "speaker": "",
+      "text": "よし!",
+      "avg_logprob": -0.50045,
+      "no_speech_prob": 0.02068,
+      "compression_ratio": 1.06612,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 23,
+      "start": 98.0,
+      "end": 99.0,
+      "speaker": "",
+      "text": "やったぁ!",
+      "avg_logprob": -0.50045,
+      "no_speech_prob": 0.02068,
+      "compression_ratio": 1.06612,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 24,
+      "start": 100.0,
+      "end": 101.0,
+      "speaker": "",
+      "text": "発進!",
+      "avg_logprob": -0.50045,
+      "no_speech_prob": 0.02068,
+      "compression_ratio": 1.06612,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 25,
+      "start": 113.0,
+      "end": 142.61,
+      "speaker": "",
+      "text": "さあ、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、お前は、",
+      "avg_logprob": -0.17725,
+      "no_speech_prob": 0.08731,
+      "compression_ratio": 20.27273,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

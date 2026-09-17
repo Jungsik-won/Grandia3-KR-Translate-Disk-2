@@ -1,0 +1,514 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00ab",
+  "stream_key": "0xAB",
+  "sample_ids": [
+    "0x4DC",
+    "0x4DD"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00ab.flac",
+  "audio_sha256": "a3c8debadf864d0584836cffd5977eb0112645fb2ab0bfed2e73d7130247aca2",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:12/38"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私 あれが、ゾーンが残したと言われている、大地のキザートです。キザートです。 これだ。お願い、あの人を止めて。 テミリムス! テミリムス! テミリムス! テミリムス! テミリムス! テミリムス! やっと手に入れたんだ。 街は無いタズオ。 お前を、さぁ、 共に未来を切りしらくのだ。 新しい未来を。 どうの爪が? そういったお話をさえめる。 あらすんだ。 え、ドケオ! あ、お前は、何にもわかってないんだな。 くっ、見せてやるよ。 これが何なのかをな。 目を覚ませ見る! それは俺たちの望んだものじゃない。 だまれ! もはや成熟などいらぬ。 この力こそが、世界に光をもたらすもだ。 バガラ! バガラ! バガラ! バガラ! バガラ! バガラ! バガラ! バガラ! バガラ! バガラ! バガラ! バガラ!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私",
+      "avg_logprob": -0.08088,
+      "no_speech_prob": 0.01977,
+      "compression_ratio": 26.76,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.013",
+        "HIGH_COMPRESSION_RATIO:26.760"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "あれが、ゾーンが残したと言われている、大地のキザートです。キザートです。",
+      "avg_logprob": -0.37893,
+      "no_speech_prob": 0.04042,
+      "compression_ratio": 1.28571,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 69.34,
+      "speaker": "",
+      "text": "これだ。お願い、あの人を止めて。",
+      "avg_logprob": -0.71012,
+      "no_speech_prob": 0.08263,
+      "compression_ratio": 1.94595,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 69.34,
+      "end": 74.34,
+      "speaker": "",
+      "text": "テミリムス!",
+      "avg_logprob": -0.71012,
+      "no_speech_prob": 0.08263,
+      "compression_ratio": 1.94595,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 74.34,
+      "end": 77.34,
+      "speaker": "",
+      "text": "テミリムス!",
+      "avg_logprob": -0.71012,
+      "no_speech_prob": 0.08263,
+      "compression_ratio": 1.94595,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 77.34,
+      "end": 81.34,
+      "speaker": "",
+      "text": "テミリムス!",
+      "avg_logprob": -0.71012,
+      "no_speech_prob": 0.08263,
+      "compression_ratio": 1.94595,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 81.34,
+      "end": 83.34,
+      "speaker": "",
+      "text": "テミリムス!",
+      "avg_logprob": -0.71012,
+      "no_speech_prob": 0.08263,
+      "compression_ratio": 1.94595,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 83.34,
+      "end": 85.34,
+      "speaker": "",
+      "text": "テミリムス!",
+      "avg_logprob": -0.71012,
+      "no_speech_prob": 0.08263,
+      "compression_ratio": 1.94595,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 85.34,
+      "end": 87.34,
+      "speaker": "",
+      "text": "テミリムス!",
+      "avg_logprob": -0.71012,
+      "no_speech_prob": 0.08263,
+      "compression_ratio": 1.94595,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 88.34,
+      "end": 90.34,
+      "speaker": "",
+      "text": "やっと手に入れたんだ。",
+      "avg_logprob": -0.72812,
+      "no_speech_prob": 0.15446,
+      "compression_ratio": 1.33103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 90.34,
+      "end": 94.04,
+      "speaker": "",
+      "text": "街は無いタズオ。",
+      "avg_logprob": -0.72812,
+      "no_speech_prob": 0.15446,
+      "compression_ratio": 1.33103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 11,
+      "start": 94.04,
+      "end": 99.04,
+      "speaker": "",
+      "text": "お前を、さぁ、",
+      "avg_logprob": -0.72812,
+      "no_speech_prob": 0.15446,
+      "compression_ratio": 1.33103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 12,
+      "start": 99.04,
+      "end": 106.04,
+      "speaker": "",
+      "text": "共に未来を切りしらくのだ。",
+      "avg_logprob": -0.72812,
+      "no_speech_prob": 0.15446,
+      "compression_ratio": 1.33103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 13,
+      "start": 106.04,
+      "end": 107.54,
+      "speaker": "",
+      "text": "新しい未来を。",
+      "avg_logprob": -0.72812,
+      "no_speech_prob": 0.15446,
+      "compression_ratio": 1.33103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 14,
+      "start": 107.54,
+      "end": 108.84,
+      "speaker": "",
+      "text": "どうの爪が?",
+      "avg_logprob": -0.72812,
+      "no_speech_prob": 0.15446,
+      "compression_ratio": 1.33103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 15,
+      "start": 108.84,
+      "end": 112.84,
+      "speaker": "",
+      "text": "そういったお話をさえめる。",
+      "avg_logprob": -0.72812,
+      "no_speech_prob": 0.15446,
+      "compression_ratio": 1.33103,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 16,
+      "start": 112.84,
+      "end": 114.84,
+      "speaker": "",
+      "text": "あらすんだ。",
+      "avg_logprob": -0.48908,
+      "no_speech_prob": 0.33323,
+      "compression_ratio": 1.32456,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 17,
+      "start": 114.84,
+      "end": 116.84,
+      "speaker": "",
+      "text": "え、ドケオ!",
+      "avg_logprob": -0.48908,
+      "no_speech_prob": 0.33323,
+      "compression_ratio": 1.32456,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 18,
+      "start": 116.84,
+      "end": 123.84,
+      "speaker": "",
+      "text": "あ、お前は、何にもわかってないんだな。",
+      "avg_logprob": -0.48908,
+      "no_speech_prob": 0.33323,
+      "compression_ratio": 1.32456,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 19,
+      "start": 123.84,
+      "end": 126.84,
+      "speaker": "",
+      "text": "くっ、見せてやるよ。",
+      "avg_logprob": -0.48908,
+      "no_speech_prob": 0.33323,
+      "compression_ratio": 1.32456,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 20,
+      "start": 126.84,
+      "end": 129.84,
+      "speaker": "",
+      "text": "これが何なのかをな。",
+      "avg_logprob": -0.48908,
+      "no_speech_prob": 0.33323,
+      "compression_ratio": 1.32456,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 21,
+      "start": 143.84,
+      "end": 147.84,
+      "speaker": "",
+      "text": "目を覚ませ見る!",
+      "avg_logprob": -0.40277,
+      "no_speech_prob": 0.08755,
+      "compression_ratio": 1.27972,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 22,
+      "start": 147.84,
+      "end": 150.84,
+      "speaker": "",
+      "text": "それは俺たちの望んだものじゃない。",
+      "avg_logprob": -0.40277,
+      "no_speech_prob": 0.08755,
+      "compression_ratio": 1.27972,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 23,
+      "start": 150.84,
+      "end": 151.84,
+      "speaker": "",
+      "text": "だまれ!",
+      "avg_logprob": -0.40277,
+      "no_speech_prob": 0.08755,
+      "compression_ratio": 1.27972,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 24,
+      "start": 151.84,
+      "end": 154.84,
+      "speaker": "",
+      "text": "もはや成熟などいらぬ。",
+      "avg_logprob": -0.40277,
+      "no_speech_prob": 0.08755,
+      "compression_ratio": 1.27972,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 25,
+      "start": 154.84,
+      "end": 160.84,
+      "speaker": "",
+      "text": "この力こそが、世界に光をもたらすもだ。",
+      "avg_logprob": -0.40277,
+      "no_speech_prob": 0.08755,
+      "compression_ratio": 1.27972,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 26,
+      "start": 160.84,
+      "end": 162.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.40277,
+      "no_speech_prob": 0.08755,
+      "compression_ratio": 1.27972,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 27,
+      "start": 173.84,
+      "end": 175.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 28,
+      "start": 175.84,
+      "end": 177.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 29,
+      "start": 177.84,
+      "end": 179.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 30,
+      "start": 179.84,
+      "end": 181.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 31,
+      "start": 181.84,
+      "end": 183.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 32,
+      "start": 183.84,
+      "end": 186.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 33,
+      "start": 186.84,
+      "end": 189.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 34,
+      "start": 189.84,
+      "end": 192.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 35,
+      "start": 192.84,
+      "end": 195.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 36,
+      "start": 195.84,
+      "end": 198.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    },
+    {
+      "segment_index": 37,
+      "start": 198.84,
+      "end": 201.84,
+      "speaker": "",
+      "text": "バガラ!",
+      "avg_logprob": -0.28408,
+      "no_speech_prob": 0.87059,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000",
+        "HIGH_NO_SPEECH_PROBABILITY:0.871"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

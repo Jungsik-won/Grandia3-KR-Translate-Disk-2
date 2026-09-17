@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0075",
+  "stream_key": "0x75",
+  "sample_ids": [
+    "0x440",
+    "0x441"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0075.flac",
+  "audio_sha256": "7e832f15ca8cdece717be7c6a9d5ea94d5d00871af54c62fb62d1cafc64a2fc8",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:1/2"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ドーセレバーインだ!ドーセレバー! クソー! ドーセレバーイン! ミランダ、ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 �",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 8.0,
+      "speaker": "",
+      "text": "ドーセレバーインだ!ドーセレバー! クソー!",
+      "avg_logprob": -0.90677,
+      "no_speech_prob": 0.09493,
+      "compression_ratio": 1.20833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 8.0,
+      "end": 36.13,
+      "speaker": "",
+      "text": "ドーセレバーイン! ミランダ、ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 ミランダ、エメリウス、 �",
+      "avg_logprob": -0.12203,
+      "no_speech_prob": 0.03587,
+      "compression_ratio": 8.84615,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.087",
+        "HIGH_COMPRESSION_RATIO:8.846"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

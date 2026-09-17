@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "source_iso": "/Users/j.swon/Desktop/Grandia3_KR/Original ISO/Grandia III (Japan) (Disc 1).iso",
+  "output_iso": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_runtime_repair_test_20260825.iso",
+  "output_size": 4612100096,
+  "output_sha256": "d0c5cff5b70099e01813011182e6d1c61c127067e164cafe4e037f50b200ddb4",
+  "checks": {
+    "all_iso_file_payloads_match_source_or_replacement": true,
+    "iso_file_count": 1265,
+    "replacement_count": 350,
+    "iso_report_reverse_verified": true,
+    "iso_report_repacked_file_count": 1265,
+    "pvd_volume_sectors": 2252002,
+    "korean_mapping_count": 1268,
+    "output_glyph_count": 2224,
+    "translated_item_rows": 822,
+    "translated_item_effect_rows": 530,
+    "translated_skill_rows": 62,
+    "translated_enemy_rows": 169,
+    "translated_battle_help_rows": 64,
+    "battle_help_original_pool_preserved": true,
+    "translated_battle_rows": 49,
+    "field_ui_unit_count": 289,
+    "scenario_container_count": 346,
+    "scenario_message_count": 17540,
+    "scenario_candidate_hashes_verified": 346,
+    "font_resource_hashes_verified": 4,
+    "field_code_pairs_verified": 289,
+    "final_skj_code_to_glyph_matches": 1268,
+    "gr3_iso_reverse_decode_matches": true
+  }
+}

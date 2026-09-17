@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0107",
+  "stream_key": "0x107",
+  "sample_ids": [
+    "0x6B2",
+    "0x6B3"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0107.flac",
+  "audio_sha256": "8c1d6046f6915814323149a39dc9bf573d05c0d647b2e345b1ec1dfe50dfaf56",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、ア",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 13.88,
+      "speaker": "",
+      "text": "アルフィナ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、ア",
+      "avg_logprob": -0.17256,
+      "no_speech_prob": 0.37435,
+      "compression_ratio": 8.55405,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.076",
+        "HIGH_COMPRESSION_RATIO:8.554"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0092",
+  "stream_key": "0x92",
+  "sample_ids": [
+    "0x488",
+    "0x489"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0092.flac",
+  "audio_sha256": "5a1242b4d49db32efbf37f3bd955c1c9fb51af88f10587c0cf65d8cc9b8e90d3",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-left-right+whisper-base-targeted",
+  "notes": "PCSX2 AA7AC8CC slot 6 request slot 1 maps 0x488/0x489 to GR3_STR 0x92. The savestate uses an older SPU2 core layout, so ADSR active-voice ownership is not asserted; the extracted dialogue and screenshot exactly match Yuki and Ulf returning on Shiba and meeting Schmidt. Repeated character names and long オレ output from the old transcript were discarded as hallucinations.",
+  "text": "あれ？ 俺の機体がない！ 確か、ここに……。 いいじゃん！ どうせ新しいのもらえんだし！ そんなわけにいくかよ！ 作ってくれたシュミットに顔向けできないだろ？ 気にしすぎだっての！ お前！ 飛行王シュミットがどれだけすごい人かわかってて……。 おい！ うわっ！ シュミット、すまない！ 俺にはまだ腕が足りなかった！ もっとうまく飛ばせれば、なんとかなったのに。 シュミット、これ！ うむ。 ガレージの前で待っておれ。 シュミット！ ああ。 シュミット……ごめん。俺……。 すべて、機体が語ってくれたわ。",
+  "segments": [
+    {"segment_index": 0, "start": 6.5, "end": 8.9, "speaker": "ユウキ", "text": "あれ？ 俺の機体がない！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 1, "start": 16.2, "end": 18.4, "speaker": "ユウキ", "text": "確か、ここに……。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 2, "start": 19.5, "end": 22.9, "speaker": "ウル", "text": "いいじゃん！ どうせ新しいのもらえんだし！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 3, "start": 23.1, "end": 27.1, "speaker": "ユウキ", "text": "そんなわけにいくかよ！ 作ってくれたシュミットに顔向けできないだろ？", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 4, "start": 27.35, "end": 29.0, "speaker": "ウル", "text": "気にしすぎだっての！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 5, "start": 29.0, "end": 33.2, "speaker": "ユウキ", "text": "お前！ 飛行王シュミットがどれだけすごい人かわかってて……。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 6, "start": 33.25, "end": 34.45, "speaker": "シュミット", "text": "おい！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 7, "start": 34.6, "end": 35.3, "speaker": "ユウキ・ウル", "text": "うわっ！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 8, "start": 36.4, "end": 39.8, "speaker": "ユウキ", "text": "シュミット、すまない！ 俺にはまだ腕が足りなかった！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 9, "start": 40.0, "end": 42.4, "speaker": "ユウキ", "text": "もっとうまく飛ばせれば、なんとかなったのに。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 10, "start": 42.3, "end": 44.2, "speaker": "ウル", "text": "シュミット、これ！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 11, "start": 45.3, "end": 45.9, "speaker": "シュミット", "text": "うむ。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 12, "start": 51.5, "end": 53.5, "speaker": "シュミット", "text": "ガレージの前で待っておれ。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 13, "start": 53.3, "end": 54.9, "speaker": "ユウキ", "text": "シュミット！", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 14, "start": 54.8, "end": 55.2, "speaker": "シュミット", "text": "ああ。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 15, "start": 58.0, "end": 60.8, "speaker": "ユウキ", "text": "シュミット……ごめん。俺……。", "status": "MANUAL_AUDIO_SCENE_REVIEW"},
+    {"segment_index": 16, "start": 61.4, "end": 63.9, "speaker": "シュミット", "text": "すべて、機体が語ってくれたわ。", "status": "MANUAL_AUDIO_SCENE_REVIEW"}
+  ],
+  "screening_note": "Manual audio/scene review. Cue edges remain a 60 Hz runtime draft until scene playback verification."
+}

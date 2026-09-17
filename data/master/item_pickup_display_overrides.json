@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "renderer": "gr3-field-item-acquisition-bytewise-name-pool",
+  "purpose": "Use one-byte glyph aliases only in fixed item-name slots read by the acquisition popup.",
+  "glyph_aliases": [
+    {
+      "character": "반",
+      "glyph_index": 186,
+      "wire_hex": "DA",
+      "expected_original_code": "0x8378"
+    },
+    {
+      "character": "크",
+      "glyph_index": 187,
+      "wire_hex": "DB",
+      "expected_original_code": "0x8379"
+    },
+    {
+      "character": "케",
+      "glyph_index": 188,
+      "wire_hex": "DC",
+      "expected_original_code": "0x837a"
+    }
+  ],
+  "item_overrides": [
+    {
+      "id": "ITEM_0602_NAME",
+      "display_text": "반스트라이크",
+      "expected_wire_hex": "DA BC D2 66 6B DB"
+    },
+    {
+      "id": "ITEM_0629_NAME",
+      "display_text": "미케로마",
+      "expected_wire_hex": "9C DC 79 5C"
+    }
+  ]
+}

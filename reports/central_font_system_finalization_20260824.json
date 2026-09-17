@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T14:18:51.000286+00:00",
+  "status": "PASS_PRE_RUNTIME",
+  "scope": "translation.db + fixed 2,224-glyph font + reverse extraction",
+  "runtime_verified": false,
+  "iso_created": false,
+  "summary": {
+    "translation_rows": 19759,
+    "npc_dialogue_rows": 11637,
+    "required_korean_glyphs": 1268,
+    "font_population": 2224,
+    "protected_original_slots": 313,
+    "unused_slots_selected": 356,
+    "translated_japanese_donor_slots_selected": 912,
+    "remaining_donor_candidates": 643,
+    "npc_unresolved_glyph_token_types": 145,
+    "npc_unresolved_glyph_token_occurrences": 2070
+  },
+  "category_counts": {
+    "BATTLE": 47,
+    "BATTLE_HELP": 64,
+    "CHARACTER": 7,
+    "ENEMY": 169,
+    "EQUIPMENT": 46,
+    "FIELD": 10,
+    "FIELD_RUNTIME": 12,
+    "ITEM": 1352,
+    "MAGIC": 84,
+    "NPC_DIALOGUE": 11637,
+    "SCENARIO": 5903,
+    "SKILL": 62,
+    "SKILL_EFFECT": 45,
+    "STATUS": 32,
+    "SYSTEM": 289
+  },
+  "checks": [
+    {
+      "name": "font_mapping_count",
+      "passed": true,
+      "actual": 1268,
+      "expected": 1268
+    },
+    {
+      "name": "font_mapping_characters_unique",
+      "passed": true,
+      "actual": 1268
+    },
+    {
+      "name": "font_mapping_codes_unique",
+      "passed": true,
+      "actual": 1268
+    },
+    {
+      "name": "font_mapping_slots_unique",
+      "passed": true,
+      "actual": 1268
+    },
+    {
+      "name": "protected_slots_not_overwritten",
+      "passed": true,
+      "collisions": []
+    },
+    {
+      "name": "fixed_font_population",
+      "passed": true,
+      "original": 2224,
+      "output": 2224
+    },
+    {
+      "name": "protected_slot_count",
+      "passed": true,
+      "actual": 313
+    },
+    {
+      "name": "unused_slot_assignment",
+      "passed": true,
+      "actual": 356
+    },
+    {
+      "name": "translated_donor_assignment",
+      "passed": true,
+      "actual": 912
+    },
+    {
+      "name": "required_set_equals_font_config",
+      "passed": true,
+      "required": 1268
+    },
+    {
+      "name": "master_map_equals_font_config",
+      "passed": true,
+      "mapped": 1268
+    },
+    {
+      "name": "database_row_count",
+      "passed": true,
+      "actual": 19759,
+      "expected": 19759
+    },
+    {
+      "name": "database_ids_unique",
+      "passed": true,
+      "actual": 19759
+    },
+    {
+      "name": "database_has_no_unassigned_encoding",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "npc_database_complete",
+      "passed": true,
+      "actual": 11637,
+      "expected": 11637
+    },
+    {
+      "name": "npc_database_all_translated",
+      "passed": true,
+      "actual": 11637
+    },
+    {
+      "name": "npc_database_all_encoded",
+      "passed": true,
+      "actual": 0
+    },
+    {
+      "name": "npc_csv_matches_database",
+      "passed": true,
+      "csv_rows": 11637,
+      "db_rows": 11637,
+      "mismatch_sample": []
+    },
+    {
+      "name": "npc_glyph_tokens_preserve_original_slots",
+      "passed": true,
+      "unique_tokens": 145,
+      "occurrences": 2070,
+      "minimum_index": 3,
+      "maximum_index": 2214,
+      "unprotected_indices": []
+    },
+    {
+      "name": "font_resource_sizes_fixed",
+      "passed": true,
+      "files": {
+        "GR3BACK.FNT": {
+          "size": 289152,
+          "expected_size": 289152,
+          "overlay_sha256": "8ee2e5a1d1deeadcaf07c4756b7991eeacf89bc08e09e532363b5124e32076f1",
+          "reverse_sha256": "8ee2e5a1d1deeadcaf07c4756b7991eeacf89bc08e09e532363b5124e32076f1",
+          "byte_identical": true
+        },
+        "RUBY.FNT": {
+          "size": 75648,
+          "expected_size": 75648,
+          "overlay_sha256": "33858fec417ea3e489d60849cc070c3b52a0e28798ab027089180647a921988f",
+          "reverse_sha256": "33858fec417ea3e489d60849cc070c3b52a0e28798ab027089180647a921988f",
+          "byte_identical": true
+        },
+        "RUBY.SKJ": {
+          "size": 4778,
+          "expected_size": 4778,
+          "overlay_sha256": "b97d15121914b29beb9bee0ecc22e2aeacf43842e4f592ce64a25a7dcfc62648",
+          "reverse_sha256": "b97d15121914b29beb9bee0ecc22e2aeacf43842e4f592ce64a25a7dcfc62648",
+          "byte_identical": true
+        },
+        "RUBY.METRICS": {
+          "size": 4448,
+          "expected_size": 4448,
+          "overlay_sha256": "6436162fcefa908a427067463c38b5fb49f979a9c0d93b294794787baa3b90f3",
+          "reverse_sha256": "6436162fcefa908a427067463c38b5fb49f979a9c0d93b294794787baa3b90f3",
+          "byte_identical": true
+        }
+      }
+    },
+    {
+      "name": "font_resource_reverse_extraction_roundtrip",
+      "passed": true,
+      "files": {
+        "GR3BACK.FNT": {
+          "size": 289152,
+          "expected_size": 289152,
+          "overlay_sha256": "8ee2e5a1d1deeadcaf07c4756b7991eeacf89bc08e09e532363b5124e32076f1",
+          "reverse_sha256": "8ee2e5a1d1deeadcaf07c4756b7991eeacf89bc08e09e532363b5124e32076f1",
+          "byte_identical": true
+        },
+        "RUBY.FNT": {
+          "size": 75648,
+          "expected_size": 75648,
+          "overlay_sha256": "33858fec417ea3e489d60849cc070c3b52a0e28798ab027089180647a921988f",
+          "reverse_sha256": "33858fec417ea3e489d60849cc070c3b52a0e28798ab027089180647a921988f",
+          "byte_identical": true
+        },
+        "RUBY.SKJ": {
+          "size": 4778,
+          "expected_size": 4778,
+          "overlay_sha256": "b97d15121914b29beb9bee0ecc22e2aeacf43842e4f592ce64a25a7dcfc62648",
+          "reverse_sha256": "b97d15121914b29beb9bee0ecc22e2aeacf43842e4f592ce64a25a7dcfc62648",
+          "byte_identical": true
+        },
+        "RUBY.METRICS": {
+          "size": 4448,
+          "expected_size": 4448,
+          "overlay_sha256": "6436162fcefa908a427067463c38b5fb49f979a9c0d93b294794787baa3b90f3",
+          "reverse_sha256": "6436162fcefa908a427067463c38b5fb49f979a9c0d93b294794787baa3b90f3",
+          "byte_identical": true
+        }
+      }
+    },
+    {
+      "name": "font_resources_retain_2224_population",
+      "passed": true,
+      "inferred_population": {
+        "GR3BACK.FNT": 2224,
+        "RUBY.FNT": 2224,
+        "RUBY.METRICS": 2224,
+        "RUBY.SKJ": 2224
+      }
+    },
+    {
+      "name": "font_mdt_manifest_matches_output",
+      "passed": true,
+      "size": 1909760,
+      "sha256": "ca9317261be5553b95b497054aff042281a24427344231fd416b5d28b25600a4"
+    },
+    {
+      "name": "overlay_manifest_mapping_count",
+      "passed": true,
+      "actual": 1268
+    },
+    {
+      "name": "database_backup_exists",
+      "passed": true,
+      "path": "backup/translation_20260824_230824_before_central_integration.db"
+    }
+  ],
+  "artifacts": {
+    "database": "translation.db",
+    "database_sha256": "7f91f1b531e96ff2e337c0d0f0f242ea6e768865e643bf6362dc57547b510b9d",
+    "database_backup": "backup/translation_20260824_230824_before_central_integration.db",
+    "database_backup_sha256": "60e06a324628ece2f40b88dc3e923dc8ef8a2aaadcdd69919806c6dc3f89fc95",
+    "font_config": "build/central-font-final-v1-integration/font-config.json",
+    "font_config_sha256": "390628b575bcc6fcc812357d3690ff1eb45804a5abdf5826d880bd1f513d6bb2",
+    "font_overlay": "build/central-font-final-v1-font-overlay",
+    "font_mdt": "build/central-font-final-v1-font-mdt/GR3.MDT",
+    "font_mdt_sha256": "ca9317261be5553b95b497054aff042281a24427344231fd416b5d28b25600a4",
+    "font_reverse": "build/central-font-final-v1-font-reverse"
+  },
+  "limitations": [
+    "NPC <Gxxxx> tokens preserve original logical glyph indices; their semantic readings remain unresolved.",
+    "This report proves static encoding, fixed population, repack, and reverse extraction only.",
+    "No runtime game test and no ISO assembly were performed."
+  ]
+}

@@ -1,0 +1,442 @@
+﻿glyph_id,character,raw_bytes,occurrences,grade,evidence
+G0021,!,41,827,VISUAL_HIGH,glyph image manually checked
+G0022,?,42,456,VISUAL_HIGH,glyph image manually checked
+G0026,…,46,12963,VISUAL_HIGH,glyph image manually checked
+G0029,♥,49,3,VISUAL_HIGH,glyph image manually checked
+G002C,(,4C,1,VISUAL_HIGH,glyph image manually checked
+G002D,),4D,1,VISUAL_HIGH,glyph image manually checked
+G002E,[,4E,393,VISUAL_HIGH,glyph image manually checked
+G002F,],4F,393,VISUAL_HIGH,glyph image manually checked
+G0033,3,53,69,VISUAL_HIGH,glyph image manually checked
+G0035,5,55,71,VISUAL_HIGH,glyph image manually checked
+G0048,0,68,1,VISUAL_HIGH,glyph image manually checked
+G0054,あ,74,1116,VISUAL_HIGH,glyph image manually checked
+G005A,え,7A,1736,VISUAL_HIGH,glyph image manually checked
+G006F,ぜ,8F,1137,VISUAL_HIGH,glyph image manually checked
+G0083,ば,A3,192,VISUAL_HIGH,glyph image manually checked
+G0086,び,A6,5,VISUAL_HIGH,glyph image manually checked
+G008F,ぼ,AF,50,VISUAL_HIGH,glyph image manually checked
+G00FA,♪,4A F0,21,VISUAL_HIGH,glyph image manually checked
+G010E,左,5E F0,2,HIGH,"4 OCR votes, max 89.7"
+G0110,右,60 F0,12,HIGH,"2 OCR votes, max 73.8"
+G0113,会,63 F0,283,HIGH,jpn psm13 92.8
+G0114,話,64 F0,423,HIGH,jpn psm13 91.5
+G0123,換,73 F0,6,VISUAL_HIGH,glyph image manually checked
+G0126,搭,76 F0,58,HIGH,"3 OCR votes, max 84.7"
+G012C,配,7C F0,111,HIGH,jpn psm13 92.9
+G012F,個,7F F0,27,HIGH,jpn psm13 92.9
+G0132,買,82 F0,153,HIGH,jpn psm13 89.9
+G0133,売,83 F0,128,HIGH,jpn psm13 87.4
+G0136,預,86 F0,3,HIGH,jpn psm13 92.6
+G013C,続,8C F0,95,HIGH,jpn psm13 89.7
+G0143,選,93 F0,46,HIGH,jpn psm13 91.0
+G0144,択,94 F0,4,HIGH,"3 OCR votes, max 81.9"
+G0146,域,96 F0,8,HIGH,jpn psm13 86.6
+G0152,村,A2 F0,126,HIGH,jpn psm13 92.7
+G015C,箱,AC F0,7,HIGH,jpn psm13 89.2
+G0163,届,B3 F0,38,HIGH,jpn psm13 92.1
+G0167,母,B7 F0,74,HIGH,jpn psm13 90.1
+G0170,前,C0 F0,263,HIGH,jpn psm13 96.8
+G0175,屋,C5 F0,324,HIGH,jpn psm13 92.2
+G0177,樹,C7 F0,6,HIGH,jpn psm13 92.7
+G0179,晴,C9 F0,40,HIGH,jpn psm13 91.2
+G0188,探,D8 F0,169,HIGH,jpn psm13 92.4
+G018B,以,DB F0,69,HIGH,jpn psm13 92.9
+G019A,赤,EA F0,54,HIGH,jpn psm13 89.0
+G019C,即,EC F0,4,HIGH,jpn psm13 87.9
+G01A2,ー,22 F1,16,HIGH,"2 OCR votes, max 80.9"
+G01B6,段,36 F1,29,HIGH,jpn psm13 91.4
+G01BF,で,3F F1,10,HIGH,"2 OCR votes, max 73.6"
+G01C3,止,43 F1,71,HIGH,"6 OCR votes, max 91.9"
+G01C4,誠,44 F1,2,VISUAL_HIGH,glyph image manually checked
+G01CA,年,4A F1,276,HIGH,jpn psm13 95.9
+G01CC,割,4C F1,53,HIGH,jpn psm13 91.3
+G01D1,兵,51 F1,5,HIGH,jpn psm13 86.9
+G01D7,役,57 F1,48,HIGH,jpn psm13 92.7
+G01DC,外,5C F1,75,HIGH,jpn psm13 90.0
+G01DF,矢,5F F1,3,HIGH,jpn psm13 90.8
+G01E2,時,62 F1,3,VISUAL_HIGH,glyph image manually checked
+G01E3,中,63 F1,2,HIGH,"2 OCR votes, max 71.7"
+G01E4,難,64 F1,21,VISUAL_HIGH,glyph image manually checked
+G01E5,牛,65 F1,5,HIGH,"4 OCR votes, max 86.9"
+G01FF,目,7F F1,213,HIGH,jpn psm13 92.9
+G0209,返,89 F1,81,HIGH,jpn psm13 93.2
+G020F,近,8F F1,99,HIGH,jpn psm13 92.6
+G021E,安,9E F1,68,HIGH,"2 OCR votes, max 89.5"
+G0228,有,A8 F1,12,HIGH,jpn psm13 87.0
+G022C,首,AC F1,14,HIGH,jpn psm13 92.5
+G022F,許,AF F1,54,HIGH,jpn psm13 92.5
+G0230,皆,B0 F1,9,HIGH,jpn psm13 92.5
+G023F,新,BF F1,96,HIGH,jpn psm13 93.2
+G0245,甘,C5 F1,21,HIGH,jpn psm13 92.1
+G024A,渋,CA F1,4,HIGH,jpn psm13 89.5
+G024F,算,CF F1,2,HIGH,"3 OCR votes, max 78.7"
+G0252,定,D2 F1,33,HIGH,jpn psm13 91.8
+G0257,塩,D7 F1,3,HIGH,jpn psm13 89.9
+G025F,延,DF F1,2,HIGH,jpn psm13 92.2
+G0261,費,E1 F1,2,VISUAL_HIGH,glyph image manually checked
+G0262,倍,E2 F1,14,HIGH,jpn psm13 85.7
+G0263,終,E3 F1,91,HIGH,jpn psm13 90.1
+G0270,介,20 F2,10,HIGH,jpn psm13 90.4
+G0289,警,39 F2,12,VISUAL_HIGH,glyph image manually checked
+G02A8,登,58 F2,2,HIGH,jpn psm13 92.3
+G02AA,妙,5A F2,32,VISUAL_HIGH,glyph image manually checked
+G02AC,鹿,5C F2,7,HIGH,jpn psm13 86.5
+G02AD,角,5D F2,11,HIGH,jpn psm13 92.9
+G02AF,仮,5F F2,13,HIGH,jpn psm13 87.9
+G02BD,涙,6D F2,19,HIGH,"3 OCR votes, max 79.9"
+G02D3,絵,83 F2,34,HIGH,jpn psm13 91.3
+G02D4,日,84 F2,581,HIGH,jpn psm13 90.2
+G02DD,針,8D F2,2,HIGH,jpn psm13 93.0
+G02E4,始,94 F2,73,HIGH,jpn psm13 92.6
+G02E6,教,96 F2,162,HIGH,jpn psm13 88.1
+G02EB,引,9B F2,4,VISUAL_HIGH,glyph image manually checked
+G02EC,番,9C F2,35,HIGH,jpn psm13 92.6
+G02F0,芋,A0 F2,1,HIGH,jpn psm13 92.2
+G02F2,吸,A2 F2,24,VISUAL_HIGH,glyph image manually checked
+G02F4,泥,A4 F2,3,HIGH,jpn psm13 91.7
+G0301,攻,B1 F2,2,VISUAL_HIGH,glyph image manually checked
+G0320,完,D0 F2,24,HIGH,jpn psm13 92.0
+G0324,吐,D4 F2,11,HIGH,jpn psm13 92.4
+G0327,援,D7 F2,11,HIGH,"2 OCR votes, max 81.0"
+G0328,酒,D8 F2,3,VISUAL_HIGH,glyph image manually checked
+G032A,複,DA F2,3,VISUAL_HIGH,glyph image manually checked
+G0336,挑,E6 F2,9,HIGH,"3 OCR votes, max 74.4"
+G033F,明,EF F2,154,HIGH,jpn psm13 92.9
+G0348,所,28 F3,234,HIGH,jpn psm13 96.8
+G034B,節,2B F3,18,HIGH,jpn psm13 92.8
+G034F,抜,2F F3,59,HIGH,"4 OCR votes, max 80.3"
+G0351,声,31 F3,113,HIGH,jpn psm13 87.9
+G0359,菌,39 F3,1,HIGH,jpn psm13 87.5
+G035D,煙,3D F3,2,HIGH,jpn psm13 92.8
+G035E,津,3E F3,1,HIGH,"4 OCR votes, max 79.2"
+G0366,制,46 F3,12,HIGH,jpn psm13 91.1
+G0368,他,48 F3,85,HIGH,jpn psm13 91.9
+G036B,室,4B F3,11,HIGH,"2 OCR votes, max 91.4"
+G036D,卑,4D F3,2,HIGH,jpn psm13 93.0
+G0373,格,53 F3,41,HIGH,jpn psm13 90.5
+G0375,約,55 F3,25,HIGH,jpn psm13 92.8
+G037E,依,5E F3,10,HIGH,jpn psm13 91.2
+G0383,医,63 F3,7,HIGH,jpn psm13 92.6
+G0384,育,64 F3,60,HIGH,jpn psm13 93.0
+G0386,因,66 F3,17,HIGH,"2 OCR votes, max 81.3"
+G0389,陰,69 F3,3,VISUAL_HIGH,glyph image manually checked
+G0390,衛,70 F3,5,HIGH,jpn psm13 92.9
+G0392,益,72 F3,2,VISUAL_HIGH,glyph image manually checked
+G0394,越,74 F3,51,VISUAL_HIGH,glyph image manually checked
+G0397,演,77 F3,11,HIGH,jpn psm13 91.3
+G039D,沖,7D F3,3,HIGH,jpn psm13 90.3
+G039E,憶,7E F3,13,HIGH,"3 OCR votes, max 87.3"
+G039F,恩,7F F3,16,HIGH,jpn psm13 89.0
+G03A2,夏,82 F3,2,HIGH,jpn psm13 92.1
+G03A3,姫,83 F3,2,VISUAL_HIGH,glyph image manually checked
+G03A4,科,84 F3,1,HIGH,jpn psm13 93.0
+G03A5,河,85 F3,3,HIGH,jpn psm13 92.7
+G03A6,何,86 F3,14,HIGH,"3 OCR votes, max 92.6"
+G03A7,貨,87 F3,3,VISUAL_HIGH,glyph image manually checked
+G03AB,悔,8B F3,14,HIGH,jpn psm13 91.3
+G03AF,階,8F F3,18,HIGH,jpn psm13 91.9
+G03B1,崖,91 F3,12,VISUAL_HIGH,glyph image manually checked
+G03B4,確,94 F3,71,HIGH,jpn psm13 92.1
+G03B6,業,96 F3,184,HIGH,jpn psm13 88.1
+G03BB,患,9B F3,3,HIGH,"3 OCR votes, max 71.2"
+G03C0,汗,A0 F3,9,HIGH,"4 OCR votes, max 73.2"
+G03C2,看,A2 F3,38,HIGH,jpn psm13 92.3
+G03C3,一,A3 F3,2,HIGH,"3 OCR votes, max 76.4"
+G03C4,簡,A4 F3,18,HIGH,jpn psm13 91.7
+G03C5,肝,A5 F3,8,HIGH,jpn psm13 92.2
+G03CD,希,AD F3,38,HIGH,jpn psm13 90.8
+G03D0,帰,B0 F3,265,HIGH,jpn psm13 92.7
+G03D3,季,B3 F3,12,HIGH,jpn psm13 92.8
+G03D8,負,B8 F3,26,VISUAL_HIGH,glyph image manually checked
+G03D9,犠,B9 F3,9,HIGH,jpn psm13 88.0
+G03DF,休,BF F3,85,HIGH,jpn psm13 89.3
+G03E0,求,C0 F3,52,HIGH,jpn psm13 90.4
+G03E5,去,C5 F3,50,HIGH,jpn psm13 93.0
+G03E8,損,C8 F3,6,VISUAL_HIGH,glyph image manually checked
+G03EC,協,CC F3,14,HIGH,jpn psm13 92.5
+G03ED,叫,CD F3,10,HIGH,"5 OCR votes, max 82.7"
+G03EE,境,CE F3,26,HIGH,jpn psm13 92.5
+G03F1,況,D1 F3,6,HIGH,jpn psm13 85.4
+G03F2,興,D2 F3,27,HIGH,jpn psm13 91.5
+G03F5,驚,D5 F3,31,VISUAL_HIGH,glyph image manually checked
+G03F7,禁,D7 F3,12,HIGH,jpn psm13 90.1
+G03FB,区,DB F3,6,HIGH,jpn psm13 96.9
+G0406,兄,E6 F3,197,HIGH,jpn psm13 89.3
+G040C,計,EC F3,26,HIGH,jpn psm13 92.9
+G0410,決,20 F4,187,HIGH,jpn psm13 93.2
+G0412,件,22 F4,103,HIGH,jpn psm13 96.9
+G041E,言,2E F4,821,HIGH,jpn psm13 85.2
+G0423,枯,33 F4,5,HIGH,"3 OCR votes, max 77.3"
+G0427,悟,37 F4,23,HIGH,"4 OCR votes, max 77.8"
+G0428,誤,38 F4,4,HIGH,jpn psm13 87.3
+G0429,公,39 F4,5,HIGH,jpn psm13 91.9
+G043C,頃,4C F4,83,HIGH,jpn psm13 91.5
+G043D,今,4D F4,460,HIGH,jpn psm13 89.5
+G043E,困,4E F4,45,HIGH,"2 OCR votes, max 84.9"
+G043F,嬉,4F F4,43,VISUAL_HIGH,glyph image manually checked
+G0444,再,54 F4,28,HIGH,jpn psm13 91.1
+G0447,済,57 F4,5,HIGH,jpn psm13 90.1
+G044A,奈,5A F4,29,VISUAL_HIGH,glyph image manually checked
+G044C,際,5C F4,15,HIGH,jpn psm13 91.8
+G044E,罪,5E F4,11,HIGH,jpn psm13 85.3
+G044F,財,5F F4,9,HIGH,jpn psm13 92.8
+G0451,に,61 F4,14,HIGH,"2 OCR votes, max 96.3"
+G0452,昨,62 F4,18,HIGH,jpn psm13 86.9
+G0453,泰,63 F4,2,VISUAL_HIGH,glyph image manually checked
+G0454,穴,64 F4,10,VISUAL_HIGH,glyph image manually checked
+G0460,姉,70 F4,112,HIGH,jpn psm13 88.0
+G0462,市,72 F4,7,HIGH,jpn psm13 96.3
+G0467,氏,77 F4,5,HIGH,jpn psm13 92.6
+G0468,私,78 F4,470,HIGH,jpn psm13 89.0
+G0469,詩,79 F4,6,HIGH,jpn psm13 92.9
+G046A,試,7A F4,18,HIGH,jpn psm13 89.9
+G046D,飼,7D F4,14,HIGH,jpn psm13 92.9
+G0473,執,83 F4,15,HIGH,jpn psm13 88.1
+G0474,失,84 F4,98,HIGH,jpn psm13 89.7
+G047A,社,8A F4,13,HIGH,jpn psm13 93.0
+G047B,謝,8B F4,32,HIGH,jpn psm13 87.2
+G047E,借,8E F4,27,HIGH,"2 OCR votes, max 79.8"
+G0482,授,92 F4,6,HIGH,jpn psm13 92.4
+G0486,秀,96 F4,2,HIGH,"2 OCR votes, max 82.3"
+G0487,習,97 F4,41,HIGH,jpn psm13 88.7
+G0489,衆,99 F4,20,VISUAL_HIGH,glyph image manually checked
+G048A,国,9A F4,26,VISUAL_HIGH,glyph image manually checked
+G048C,住,9C F4,77,HIGH,jpn psm13 92.3
+G048D,従,9D F4,9,HIGH,jpn psm13 89.7
+G0493,春,A3 F4,10,HIGH,jpn psm13 86.4
+G0495,順,A5 F4,4,HIGH,jpn psm13 92.8
+G0498,諸,A8 F4,1,HIGH,"4 OCR votes, max 91.3"
+G0499,助,A9 F4,109,HIGH,jpn psm13 87.6
+G04A0,招,B0 F4,5,HIGH,jpn psm13 89.4
+G04A4,省,B4 F4,2,HIGH,jpn psm13 85.6
+G04A6,笑,B6 F4,61,HIGH,jpn psm13 91.8
+G04AA,障,BA F4,4,HIGH,jpn psm13 93.0
+G04AC,嬢,BC F4,29,HIGH,jpn psm13 88.0
+G04AD,情,BD F4,71,HIGH,jpn psm13 93.2
+G04B4,侵,C4 F4,6,HIGH,jpn psm13 91.5
+G04B6,尼,C6 F4,3,HIGH,"2 OCR votes, max 77.9"
+G04B8,申,C8 F4,35,HIGH,jpn psm13 90.5
+G04BA,診,CA F4,6,HIGH,jpn psm13 92.8
+G04BC,図,CC F4,31,HIGH,"3 OCR votes, max 89.3"
+G04BD,推,CD F4,6,HIGH,jpn psm13 92.3
+G04BF,酔,CF F4,42,HIGH,jpn psm13 91.6
+G04C7,牲,D7 F4,9,HIGH,"2 OCR votes, max 80.8"
+G04C9,西,D9 F4,16,HIGH,jpn psm13 90.8
+G04CA,匠,DA F4,10,VISUAL_HIGH,glyph image manually checked
+G04CD,恒,DD F4,5,HIGH,"3 OCR votes, max 89.6"
+G04CF,積,DF F4,10,HIGH,jpn psm13 90.5
+G04D0,責,E0 F4,33,HIGH,jpn psm13 92.1
+G04D1,設,E1 F4,12,HIGH,jpn psm13 91.9
+G04D3,舌,E3 F4,8,HIGH,jpn psm13 92.1
+G04D5,宣,E5 F4,3,HIGH,jpn psm13 91.2
+G04D8,洗,E8 F4,26,HIGH,jpn psm13 91.8
+G04D9,業,E9 F4,8,VISUAL_HIGH,glyph image manually checked
+G04E2,捜,22 F5,1,HIGH,jpn psm13 91.1
+G04E6,相,26 F5,72,HIGH,jpn psm13 91.3
+G04E7,慈,27 F5,2,VISUAL_HIGH,glyph image manually checked
+G04EC,像,2C F5,76,HIGH,jpn psm13 86.8
+G04EF,側,2F F5,45,HIGH,jpn psm13 93.0
+G04F1,に,31 F5,52,HIGH,"2 OCR votes, max 92.1"
+G04F3,損,33 F5,19,HIGH,jpn psm13 92.4
+G04F4,待,34 F5,273,HIGH,jpn psm13 92.2
+G04F6,中,36 F5,7,HIGH,"2 OCR votes, max 79.6"
+G04F8,退,38 F5,13,HIGH,jpn psm13 92.6
+G04F9,隊,39 F5,18,HIGH,jpn psm13 91.1
+G04FC,宅,3C F5,4,HIGH,jpn psm13 91.8
+G04FE,谷,3E F5,157,HIGH,jpn psm13 90.1
+G04FF,担,3F F5,6,HIGH,jpn psm13 90.1
+G0501,胆,41 F5,3,HIGH,jpn psm13 90.3
+G0502,誕,42 F5,7,HIGH,jpn psm13 89.0
+G0503,鍛,43 F5,1,HIGH,jpn psm13 90.9
+G0509,肌,49 F5,26,VISUAL_HIGH,glyph image manually checked
+G050A,致,4A F5,1,HIGH,jpn psm13 86.8
+G050E,由,4E F5,9,HIGH,"3 OCR votes, max 93.2"
+G050F,忠,4F F5,4,HIGH,"2 OCR votes, max 79.6"
+G0511,貯,51 F5,5,HIGH,jpn psm13 92.1
+G0516,町,56 F5,106,HIGH,jpn psm13 96.8
+G0517,聴,57 F5,1,HIGH,jpn psm13 92.7
+G0519,頂,59 F5,13,HIGH,jpn psm13 93.1
+G051A,直,5A F5,84,HIGH,"4 OCR votes, max 93.2"
+G051B,沈,5B F5,4,HIGH,jpn psm13 91.7
+G051C,珍,5C F5,24,HIGH,jpn psm13 90.3
+G051D,墜,5D F5,18,VISUAL_HIGH,glyph image manually checked
+G051F,学,5F F5,1,HIGH,"2 OCR votes, max 78.7"
+G0520,低,60 F5,6,HIGH,jpn psm13 93.1
+G0521,停,61 F5,1,HIGH,jpn psm13 90.7
+G0525,適,65 F5,11,HIGH,"2 OCR votes, max 83.4"
+G0528,展,68 F5,4,HIGH,"3 OCR votes, max 92.8"
+G0529,店,69 F5,125,HIGH,jpn psm13 96.3
+G052E,途,6E F5,19,VISUAL_HIGH,glyph image manually checked
+G052F,都,6F F5,38,HIGH,jpn psm13 91.9
+G0530,努,70 F5,15,VISUAL_HIGH,glyph image manually checked
+G0532,奴,72 F5,2,HIGH,jpn psm13 89.8
+G0534,コ,74 F5,5,HIGH,"2 OCR votes, max 73.4"
+G0537,東,77 F5,35,HIGH,jpn psm13 91.7
+G0538,湯,78 F5,9,HIGH,jpn psm13 92.6
+G0539,灯,79 F5,2,HIGH,jpn psm13 90.7
+G053B,答,7B F5,22,VISUAL_HIGH,glyph image manually checked
+G053D,到,7D F5,15,HIGH,jpn psm13 89.3
+G053E,討,7E F5,1,HIGH,jpn psm13 92.4
+G053F,豆,7F F5,53,HIGH,jpn psm13 92.5
+G0542,同,82 F5,97,HIGH,jpn psm13 92.4
+G0545,独,85 F5,4,HIGH,jpn psm13 92.4
+G0547,乳,87 F5,1,HIGH,jpn psm13 91.8
+G0548,認,88 F5,31,HIGH,jpn psm13 91.9
+G054B,悩,8B F5,4,HIGH,jpn psm13 88.2
+G054C,納,8C F5,10,HIGH,jpn psm13 92.8
+G054F,派,8F F5,39,HIGH,jpn psm13 89.1
+G0553,敗,93 F5,33,HIGH,jpn psm13 92.9
+G0554,本,94 F5,10,HIGH,"4 OCR votes, max 80.6"
+G0558,泊,98 F5,19,HIGH,jpn psm13 92.3
+G055F,宰,9F F5,1,HIGH,"2 OCR votes, max 75.1"
+G0568,飯,A8 F5,44,HIGH,jpn psm13 93.1
+G056A,古,AA F5,1,HIGH,"3 OCR votes, max 90.6"
+G056E,比,AE F5,8,HIGH,jpn psm13 91.6
+G056F,疲,AF F5,34,VISUAL_HIGH,glyph image manually checked
+G0570,被,B0 F5,13,HIGH,"3 OCR votes, max 89.0"
+G0575,姫,B5 F5,6,HIGH,"2 OCR votes, max 76.7"
+G0578,漂,B8 F5,2,HIGH,jpn psm13 88.1
+G057A,評,BA F5,16,HIGH,jpn psm13 93.1
+G057D,婦,BD F5,16,HIGH,jpn psm13 92.6
+G0580,浮,C0 F5,23,HIGH,jpn psm13 92.7
+G058A,並,CA F5,27,HIGH,jpn psm13 92.1
+G058B,閉,CB F5,21,VISUAL_HIGH,glyph image manually checked
+G0591,勉,D1 F5,14,HIGH,jpn psm13 92.4
+G0592,捕,D2 F5,25,HIGH,jpn psm13 91.5
+G0596,抱,D6 F5,23,HIGH,jpn psm13 92.5
+G059B,飲,DB F5,5,VISUAL_HIGH,glyph image manually checked
+G059C,亡,DC F5,8,HIGH,"3 OCR votes, max 76.9"
+G059D,坊,DD F5,9,HIGH,jpn psm13 92.6
+G059E,忙,DE F5,19,HIGH,"5 OCR votes, max 81.4"
+G05A1,牧,E1 F5,1,HIGH,"3 OCR votes, max 92.0"
+G05A3,埋,E3 F5,16,HIGH,jpn psm13 92.1
+G05A6,毎,E6 F5,45,HIGH,jpn psm13 88.6
+G05A8,慢,E8 F5,10,HIGH,"3 OCR votes, max 70.2"
+G05AD,務,ED F5,15,HIGH,jpn psm13 91.6
+G05AF,娘,EF F5,73,HIGH,jpn psm13 90.6
+G05BA,油,2A F6,14,HIGH,jpn psm13 92.2
+G05BC,友,2C F6,71,HIGH,jpn psm13 92.5
+G05BE,由,2E F6,33,HIGH,jpn psm13 92.4
+G05C4,予,34 F6,94,HIGH,jpn psm13 90.4
+G05C8,容,38 F6,1,HIGH,jpn psm13 93.2
+G05C9,揺,39 F6,7,VISUAL_HIGH,glyph image manually checked
+G05CA,洋,3A F6,4,HIGH,jpn psm13 91.8
+G05CC,葉,3C F6,109,HIGH,jpn psm13 88.7
+G05CD,要,3D F6,77,HIGH,jpn psm13 93.2
+G05D0,絡,40 F6,1,VISUAL_HIGH,glyph image manually checked
+G05D4,理,44 F6,139,HIGH,jpn psm13 93.0
+G05D9,料,49 F6,84,HIGH,"3 OCR votes, max 90.9"
+G05E1,礼,51 F6,33,HIGH,jpn psm13 92.2
+G05E3,列,53 F6,5,HIGH,jpn psm13 91.9
+G05E7,労,57 F6,37,HIGH,jpn psm13 92.5
+G05EB,郎,5B F6,45,HIGH,jpn psm13 92.7
+G05EC,録,5C F6,1,HIGH,jpn psm13 90.9
+G05F4,」,64 F6,20,HIGH,"3 OCR votes, max 89.4"
+G05F6,裁,66 F6,1,HIGH,jpn psm13 88.4
+G05FA,悠,6A F6,11,HIGH,jpn psm13 89.8
+G05FE,監,6E F6,4,HIGH,"2 OCR votes, max 91.2"
+G05FF,請,6F F6,1,HIGH,jpn psm13 91.8
+G0600,図,70 F6,21,VISUAL_HIGH,glyph image manually checked
+G0610,捧,80 F6,15,HIGH,jpn psm13 89.0
+G0613,徳,83 F6,4,HIGH,jpn psm13 91.1
+G061D,唄,8D F6,10,HIGH,jpn psm13 89.3
+G0624,冥,94 F6,1,HIGH,jpn psm13 86.1
+G0627,律,97 F6,2,HIGH,jpn psm13 88.1
+G062A,略,9A F6,2,HIGH,"2 OCR votes, max 78.1"
+G062B,嘆,9B F6,8,HIGH,jpn psm13 91.7
+G062F,旦,9F F6,7,HIGH,jpn psm13 85.8
+G0630,粒,A0 F6,6,HIGH,jpn psm13 87.5
+G0635,儲,A5 F6,4,HIGH,"2 OCR votes, max 82.7"
+G0636,挨,A6 F6,4,HIGH,"3 OCR votes, max 74.3"
+G063F,痴,AF F6,1,HIGH,jpn psm13 91.6
+G0641,典,B1 F6,6,HIGH,"3 OCR votes, max 89.4"
+G0648,炒,B8 F6,1,HIGH,"2 OCR votes, max 79.3"
+G0654,朽,C4 F6,1,HIGH,jpn psm13 87.2
+G0655,井,C5 F6,4,HIGH,jpn psm13 92.7
+G065D,稼,CD F6,15,VISUAL_HIGH,glyph image manually checked
+G0662,環,D2 F6,7,HIGH,jpn psm13 93.2
+G0675,企,E5 F6,3,HIGH,jpn psm13 92.0
+G067B,唯,EB F6,4,HIGH,jpn psm13 92.7
+G0684,旗,24 F7,2,HIGH,jpn psm13 85.0
+G0685,僕,25 F7,8,HIGH,jpn psm13 89.7
+G0686,既,26 F7,2,HIGH,jpn psm13 92.7
+G068E,孤,2E F7,9,VISUAL_HIGH,glyph image manually checked
+G068F,恨,2F F7,15,HIGH,jpn psm13 87.9
+G0692,戸,32 F7,4,HIGH,jpn psm13 93.1
+G0696,愚,36 F7,6,VISUAL_HIGH,glyph image manually checked
+G069C,五,3C F7,3,HIGH,jpn psm13 88.9
+G06A0,巡,40 F7,9,VISUAL_HIGH,glyph image manually checked
+G06A2,論,42 F7,13,HIGH,jpn psm13 91.0
+G06A5,垂,45 F7,4,VISUAL_HIGH,glyph image manually checked
+G06A6,歳,46 F7,28,HIGH,"2 OCR votes, max 83.2"
+G06B1,召,51 F7,4,VISUAL_HIGH,glyph image manually checked
+G06C0,澄,60 F7,6,VISUAL_HIGH,glyph image manually checked
+G06C2,是,62 F7,1,VISUAL_HIGH,glyph image manually checked
+G06CE,嘱,6E F7,5,VISUAL_HIGH,glyph image manually checked
+G06D2,線,72 F7,9,VISUAL_HIGH,glyph image manually checked
+G06D4,測,74 F7,1,HIGH,jpn psm13 93.0
+G06D5,析,75 F7,2,HIGH,jpn psm13 90.4
+G06D7,傾,77 F7,1,HIGH,jpn psm13 87.8
+G06DA,孫,7A F7,12,VISUAL_HIGH,glyph image manually checked
+G06DE,垢,7E F7,2,HIGH,jpn psm13 91.9
+G06E0,帳,80 F7,1,HIGH,jpn psm13 93.1
+G06E9,浅,89 F7,5,HIGH,jpn psm13 89.6
+G06EC,滞,8C F7,2,HIGH,jpn psm13 90.5
+G06EF,賃,8F F7,1,HIGH,jpn psm13 92.6
+G06FA,拍,9A F7,1,HIGH,jpn psm13 91.7
+G06FE,迫,9E F7,17,HIGH,jpn psm13 88.8
+G06FF,爪,9F F7,3,HIGH,jpn psm13 85.9
+G0701,宗,A1 F7,5,HIGH,jpn psm13 88.0
+G0702,就,A2 F7,4,HIGH,"2 OCR votes, max 81.0"
+G070B,当,AB F7,13,HIGH,"2 OCR votes, max 79.9"
+G0711,伏,B1 F7,1,HIGH,"2 OCR votes, max 92.7"
+G0714,印,B4 F7,7,VISUAL_HIGH,glyph image manually checked
+G0721,紛,C1 F7,2,VISUAL_HIGH,glyph image manually checked
+G072C,岬,CC F7,2,HIGH,jpn psm13 91.6
+G0746,式,E6 F7,4,VISUAL_HIGH,glyph image manually checked
+G075D,那,2D F8,7,HIGH,jpn psm13 93.0
+G075E,課,2E F8,1,HIGH,jpn psm13 92.2
+G0778,中,48 F8,1,HIGH,"2 OCR votes, max 82.8"
+G077A,釣,4A F8,9,HIGH,jpn psm13 92.8
+G077B,納,4B F8,4,VISUAL_HIGH,glyph image manually checked
+G0782,逝,52 F8,2,HIGH,jpn psm13 91.3
+G0783,吉,53 F8,1,HIGH,jpn psm13 91.5
+G0784,如,54 F8,2,HIGH,jpn psm13 92.1
+G078E,沙,5E F8,1,HIGH,jpn psm13 90.9
+G0790,午,60 F8,1,HIGH,jpn psm13 91.1
+G0791,契,61 F8,2,HIGH,jpn psm13 90.7
+G0793,宇,63 F8,7,HIGH,jpn psm13 93.0
+G0797,葵,67 F8,6,VISUAL_HIGH,glyph image manually checked
+G07A1,拡,71 F8,1,HIGH,jpn psm13 91.1
+G07A3,億,73 F8,13,VISUAL_HIGH,glyph image manually checked
+G07B0,卓,80 F8,2,VISUAL_HIGH,glyph image manually checked
+G07B7,昌,87 F8,6,VISUAL_HIGH,glyph image manually checked
+G07CB,垂,9B F8,3,HIGH,jpn psm13 92.0
+G07D1,斉,A1 F8,1,HIGH,jpn psm13 87.3
+G07EA,沼,BA F8,1,HIGH,jpn psm13 92.9
+G07FF,妄,CF F8,2,VISUAL_HIGH,glyph image manually checked
+G0806,縛,D6 F8,1,HIGH,"2 OCR votes, max 71.7"
+G080F,暇,DF F8,3,VISUAL_HIGH,glyph image manually checked
+G0816,鋼,E6 F8,1,HIGH,jpn psm13 86.8
+G0824,桃,24 F9,1,HIGH,jpn psm13 92.5
+G0825,罠,25 F9,1,VISUAL_HIGH,glyph image manually checked
+G0844,宰,44 F9,1,VISUAL_HIGH,glyph image manually checked
+G0848,菩,48 F9,4,VISUAL_HIGH,glyph image manually checked
+G0849,彩,49 F9,2,HIGH,jpn psm13 87.4
+G084C,蔵,4C F9,1,HIGH,jpn psm13 90.8
+G084D,枝,4D F9,3,HIGH,"2 OCR votes, max 77.2"
+G085D,著,5D F9,2,HIGH,jpn psm13 92.3
+G087D,&,7D F9,5,VISUAL_HIGH,glyph image manually checked
+G0880,均,80 F9,1,HIGH,jpn psm13 93.0
+G0887,寿,87 F9,4,HIGH,"3 OCR votes, max 78.5"
+G088A,秋,8A F9,1,HIGH,jpn psm13 91.8
+G0891,訴,91 F9,2,HIGH,"4 OCR votes, max 90.5"
+G0893,拓,93 F9,1,HIGH,jpn psm13 89.7
+G0894,秩,94 F9,5,HIGH,jpn psm13 90.2
+G0898,凪,98 F9,4,HIGH,jpn psm13 88.6
+G089B,把,9B F9,2,HIGH,jpn psm13 91.1
+G089E,票,9E F9,8,HIGH,jpn psm13 90.3
+G089F,秒,9F F9,9,HIGH,jpn psm13 92.3
+G08A1,肪,A1 F9,1,HIGH,"4 OCR votes, max 75.0"
+G08A7,浪,A7 F9,1,HIGH,jpn psm13 87.7

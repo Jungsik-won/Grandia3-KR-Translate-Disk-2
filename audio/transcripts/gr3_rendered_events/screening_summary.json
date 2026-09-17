@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "event_status_counts": {
+    "AUTO_LOW_CONFIDENCE_REVIEW": 96,
+    "AUTO_TRANSCRIBED_REVIEW": 106,
+    "APPROVED": 1
+  },
+  "segment_status_counts": {
+    "AUTO_LOW_CONFIDENCE_REVIEW": 400,
+    "AUTO_TRANSCRIBED_REVIEW": 773,
+    "APPROVED": 49
+  },
+  "approval_boundary": "Only manual audio/scene review may promote Japanese text to APPROVED."
+}

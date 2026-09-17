@@ -1,0 +1,45 @@
+SCENARIO PATTERN REPORT: /private/tmp/gr3-ship-analysis.CYee09/DATA_00150100.MDT
+
+resources: 13
+messages: 28
+UNKNOWN_CONTROL blocks: 58
+
+0x00006000 class=0x6000 subtype=0 size=0x1C8 messages=2 prefix=05 00 06 00
+  message offsets: 0x003D627F;0x003D6346
+  UNKNOWN pre=1/19 between=2/172 tail=1/196 no-anchor=0/0
+0x00396001 class=0x6000 subtype=1 size=0x138 messages=2 prefix=05 00 06 00
+  message offsets: 0x003D6447;0x003D64C7
+  UNKNOWN pre=1/19 between=2/109 tail=1/131 no-anchor=0/0
+0x00602000 class=0x2000 subtype=0 size=0x260 messages=4 prefix=03 00 01 20
+  message offsets: 0x003D65B5;0x003D6624;0x003D66FE;0x003D677B
+  UNKNOWN pre=1/73 between=6/290 tail=1/31 no-anchor=0/0
+0x00AC2001 class=0x2000 subtype=1 size=0x50 messages=1 prefix=03 00 01 21
+  message offsets: 0x003D67EE
+  UNKNOWN pre=1/34 between=0/0 tail=1/5 no-anchor=0/0
+0x00B62002 class=0x2000 subtype=2 size=0x200 messages=1 prefix=03 00 01 22
+  message offsets: 0x003D6846
+  UNKNOWN pre=1/42 between=0/0 tail=1/307 no-anchor=0/0
+0x00F62003 class=0x2000 subtype=3 size=0x140 messages=0 prefix=03 00 01 23
+  message offsets: -
+  UNKNOWN pre=0/0 between=0/0 tail=0/0 no-anchor=2/640
+0x011E3000 class=0x3000 subtype=0 size=0x1F0 messages=5 prefix=05 00 05 00
+  message offsets: 0x003D6B80;0x003D6BFD;0x003D6C80;0x003D6CBA;0x003D6D21
+  UNKNOWN pre=1/36 between=8/199 tail=1/14 no-anchor=0/0
+0x015C3003 class=0x3000 subtype=3 size=0x128 messages=2 prefix=05 00 05 00
+  message offsets: 0x003D6D7F;0x003D6E12
+  UNKNOWN pre=1/51 between=2/56 tail=1/3 no-anchor=0/0
+0x01813004 class=0x3000 subtype=4 size=0x250 messages=4 prefix=05 00 05 00
+  message offsets: 0x003D6EB1;0x003D6F7F;0x003D6FE0;0x003D7042
+  UNKNOWN pre=1/61 between=6/210 tail=1/16 no-anchor=0/0
+0x01CB5000 class=0x5000 subtype=0 size=0x170 messages=4 prefix=05 00 00 00
+  message offsets: 0x003D70DA;0x003D7142;0x003D71BA;0x003D71D8
+  UNKNOWN pre=1/22 between=6/185 tail=1/34 no-anchor=0/0
+0x01F95001 class=0x5000 subtype=1 size=0x68 messages=1 prefix=0d 05 30 00
+  message offsets: 0x003D7267
+  UNKNOWN pre=1/51 between=0/0 tail=1/7 no-anchor=0/0
+0x02065002 class=0x5000 subtype=2 size=0x68 messages=1 prefix=0d 05 30 00
+  message offsets: 0x003D72D7
+  UNKNOWN pre=1/59 between=0/0 tail=1/1 no-anchor=0/0
+0x02135003 class=0x5000 subtype=3 size=0x80 messages=1 prefix=06 01 a1 01
+  message offsets: 0x003D7311
+  UNKNOWN pre=1/13 between=0/0 tail=1/94 no-anchor=0/0

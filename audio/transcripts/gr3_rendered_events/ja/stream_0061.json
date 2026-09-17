@@ -1,0 +1,857 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0061",
+  "stream_key": "0x61",
+  "sample_ids": [
+    "0x408",
+    "0x409"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0061.flac",
+  "audio_sha256": "856d39101deb963ff3e11b5de2ef84857f407b620503b0731ffa56ef8fbd7a20",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:45/62"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "スタッフのアルフィナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメ もう決めたことなの私どうしても兄さんに会いたいお前がコミュートとして生きることを相手は望みやしない もしももしもそうだとしても私は 山をへん その子から離れなさい ユキ! ハッ! ユキ! ハッ! もう一度だけ聞く 思い止まることはできないのかあるフィナー でも、もう一度だけ聞く もう一度だけ聞く 思い止まることはできないのかあるフィナー もう一度だけ聞く 思い止まることはできないのかあるフィナー もう一度だけ聞く 思い止まることはできないのかあるフィナー デンケル 私は知りたいの 二さんのこと 私自身のこと それに未来のことを 未来か 今すべてが示された 残された時をかけることに もはやためらえはない もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで もう一度だけで",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "スタッフのアルフィナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメリウス、ヘクト、ダーナ、エメ",
+      "avg_logprob": -0.14643,
+      "no_speech_prob": 0.00681,
+      "compression_ratio": 8.47297,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.108",
+        "HIGH_COMPRESSION_RATIO:8.473"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 40.42,
+      "speaker": "",
+      "text": "もう決めたことなの私どうしても兄さんに会いたいお前がコミュートとして生きることを相手は望みやしない",
+      "avg_logprob": -0.47515,
+      "no_speech_prob": 0.0498,
+      "compression_ratio": 1.39726,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 40.42,
+      "end": 46.74,
+      "speaker": "",
+      "text": "もしももしもそうだとしても私は",
+      "avg_logprob": -0.47515,
+      "no_speech_prob": 0.0498,
+      "compression_ratio": 1.39726,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 46.74,
+      "end": 49.74,
+      "speaker": "",
+      "text": "山をへん",
+      "avg_logprob": -0.47515,
+      "no_speech_prob": 0.0498,
+      "compression_ratio": 1.39726,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 49.74,
+      "end": 51.74,
+      "speaker": "",
+      "text": "その子から離れなさい",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 5,
+      "start": 51.74,
+      "end": 53.74,
+      "speaker": "",
+      "text": "ユキ!",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 6,
+      "start": 53.74,
+      "end": 55.74,
+      "speaker": "",
+      "text": "ハッ!",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 7,
+      "start": 55.74,
+      "end": 57.74,
+      "speaker": "",
+      "text": "ユキ!",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 8,
+      "start": 57.74,
+      "end": 59.74,
+      "speaker": "",
+      "text": "ハッ!",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 9,
+      "start": 59.74,
+      "end": 61.74,
+      "speaker": "",
+      "text": "もう一度だけ聞く",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 10,
+      "start": 61.74,
+      "end": 64.74,
+      "speaker": "",
+      "text": "思い止まることはできないのかあるフィナー",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 11,
+      "start": 64.74,
+      "end": 66.74,
+      "speaker": "",
+      "text": "でも、もう一度だけ聞く",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 12,
+      "start": 66.74,
+      "end": 68.74,
+      "speaker": "",
+      "text": "もう一度だけ聞く",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 13,
+      "start": 68.74,
+      "end": 71.74,
+      "speaker": "",
+      "text": "思い止まることはできないのかあるフィナー",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 14,
+      "start": 71.74,
+      "end": 73.74,
+      "speaker": "",
+      "text": "もう一度だけ聞く",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 15,
+      "start": 73.74,
+      "end": 74.74,
+      "speaker": "",
+      "text": "思い止まることはできないのかあるフィナー",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 16,
+      "start": 74.74,
+      "end": 76.74,
+      "speaker": "",
+      "text": "もう一度だけ聞く",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 17,
+      "start": 76.74,
+      "end": 78.74,
+      "speaker": "",
+      "text": "思い止まることはできないのかあるフィナー",
+      "avg_logprob": -0.43706,
+      "no_speech_prob": 0.25883,
+      "compression_ratio": 3.28462,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:3.285"
+      ]
+    },
+    {
+      "segment_index": 18,
+      "start": 78.74,
+      "end": 80.74,
+      "speaker": "",
+      "text": "デンケル",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 19,
+      "start": 80.74,
+      "end": 82.74,
+      "speaker": "",
+      "text": "私は知りたいの",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 20,
+      "start": 82.74,
+      "end": 84.74,
+      "speaker": "",
+      "text": "二さんのこと",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 21,
+      "start": 84.74,
+      "end": 86.74,
+      "speaker": "",
+      "text": "私自身のこと",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 22,
+      "start": 86.74,
+      "end": 88.74,
+      "speaker": "",
+      "text": "それに未来のことを",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 23,
+      "start": 88.74,
+      "end": 90.74,
+      "speaker": "",
+      "text": "未来か",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 24,
+      "start": 90.74,
+      "end": 92.74,
+      "speaker": "",
+      "text": "今すべてが示された",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 25,
+      "start": 92.74,
+      "end": 94.74,
+      "speaker": "",
+      "text": "残された時をかけることに",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 26,
+      "start": 94.74,
+      "end": 96.74,
+      "speaker": "",
+      "text": "もはやためらえはない",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 27,
+      "start": 96.74,
+      "end": 98.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 28,
+      "start": 98.74,
+      "end": 100.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 29,
+      "start": 100.74,
+      "end": 102.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 30,
+      "start": 102.74,
+      "end": 104.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 31,
+      "start": 104.74,
+      "end": 106.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.31779,
+      "no_speech_prob": 0.10408,
+      "compression_ratio": 1.96753,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 32,
+      "start": 106.74,
+      "end": 108.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 33,
+      "start": 108.74,
+      "end": 110.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 34,
+      "start": 110.74,
+      "end": 112.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 35,
+      "start": 112.74,
+      "end": 114.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 36,
+      "start": 114.74,
+      "end": 116.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 37,
+      "start": 116.74,
+      "end": 118.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 38,
+      "start": 118.74,
+      "end": 120.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 39,
+      "start": 120.74,
+      "end": 122.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 40,
+      "start": 122.74,
+      "end": 124.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 41,
+      "start": 124.74,
+      "end": 126.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 42,
+      "start": 126.74,
+      "end": 128.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 43,
+      "start": 128.74,
+      "end": 130.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 44,
+      "start": 130.74,
+      "end": 132.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 45,
+      "start": 132.74,
+      "end": 134.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 46,
+      "start": 134.74,
+      "end": 135.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.07176,
+      "no_speech_prob": 0.01547,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 47,
+      "start": 135.74,
+      "end": 137.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 48,
+      "start": 137.74,
+      "end": 139.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 49,
+      "start": 139.74,
+      "end": 141.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 50,
+      "start": 141.74,
+      "end": 143.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 51,
+      "start": 143.74,
+      "end": 145.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 52,
+      "start": 145.74,
+      "end": 147.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 53,
+      "start": 147.74,
+      "end": 149.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 54,
+      "start": 149.74,
+      "end": 151.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 55,
+      "start": 151.74,
+      "end": 153.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 56,
+      "start": 153.74,
+      "end": 155.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 57,
+      "start": 155.74,
+      "end": 157.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 58,
+      "start": 157.74,
+      "end": 159.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 59,
+      "start": 159.74,
+      "end": 161.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 60,
+      "start": 161.74,
+      "end": 163.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    },
+    {
+      "segment_index": 61,
+      "start": 163.74,
+      "end": 164.74,
+      "speaker": "",
+      "text": "もう一度だけで",
+      "avg_logprob": -0.04348,
+      "no_speech_prob": 0.58305,
+      "compression_ratio": 8.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:8.750"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

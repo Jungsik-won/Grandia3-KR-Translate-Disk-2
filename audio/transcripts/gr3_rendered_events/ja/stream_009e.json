@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_009e",
+  "stream_key": "0x9E",
+  "sample_ids": [
+    "0x4B4",
+    "0x4B5"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_009e.flac",
+  "audio_sha256": "fda71174ca67aaf7b8efddb49c5b7ce09c918642b6e54cdc653cbec4e460513a",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "マッティクださい、皆さん。これからは、たしたちが向かうのは、バクラのためにとって、金断のち、せめて、あの子にだけは、ねえさん。 ルイリ。あのね、ルイリ。私。行くのね。ヘルアセルへ。信じ出たわ。いつかこうなるって。ルイリ。ずっと避かれてばかりでごめんなさい。 でも私、心をとざしたネーサーを見ているのがつなかったの。だから、届いてたわ。あなたの気持ちは。あなたと、アルフィナさんが思い出させてくれたの。ひたむきに愛を信じてた。あの頃の私を。 ネーサー。やっと前に進むのね。 よし。村のことは、信番しないで。即帳ってからじゃないけど、私があんまっちゃうから。 いってらっしゃい。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 25.0,
+      "speaker": "",
+      "text": "マッティクださい、皆さん。これからは、たしたちが向かうのは、バクラのためにとって、金断のち、せめて、あの子にだけは、ねえさん。",
+      "avg_logprob": -0.58185,
+      "no_speech_prob": 0.04135,
+      "compression_ratio": 1.47656,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 31.0,
+      "end": 57.0,
+      "speaker": "",
+      "text": "ルイリ。あのね、ルイリ。私。行くのね。ヘルアセルへ。信じ出たわ。いつかこうなるって。ルイリ。ずっと避かれてばかりでごめんなさい。",
+      "avg_logprob": -0.27935,
+      "no_speech_prob": 0.52787,
+      "compression_ratio": 1.48837,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 57.0,
+      "end": 81.0,
+      "speaker": "",
+      "text": "でも私、心をとざしたネーサーを見ているのがつなかったの。だから、届いてたわ。あなたの気持ちは。あなたと、アルフィナさんが思い出させてくれたの。ひたむきに愛を信じてた。あの頃の私を。",
+      "avg_logprob": -0.13233,
+      "no_speech_prob": 0.01168,
+      "compression_ratio": 1.52542,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 81.0,
+      "end": 88.0,
+      "speaker": "",
+      "text": "ネーサー。やっと前に進むのね。",
+      "avg_logprob": -0.37742,
+      "no_speech_prob": 0.0618,
+      "compression_ratio": 1.40288,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 91.0,
+      "end": 100.0,
+      "speaker": "",
+      "text": "よし。村のことは、信番しないで。即帳ってからじゃないけど、私があんまっちゃうから。",
+      "avg_logprob": -0.37742,
+      "no_speech_prob": 0.0618,
+      "compression_ratio": 1.40288,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 101.0,
+      "end": 104.0,
+      "speaker": "",
+      "text": "いってらっしゃい。",
+      "avg_logprob": -0.37742,
+      "no_speech_prob": 0.0618,
+      "compression_ratio": 1.40288,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

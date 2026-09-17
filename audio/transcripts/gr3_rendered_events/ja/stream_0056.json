@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0056",
+  "stream_key": "0x56",
+  "sample_ids": [
+    "0x3F2",
+    "0x3F3"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0056.flac",
+  "audio_sha256": "62fd3dbbc90ee81484e1cb1d9d1a978348727a321d81757649fa7a638ebc091d",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:4/16"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイ� このモテのか?プロペラの角度だって期待の中量だってもちろん翼の長さだってちゃんと計算して!逃さ! え?俺だって考えなしにこんなことしたわけじゃない? 飛んでる間に感じたんだ!この期待はもっと軽くできるって! だからって… なぁ、ゆっけい!本当にこいつでできると思うか? どうしたんだ?急に? 飛行機であのおみごいをなしとげたのは、俺の知る限りたった一人だけだ。 飛行を…趣味とか? 今まではそうだった! けど、これからは俺たちが週末に続くんだ! このフライトユニットが必ず空へ道びいてくれる! やっきー!イランドショーさかり! やばい!ミランドだ! ほいど!あ!きたね! ほいど!あ!きたね!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "ヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイヘイ�",
+      "avg_logprob": -0.04656,
+      "no_speech_prob": 0.08337,
+      "compression_ratio": 19.43478,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.020",
+        "HIGH_COMPRESSION_RATIO:19.435"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 38.84,
+      "speaker": "",
+      "text": "このモテのか?プロペラの角度だって期待の中量だってもちろん翼の長さだってちゃんと計算して!逃さ!",
+      "avg_logprob": -0.46982,
+      "no_speech_prob": 0.30827,
+      "compression_ratio": 1.49756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 38.84,
+      "end": 44.0,
+      "speaker": "",
+      "text": "え?俺だって考えなしにこんなことしたわけじゃない?",
+      "avg_logprob": -0.46982,
+      "no_speech_prob": 0.30827,
+      "compression_ratio": 1.49756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 44.0,
+      "end": 50.0,
+      "speaker": "",
+      "text": "飛んでる間に感じたんだ!この期待はもっと軽くできるって!",
+      "avg_logprob": -0.46982,
+      "no_speech_prob": 0.30827,
+      "compression_ratio": 1.49756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 50.0,
+      "end": 53.0,
+      "speaker": "",
+      "text": "だからって…",
+      "avg_logprob": -0.46982,
+      "no_speech_prob": 0.30827,
+      "compression_ratio": 1.49756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 54.0,
+      "end": 61.0,
+      "speaker": "",
+      "text": "なぁ、ゆっけい!本当にこいつでできると思うか?",
+      "avg_logprob": -0.49656,
+      "no_speech_prob": 0.04191,
+      "compression_ratio": 1.29762,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 61.0,
+      "end": 63.0,
+      "speaker": "",
+      "text": "どうしたんだ?急に?",
+      "avg_logprob": -0.49656,
+      "no_speech_prob": 0.04191,
+      "compression_ratio": 1.29762,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 63.0,
+      "end": 71.0,
+      "speaker": "",
+      "text": "飛行機であのおみごいをなしとげたのは、俺の知る限りたった一人だけだ。",
+      "avg_logprob": -0.49656,
+      "no_speech_prob": 0.04191,
+      "compression_ratio": 1.29762,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 71.0,
+      "end": 76.0,
+      "speaker": "",
+      "text": "飛行を…趣味とか?",
+      "avg_logprob": -0.49656,
+      "no_speech_prob": 0.04191,
+      "compression_ratio": 1.29762,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 77.0,
+      "end": 81.0,
+      "speaker": "",
+      "text": "今まではそうだった!",
+      "avg_logprob": -0.37448,
+      "no_speech_prob": 0.01322,
+      "compression_ratio": 1.19531,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 81.0,
+      "end": 86.0,
+      "speaker": "",
+      "text": "けど、これからは俺たちが週末に続くんだ!",
+      "avg_logprob": -0.37448,
+      "no_speech_prob": 0.01322,
+      "compression_ratio": 1.19531,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 11,
+      "start": 86.0,
+      "end": 92.0,
+      "speaker": "",
+      "text": "このフライトユニットが必ず空へ道びいてくれる!",
+      "avg_logprob": -0.37448,
+      "no_speech_prob": 0.01322,
+      "compression_ratio": 1.19531,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 12,
+      "start": 107.0,
+      "end": 111.0,
+      "speaker": "",
+      "text": "やっきー!イランドショーさかり!",
+      "avg_logprob": -0.25125,
+      "no_speech_prob": 0.00173,
+      "compression_ratio": 6.72917,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:6.729"
+      ]
+    },
+    {
+      "segment_index": 13,
+      "start": 111.0,
+      "end": 115.0,
+      "speaker": "",
+      "text": "やばい!ミランドだ!",
+      "avg_logprob": -0.25125,
+      "no_speech_prob": 0.00173,
+      "compression_ratio": 6.72917,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:6.729"
+      ]
+    },
+    {
+      "segment_index": 14,
+      "start": 118.0,
+      "end": 121.0,
+      "speaker": "",
+      "text": "ほいど!あ!きたね!",
+      "avg_logprob": -0.25125,
+      "no_speech_prob": 0.00173,
+      "compression_ratio": 6.72917,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:6.729"
+      ]
+    },
+    {
+      "segment_index": 15,
+      "start": 121.0,
+      "end": 126.0,
+      "speaker": "",
+      "text": "ほいど!あ!きたね!",
+      "avg_logprob": -0.54037,
+      "no_speech_prob": 0.02512,
+      "compression_ratio": 0.77419,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

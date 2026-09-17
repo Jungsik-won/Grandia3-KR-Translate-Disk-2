@@ -1,0 +1,351 @@
+id,category,sub_category,source_file,inner_file,record_id,scene_id,string_index,original_offset,pointer_offset,jp_raw_hex,jp_text,kr_text,kr_encoded_hex,speaker,control_codes,status,game_verified,translator_note,review_note,canonical_jp_text,reference_glyph_status,reference_glyphs_used,image_glyph_status,image_glyphs_used
+SCN_00212000_00740000_0028,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,27,0x005387b1,0x005387ac,90 79 46 21 93 7e bb cc 3e f0 92 94 99 08 9c c2 9a 7e 8c bd c2 93 46 09 0e 00 02 00 08 9c 95 21 c4 3d f0 26 f0 c5 eb 0d ff 00,"そう…、だからオレたちで
+なんとかするんだ…<CTRL:09 0E 00 02 00>
+なっ、アルフィナ","그래… 그러니까 우리끼리
+어떻게든 해내는 거야…<CTRL:09 0E 00 02 00>
+그렇지, 알피나?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":13,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""09 0e 00 02 00"",""kind"":""INLINE_09"",""argument"":2},{""offset"":28,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"そう<G0026><G0001>だからオレたちで
+なんとかするんだ<G0026><CTRL:09 0E 00 02 00>
+なっ<G0001>アルフィナ",SUPPORTED,"0001,0026",NONE,
+SCN_00212000_00740000_0031,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,30,0x005389af,0x005389aa,75 bc 7f 9a 21 7d a2 88 c2 09 08 46 93 95 98 88 c4 3d f0 26 f0 c5 eb 43 0d ff 00,"ありがと、おばさん<CTRL:09>
+…だってさアルフィナ！","고마워요, 아주머니.<CTRL:09>
+…그렇대, 알피나!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":9,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":24,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"ありがと<G0001>おばさん<CTRL:09>
+<G0026>だってさアルフィナ！",SUPPORTED,"0001,0026",NONE,
+SCN_00212000_00740000_0036,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,35,0x0053940e,0x00539409,9c c2 93 46 09 08 46 c1 f3 77 98 bd 44 0d ff 00,"なんだ…<CTRL:09>
+…泣いてる？","뭐야…<CTRL:09>
+…울고 있어?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":4,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":5,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":13,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"なんだ<G0026><CTRL:09>
+<G0026><G03E1>いてる？",SUPPORTED,"0026,03E1",NONE,
+SCN_00212000_00740000_0037,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,36,0x00539774,0x0053976f,4e 94 f2 b0 bc a0 d0 f3 4f 7e 46 09 0e 00 08 00 08 46 93 84 9b 9c c2 7e 08 a7 92 bc a0 e8 47 e9 a1 21 79 b0 82 08 94 f2 b0 bb 9c 7e 95 92 b1 92 77 93 9c 46 0d ff 00,"「始まりの詩」か…<CTRL:09 0E 00 08 00>
+…だけどなんか
+ふたりのデートは、うまく
+始まらなかったみたいだな…","『시작의 시』인가…<CTRL:09 0E 00 08 00>
+…그런데 뭔가
+두 사람의 데이트는
+순조롭게 시작되지 않은 모양이네…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0b 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":11},{""offset"":11,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":16,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":24,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":37,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":52,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_12; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"<G002E><G02E4>まりの<G03F0><G002F>か<G0026><CTRL:09 0E 00 08 00>
+<G0026>だけどなんか
+ふたりのデートは<G0001>うまく
+<G02E4>まらなかったみたいだな<G0026>",SUPPORTED,"0001,0026,002E,002F,02E4",SUPPORTED,03F0
+SCN_00212000_00740000_0048,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,47,0x0053a52b,0x0053a526,82 f2 b0 be 92 95 98 21 82 f0 79 b4 c2 7e 43 08 db c6 cd 9c c2 98 3e f6 8a 82 9c 77 e4 43 07 0e 00 02 00 84 9b 21 e9 d4 22 f0 22 f0 c6 35 f0 33 f0 ea cf 9c bb 08 82 f0 95 98 b6 95 98 b4 77 77 46 09 0e 00 07 00 08 54 f1 e5 f1 a0 e3 34 f0 3a f0 db 93 8f 43 08 88 c3 43 21 83 f0 bd 7e 21 83 f0 bb 9c 77 7e 41 0d ff 00,"頼まれたって、買うもんか！
+スイカなんて欲しくないッ！<CTRL:07 0E 00 02 00>けど、トゲパパイヤモドキなら
+買ってやってもいい…<CTRL:09 0E 00 07 00>
+最後のチャンスだよ！
+さァ！、売るか、売らないか！","부탁받아도 안 사!
+수박 따위는 필요 없어!<CTRL:07 0E 00 02 00>하지만 가시 파파야 비슷한 거라면
+사 줄 수도 있어…<CTRL:09 0E 00 07 00>
+마지막 기회야!
+자! 팔 거야, 말 거야!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 07 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":7},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":30,""raw_hex"":""07 0e 00 02 00"",""kind"":""INLINE_07"",""argument"":2},{""offset"":53,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":65,""raw_hex"":""09 0e 00 07 00"",""kind"":""INLINE_09"",""argument"":7},{""offset"":70,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":85,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":102,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_08; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"頼まれたって<G0001><G0132>うもんか！
+スイカなんて<G05CE>しくないッ！<CTRL:07 0E 00 02 00>けど<G0001>トゲパパイヤモドキなら
+<G0132>ってやってもいい<G0026><CTRL:09 0E 00 07 00>
+<G01D4>後のチャンスだ<G006F>！
+さァ！<G0001><G0133>るか<G0001><G0133>らないか<G0021>",SUPPORTED,"0001,0021,0026,006F,0132,0133,01D4,05CE",NONE,
+SCN_00212000_00740000_0049,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,48,0x0053aa39,0x0053aa34,e2 f0 e3 f0 7e 46 09 08 90 79 93 21 c4 3d f0 26 f0 c5 eb 08 90 86 a0 e9 2f f0 e9 da 36 f0 47 db 9c c2 98 08 9b 79 44 0d ff 00,"果物か…<CTRL:09>
+そうだ、アルフィナ
+そこのトマトジュースなんて
+どう？","과일인가…<CTRL:09>
+그렇지, 알피나.
+저기 있는 토마토 주스는
+어때?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":6,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":7,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":19,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":35,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"果物か<G0026><CTRL:09>
+そうだ<G0001>アルフィナ
+そこのトマトジュースなんて
+どう？",SUPPORTED,"0001,0026",NONE,
+SCN_00212000_00740000_0054,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,53,0x0053ad44,0x0053ad3f,b0 7e 8e bf 95 98 43 08 96 77 99 9d 21 21 f0 c4 88 c2 a1 46 09 0e 00 03 00 08 71 f2 8a ce cf 43 21 b0 88 9d 08 8a 9c a5 92 71 f2 8a ce cf 93 9c 43 0d ff 00,"まかせろって！
+ついでに、バアさんは…<CTRL:09 0E 00 03 00>
+干しガキ！、まさに
+しなびた干しガキだな！","맡겨 두라니까!
+그럼 할머니는…<CTRL:09 0E 00 03 00>
+말린 감! 정말이지
+쭈글쭈글한 말린 감 같네!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":7,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":20,""raw_hex"":""09 0e 00 03 00"",""kind"":""INLINE_09"",""argument"":3},{""offset"":25,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":49,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"まかせろって！
+ついでに<G0001>バアさんは<G0026><CTRL:09 0E 00 03 00>
+干しガキ！<G0001>まさに
+しなびた干しガキだな！",SUPPORTED,"0001,0026",NONE,
+SCN_00212000_00740000_0055,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,54,0x0053afa8,0x0053afa3,99 b4 88 46 21 90 a0 46 09 08 c4 3d f0 26 f0 c5 eb a1 21 4d f4 a0 b0 b0 99 08 77 77 c2 8b b5 9c 77 7e 9c 46 08 93 95 98 46 21 8b b7 79 a8 c2 9d 46 0d ff 00,"でもさ…、その…<CTRL:09>
+アルフィナは、あのままで
+いいんじゃないかな…
+だって…、じゅうぶんに…","하지만 말이야… 그…<CTRL:09>
+알피나는 지금 그대로도
+괜찮지 않을까…
+그러니까… 충분히…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":8,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":9,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":49,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"でもさ<G0026><G0001>その<G0026><CTRL:09>
+アルフィナは<G0001><G043D>のままで
+いいんじゃないかな<G0026>
+だって<G0026><G0001>じ<G0097>うぶんに<G0026>",SUPPORTED,"0001,0026,043D",SUPPORTED,0097
+SCN_00212000_00740000_0059,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,58,0x0053bcb9,0x0053bcb4,75 95 21 90 a0 95 21 cc 3e f0 46 43 09 0e 00 08 00 08 cd 2d f0 e3 34 f0 a1 d9 f0 7d f0 9c c2 93 ba 9f 95 43 08 a1 a1 a1 95 46 43 0d ff 00,"あっ、そのっ、オレ…！<CTRL:09 0E 00 08 00>
+カボチャは苦手なんだよねっ！
+はははっ…！","아, 그게, 나는…!<CTRL:09 0E 00 08 00>
+호박은 좀 못 먹거든!
+하하핫…!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":12,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":17,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":43,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"あっ<G0001>そのっ<G0001>オレ<G0026>！<CTRL:09 0E 00 08 00>
+カボチャは苦手なんだよねっ！
+はははっ<G0026>！",SUPPORTED,"0001,0026",NONE,
+SCN_00212000_00740000_0060,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,59,0x0053bd30,0x0053bd2b,cf ef d5 cb 42 09 0e 00 08 00 08 cc 21 cc 3e f0 21 7d c4 f5 77 95 a3 77 99 88 43 08 b0 92 9f 95 43 21 88 ba 9c bb 41 08 42 f1 86 79 21 c4 3d f0 26 f0 c5 eb 43 0d ff 00,"キノコォ？<CTRL:09 0E 00 08 00>
+オ、オレ、お腹いっぱいでさ！
+またねっ！、さよなら！
+行こう、アルフィナ！","버섯~?<CTRL:09 0E 00 08 00>
+나, 나는 배가 꽉 차서 말이야!
+또 보자! 잘 있어!
+가자, 알피나!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":5,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":53,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"キノコォ<G0022><CTRL:09 0E 00 08 00>
+オ<G0001>オレ<G0001>お<G0584>いっ<G0083>いでさ！
+またねっ！<G0001>さよなら<G0021>
+行こう<G0001>アルフィナ！",SUPPORTED,"0001,0021,0022,0083,0584",NONE,
+SCN_00212000_00740000_0094,SCENARIO,scenario_message,DATA/00212000.MDZ,DATA/00212000.MDT,0x00740000,00212000,93,0x0053f38d,0x0053f388,aa 7a 21 32 f0 3a f0 e8 c5 a0 7d b1 b6 85 7e 08 9b be 9b be 46 44 07 0e 00 0b 00 46 9c c2 93 90 be 21 77 f2 d4 f8 44 09 0e 00 08 00 08 46 f2 6b f1 90 f3 3e f1 89 f2 67 f2 af f3 4e d5 3f f0 3c f0 71 4f 46 09 0e 00 06 00 08 4e cf 3e f0 c6 67 f1 e1 f3 5f 62 67 5a 65 4f 42 0d ff 00,"へぇ、メンディのおみやげか
+どれどれ…？<CTRL:07 0E 00 0B 00>…なんだそれ、包丁？<CTRL:09 0E 00 08 00>
+激烈害虫駆除機「コロリX」…<CTRL:09 0E 00 06 00>
+「キレイ水君FINAL」？","헤에, 멘디의 선물인가?
+어디 보자…<CTRL:07 0E 00 0B 00>…뭐야 그거, 식칼?<CTRL:09 0E 00 08 00>
+초강력 해충 박멸기 ‘코로리 X’…<CTRL:09 0E 00 06 00>
+‘깨끗한 물 군 FINAL’?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""07 0e 00 0b 00"",""kind"":""INLINE_07"",""argument"":11},{""offset"":39,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":44,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":68,""raw_hex"":""09 0e 00 06 00"",""kind"":""INLINE_09"",""argument"":6},{""offset"":73,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":90,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"へ<G005A><G0001>メンディのおみやげか
+どれどれ<G0026>？<CTRL:07 0E 00 0B 00><G0026>なんだそれ<G0001>包<G0804>？<CTRL:09 0E 00 08 00>
+激烈<G03B0>虫<G02D9><G02B7>機<G002E>コロリ<G0051><G002F><G0026><CTRL:09 0E 00 06 00>
+<G002E>キレイ水君<G003F><G0042><G0047><G003A><G0045><G002F><G0022>",SUPPORTED,"0001,0022,0026,002E,002F,005A,03B0",SUPPORTED,"003A,003F,0042,0045,0047,0051,02B7,02D9,0804"
+SCN_00212100_00740000_0015,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,14,0x00286d1b,0x00286d16,75 46 21 77 b6 21 94 b9 95 9a 08 d9 36 f0 30 f0 e4 e9 a0 da f0 21 44 f4 7b 98 98 88 43 09 0e 00 08 00 08 9c 74 21 54 f2 a1 21 d9 36 f0 30 f0 e4 e9 a0 69 f5 08 42 f1 95 98 7e bb 9d 8a ba 79 8f 44 0d ff 00,"あ…、いや、ちょっと
+シュミットの事、考えててさ！<CTRL:09 0E 00 08 00>
+なぁ、花は、シュミットの店
+行ってからにしようよ？","아… 아니, 그냥 좀
+슈미트 생각을 하고 있었어!<CTRL:09 0E 00 08 00>
+저기, 꽃은 슈미트 가게에
+다녀온 다음에 보러 가면 안 될까?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":29,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":34,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":52,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":65,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"あ<G0026><G0001>いや<G0001>ちょっと
+シュミットの事<G0001>考えててさ！<CTRL:09 0E 00 08 00>
+な<G0054><G0001>花は<G0001>シュミットの<G0529>
+行ってからにしよう<G006F>？",SUPPORTED,"0001,0026,0054,006F,0529",NONE,
+SCN_00212100_00740000_0016,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,15,0x00286da3,0x00286d9e,75 75 46 09 0e 00 06 00 08 95 98 21 77 b6 21 90 c2 9c da f0 9c 77 43 09 0e 00 08 00 08 39 f1 da f0 7f 8c c2 93 bb 21 c4 3d f0 26 f0 c5 eb a0 08 3d f4 80 9c 28 f3 9d 42 f1 86 79 8f 43 0d ff 00,"ああ…<CTRL:09 0E 00 06 00>
+って、いや、そんな事ない！<CTRL:09 0E 00 08 00>
+用事がすんだら、アルフィナの
+好きな所に行こうよ！","아아…<CTRL:09 0E 00 06 00>
+아니, 그런 건 아니야!<CTRL:09 0E 00 08 00>
+볼일이 끝나면 알피나가
+가고 싶은 곳으로 가자!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":3,""raw_hex"":""09 0e 00 06 00"",""kind"":""INLINE_09"",""argument"":6},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":28,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":47,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":61,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"ああ<G0026><CTRL:09 0E 00 06 00>
+って<G0001>いや<G0001>そんな事ない！<CTRL:09 0E 00 08 00>
+用事がすんだら<G0001>アルフィナの
+好きな<G0348>に行こう<G006F>！",SUPPORTED,"0001,0026,006F,0348",NONE,
+SCN_00212100_00740000_0018,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,17,0x00286e9b,0x00286e96,90 79 7e 9c 74 46 44 09 0e 00 08 00 08 30 f0 3b f0 3a f0 e2 9d a1 08 b4 95 92 77 9c 77 9a a1 f1 79 8f 0d ff 00,"そうかなぁ…？<CTRL:09 0E 00 08 00>
+ミランダには
+もったいないと思うよ","그런가…?<CTRL:09 0E 00 08 00>
+미란다에게는
+아깝다고 생각해.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0b 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":11},{""offset"":7,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":34,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_12; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"そうかな<G0054><G0026>？<CTRL:09 0E 00 08 00>
+ミランダには
+もったいないと思う<G006F>",SUPPORTED,"0026,0054,006F",NONE,
+SCN_00212100_00740000_0019,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,18,0x00286f22,0x00286f1d,90 79 93 9f 46 09 0e 00 01 00 08 75 c2 9c 30 f0 3b f0 3a f0 e2 21 a1 f0 92 da f0 9c 77 46 0d ff 00,"そうだね…<CTRL:09 0E 00 01 00>
+あんなミランダ、見た事ない…","그렇네…<CTRL:09 0E 00 01 00>
+그런 미란다는 본 적이 없어…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":5,""raw_hex"":""09 0e 00 01 00"",""kind"":""INLINE_09"",""argument"":1},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":30,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"そうだね<G0026><CTRL:09 0E 00 01 00>
+あんなミランダ<G0001>見た事ない<G0026>",SUPPORTED,"0001,0026",NONE,
+SCN_00212100_00740000_0022,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,21,0x0028701e,0x00287019,75 21 75 75 46 07 0e 00 02 00 88 95 80 a1 21 cc 3e f0 a0 39 f1 da f0 9d 08 96 80 75 c0 8e 94 b5 95 92 c2 93 08 4d f4 b9 f1 a1 21 21 f0 e4 e3 3c f0 08 54 f2 c1 a1 f0 98 95 98 82 be ba 43 0d ff 00,"あ、ああ…<CTRL:07 0E 00 02 00>さっきは、オレの用事に
+つきあわせちゃったんだ
+あ度は、バッチリ
+花を見てってくれよ！","아, 아아…<CTRL:07 0E 00 02 00>아까는 내 볼일에
+어울리게 해서 미안했어.
+이번에는 제대로
+꽃을 구경시켜 줄게!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":5,""raw_hex"":""07 0e 00 02 00"",""kind"":""INLINE_07"",""argument"":2},{""offset"":24,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":49,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":62,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"あ<G0001>ああ<G0026><CTRL:07 0E 00 02 00>さっきは<G0001>オレの用事に
+つきあわせちゃったんだ
+<G043D>度は<G0001>バッチリ
+花を見てってくれよ！",SUPPORTED,"0001,0026,043D",NONE,
+SCN_00212100_00740000_0029,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,28,0x00287386,0x00287381,75 75 46 09 0e 00 0b 00 08 99 b4 21 9b 79 8a 98 aa f4 a0 59 f1 95 98 08 54 f2 7f 3d f4 80 9c a0 7e 9c 08 61 f2 9d a1 7b f0 7e bb 9c 77 eb f2 97 f2 93 8f 46 0d ff 00,"ああ…<CTRL:09 0E 00 0B 00>
+でも、どうして女の子って
+花が好きなのかな
+男には分からない世界だよ…","아아…<CTRL:09 0E 00 0B 00>
+그런데 여자애들은 왜
+꽃을 좋아하는 걸까?
+남자에게는 알 수 없는 세계야…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":3,""raw_hex"":""09 0e 00 0b 00"",""kind"":""INLINE_09"",""argument"":11},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":34,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":52,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"ああ<G0026><CTRL:09 0E 00 0B 00>
+でも<G0001>どうして女の子って
+花が好きなのかな
+男には分からない世界だ<G006F><G0026>",SUPPORTED,"0001,0026,006F",NONE,
+SCN_00212100_00740000_0032,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,31,0x002874e1,0x002874dc,c4 3d f0 26 f0 c5 eb 46 08 54 f2 7f 3d f4 80 93 95 92 ba 9c 46 09 0e 00 04 00 08 46 9c c2 98 08 27 f1 94 9a f0 c2 99 bd b1 f0 a3 f1 8b b5 9c 77 43 07 0e 00 07 00 a9 f4 84 9c 80 b5 43 08 90 be 99 21 b0 92 4d f0 8b f6 9d 84 f1 bd c2 93 43 0d ff 00,"アルフィナ…
+花が好きだったよな…<CTRL:09 0E 00 04 00>
+…なんて
+落ち込んでる場合じゃない！<CTRL:07 0E 00 07 00>助けなきゃ！
+それで、また一緒に来るんだ！","알피나…
+꽃을 좋아했었지…<CTRL:09 0E 00 04 00>
+…라니,
+풀이 죽어 있을 때가 아니야!<CTRL:07 0E 00 07 00>도와야 해!
+그리고 다시 함께 와야 해!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 05 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":5},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":21,""raw_hex"":""09 0e 00 04 00"",""kind"":""INLINE_09"",""argument"":4},{""offset"":26,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":31,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":49,""raw_hex"":""07 0e 00 07 00"",""kind"":""INLINE_07"",""argument"":7},{""offset"":61,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":79,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_06; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"アルフィナ<G0026>
+花が好きだったよな<G0026><CTRL:09 0E 00 04 00>
+<G0026>なんて
+落ち込んでる場合じゃない！<CTRL:07 0E 00 07 00><G0499>けなきゃ！
+それで<G0001>また一<G061B>に来るんだ！",SUPPORTED,"0001,0026,0499,061B",NONE,
+SCN_00212100_00740000_0039,SCENARIO,scenario_message,DATA/00212100.MDZ,DATA/00212100.MDT,0x00740000,00212100,38,0x0028795f,0x0028795a,75 75 43 21 4d f4 b9 f1 a1 cc 3e f0 7f 08 c4 3d f0 26 f0 c5 eb 9d 46 09 0e 00 02 00 08 46 95 9a 21 9c c2 99 b4 9c 77 43 08 dc f1 2d f1 21 b0 92 84 f1 ba 79 9c 43 0d ff 00,"ああ！、あ度はオレが
+アルフィナに…<CTRL:09 0E 00 02 00>
+…っと、なんでもない！
+絶対、また来ような！","아아! 이번에는 내가
+알피나에게…<CTRL:09 0E 00 02 00>
+…아니, 아무것도 아니야!
+꼭 다시 오자!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":13,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""09 0e 00 02 00"",""kind"":""INLINE_09"",""argument"":2},{""offset"":28,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":40,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":54,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"ああ！<G0001><G043D>度はオレが
+アルフィナに<G0026><CTRL:09 0E 00 02 00>
+<G0026>っと<G0001>なんでもない！
+絶対<G0001>また来ような！",SUPPORTED,"0001,0026,043D",NONE,
+SCN_00212200_00740000_0018,SCENARIO,scenario_message,DATA/00212200.MDZ,DATA/00212200.MDT,0x00740000,00212200,17,0x0021bd46,0x0021bd41,79 c0 46 21 e9 f6 d2 f4 93 9f 43 09 0e 00 03 00 08 90 c2 9c 32 f0 d9 7f 08 7d 50 f5 9d c3 f4 ab bb be bd 9c bb 08 9b c2 9c 6c f4 da f0 99 b4 7f c2 a2 be bd ba 9c 0d ff 00,"うわ…、豪勢だね！<CTRL:09 0E 00 03 00>
+そんなメシが
+お昼に食べられるなら
+どんな仕事でもがんばれるよな","우와… 푸짐하네!<CTRL:09 0E 00 03 00>
+이런 식사를
+점심마다 먹을 수 있다면
+무슨 일이든 열심히 할 수 있겠다.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":11,""raw_hex"":""09 0e 00 03 00"",""kind"":""INLINE_09"",""argument"":3},{""offset"":16,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":24,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":37,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":54,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"うわ<G0026><G0001>豪<G04C2>だね！<CTRL:09 0E 00 03 00>
+そんなメシが
+お<G0510>に食べられるなら
+どんな仕事でもがんばれるよな",SUPPORTED,"0001,0026,04C2",SUPPORTED,0510
+SCN_00212200_00740000_0026,SCENARIO,scenario_message,DATA/00212200.MDZ,DATA/00212200.MDT,0x00740000,00212200,25,0x0021ca0f,0x0021ca0a,2c f0 3a f0 e9 93 21 9c c2 7e 08 bf f1 8a 77 aa f0 a0 9c f1 77 7f 8c bd 46 09 0e 00 02 00 08 c2 8b b5 21 94 b9 95 9a 08 7d 8b b5 b0 88 8e 98 b4 bb 7d 79 7e 9c 0d ff 00,"ホントだ、なんか
+新しい家の匂いがする…<CTRL:09 0E 00 02 00>
+んじゃ、ちょっと
+おじゃまさせてもらおうかな","정말이네, 뭔가
+새집 냄새가 나…<CTRL:09 0E 00 02 00>
+그럼 잠깐
+실례 좀 할까.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""09 0e 00 02 00"",""kind"":""INLINE_09"",""argument"":2},{""offset"":30,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":53,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"ホントだ<G0001>なんか
+<G023F>しい家の<G021C>いがする<G0026><CTRL:09 0E 00 02 00>
+んじゃ<G0001>ちょっと
+おじゃまさせてもらおうかな",SUPPORTED,"0001,0026,023F",SUPPORTED,021C
+SCN_00212200_00740000_0030,SCENARIO,scenario_message,DATA/00212200.MDZ,DATA/00212200.MDT,0x00740000,00212200,29,0x0021cd5c,0x0021cd57,7d 77 21 cc 3e f0 a1 7d b0 7b a0 08 9f f0 94 b5 c2 8b b5 9c 77 8f 43 09 0e 00 01 00 08 95 98 21 9f ae 84 98 c2 a0 7e 46 44 0d ff 00,"おい、オレはおまえの
+父ちゃんじゃないよ！<CTRL:09 0E 00 01 00>
+って、ねぼけてんのか…？","야, 나는 네
+아빠가 아니야!<CTRL:09 0E 00 01 00>
+잠결에 헷갈린 건가…?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""09 0e 00 01 00"",""kind"":""INLINE_09"",""argument"":1},{""offset"":28,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":41,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"おい<G0001>オレはおまえの
+<G014F>ちゃんじゃない<G006F>！<CTRL:09 0E 00 01 00>
+って<G0001>ねぼけてんのか<G0026>？",SUPPORTED,"0001,0026,006F",SUPPORTED,014F
+SCN_00212200_00740000_0031,SCENARIO,scenario_message,DATA/00212200.MDZ,DATA/00212200.MDT,0x00740000,00212200,30,0x0021ce37,0x0021ce32,4d f5 77 77 c2 93 9c 09 0e 00 01 00 08 46 99 b4 88 21 c9 f4 9f f0 9a 30 f6 a8 95 98 08 80 f3 8a 98 30 f6 a8 c2 93 44 0d ff 00,"仲いいんだな<CTRL:09 0E 00 01 00>
+…でもさ、親父と遊ぶって
+何して遊ぶんだ？","사이가 좋구나.<CTRL:09 0E 00 01 00>
+…그런데 아버지와 논다니,
+뭘 하면서 노는 거야?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":7,""raw_hex"":""09 0e 00 01 00"",""kind"":""INLINE_09"",""argument"":1},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":28,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":39,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"仲いいんだな<CTRL:09 0E 00 01 00>
+<G0026>でもさ<G0001>親<G014F>と遊ぶって
+何して遊ぶんだ？",SUPPORTED,"0001,0026",SUPPORTED,014F
+SCN_00212200_00740000_0032,SCENARIO,scenario_message,DATA/00212200.MDZ,DATA/00212200.MDT,0x00740000,00212200,31,0x0021cebd,0x0021ceb8,46 b0 74 9c 09 0e 00 02 00 08 2a f4 8c f4 7e 46 21 9c c2 7e 77 77 9c 0d ff 00,"…まぁな<CTRL:09 0E 00 02 00>
+肩車か…、なんかいいな","…뭐, 그렇지.<CTRL:09 0E 00 02 00>
+목말이라… 왠지 좋네.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":4,""raw_hex"":""09 0e 00 02 00"",""kind"":""INLINE_09"",""argument"":2},{""offset"":9,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":23,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"<G0026>ま<G0054>な<CTRL:09 0E 00 02 00>
+肩<G047C>か<G0026><G0001>なんかいいな",SUPPORTED,"0001,0026,0054",SUPPORTED,047C
+SCN_00213100_00740000_0005,SCENARIO,scenario_message,DATA/00213100.MDZ,DATA/00213100.MDT,0x00740000,00213100,4,0x00264c74,0x00264c6f,93 9f 46 21 c4 3a f0 26 f0 cb d2 a0 b2 f1 99 88 7b 08 75 be 93 84 33 f0 3a f0 db e1 47 7f 77 bd 8a 46 09 0e 00 08 00 08 84 9b 21 db cf 3d f0 95 98 a0 7f 80 f3 9c a0 7e 08 c6 2f f0 c6 e3 7b f0 7e 95 98 9c 77 c2 93 ba 9c 0d ff 00,"だね…、アンフォグの森でさえ
+あれだけモンスターがいるし…<CTRL:09 0E 00 08 00>
+けど、スキルってのが何なのか
+イマイチ分かってないんだよな","그렇지… 안포그의 숲에도
+몬스터가 그렇게 많으니까…<CTRL:09 0E 00 08 00>
+그런데 스킬이라는 게 뭔지는
+아직 잘 모르겠단 말이야.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":17,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":34,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":39,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":56,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":73,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"だね<G0026><G0001>アンフォグの森でさえ
+あれだけモンスターがいるし<G0026><CTRL:09 0E 00 08 00>
+けど<G0001>スキルってのが何なのか
+イマイチ分かってないんだよな",SUPPORTED,"0001,0026",NONE,
+SCN_00213100_00740000_0016,SCENARIO,scenario_message,DATA/00213100.MDZ,DATA/00213100.MDT,0x00740000,00213100,15,0x002659fd,0x002659f8,92 f1 e3 f0 b6 9d f0 7f 08 9c bb c2 99 bd 46 09 0e 00 0b 00 08 db cf 3d f0 9d a8 f3 8c bd 9d f0 b4 75 bd 9c 08 46 99 f0 c2 99 b1 bd 7e 44 0d ff 00,"巻物や本が
+ならんでる…<CTRL:09 0E 00 0B 00>
+スキルに関する本もあるな
+…読んでみるか？","두루마리와 책이
+늘어서 있어…<CTRL:09 0E 00 0B 00>
+스킬에 관한 책도 있네.
+…읽어 볼까?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":15,""raw_hex"":""09 0e 00 0b 00"",""kind"":""INLINE_09"",""argument"":11},{""offset"":20,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":46,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"巻物や本が
+ならんでる<G0026><CTRL:09 0E 00 0B 00>
+スキルに<G03C8>する本もあるな
+<G0026>読んでみるか？",SUPPORTED,0026,SUPPORTED,03C8
+SCN_00213100_00740000_0033,SCENARIO,scenario_message,DATA/00213100.MDZ,DATA/00213100.MDT,0x00740000,00213100,32,0x002669d0,0x002669cb,92 f1 e3 f0 b6 9d f0 7f 08 9c bb c2 99 bd 46 09 0e 00 0b 00 08 db cf 3d f0 9d a8 f3 8c bd 9d f0 b4 75 bd 9c 08 46 99 f0 c2 99 b1 bd 7e 44 0d ff 00,"巻物や本が
+ならんでる…<CTRL:09 0E 00 0B 00>
+スキルに関する本もあるな
+…読んでみるか？","두루마리와 책이
+늘어서 있어…<CTRL:09 0E 00 0B 00>
+스킬에 관한 책도 있네.
+…읽어 볼까?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":15,""raw_hex"":""09 0e 00 0b 00"",""kind"":""INLINE_09"",""argument"":11},{""offset"":20,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":36,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":46,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"巻物や本が
+ならんでる<G0026><CTRL:09 0E 00 0B 00>
+スキルに<G03C8>する本もあるな
+<G0026>読んでみるか？",SUPPORTED,0026,SUPPORTED,03C8
+SCN_00214000_00740000_0005,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,4,0x00729269,0x00729264,8c 85 7a 43 21 53 50 50 9d f0 b4 46 43 08 9c c2 98 22 f0 40 f0 47 9c c2 93 46 09 0e 00 03 00 08 88 8c 7f d9 36 f0 30 f0 e4 e9 a0 08 bf f1 e7 f3 ca 3a f0 da 3a f0 93 9c 43 0d ff 00,"すげぇ！、200本も…！
+なんてパワーなんだ…<CTRL:09 0E 00 03 00>
+さすがシュミットの
+新型エンジンだな！","대단해! 200개나…!
+엄청난 출력이야…<CTRL:09 0E 00 03 00>
+역시 슈미트의
+신형 엔진이네!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":13,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":26,""raw_hex"":""09 0e 00 03 00"",""kind"":""INLINE_09"",""argument"":3},{""offset"":31,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":43,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":57,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"すげ<G005A>！<G0001><G0033>00本も<G0026>！
+なんてパワーなんだ<G0026><CTRL:09 0E 00 03 00>
+さすがシュミットの
+<G023F>型エンジンだな！",SUPPORTED,"0001,0026,0033,005A,023F",NONE,
+SCN_00214000_00740000_0007,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,6,0x0072957e,0x00729579,d9 36 f0 30 f0 e4 e9 cd db e1 31 f0 43 08 75 be 95 98 cd f2 ce f5 9c 49 f1 42 f1 af f3 9c c2 93 46 09 0e 00 09 00 08 46 ef f2 84 f2 7e 08 b0 94 9b 7d 8a 77 b6 46 0d ff 00,"シュミットカスタム！
+あれって特別な飛行機なんだ…<CTRL:09 0E 00 09 00>
+…明日か
+まちどおしいや…","슈미트 커스텀!
+저건 특별한 비행기구나…<CTRL:09 0E 00 09 00>
+…내일인가.
+기대돼서 못 참겠어…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":13,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":33,""raw_hex"":""09 0e 00 09 00"",""kind"":""INLINE_09"",""argument"":9},{""offset"":38,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":45,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":54,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"シュミットカスタム！
+あれって特別な飛行機なんだ<G0026><CTRL:09 0E 00 09 00>
+<G0026><G033F><G02D4>か
+まちどおしいや<G0026>",SUPPORTED,"0026,02D4,033F",NONE,
+SCN_00214000_00740000_0018,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,17,0x0072a5b9,0x0072a5b4,c2 45 46 21 77 b0 a1 77 77 b6 09 0e 00 01 00 08 98 7e 21 75 a0 88 08 49 f1 42 f1 af f3 bc f2 bc a0 d9 36 f0 30 f0 e4 e9 95 98 08 ec f1 bb 9c 77 44 21 d8 f0 8a 98 bd c2 93 0d ff 00,"ん〜…、いまはいいや<CTRL:09 0E 00 01 00>
+てか、あのさ
+飛行機乗りのシュミットって
+知らない？、探してるんだ","음~… 지금은 됐어.<CTRL:09 0E 00 01 00>
+그보다 말이야,
+비행기 조종사 슈미트라고
+모르니? 찾고 있거든.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0b 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":11},{""offset"":10,""raw_hex"":""09 0e 00 01 00"",""kind"":""INLINE_09"",""argument"":1},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":42,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":57,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_12; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"ん〜<G0026><G0001>いまはいいや<CTRL:09 0E 00 01 00>
+てか<G0001>あのさ
+飛行機乗りのシュミットって
+知らない？<G0001><G0188>してるんだ",SUPPORTED,"0001,0026,0188",NONE,
+SCN_00214000_00740000_0022,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,21,0x0072a8fd,0x0072a8f8,77 95 44 21 ca f5 a8 a0 42 09 0e 00 08 00 08 7b 47 95 9a 46 21 90 be a1 46 0d ff 00,"いっ？、並ぶの？<CTRL:09 0E 00 08 00>
+えーっと…、それは…","뭐? 줄 서는 거야?<CTRL:09 0E 00 08 00>
+어… 그건…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":9,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":14,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"いっ？<G0001><G058A>ぶの<G0022><CTRL:09 0E 00 08 00>
+えーっと<G0026><G0001>それは<G0026>",SUPPORTED,"0001,0022,0026,058A",NONE,
+SCN_00214000_00740000_0023,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,22,0x0072a94c,0x0072a947,77 b6 46 21 75 a0 46 09 08 b6 95 a3 21 77 77 99 8c 43 0d ff 00,"いや…、あの…<CTRL:09>
+やっぱ、いいです！","아니… 그게…<CTRL:09>
+역시 괜찮습니다!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":7,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":18,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"いや<G0026><G0001>あの<G0026><CTRL:09>
+やっ<G0083><G0001>いいです！",SUPPORTED,"0001,0026,0083",NONE,
+SCN_00214000_00740000_0039,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,38,0x0072bde6,0x0072bde1,75 75 46 09 21 c4 3d f0 26 f0 c5 eb 08 d6 20 f0 3a f0 94 b5 c2 9a c3 f4 ab 98 08 a6 f0 8a 99 b4 c2 f2 59 f1 ba 82 9c 95 98 be a2 08 77 77 c2 93 84 9b 46 0d ff 00,"ああ…<CTRL:09>、アルフィナ
+ゴハンちゃんと食べて
+少しでも調子よくなってれば
+いいんだけど…","아아…<CTRL:09> 알피나,
+밥 잘 먹고
+조금이라도 몸 상태가
+나아졌으면 좋겠는데…",UNASSIGNED,アルフィナ,"[{""offset"":-5,""raw_hex"":""02 0e 00 0c 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":12},{""offset"":3,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":12,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":26,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":43,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":51,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_alfina_01; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"ああ<G0026><CTRL:09><G0001>アルフィナ
+ゴハンちゃんと食べて
+少しでも調子よくなってれば
+いいんだけど<G0026>",SUPPORTED,"0001,0026",NONE,
+SCN_00214000_00740000_0044,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,43,0x0072c837,0x0072c832,75 a0 38 f3 95 86 93 95 98 b0 93 08 81 f2 8b bb be 9c 77 84 9b 46 08 99 b4 21 8c 87 77 cf f3 7e 95 92 46 09 08 9a c2 99 b4 9c 77 86 9a 7f c5 f2 80 92 c2 93 0d ff 00,"あの根っこだってまだ
+信じられないけど…
+でも、すごい恐かった…<CTRL:09>
+とんでもないことが起きたんだ","그 뿌리도 아직
+믿기지는 않지만…
+정말 무서웠어…<CTRL:09>
+엄청난 일이 벌어진 거야.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 05 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":5},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":22,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":35,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":36,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":52,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_06; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"あの根っこだってまだ
+信じられないけど<G0026>
+でも<G0001>すごい恐かった<G0026><CTRL:09>
+とんでもないことが起きたんだ",SUPPORTED,"0001,0026",NONE,
+SCN_00214000_00740000_0060,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,59,0x0072e02e,0x0072e029,9c c2 98 77 79 7e 46 09 08 90 79 21 a4 9a 96 a0 56 f5 7f 08 9c 82 9c 95 92 c2 93 46 0d ff 00,"なんていうか…<CTRL:09>
+そう、ひとつの街が
+なくなったんだ…","뭐랄까…<CTRL:09>
+그래, 도시 하나가
+사라져 버린 거야…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 05 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":5},{""offset"":7,""raw_hex"":""09"",""kind"":""UNKNOWN_CONTROL""},{""offset"":8,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":19,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":28,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_06; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"なんていうか<G0026><CTRL:09>
+そう<G0001>ひとつの<G0516>が
+なくなったんだ<G0026>",SUPPORTED,"0001,0026,0516",NONE,
+SCN_00214000_00740000_0073,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,72,0x0072f2ff,0x0072f2fa,77 21 77 b6 46 08 ce f5 9d 30 f6 c2 93 bc 8a 98 9c 77 84 9b 46 09 0e 00 08 00 08 ad 21 ad bb 21 96 80 75 77 9a 7e 08 77 bf 77 bf 75 95 98 46 0d ff 00,"い、いや…
+別に遊んだりしてないけど…<CTRL:09 0E 00 08 00>
+ほ、ほら、つきあいとか
+いろいろあって…","아, 아니…
+딱히 놀고 있던 건 아니지만…<CTRL:09 0E 00 08 00>
+그, 있잖아, 교제라든가
+이런저런 일이 있어서…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":5,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":21,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":26,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":38,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":47,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"い<G0001>いや<G0026>
+別に遊んだりしてないけど<G0026><CTRL:09 0E 00 08 00>
+ほ<G0001>ほら<G0001>つきあいとか
+いろいろあって<G0026>",SUPPORTED,"0001,0026",NONE,
+SCN_00214000_00740000_0097,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,96,0x00730f77,0x00730f72,cc 3e f0 7f b5 f0 8a 98 5f f0 95 98 bd 9a 86 8b b5 08 6c f0 8d 21 9c c2 7e c5 f2 80 bd c2 93 84 9b 46 09 0e 00 02 00 08 94 f3 7e 9d 21 86 86 a1 c9 f5 c3 f2 93 ba 9c 0d ff 00,"オレが旅して回ってるとこじゃ
+必ず、なんか起きるんだけど…<CTRL:09 0E 00 02 00>
+確かに、ここは平和だよな","내가 여행하는 곳에서는
+꼭 뭔가 일이 생기는데…<CTRL:09 0E 00 02 00>
+확실히 여기는 평화롭네.",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 01 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":1},{""offset"":17,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":34,""raw_hex"":""09 0e 00 02 00"",""kind"":""INLINE_09"",""argument"":2},{""offset"":39,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":55,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_02; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"オレが旅して回ってるとこじゃ
+<G011C>ず<G0001>なんか起きるんだけど<G0026><CTRL:09 0E 00 02 00>
+<G03B4>かに<G0001>ここは平和だよな",SUPPORTED,"0001,0026,011C,03B4",NONE,
+SCN_00214000_00740000_0114,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,113,0x007324c8,0x007324c3,a1 a1 46 21 7d 96 7e be 88 b0 09 0e 00 02 00 08 b0 21 86 be 99 da f0 22 f4 c4 f1 20 f4 93 08 aa f0 78 f0 c5 f0 a0 7d a2 88 c2 b4 4c f3 c2 99 92 bf 08 71 f1 7e 95 92 9c 43 0d ff 00,"はは…、おつかれさま<CTRL:09 0E 00 02 00>
+ま、これで事件解決だ
+家具屋のおばさんも喜んでたろ
+良かったな！","하하… 수고했어.<CTRL:09 0E 00 02 00>
+뭐, 이걸로 사건 해결이네.
+가구점 아주머니도 기뻐하셨겠지.
+잘됐어!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 08 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":8},{""offset"":10,""raw_hex"":""09 0e 00 02 00"",""kind"":""INLINE_09"",""argument"":2},{""offset"":15,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":30,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":49,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":57,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_09; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"はは<G0026><G0001>おつかれさま<CTRL:09 0E 00 02 00>
+ま<G0001>これで事<G0412>解<G0410>だ
+家具<G0175>のおばさんも<G036C>んでたろ
+良かったな！",SUPPORTED,"0001,0026,0175,036C,0410,0412",NONE,
+SCN_00214000_00740000_0129,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,128,0x00733605,0x00733600,b6 95 a3 bc 9c 43 09 0e 00 0b 00 08 99 b4 34 f3 a0 5e f3 82 f2 d7 f0 95 98 08 81 f0 9c c2 93 44 0d ff 00,"やっぱりな！<CTRL:09 0E 00 0B 00>
+でも謎の依頼人って
+誰なんだ？","역시 그랬구나!<CTRL:09 0E 00 0B 00>
+그런데 수수께끼의 의뢰인은
+누구야?",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 02 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":2},{""offset"":6,""raw_hex"":""09 0e 00 0b 00"",""kind"":""INLINE_09"",""argument"":11},{""offset"":11,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":32,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_03; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"やっ<G0083>りな！<CTRL:09 0E 00 0B 00>
+でも<G0354>の<G037E>頼人って
+誰なんだ？",SUPPORTED,"0083,037E",SUPPORTED,0354
+SCN_00214000_00740000_0135,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,134,0x00733d48,0x00733d43,e8 46 21 e8 47 e9 95 42 09 0e 00 08 00 08 77 b6 46 21 9c c2 98 77 79 7e 46 08 90 a0 46 21 90 79 77 79 96 b4 bc 8b b5 46 0d ff 00,"デ…、デートっ？<CTRL:09 0E 00 08 00>
+いや…、なんていうか…
+その…、そういうつもりじゃ…","데… 데이트?<CTRL:09 0E 00 08 00>
+아니… 뭐랄까…
+그게… 그런 뜻은 아니었는데…",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 06 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":6},{""offset"":8,""raw_hex"":""09 0e 00 08 00"",""kind"":""INLINE_09"",""argument"":8},{""offset"":13,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":25,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":40,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_07; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"デ<G0026><G0001>デートっ<G0022><CTRL:09 0E 00 08 00>
+いや<G0026><G0001>なんていうか<G0026>
+その<G0026><G0001>そういうつもりじゃ<G0026>",SUPPORTED,"0001,0022,0026",NONE,
+SCN_00214000_00740000_0151,SCENARIO,scenario_message,DATA/00214000.MDZ,DATA/00214000.MDT,0x00740000,00214000,150,0x00734fc5,0x00734fc0,79 c2 21 21 f0 e4 e3 3c f0 43 08 ef f2 84 f2 9d a1 99 80 75 7f bd c2 93 95 98 88 09 0e 00 09 00 08 75 75 46 21 96 f3 8a b1 93 9c 46 43 0d ff 00,"うん、バッチリ！
+明日にはできあがるんだってさ<CTRL:09 0E 00 09 00>
+ああ…、楽しみだな…！","응, 완벽해!
+내일이면 완성된대.<CTRL:09 0E 00 09 00>
+아아… 기대된다…!",UNASSIGNED,ユウキ,"[{""offset"":-5,""raw_hex"":""02 0e 00 03 00"",""kind"":""MESSAGE_HEADER"",""opcode"":2,""argument"":3},{""offset"":10,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":27,""raw_hex"":""09 0e 00 09 00"",""kind"":""INLINE_09"",""argument"":9},{""offset"":32,""raw_hex"":""08"",""kind"":""LINE_BREAK""},{""offset"":45,""raw_hex"":""0d ff 00"",""kind"":""MESSAGE_END""}]",REVIEW_1,NO,CHARACTER_GUIDE v0.1 적용. context-v1 복원 원문 1차 번역; <CTRL>/<Gxxxx> 구조 토큰 보존.,SUPPORTED: structured scenario command; header FACE slot maps to face_yuuki_04; runtime display not yet checked. PROVEN: byte-identical source command exists at the same path and offsets on Disc 2. SUPPORTED: context-v1 glyph 복원; 런타임 원문 검증 전. 구조 토큰 보존.,"うん<G0001>バッチリ！
+<G033F><G02D4>にはできあがるんだってさ<CTRL:09 0E 00 09 00>
+ああ<G0026><G0001><G03B6>しみだな<G0026>！",SUPPORTED,"0001,0026,02D4,033F,03B6",NONE,

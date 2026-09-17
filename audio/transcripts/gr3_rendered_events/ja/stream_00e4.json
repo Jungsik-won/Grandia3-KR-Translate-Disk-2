@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00e4",
+  "stream_key": "0xE4",
+  "sample_ids": [
+    "0x5C2",
+    "0x5C3"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00e4.flac",
+  "audio_sha256": "d2e8c1f35d0b67661581fd84f13e0883c55c2d492cabcbefe98d5a2f34f477f0",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、ア",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 28.37,
+      "speaker": "",
+      "text": "アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、ア",
+      "avg_logprob": -0.09623,
+      "no_speech_prob": 0.00552,
+      "compression_ratio": 19.11429,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.027",
+        "HIGH_COMPRESSION_RATIO:19.114"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

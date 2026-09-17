@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0119",
+  "stream_key": "0x119",
+  "sample_ids": [
+    "0x774",
+    "0x775"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0119.flac",
+  "audio_sha256": "1dbda2bd04f3b58b04fbebda7eeaf0308a26d7343f6f0411fdd8a33ee79bcbff",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、ア",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 5.67,
+      "speaker": "",
+      "text": "アルフィナ、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、アークリフ、メンディア、ア",
+      "avg_logprob": -0.12686,
+      "no_speech_prob": 0.26962,
+      "compression_ratio": 11.15,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.059",
+        "HIGH_COMPRESSION_RATIO:11.150"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0077",
+  "stream_key": "0x77",
+  "sample_ids": [
+    "0x444",
+    "0x445"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0077.flac",
+  "audio_sha256": "3ada35159dcdbe5e6288aebb7b19dbe0fd46ca03296477439b4efeab0cf49994",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、どうしたの? さっきの話して、アルフィナに何か関係あったのか? ユウキ、パワス会は自国なんかじゃない。間違いが消えるとか、この世が終わりだなんて、そんなことに関係あるはずがないの。手なければ二人さんが。 アルフィナ、一体何が不安なんだ。世界の意見が何で気になるんだよ。 だから、私はアクリフに行かなくちゃ乗らない。どうしても。 アルフィナ。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アルフィナ、どうしたの?",
+      "avg_logprob": -0.62057,
+      "no_speech_prob": 0.00066,
+      "compression_ratio": 0.75556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 36.0,
+      "speaker": "",
+      "text": "さっきの話して、アルフィナに何か関係あったのか?",
+      "avg_logprob": -0.43144,
+      "no_speech_prob": 0.00205,
+      "compression_ratio": 1.43523,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 38.0,
+      "end": 50.0,
+      "speaker": "",
+      "text": "ユウキ、パワス会は自国なんかじゃない。間違いが消えるとか、この世が終わりだなんて、そんなことに関係あるはずがないの。手なければ二人さんが。",
+      "avg_logprob": -0.43144,
+      "no_speech_prob": 0.00205,
+      "compression_ratio": 1.43523,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 50.0,
+      "end": 62.0,
+      "speaker": "",
+      "text": "アルフィナ、一体何が不安なんだ。世界の意見が何で気になるんだよ。",
+      "avg_logprob": -0.26292,
+      "no_speech_prob": 0.02255,
+      "compression_ratio": 1.31387,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 62.0,
+      "end": 72.0,
+      "speaker": "",
+      "text": "だから、私はアクリフに行かなくちゃ乗らない。どうしても。",
+      "avg_logprob": -0.26292,
+      "no_speech_prob": 0.02255,
+      "compression_ratio": 1.31387,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 80.0,
+      "end": 84.0,
+      "speaker": "",
+      "text": "アルフィナ。",
+      "avg_logprob": -0.18528,
+      "no_speech_prob": 0.00986,
+      "compression_ratio": 0.66667,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

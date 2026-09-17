@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "mode": "PRE_ISO_CENTRAL_RESOLUTION",
+  "iso_created": false,
+  "decisions": {
+    "high_confidence_and_supported_context_applied": true,
+    "ambiguous_tokens_retained": true,
+    "legacy_modified": false
+  },
+  "central_population": {
+    "csv_rows": 20030,
+    "csv_unique_ids": 20030,
+    "duplicate_ids": [],
+    "database_rows": 21171,
+    "database_unique_ids": 21171,
+    "database_unassigned_encoded": 0,
+    "database_csv_id_sets_equal": false,
+    "per_file": {
+      "system_standard.csv": {
+        "rows": 289,
+        "unassigned_encoded": 0
+      },
+      "status_standard.csv": {
+        "rows": 78,
+        "unassigned_encoded": 0
+      },
+      "items_standard.csv": {
+        "rows": 822,
+        "unassigned_encoded": 0
+      },
+      "item_effects_standard.csv": {
+        "rows": 530,
+        "unassigned_encoded": 0
+      },
+      "battle_standard.csv": {
+        "rows": 219,
+        "unassigned_encoded": 0
+      },
+      "battle_tutorial_commands_standard.csv": {
+        "rows": 28,
+        "unassigned_encoded": 0
+      },
+      "special_skill_effects_standard.csv": {
+        "rows": 45,
+        "unassigned_encoded": 0
+      },
+      "character_names_standard.csv": {
+        "rows": 7,
+        "unassigned_encoded": 0
+      },
+      "enemy_names_standard.csv": {
+        "rows": 169,
+        "unassigned_encoded": 0
+      },
+      "enemy_actions_standard.csv": {
+        "rows": 188,
+        "unassigned_encoded": 0
+      },
+      "field_names_standard.csv": {
+        "rows": 10,
+        "unassigned_encoded": 0
+      },
+      "common_field_names_standard.csv": {
+        "rows": 12,
+        "unassigned_encoded": 0
+      },
+      "battle_presentation_help_standard.csv": {
+        "rows": 64,
+        "unassigned_encoded": 0
+      },
+      "npc_dialogue_standard_ko.csv": {
+        "rows": 11653,
+        "unassigned_encoded": 0
+      },
+      "scenario_standard.csv": {
+        "rows": 5916,
+        "unassigned_encoded": 0
+      }
+    }
+  },
+  "font_mapping": {
+    "config_mappings": 1272,
+    "required_chars": 1270,
+    "required_missing_from_config": [
+      "퓨"
+    ],
+    "required_missing_from_master_map": [],
+    "duplicate_custom_codes": 0,
+    "duplicate_glyph_slots": 0
+  },
+  "field_bin": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/build/central-resolution-v5/FIELD.BIN",
+    "sha256": "cb753e57eed8e861aa635318e092f9e2179743f56c8422eac19ec0218e8d8398",
+    "size": 869632,
+    "patched_offsets": 289,
+    "suppressed_duplicate_rows": 88,
+    "rows_by_owner": {
+      "SYSTEM": 201,
+      "STATUS": 32,
+      "EQUIPMENT": 46,
+      "FIELD": 10
+    },
+    "system_csv_reverse_mismatches": [
+      "SYS_SAVE_0001",
+      "SYS_MENU_0001",
+      "SYS_MENU_0002",
+      "SYS_MENU_0003",
+      "SYS_MENU_0004",
+      "SYS_MENU_0005",
+      "SYS_MENU_0006",
+      "SYS_MENU_0007",
+      "SYS_MENU_0008",
+      "SYS_MENU_0009",
+      "SYS_MENU_0010",
+      "SYS_MENU_0011",
+      "SYS_MENU_0013",
+      "SYS_MENU_0014",
+      "SYS_MENU_0015",
+      "SYS_MENU_0016",
+      "SYS_MENU_0051",
+      "SYS_MENU_0052",
+      "SYS_MENU_0053",
+      "SYS_MENU_0054",
+      "SYS_MENU_0055",
+      "SYS_SETTINGS_0001",
+      "SYS_SETTINGS_0002",
+      "SYS_SETTINGS_0003",
+      "SYS_SETTINGS_0004",
+      "SYS_SETTINGS_0005",
+      "SYS_SETTINGS_0006",
+      "SYS_SETTINGS_0007",
+      "SYS_SETTINGS_0008",
+      "SYS_SETTINGS_0009",
+      "SYS_SETTINGS_0010",
+      "SYS_SETTINGS_0011",
+      "SYS_SETTINGS_0012",
+      "SYS_SETTINGS_0013",
+      "SYS_SETTINGS_0014",
+      "SYS_SETTINGS_0016",
+      "SYS_SETTINGS_0017",
+      "SYS_SETTINGS_0018",
+      "SYS_SETTINGS_0019",
+      "SYS_SETTINGS_0020",
+      "SYS_SETTINGS_0021",
+      "SYS_SETTINGS_0022",
+      "SYS_SETTINGS_0023",
+      "SYS_SETTINGS_0024",
+      "SYS_SETTINGS_0025",
+      "SYS_SETTINGS_0026",
+      "SYS_SETTINGS_0027",
+      "SYS_SETTINGS_0028",
+      "SYS_SETTINGS_0029",
+      "SYS_SETTINGS_0030",
+      "SYS_SETTINGS_0031",
+      "SYS_SETTINGS_0032",
+      "SYS_SETTINGS_0033",
+      "SYS_SETTINGS_0034",
+      "SYS_SETTINGS_0035",
+      "SYS_SETTINGS_0036",
+      "SYS_SETTINGS_0037",
+      "SYS_SETTINGS_0038",
+      "SYS_SETTINGS_0039",
+      "SYS_SHOP_0001",
+      "SYS_SHOP_0002",
+      "SYS_SHOP_0007",
+      "SYS_SHOP_0008",
+      "SYS_SHOP_0011",
+      "SYS_SHOP_0012",
+      "SYS_SHOP_0013",
+      "SYS_SHOP_0014",
+      "SYS_SHOP_0015",
+      "SYS_SHOP_0016",
+      "SYS_SHOP_0017",
+      "SYS_SHOP_0018",
+      "SYS_SHOP_0019",
+      "SYS_SHOP_0020",
+      "SYS_SHOP_0021",
+      "SYS_SHOP_0022",
+      "SYS_SHOP_0023",
+      "SYS_SHOP_0024",
+      "SYS_SHOP_0025",
+      "SYS_SHOP_0026",
+      "SYS_SHOP_0027",
+      "SYS_SHOP_0028",
+      "SYS_SHOP_0029",
+      "SYS_SHOP_0030",
+      "SYS_SHOP_0031",
+      "SYS_SHOP_0032",
+      "SYS_SHOP_0033",
+      "SYS_SHOP_0034",
+      "SYS_SHOP_0035",
+      "SYS_SHOP_0036",
+      "SYS_SHOP_0037",
+      "SYS_SHOP_0038",
+      "SYS_SHOP_0039",
+      "SYS_SHOP_0040",
+      "SYS_SHOP_0041",
+      "SYS_SHOP_0042",
+      "SYS_SHOP_0043",
+      "SYS_SHOP_0044",
+      "SYS_SHOP_0045",
+      "SYS_SHOP_0046",
+      "SYS_SHOP_0047",
+      "SYS_SHOP_0048",
+      "SYS_SHOP_0049",
+      "SYS_SHOP_0050",
+      "SYS_SHOP_0051",
+      "SYS_SHOP_0052",
+      "SYS_SHOP_0053",
+      "SYS_SHOP_0054",
+      "SYS_SHOP_0055",
+      "SYS_SHOP_0056",
+      "SYS_SHOP_0057",
+      "SYS_SHOP_0058",
+      "SYS_SHOP_0059",
+      "SYS_SHOP_0060",
+      "SYS_SHOP_0061",
+      "SYS_SHOP_0062",
+      "SYS_SHOP_0063",
+      "SYS_SHOP_0064",
+      "SYS_SHOP_0065",
+      "SYS_SAVE_0002",
+      "SYS_SAVE_0003",
+      "SYS_SAVE_0004",
+      "SYS_SAVE_0005",
+      "SYS_SAVE_0006",
+      "SYS_SAVE_0007",
+      "SYS_SAVE_0008",
+      "SYS_SAVE_0009",
+      "SYS_SAVE_0010",
+      "SYS_SAVE_0011",
+      "SYS_SAVE_0012",
+      "SYS_SAVE_0013",
+      "SYS_SAVE_0014",
+      "SYS_SAVE_0015",
+      "SYS_SAVE_0016",
+      "SYS_SAVE_0017",
+      "SYS_SAVE_0018",
+      "SYS_LOAD_0001",
+      "SYS_LOAD_0002",
+      "SYS_LOAD_0003",
+      "SYS_LOAD_0004",
+      "SYS_LOAD_0005",
+      "SYS_LOAD_0006",
+      "SYS_LOAD_0007",
+      "SYS_LOAD_0008",
+      "SYS_LOAD_0009",
+      "SYS_SAVE_0019",
+      "SYS_SAVE_0020",
+      "SYS_COMMON_0001",
+      "SYS_COMMON_0002",
+      "SYS_COMMON_0003",
+      "SYS_COMMON_0004",
+      "SYS_COMMON_0005",
+      "SYS_COMMON_0006",
+      "SYS_COMMON_0007",
+      "SYS_COMMON_0008",
+      "SYS_COMMON_0009",
+      "SYS_COMMON_0010",
+      "SYS_COMMON_0011",
+      "SYS_COMMON_0012",
+      "SYS_COMMON_0013",
+      "SYS_COMMON_0014",
+      "SYS_HELP_0002",
+      "SYS_HELP_0003",
+      "SYS_HELP_0026",
+      "SYS_HELP_0027",
+      "SYS_HELP_0033",
+      "SYS_HELP_0034",
+      "SYS_HELP_0035",
+      "SYS_HELP_0038",
+      "SYS_HELP_0039",
+      "SYS_HELP_0040",
+      "SYS_HELP_0041",
+      "SYS_COMMON_0017",
+      "SYS_COMMON_0018",
+      "SYS_COMMON_0019",
+      "SYS_COMMON_0020",
+      "SYS_COMMON_0029",
+      "SYS_COMMON_0046",
+      "SYS_COMMON_0047",
+      "SYS_COMMON_0048"
+    ]
+  },
+  "residual_review": {
+    "npc_glyph_token_types": 6,
+    "npc_glyph_token_occurrences": 8,
+    "npc_glyph_token_top": [
+      [
+        "0018",
+        2
+      ],
+      [
+        "0016",
+        2
+      ],
+      [
+        "0009",
+        1
+      ],
+      [
+        "001C",
+        1
+      ],
+      [
+        "001F",
+        1
+      ],
+      [
+        "001E",
+        1
+      ]
+    ],
+    "scenario_glyph_token_types": 5,
+    "scenario_glyph_token_occurrences": 8,
+    "scenario_glyph_tokens": {
+      "08B6": 2,
+      "08B9": 1,
+      "08B8": 2,
+      "08B7": 2,
+      "0000": 1
+    }
+  },
+  "status": "FAIL",
+  "artifacts": {
+    "integration_report": "/Users/j.swon/Desktop/Grandia3_KR/reports/central_integration_pre_iso.json",
+    "field_report": "/Users/j.swon/Desktop/Grandia3_KR/reports/central_field_resolution_v5.json",
+    "font_config": "/Users/j.swon/Desktop/Grandia3_KR/build/central-resolution-v5/font-config.json",
+    "context_report": "/Users/j.swon/Desktop/Grandia3_KR/reports/contextual_token_resolutions_20260826.json",
+    "npc_direct_token_report": "/Users/j.swon/Desktop/Grandia3_KR/reports/npc_direct_token_resolutions_20260826.json",
+    "npc_context_report": "/Users/j.swon/Desktop/Grandia3_KR/build/npc_dialogue/npc_context_review_report.json",
+    "scenario_skj_report": "/Users/j.swon/Desktop/Grandia3_KR/reports/scenario-glyph-review-import-20260822.json"
+  }
+}

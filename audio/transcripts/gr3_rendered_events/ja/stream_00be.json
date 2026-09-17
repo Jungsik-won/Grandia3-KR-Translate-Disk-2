@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00be",
+  "stream_key": "0xBE",
+  "sample_ids": [
+    "0x506",
+    "0x507"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00be.flac",
+  "audio_sha256": "67367bb02abf495aebc1ea152a1e776c917e537d87f8b4d16445aea130a9864d",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:2/4"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミラ タノム、ハイツの大事な人のためなんだ。おい、こいつはどうした? いいだ、ケキ! あっ! 大切な人があったのですね。 アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミラ",
+      "avg_logprob": -0.11994,
+      "no_speech_prob": 0.02984,
+      "compression_ratio": 9.65217,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.089",
+        "HIGH_COMPRESSION_RATIO:9.652"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 45.0,
+      "speaker": "",
+      "text": "タノム、ハイツの大事な人のためなんだ。おい、こいつはどうした? いいだ、ケキ! あっ!",
+      "avg_logprob": -0.86504,
+      "no_speech_prob": 0.02324,
+      "compression_ratio": 1.15534,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 45.0,
+      "end": 54.0,
+      "speaker": "",
+      "text": "大切な人があったのですね。",
+      "avg_logprob": -0.6423,
+      "no_speech_prob": 0.00976,
+      "compression_ratio": 0.78,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 75.0,
+      "end": 80.19,
+      "speaker": "",
+      "text": "アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、アルフィナ、エメリウス、ユウキ、",
+      "avg_logprob": -0.07805,
+      "no_speech_prob": 0.54025,
+      "compression_ratio": 10.57627,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.071",
+        "HIGH_COMPRESSION_RATIO:10.576"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

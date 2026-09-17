@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00f5",
+  "stream_key": "0xF5",
+  "sample_ids": [
+    "0x5FC",
+    "0x5FD"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00f5.flac",
+  "audio_sha256": "a223000f6c7a442b843d1b2e458fb7cd0354118981a93d5145f7bd9eb1dbe22a",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 3.88,
+      "speaker": "",
+      "text": "アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス、アイス",
+      "avg_logprob": -0.09858,
+      "no_speech_prob": 0.24043,
+      "compression_ratio": 23.89286,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.018",
+        "HIGH_COMPRESSION_RATIO:23.893"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

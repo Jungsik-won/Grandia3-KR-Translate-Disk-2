@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_009c",
+  "stream_key": "0x9C",
+  "sample_ids": [
+    "0x4B0",
+    "0x4B1"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_009c.flac",
+  "audio_sha256": "0d6b81d8dc47fe2501156a555490650640e127f6b028906f66ae7e09cea8f47d",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "クソ! びょれった!あれ! あ! お、おい。びょれったまさか。エメリウスさま俺たちもろとも殺す気だったんじゃないか。 そうさ、これでこそエメリウスだ! あははははははは。行くよ、コーネル。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "クソ!",
+      "avg_logprob": -1.26122,
+      "no_speech_prob": 0.01976,
+      "compression_ratio": 0.81081,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 15.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "びょれった!あれ!",
+      "avg_logprob": -1.26122,
+      "no_speech_prob": 0.01976,
+      "compression_ratio": 0.81081,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 30.0,
+      "end": 32.0,
+      "speaker": "",
+      "text": "あ!",
+      "avg_logprob": -0.85457,
+      "no_speech_prob": 0.26078,
+      "compression_ratio": 0.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 61.0,
+      "end": 75.0,
+      "speaker": "",
+      "text": "お、おい。びょれったまさか。エメリウスさま俺たちもろとも殺す気だったんじゃないか。",
+      "avg_logprob": -0.40075,
+      "no_speech_prob": 0.00756,
+      "compression_ratio": 1.37398,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 81.0,
+      "end": 85.0,
+      "speaker": "",
+      "text": "そうさ、これでこそエメリウスだ!",
+      "avg_logprob": -0.40075,
+      "no_speech_prob": 0.00756,
+      "compression_ratio": 1.37398,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 85.0,
+      "end": 91.0,
+      "speaker": "",
+      "text": "あははははははは。行くよ、コーネル。",
+      "avg_logprob": -0.66084,
+      "no_speech_prob": 0.10021,
+      "compression_ratio": 1.2,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

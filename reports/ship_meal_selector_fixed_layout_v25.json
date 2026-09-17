@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "status": "STATIC_PASS_RUNTIME_PENDING",
+  "scene": "ship meal multi-NPC selector fixed-layout Korean pilot",
+  "baseline": {
+    "version": "v24",
+    "status": "RUNTIME_PASS",
+    "report": "reports/ship_meal_selector_original_record_v24.json"
+  },
+  "record_id": "0x00740000",
+  "record_size": 22912,
+  "internal_member_count": 35,
+  "containers": [
+    "DATA/00151000.MDZ",
+    "DATA/01051101.MDZ",
+    "DATA/01070401.MDZ",
+    "DATA/01080701.MDZ",
+    "DATA/01080801.MDZ"
+  ],
+  "strategy": "Keep the complete event record and every internal member at the v24 byte geometry. Translate only the five dialogue strings immediately surrounding the blocked selector transition, padding each encoded message to its exact original storage size.",
+  "translation_config": "data/scenario/ship_meal_fixed_layout_v25.json",
+  "translated_message_count_per_container": 5,
+  "translated_message_count_total": 25,
+  "preserved_message_count_per_container": 303,
+  "preserved_message_count_total": 1515,
+  "fixed_layout_verification": "build/central-runtime-cumulative-v25/ship-meal-fixed-layout-verification.json",
+  "fixed_layout_verification_status": "PASS_5_OF_5_LAYOUT_IDENTICAL_CHANGES_CONFINED_TO_25_MESSAGE_SLOTS",
+  "scenario_reference_verification": "build/central-runtime-cumulative-v25/scenario-reference-verification.json",
+  "scenario_reference_verification_status": "PASS_18300_OF_18300",
+  "final_iso_verification": "build/central-runtime-cumulative-v25/final-iso-verification.json",
+  "final_iso_verification_status": "PASS_1265_OF_1265",
+  "iso": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v25_ship_meal_fixed_layout_ko_test_20260827.iso",
+    "size": 4612028416,
+    "sha256": "ec72d1c8a87a18363aa24eea384e8d99e8ddf2504e700be33691c2c4ef7b283d"
+  },
+  "tests": {
+    "total": 52,
+    "passed": 49,
+    "skipped": 3
+  },
+  "runtime_test": "Load savestate 8 or enter the ship meal scene. Confirm that the five-line Yuuki/Ulf exchange is Korean, then move the selector to Shiba and the other NPCs and confirm every follow-up dialogue opens and the scene completes. Until this passes, v24 remains the stable fallback."
+}

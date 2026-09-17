@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_009b",
+  "stream_key": "0x9B",
+  "sample_ids": [
+    "0x4AE",
+    "0x4AF"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_009b.flac",
+  "audio_sha256": "42108d7a026f2126b37f830605401fd474e6266d2fb07f52085370591fbc983b",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "何で、アイツラがここに… うーっ! 続くたくするね、この感じ! さあ、人をもうに行きな! うっ! 何が起こったんだ、病だった! うっ! 無火力は来ないだろ? そこまでだ! パニー! それ以上、ようとさむに手出しはさせません!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "何で、アイツラがここに…",
+      "avg_logprob": -0.83932,
+      "no_speech_prob": 0.08814,
+      "compression_ratio": 1.09259,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 10.0,
+      "end": 13.0,
+      "speaker": "",
+      "text": "うーっ! 続くたくするね、この感じ!",
+      "avg_logprob": -0.83932,
+      "no_speech_prob": 0.08814,
+      "compression_ratio": 1.09259,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 15.0,
+      "end": 17.0,
+      "speaker": "",
+      "text": "さあ、人をもうに行きな!",
+      "avg_logprob": -0.83932,
+      "no_speech_prob": 0.08814,
+      "compression_ratio": 1.09259,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 30.0,
+      "end": 32.0,
+      "speaker": "",
+      "text": "うっ! 何が起こったんだ、病だった!",
+      "avg_logprob": -0.55218,
+      "no_speech_prob": 0.05296,
+      "compression_ratio": 1.22143,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 35.0,
+      "end": 37.0,
+      "speaker": "",
+      "text": "うっ! 無火力は来ないだろ?",
+      "avg_logprob": -0.55218,
+      "no_speech_prob": 0.05296,
+      "compression_ratio": 1.22143,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 38.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "そこまでだ!",
+      "avg_logprob": -0.55218,
+      "no_speech_prob": 0.05296,
+      "compression_ratio": 1.22143,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 41.0,
+      "end": 43.0,
+      "speaker": "",
+      "text": "パニー!",
+      "avg_logprob": -0.55218,
+      "no_speech_prob": 0.05296,
+      "compression_ratio": 1.22143,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 46.0,
+      "end": 49.0,
+      "speaker": "",
+      "text": "それ以上、ようとさむに手出しはさせません!",
+      "avg_logprob": -0.55218,
+      "no_speech_prob": 0.05296,
+      "compression_ratio": 1.22143,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b9",
+  "stream_key": "0xB9",
+  "sample_ids": [
+    "0x4FC",
+    "0x4FD"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b9.flac",
+  "audio_sha256": "d05831f289485b18219044744499ca4c469e77ff3d07e84c297640d6972bec36",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:1/8"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ペネーのキンゴー! そいつももうダメだな、完全に信じまってる。 嘘だ!充電して修理さればきっと… バカだろ! そんなに何で治るんだら、特にやってる! 何するんだよ! …… ロッツ?ロッツじゃないか!なんでここに?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "ペネーのキンゴー!",
+      "avg_logprob": -0.61161,
+      "no_speech_prob": 0.00483,
+      "compression_ratio": 1.34756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 8.0,
+      "end": 12.0,
+      "speaker": "",
+      "text": "そいつももうダメだな、完全に信じまってる。",
+      "avg_logprob": -0.61161,
+      "no_speech_prob": 0.00483,
+      "compression_ratio": 1.34756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 14.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "嘘だ!充電して修理さればきっと…",
+      "avg_logprob": -0.61161,
+      "no_speech_prob": 0.00483,
+      "compression_ratio": 1.34756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 18.0,
+      "end": 19.0,
+      "speaker": "",
+      "text": "バカだろ!",
+      "avg_logprob": -0.61161,
+      "no_speech_prob": 0.00483,
+      "compression_ratio": 1.34756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 20.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "そんなに何で治るんだら、特にやってる!",
+      "avg_logprob": -0.61161,
+      "no_speech_prob": 0.00483,
+      "compression_ratio": 1.34756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 26.0,
+      "end": 28.0,
+      "speaker": "",
+      "text": "何するんだよ!",
+      "avg_logprob": -0.61161,
+      "no_speech_prob": 0.00483,
+      "compression_ratio": 1.34756,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 30.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "……",
+      "avg_logprob": -0.45901,
+      "no_speech_prob": 0.02234,
+      "compression_ratio": 1.07143,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "EMPTY_TRANSCRIPT"
+      ]
+    },
+    {
+      "segment_index": 7,
+      "start": 34.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "ロッツ?ロッツじゃないか!なんでここに?",
+      "avg_logprob": -0.45901,
+      "no_speech_prob": 0.02234,
+      "compression_ratio": 1.07143,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

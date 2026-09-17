@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0065",
+  "stream_key": "0x65",
+  "sample_ids": [
+    "0x418",
+    "0x419"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0065.flac",
+  "audio_sha256": "88b902c928401abe57e6e23d4d098c0e5508bc75509231ce5c87e7461a17898f",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "このカリは必ず返す、いか!必ずだ! ごめんなさい、私のために村の人たちまで。 そんなこと気にしてたの?バカね? イランダさん、ここの練習は機能良い奴ばかりよ。みんなあんたの見方になってくれる。 中でも一番は多分… ん? ん?何?何の話? さぁねん…さぁね… 予定変更、アイツラがまた遅ってこないうちにすぐに村を出るわ。 いい?準備ができたら教えるのよ、ユウキ。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 11.0,
+      "speaker": "",
+      "text": "このカリは必ず返す、いか!必ずだ!",
+      "avg_logprob": -0.55642,
+      "no_speech_prob": 0.0213,
+      "compression_ratio": 1.1383,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 11.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "ごめんなさい、私のために村の人たちまで。",
+      "avg_logprob": -0.55642,
+      "no_speech_prob": 0.0213,
+      "compression_ratio": 1.1383,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 23.0,
+      "end": 31.0,
+      "speaker": "",
+      "text": "そんなこと気にしてたの?バカね?",
+      "avg_logprob": -0.37031,
+      "no_speech_prob": 0.13161,
+      "compression_ratio": 1.25658,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 31.0,
+      "end": 39.0,
+      "speaker": "",
+      "text": "イランダさん、ここの練習は機能良い奴ばかりよ。みんなあんたの見方になってくれる。",
+      "avg_logprob": -0.37031,
+      "no_speech_prob": 0.13161,
+      "compression_ratio": 1.25658,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 39.0,
+      "end": 42.0,
+      "speaker": "",
+      "text": "中でも一番は多分…",
+      "avg_logprob": -0.37031,
+      "no_speech_prob": 0.13161,
+      "compression_ratio": 1.25658,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 43.0,
+      "end": 49.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.38183,
+      "no_speech_prob": 0.13494,
+      "compression_ratio": 1.29605,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 49.0,
+      "end": 54.0,
+      "speaker": "",
+      "text": "ん?何?何の話?",
+      "avg_logprob": -0.38183,
+      "no_speech_prob": 0.13494,
+      "compression_ratio": 1.29605,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 54.0,
+      "end": 58.0,
+      "speaker": "",
+      "text": "さぁねん…さぁね…",
+      "avg_logprob": -0.38183,
+      "no_speech_prob": 0.13494,
+      "compression_ratio": 1.29605,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 58.0,
+      "end": 62.0,
+      "speaker": "",
+      "text": "予定変更、アイツラがまた遅ってこないうちにすぐに村を出るわ。",
+      "avg_logprob": -0.38183,
+      "no_speech_prob": 0.13494,
+      "compression_ratio": 1.29605,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 62.0,
+      "end": 67.0,
+      "speaker": "",
+      "text": "いい?準備ができたら教えるのよ、ユウキ。",
+      "avg_logprob": -0.38183,
+      "no_speech_prob": 0.13494,
+      "compression_ratio": 1.29605,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

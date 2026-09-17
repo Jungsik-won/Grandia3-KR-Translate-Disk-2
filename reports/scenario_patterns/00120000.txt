@@ -1,0 +1,51 @@
+SCENARIO PATTERN REPORT: /private/tmp/gr3-ship-analysis.CYee09/DATA_00120000.MDT
+
+resources: 15
+messages: 95
+UNKNOWN_CONTROL blocks: 190
+
+0x00006000 class=0x6000 subtype=0 size=0x1C8 messages=2 prefix=05 00 06 00
+  message offsets: 0x0053081F;0x005308E6
+  UNKNOWN pre=1/19 between=2/172 tail=1/196 no-anchor=0/0
+0x00396001 class=0x6000 subtype=1 size=0x138 messages=2 prefix=05 00 06 00
+  message offsets: 0x005309E7;0x00530A67
+  UNKNOWN pre=1/19 between=2/109 tail=1/131 no-anchor=0/0
+0x00602000 class=0x2000 subtype=0 size=0x7E8 messages=8 prefix=03 00 01 20
+  message offsets: 0x00530BF6;0x00530C6F;0x00530D4B;0x00530D65;0x00530FB9;0x00531044;0x00531140;0x0053115A
+  UNKNOWN pre=1/234 between=14/1190 tail=1/376 no-anchor=0/0
+0x015D2006 class=0x2000 subtype=6 size=0x5A0 messages=3 prefix=03 00 01 21
+  message offsets: 0x00531360;0x005316B7;0x0053172A
+  UNKNOWN pre=1/108 between=4/893 tail=1/293 no-anchor=0/0
+0x02112002 class=0x2000 subtype=2 size=0x1348 messages=11 prefix=03 00 01 22
+  message offsets: 0x00531912;0x00531995;0x00531B59;0x00531D2F;0x00531DBD;0x00531EF9;0x00531F72;0x00531FC4;0x00532264;0x00532345;0x00532A5D
+  UNKNOWN pre=1/126 between=20/4027 tail=1/322 no-anchor=0/0
+0x047A2003 class=0x2000 subtype=3 size=0xF50 messages=14 prefix=03 00 01 23
+  message offsets: 0x00532C59;0x00532D74;0x00532DFB;0x00532E83;0x00532F61;0x00533013;0x0053332E;0x0053353B;0x00533600;0x00533661;0x0053376B;0x0053382B;0x0053388C;0x00533973
+  UNKNOWN pre=1/125 between=26/2881 tail=1/398 no-anchor=0/0
+0x06642004 class=0x2000 subtype=4 size=0xF90 messages=13 prefix=03 00 01 24
+  message offsets: 0x00533B9B;0x00533C26;0x00533CA3;0x00533EBC;0x00533F49;0x00533FDE;0x0053407E;0x005341B4;0x0053472F;0x005347BD;0x00534838;0x00534912;0x005349C3
+  UNKNOWN pre=1/111 between=24/3192 tail=1/217 no-anchor=0/0
+0x08562001 class=0x2000 subtype=1 size=0x818 messages=6 prefix=03 00 01 25
+  message offsets: 0x00534B17;0x00534BBF;0x00534CE1;0x00534E91;0x00534F42;0x0053501A
+  UNKNOWN pre=1/91 between=10/1059 tail=1/640 no-anchor=0/0
+0x09592005 class=0x2000 subtype=5 size=0xF08 messages=8 prefix=03 00 01 26
+  message offsets: 0x00535300;0x00535386;0x005353F3;0x00535768;0x005357E6;0x005358C2;0x00535A98;0x00535F60
+  UNKNOWN pre=1/44 between=14/2861 tail=1/592 no-anchor=0/0
+0x0B3A2007 class=0x2000 subtype=7 size=0xA50 messages=5 prefix=03 00 01 27
+  message offsets: 0x00536250;0x005362C7;0x00536359;0x00536397;0x0053687A
+  UNKNOWN pre=1/116 between=8/1428 tail=1/923 no-anchor=0/0
+0x0C843001 class=0x3000 subtype=1 size=0x2D0 messages=7 prefix=05 00 05 00
+  message offsets: 0x00536C77;0x00536CB9;0x00536CF2;0x00536D3E;0x00536DB9;0x00536E73;0x00536EC5
+  UNKNOWN pre=1/75 between=12/320 tail=1/9 no-anchor=0/0
+0x0CDE3000 class=0x3000 subtype=0 size=0x280 messages=8 prefix=05 00 05 00
+  message offsets: 0x00536F22;0x00536F45;0x00536F94;0x00536FE5;0x00537028;0x0053708B;0x005370D5;0x0053714E
+  UNKNOWN pre=1/38 between=14/258 tail=1/5 no-anchor=0/0
+0x0D2E5001 class=0x5000 subtype=1 size=0x188 messages=3 prefix=05 00 00 00
+  message offsets: 0x0053718E;0x005371CE;0x005372D3
+  UNKNOWN pre=1/18 between=4/264 tail=1/17 no-anchor=0/0
+0x0D5F5002 class=0x5000 subtype=2 size=0x118 messages=1 prefix=13 ff 1e 0d
+  message offsets: 0x0053733B
+  UNKNOWN pre=1/55 between=0/0 tail=1/189 no-anchor=0/0
+0x0D824000 class=0x4000 subtype=0 size=0x4E8 messages=4 prefix=05 00 02 0c
+  message offsets: 0x00537517;0x005375B0;0x005377DE;0x00537836
+  UNKNOWN pre=1/251 between=6/698 tail=1/163 no-anchor=0/0

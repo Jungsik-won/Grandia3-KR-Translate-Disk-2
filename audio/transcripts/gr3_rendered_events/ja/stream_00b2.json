@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b2",
+  "stream_key": "0xB2",
+  "sample_ids": [
+    "0x4EC",
+    "0x4ED"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b2.flac",
+  "audio_sha256": "dfe8783a16e518d59db74bd869676a7da91f7482ad9044ba86c6b669d08f4063",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "もうすぐ一度足られる私と… いいさ… アルフィナ!あれ、大丈夫か? アルフィナ、しっかりして! アルフィナ!アルフィナ!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "speaker": "",
+      "text": "もうすぐ一度足られる私と…",
+      "avg_logprob": -0.96458,
+      "no_speech_prob": 0.02215,
+      "compression_ratio": 0.78,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 31.0,
+      "end": 33.0,
+      "speaker": "",
+      "text": "いいさ…",
+      "avg_logprob": -0.31397,
+      "no_speech_prob": 0.04642,
+      "compression_ratio": 1.45122,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 35.0,
+      "end": 38.0,
+      "speaker": "",
+      "text": "アルフィナ!あれ、大丈夫か?",
+      "avg_logprob": -0.31397,
+      "no_speech_prob": 0.04642,
+      "compression_ratio": 1.45122,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 38.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "アルフィナ、しっかりして!",
+      "avg_logprob": -0.31397,
+      "no_speech_prob": 0.04642,
+      "compression_ratio": 1.45122,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 40.0,
+      "end": 43.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.31397,
+      "no_speech_prob": 0.04642,
+      "compression_ratio": 1.45122,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

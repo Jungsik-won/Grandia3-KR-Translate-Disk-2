@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_009f",
+  "stream_key": "0x9F",
+  "sample_ids": [
+    "0x4B6",
+    "0x4B7"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_009f.flac",
+  "audio_sha256": "9cbcd092bd2c8fd52b16681ed6af63357ed89772093d9f45cceb0e9d4212cdc1",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:3.271"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "エメリウス、デュンケル、アルフィナ、ミランダ、ヘクト、ダーナ、ミランダ、ヘクト、ダーナ、メンディ。 エメリウス、デュンケル、アークリフ、メンディ。 エメリウス、デュンケル、アークリフ、メンディ。 コ、これは… エメリウス、デュンケル、アークリフ、メンディ。 エメリウス、デュンケル、アークリフ、メンディ。 バスフィア! バスフィア! バスフィア! 今思えば、あの日が全ての始まりでした。 そう、エメリウスがデュンケルを訪れた、あの日。 次の朝二人の姿は既に無く 陽と様の像が破壊されていました そして扉の封印が破られていたのです まさか、兄さんのせいで このバースピアこそ、開くことを許されなかった近段の扉 けれど 行こう 何が見たくて、何が見えないのか 俺にはそれさえわからない けど、だからこそ知りたい それを俺は掴む!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "エメリウス、デュンケル、アルフィナ、ミランダ、ヘクト、ダーナ、ミランダ、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "エメリウス、デュンケル、アークリフ、メンディ。",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "speaker": "",
+      "text": "エメリウス、デュンケル、アークリフ、メンディ。",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 6.0,
+      "end": 8.0,
+      "speaker": "",
+      "text": "コ、これは…",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 8.0,
+      "end": 10.0,
+      "speaker": "",
+      "text": "エメリウス、デュンケル、アークリフ、メンディ。",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 10.0,
+      "end": 12.0,
+      "speaker": "",
+      "text": "エメリウス、デュンケル、アークリフ、メンディ。",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 12.0,
+      "end": 14.0,
+      "speaker": "",
+      "text": "バスフィア!",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 14.0,
+      "end": 16.0,
+      "speaker": "",
+      "text": "バスフィア!",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 16.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "バスフィア!",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 18.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "今思えば、あの日が全ての始まりでした。",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 22.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "そう、エメリウスがデュンケルを訪れた、あの日。",
+      "avg_logprob": -0.26873,
+      "no_speech_prob": 0.02133,
+      "compression_ratio": 3.27128,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 26.0,
+      "end": 44.0,
+      "speaker": "",
+      "text": "次の朝二人の姿は既に無く 陽と様の像が破壊されていました",
+      "avg_logprob": -0.40616,
+      "no_speech_prob": 0.19125,
+      "compression_ratio": 1.15652,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 44.0,
+      "end": 51.0,
+      "speaker": "",
+      "text": "そして扉の封印が破られていたのです",
+      "avg_logprob": -0.40616,
+      "no_speech_prob": 0.19125,
+      "compression_ratio": 1.15652,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 51.0,
+      "end": 54.0,
+      "speaker": "",
+      "text": "まさか、兄さんのせいで",
+      "avg_logprob": -0.19538,
+      "no_speech_prob": 0.12017,
+      "compression_ratio": 1.48193,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 57.0,
+      "end": 62.0,
+      "speaker": "",
+      "text": "このバースピアこそ、開くことを許されなかった近段の扉",
+      "avg_logprob": -0.19538,
+      "no_speech_prob": 0.12017,
+      "compression_ratio": 1.48193,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 63.0,
+      "end": 64.0,
+      "speaker": "",
+      "text": "けれど",
+      "avg_logprob": -0.19538,
+      "no_speech_prob": 0.12017,
+      "compression_ratio": 1.48193,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 68.0,
+      "end": 69.0,
+      "speaker": "",
+      "text": "行こう",
+      "avg_logprob": -0.19538,
+      "no_speech_prob": 0.12017,
+      "compression_ratio": 1.48193,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 70.0,
+      "end": 73.0,
+      "speaker": "",
+      "text": "何が見たくて、何が見えないのか",
+      "avg_logprob": -0.19538,
+      "no_speech_prob": 0.12017,
+      "compression_ratio": 1.48193,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 18,
+      "start": 73.0,
+      "end": 75.0,
+      "speaker": "",
+      "text": "俺にはそれさえわからない",
+      "avg_logprob": -0.19538,
+      "no_speech_prob": 0.12017,
+      "compression_ratio": 1.48193,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 19,
+      "start": 75.0,
+      "end": 78.0,
+      "speaker": "",
+      "text": "けど、だからこそ知りたい",
+      "avg_logprob": -0.19538,
+      "no_speech_prob": 0.12017,
+      "compression_ratio": 1.48193,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 20,
+      "start": 78.0,
+      "end": 81.0,
+      "speaker": "",
+      "text": "それを俺は掴む!",
+      "avg_logprob": -0.58232,
+      "no_speech_prob": 0.14242,
+      "compression_ratio": 0.70968,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

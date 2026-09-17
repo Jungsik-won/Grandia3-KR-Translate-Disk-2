@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "source": "/Users/j.swon/Desktop/Grandia3_KR/build/font-proof-free/roundtrip/GR3.MDT",
+  "source_sha256": "f475207c4be89c093a1fb0fd7d4f0b21b69befd8f8dda36e62a1e3e983009be1",
+  "table_offset": "0x21B00",
+  "pool_start": "0x21EF0",
+  "pool_end": "0x23E80",
+  "pointer_count": 252,
+  "empty_pointer_count": 21,
+  "message_occurrence_count": 231,
+  "unique_message_count": 226,
+  "translated_unique_count": 226,
+  "untranslated_unique_count": 0,
+  "output": "/Users/j.swon/Desktop/Grandia3_KR/exports/battle_chatter_standard.csv",
+  "occurrence_output": "/Users/j.swon/Desktop/Grandia3_KR/data/battle/battle_chatter_occurrences.json",
+  "required_glyph_count": 365,
+  "required_glyphs_output": "/Users/j.swon/Desktop/Grandia3_KR/exports/battle_chatter_required_glyphs.txt"
+}

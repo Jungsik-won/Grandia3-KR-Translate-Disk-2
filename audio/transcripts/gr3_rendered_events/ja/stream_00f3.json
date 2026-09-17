@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00f3",
+  "stream_key": "0xF3",
+  "sample_ids": [
+    "0x5F8",
+    "0x5F9"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00f3.flac",
+  "audio_sha256": "807f22a726f89a4c1ad3c6cbbdba61c45d12acdcdb285da524b8bcbe3bb81290",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、ア",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 14.18,
+      "speaker": "",
+      "text": "アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、アルフィナ、ア",
+      "avg_logprob": -0.09154,
+      "no_speech_prob": 0.37283,
+      "compression_ratio": 19.11429,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.027",
+        "HIGH_COMPRESSION_RATIO:19.114"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

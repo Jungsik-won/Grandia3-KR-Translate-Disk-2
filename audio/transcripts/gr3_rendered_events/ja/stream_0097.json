@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0097",
+  "stream_key": "0x97",
+  "sample_ids": ["0x494", "0x495"],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0097.flac",
+  "audio_sha256": "d0d2c8e1460c8fd4380351e890d767bb4c7182474e523d35b8e2294afcff2786",
+  "language": "ja",
+  "status": "HUMAN_CONTEXT_REVIEWED",
+  "screening_flags": [],
+  "model": "whisper-small-targeted-plus-youtube-ja-orig",
+  "notes": "The previous repeated ドラク様 transcript was hallucination over ambience and was discarded. Runtime slot 0 held request/resolved sample 0x494 and 1185 progress ticks (19.750 seconds) during Alfina's greeting; the savestate frame shows Alfina speaking that second line. The unrelated displayed sample 0x39 belongs to key-bit storage stream 0x817. Reviewed against the matching Japanese gameplay audio aligned at video +138.89 seconds, original auto-caption word timing, separated FLAC channels, and frame review.",
+  "text": "こいつがドラク様？ ドラク様、お会いできて嬉しく思います。 エメリウスがアークリフを滅ぼしたことは知っておる。まさか、ゾーンの力を自在に操る者が現れようとは。 奴は、あの力で一体何を……。 すべては大いなる時の中にある。アルフィナよ、お主はコミュートとして時を知らねばならない。お主はまだ未熟じゃが、今はただ、時の流れを信じよう。 時の流れ……信じます。 その宝玉に、わしの力のすべてを込めた。共にある限り、お主の身をゾーンから守るじゃろう。",
+  "segments": [
+    {"segment_index": 0, "start": 2.640, "end": 5.200, "speaker": "ウル", "text": "こいつがドラク様？", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 1, "start": 18.200, "end": 24.500, "speaker": "アルフィナ", "text": "ドラク様、お会いできて嬉しく思います。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 2, "start": 25.190, "end": 31.200, "speaker": "ドラク", "text": "エメリウスがアークリフを滅ぼしたことは知っておる。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 3, "start": 31.709, "end": 40.400, "speaker": "ドラク", "text": "まさか、ゾーンの力を自在に操る者が現れようとは。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 4, "start": 41.830, "end": 47.900, "speaker": "ユウキ", "text": "奴は、あの力で一体何を……。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 5, "start": 48.200, "end": 54.100, "speaker": "ドラク", "text": "すべては大いなる時の中にある。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 6, "start": 54.629, "end": 65.100, "speaker": "ドラク", "text": "アルフィナよ、お主はコミュートとして時を知らねばならない。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 7, "start": 65.709, "end": 71.400, "speaker": "ドラク", "text": "お主はまだ未熟じゃが、", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 8, "start": 72.190, "end": 79.000, "speaker": "ドラク", "text": "今はただ、時の流れを信じよう。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 9, "start": 85.870, "end": 88.100, "speaker": "アルフィナ", "text": "時の流れ……信じます。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 10, "start": 110.390, "end": 116.500, "speaker": "ドラク", "text": "その宝玉に、わしの力のすべてを込めた。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 11, "start": 117.069, "end": 126.000, "speaker": "ドラク", "text": "共にある限り、お主の身をゾーンから守るじゃろう。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []}
+  ],
+  "screening_note": "Only the verified spoken dialogue is subtitled; ambience and non-lexical vocalization at the end are excluded."
+}

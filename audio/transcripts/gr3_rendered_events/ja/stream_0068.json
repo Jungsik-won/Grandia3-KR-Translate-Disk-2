@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0068",
+  "stream_key": "0x68",
+  "sample_ids": [
+    "0x422",
+    "0x423"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0068.flac",
+  "audio_sha256": "d8d6a605d678aca114e983d6aab595457533170611cdcfc57c05da38cc5008a0",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "うーん、待っていたぞ、お前たち。うーん。待ってただって。助けが来るのかい。さあ、先よいそぐよ、二人とも。死ぬまでそこにいな。この、薄の裸。え、おい。 今、薄のろっていったのか。 薄のろっていったのか消えてた! お腹手からもくそもね。殺してやる。エメラ、みなごらしいってやら。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "うーん、待っていたぞ、お前たち。うーん。待ってただって。助けが来るのかい。さあ、先よいそぐよ、二人とも。死ぬまでそこにいな。この、薄の裸。え、おい。",
+      "avg_logprob": -0.60934,
+      "no_speech_prob": 0.04809,
+      "compression_ratio": 1.5102,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 35.0,
+      "speaker": "",
+      "text": "今、薄のろっていったのか。",
+      "avg_logprob": -0.53753,
+      "no_speech_prob": 0.00418,
+      "compression_ratio": 1.48333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 38.0,
+      "end": 42.0,
+      "speaker": "",
+      "text": "薄のろっていったのか消えてた!",
+      "avg_logprob": -0.53753,
+      "no_speech_prob": 0.00418,
+      "compression_ratio": 1.48333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 47.0,
+      "end": 53.0,
+      "speaker": "",
+      "text": "お腹手からもくそもね。殺してやる。エメラ、みなごらしいってやら。",
+      "avg_logprob": -0.53753,
+      "no_speech_prob": 0.00418,
+      "compression_ratio": 1.48333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

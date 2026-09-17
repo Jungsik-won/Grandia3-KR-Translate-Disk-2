@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0090",
+  "stream_key": "0x90",
+  "sample_ids": [
+    "0x484",
+    "0x485"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0090.flac",
+  "audio_sha256": "8a7b3ba417a53d32cfbf25c6007978dd9ea70b82944759cc7c29f27170df2621",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "世界の記憶から消えてしまうべきなのです。このバース会だけが、愛を忘れてはならない。 お前の愛をそば、アニをそして、世界を救うのです。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 21.8,
+      "speaker": "",
+      "text": "世界の記憶から消えてしまうべきなのです。このバース会だけが、愛を忘れてはならない。",
+      "avg_logprob": -0.29418,
+      "no_speech_prob": 0.02783,
+      "compression_ratio": 1.12844,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 21.8,
+      "end": 31.4,
+      "speaker": "",
+      "text": "お前の愛をそば、アニをそして、世界を救うのです。",
+      "avg_logprob": -0.60181,
+      "no_speech_prob": 0.0073,
+      "compression_ratio": 0.9863,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "purpose": "Reviewed positional item/equipment effect strings confirmed by PCSX2 screenshots",
+  "policy": "Only strings with direct runtime evidence are replaced in this research pass; all other adjacent strings remain byte-identical Japanese until the item-session effect export is complete.",
+  "overrides": {
+    "ITEM_0107_EFFECT_1": "HP 300 회복",
+    "ITEM_0343_EFFECT_1": "방어력＋2",
+    "ITEM_0361_EFFECT_1": "이동력＋2"
+  }
+}

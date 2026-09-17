@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0077",
+  "stream_key": "0x77",
+  "sample_ids": [
+    "0x444",
+    "0x445"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0077.flac",
+  "audio_sha256": "3ada35159dcdbe5e6288aebb7b19dbe0fd46ca03296477439b4efeab0cf49994",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:2.862"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、どうした? うん。何ともないわ。 何ともないの、本当に。 アルフィナ、どうした? アルフィナ、どうした? アルフィナ、どうした? アルフィナ、どうした? アルフィナ、どうした? まさかさっきの話ってアルフィナに何か関係あったのか ユキパスカイは地獄なんかじゃない バチが消えるとかこの世が終わりだなんて そんなことに関係あるはずがないの 出なければ兄さんが アルフィナ一体何が不安なんだ 何なんだ 世界の異変が何で気になるんだよ だから 私はアークリフに行かなくちゃならないの どうしても ある日の",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "アルフィナ、どうした?",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 5.0,
+      "end": 8.0,
+      "speaker": "",
+      "text": "うん。何ともないわ。",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 10.0,
+      "end": 13.0,
+      "speaker": "",
+      "text": "何ともないの、本当に。",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 17.0,
+      "end": 20.0,
+      "speaker": "",
+      "text": "アルフィナ、どうした?",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 20.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "アルフィナ、どうした?",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 22.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "アルフィナ、どうした?",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 24.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "アルフィナ、どうした?",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 26.0,
+      "end": 28.0,
+      "speaker": "",
+      "text": "アルフィナ、どうした?",
+      "avg_logprob": -0.46965,
+      "no_speech_prob": 0.00626,
+      "compression_ratio": 2.86207,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 28.0,
+      "end": 35.0,
+      "speaker": "",
+      "text": "まさかさっきの話ってアルフィナに何か関係あったのか",
+      "avg_logprob": -0.25915,
+      "no_speech_prob": 0.39666,
+      "compression_ratio": 1.54688,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 35.0,
+      "end": 42.0,
+      "speaker": "",
+      "text": "ユキパスカイは地獄なんかじゃない",
+      "avg_logprob": -0.25915,
+      "no_speech_prob": 0.39666,
+      "compression_ratio": 1.54688,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 42.0,
+      "end": 46.0,
+      "speaker": "",
+      "text": "バチが消えるとかこの世が終わりだなんて",
+      "avg_logprob": -0.25915,
+      "no_speech_prob": 0.39666,
+      "compression_ratio": 1.54688,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 46.0,
+      "end": 48.0,
+      "speaker": "",
+      "text": "そんなことに関係あるはずがないの",
+      "avg_logprob": -0.25915,
+      "no_speech_prob": 0.39666,
+      "compression_ratio": 1.54688,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 48.0,
+      "end": 50.0,
+      "speaker": "",
+      "text": "出なければ兄さんが",
+      "avg_logprob": -0.25915,
+      "no_speech_prob": 0.39666,
+      "compression_ratio": 1.54688,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 54.0,
+      "end": 57.0,
+      "speaker": "",
+      "text": "アルフィナ一体何が不安なんだ",
+      "avg_logprob": -0.25915,
+      "no_speech_prob": 0.39666,
+      "compression_ratio": 1.54688,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 57.0,
+      "end": 64.0,
+      "speaker": "",
+      "text": "何なんだ 世界の異変が何で気になるんだよ",
+      "avg_logprob": -0.4628,
+      "no_speech_prob": 0.60139,
+      "compression_ratio": 1.19658,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 64.0,
+      "end": 70.0,
+      "speaker": "",
+      "text": "だから 私はアークリフに行かなくちゃならないの",
+      "avg_logprob": -0.4628,
+      "no_speech_prob": 0.60139,
+      "compression_ratio": 1.19658,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 70.0,
+      "end": 82.0,
+      "speaker": "",
+      "text": "どうしても",
+      "avg_logprob": -0.4628,
+      "no_speech_prob": 0.60139,
+      "compression_ratio": 1.19658,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 82.0,
+      "end": 84.0,
+      "speaker": "",
+      "text": "ある日の",
+      "avg_logprob": -0.81103,
+      "no_speech_prob": 0.192,
+      "compression_ratio": 0.57143,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

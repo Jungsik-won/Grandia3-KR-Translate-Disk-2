@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0083",
+  "stream_key": "0x83",
+  "sample_ids": [
+    "0x45E",
+    "0x45F"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0083.flac",
+  "audio_sha256": "b556ea274faaf4db2cf4838579c250af31e8c6e00cebef6bdd76f3353db6d9b2",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "レームのみか。 昼のりの構造にうまくそそのがさるって。昔はそいつをとってくることが、 私が飛行機を作る条件だと思うんだ。 えっ?じゃあ、じゃあ。だが、本物を持ってきよって朝何年もおら、 ましてはお前のような構造ではな。 えっ?レームのみに、にせ物があるの? どう? ボクスの3番のととこへ。 えっ?聞こえなかったのか? ボクススパナの3番だ。はい! えっと、あった!あれ? シミット?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "レームのみか。 昼のりの構造にうまくそそのがさるって。昔はそいつをとってくることが、 私が飛行機を作る条件だと思うんだ。 えっ?じゃあ、じゃあ。だが、本物を持ってきよって朝何年もおら、 ましてはお前のような構造ではな。 えっ?レームのみに、にせ物があるの?",
+      "avg_logprob": -0.40326,
+      "no_speech_prob": 0.1821,
+      "compression_ratio": 1.58621,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 52.0,
+      "speaker": "",
+      "text": "どう? ボクスの3番のととこへ。 えっ?聞こえなかったのか? ボクススパナの3番だ。はい! えっと、あった!あれ? シミット?",
+      "avg_logprob": -0.51054,
+      "no_speech_prob": 0.00744,
+      "compression_ratio": 1.35294,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

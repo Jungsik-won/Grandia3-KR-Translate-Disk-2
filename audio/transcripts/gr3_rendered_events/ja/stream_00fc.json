@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00fc",
+  "stream_key": "0xFC",
+  "sample_ids": [
+    "0x632",
+    "0x633"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00fc.flac",
+  "audio_sha256": "7d7378dd6a3d73b3d8673b62e319a85eaa84d4c6f467f200ce6b771acd0801d6",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、アークリフ、メンディアIII。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 9.25,
+      "speaker": "",
+      "text": "アルフィナ、アークリフ、メンディアIII。",
+      "avg_logprob": -0.6998,
+      "no_speech_prob": 0.45386,
+      "compression_ratio": 0.95,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

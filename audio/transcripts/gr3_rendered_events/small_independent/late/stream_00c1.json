@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c1",
+  "stream_key": "0xC1",
+  "sample_ids": [
+    "0x512",
+    "0x513"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c1.flac",
+  "audio_sha256": "3d0e836c53d32c97baabf11c7d48441efa1ddd6af202936dd15f20858d8e053f",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "LOW_CHARACTER_DIVERSITY:0.130",
+    "HIGH_COMPRESSION_RATIO:11.946",
+    "HIGH_NO_SPEECH_PROBABILITY:0.824"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウ ご視聴ありがとうございました",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウキ、アルフィナ、ミランダ、ユウ",
+      "avg_logprob": -0.17785,
+      "no_speech_prob": 0.00536,
+      "compression_ratio": 11.94643,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 32.56,
+      "speaker": "",
+      "text": "ご視聴ありがとうございました",
+      "avg_logprob": -0.84413,
+      "no_speech_prob": 0.82375,
+      "compression_ratio": 0.85714,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

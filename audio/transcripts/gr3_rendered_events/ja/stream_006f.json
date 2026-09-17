@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_006f",
+  "stream_key": "0x6F",
+  "sample_ids": [
+    "0x430",
+    "0x431"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_006f.flac",
+  "audio_sha256": "3733f32b316e109e46d0b8f264f508790c06caaa284a559da15968955e28e12d",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アタラには悪いことしたな。 プローチ取られちまった上に、こんな面倒にまで巻き込んだよ。あんた、本気でそう思ってる? あのブローチはとっても大切なものだったんです。 私にとって本当に。 どうするつもりなんだアロンサー? もし、勝つさ。 元々俺がまいた種だ。 どんな手を使ってでも、俺なりに蹴りがつける。 明日の聴服。 俺は俺の人生すべてをかける。 そして勝つ。 俺の人生は、俺が決める。 あ、私がコミュートの一族として生まれたことに、 もしも何か意味があるなら、そこから面を揃したくないの。 勝ちます。アロンサーさんは。 アルフィナ。 私信じます。アロンサーさんの強さを。 う、信じるしかないか。 信じないわよ、私は。 よし、決まりだんだ。同性変異現は明日だ。 それもでは、あいつに貸してやるさ。 この先の3番子に船が止めてある。 親は、そこで休むとしよう。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 27.44,
+      "speaker": "",
+      "text": "アタラには悪いことしたな。 プローチ取られちまった上に、こんな面倒にまで巻き込んだよ。あんた、本気でそう思ってる? あのブローチはとっても大切なものだったんです。 私にとって本当に。 どうするつもりなんだアロンサー? もし、勝つさ。",
+      "avg_logprob": -0.36137,
+      "no_speech_prob": 0.10056,
+      "compression_ratio": 1.51131,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 28.44,
+      "end": 35.44,
+      "speaker": "",
+      "text": "元々俺がまいた種だ。 どんな手を使ってでも、俺なりに蹴りがつける。",
+      "avg_logprob": -0.34311,
+      "no_speech_prob": 0.12911,
+      "compression_ratio": 1.38961,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 37.44,
+      "end": 50.44,
+      "speaker": "",
+      "text": "明日の聴服。 俺は俺の人生すべてをかける。 そして勝つ。 俺の人生は、俺が決める。",
+      "avg_logprob": -0.34311,
+      "no_speech_prob": 0.12911,
+      "compression_ratio": 1.38961,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 51.44,
+      "end": 63.44,
+      "speaker": "",
+      "text": "あ、私がコミュートの一族として生まれたことに、 もしも何か意味があるなら、そこから面を揃したくないの。",
+      "avg_logprob": -0.18701,
+      "no_speech_prob": 0.06358,
+      "compression_ratio": 1.50847,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 65.44,
+      "end": 75.44,
+      "speaker": "",
+      "text": "勝ちます。アロンサーさんは。 アルフィナ。 私信じます。アロンサーさんの強さを。",
+      "avg_logprob": -0.18701,
+      "no_speech_prob": 0.06358,
+      "compression_ratio": 1.50847,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 76.44,
+      "end": 91.44,
+      "speaker": "",
+      "text": "う、信じるしかないか。 信じないわよ、私は。 よし、決まりだんだ。同性変異現は明日だ。 それもでは、あいつに貸してやるさ。",
+      "avg_logprob": -0.32921,
+      "no_speech_prob": 0.06834,
+      "compression_ratio": 1.41398,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 92.44,
+      "end": 97.44,
+      "speaker": "",
+      "text": "この先の3番子に船が止めてある。 親は、そこで休むとしよう。",
+      "avg_logprob": -0.32921,
+      "no_speech_prob": 0.06834,
+      "compression_ratio": 1.41398,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

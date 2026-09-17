@@ -1,0 +1,24 @@
+Grandia III focused image glyph overlay validation
+
+source rows: 5903
+message count unchanged: PASS
+SCN ID/order unchanged: PASS
+HIGH input rows: 329
+HIGH applied (G0865 excluded): 328
+MEDIUM/LOW skipped: 6
+G0865 pending: YES
+unresolved unique before: 342
+unresolved unique after: 14
+unresolved occurrences before: 1738
+unresolved occurrences after: 362
+control token count unchanged: PASS (3162 → 3162)
+replacement character U+FFFD count: 0
+collision rows: 0
+known glyph regression: PASS (overlay only replaces unresolved <Gxxxx> tokens; base/runtime/context files unchanged)
+canonical scenario_standard.csv modified: NO
+ISO/MDZ/MDT/FIELD.BIN/BATTLE.BIN modified: NO
+
+Mapping priority used:
+runtime/proven or existing base/context mapping → existing derived text → image-reviewed HIGH fallback → unresolved token
+
+Status: image-reviewed mappings are SUPPORTED_BITMAP, not PROVEN.

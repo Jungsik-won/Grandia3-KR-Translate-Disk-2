@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0055",
+  "stream_key": "0x55",
+  "sample_ids": [
+    "0x3F0",
+    "0x3F1"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0055.flac",
+  "audio_sha256": "3b5c30393a7fbf6615c954f8b64aaad14d3de1424f0a4022f4bdfa9ba20053df",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 23.29,
+      "speaker": "",
+      "text": "スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティー、スティ",
+      "avg_logprob": -0.10511,
+      "no_speech_prob": 0.0143,
+      "compression_ratio": 21.58065,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.022",
+        "HIGH_COMPRESSION_RATIO:21.581"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

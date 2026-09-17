@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0082",
+  "stream_key": "0x82",
+  "sample_ids": [
+    "0x45C",
+    "0x45D"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0082.flac",
+  "audio_sha256": "60a2b6f40f6b350774fc941dc856c0f8cd139a914a9f6da7c3a84543359f2fb1",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "エーイ。そっか!この期待は、主翼と美翼の角度を微妙に変えることで、用力を得ると同時に専回性能を高めてるんだ!こぞ! 飛行機の経験は?今までに19期!こいつが20期目になるはずだったんだ! うーん… うーん… 落ちたな、全部 うーん… はい でも、今度かさ…あれ… 趣味った?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 14.0,
+      "speaker": "",
+      "text": "エーイ。そっか!この期待は、主翼と美翼の角度を微妙に変えることで、用力を得ると同時に専回性能を高めてるんだ!こぞ!",
+      "avg_logprob": -0.43832,
+      "no_speech_prob": 0.08084,
+      "compression_ratio": 1.2549,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 14.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "飛行機の経験は?今までに19期!こいつが20期目になるはずだったんだ!",
+      "avg_logprob": -0.43832,
+      "no_speech_prob": 0.08084,
+      "compression_ratio": 1.2549,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 22.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "うーん…",
+      "avg_logprob": -0.73039,
+      "no_speech_prob": 0.30118,
+      "compression_ratio": 1.17204,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 24.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "うーん…",
+      "avg_logprob": -0.73039,
+      "no_speech_prob": 0.30118,
+      "compression_ratio": 1.17204,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 28.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "落ちたな、全部",
+      "avg_logprob": -0.73039,
+      "no_speech_prob": 0.30118,
+      "compression_ratio": 1.17204,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 30.0,
+      "end": 32.0,
+      "speaker": "",
+      "text": "うーん…",
+      "avg_logprob": -0.73039,
+      "no_speech_prob": 0.30118,
+      "compression_ratio": 1.17204,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 32.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "はい",
+      "avg_logprob": -0.73039,
+      "no_speech_prob": 0.30118,
+      "compression_ratio": 1.17204,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 36.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "でも、今度かさ…あれ…",
+      "avg_logprob": -0.73039,
+      "no_speech_prob": 0.30118,
+      "compression_ratio": 1.17204,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 40.0,
+      "end": 42.0,
+      "speaker": "",
+      "text": "趣味った?",
+      "avg_logprob": -0.73039,
+      "no_speech_prob": 0.30118,
+      "compression_ratio": 1.17204,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

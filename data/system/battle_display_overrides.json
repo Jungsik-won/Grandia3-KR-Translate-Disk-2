@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "overrides": {
+    "BATTLE_MSG_0040": "명석두뇌",
+    "BATTLE_MSG_0044": "명석두뇌"
+  },
+  "reason": "The BATTLE-specific +64 glyph bias makes the full label 명석한 두뇌 exceed its fixed 8-byte slot. The compact display alias preserves the meaning and occupies 7 bytes."
+}

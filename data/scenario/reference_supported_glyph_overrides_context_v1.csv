@@ -1,0 +1,228 @@
+glyph_index_hex,character,confidence,evidence_kind,evidence_note
+0001,、,SUPPORTED,dialogue_context,Repeated clause punctuation: ホント、/ いつ、/ ま、ま…ね / いやぁ、ホント
+0021,！,SUPPORTED,dialogue_context,Sentence-final exclamation in ゲーム dialogue; also quoted 行けッ！
+0022,？,SUPPORTED,dialogue_context,Question punctuation after ハァ/いいっ/空中コンボ
+0026,…,SUPPORTED,dialogue_context,Repeated hesitation/trailing mark: …… and sentence-final ellipsis before punctuation
+002C,「,SUPPORTED,provided_context_high,Context inference (HIGH); examples: RL:07 0E 00 0A 00><G002C>ミランダのことだ 、どうせ、キッチンに 、 | <G002C>ミランダのことだ 、キッチンだろ、どうせ< | おじさん…？ <G002C>そっとしておこう…<G002D>
+002D,」,SUPPORTED,provided_context_high,Context inference (HIGH); examples:  、かくしたに<G0410>まってる<G002D> | ンダのことだ 、キッチンだろ、どうせ<G002D> | ？ <G002C>そっとしておこう…<G002D>
+002E,「,SUPPORTED,dialogue_context,Opening quote before スキル/ライフアップ/行けッ
+002F,」,SUPPORTED,dialogue_context,Closing quote after スキル/ライフアップ/行けッ
+0033,2,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 52E>中で分かれてさ いまは、この<G0033>人で 旅してるんだ | <G0033>00<G01CA>？ そんなの一生じゃない | L:07>それからね、あれはたしか <G0033><G06A6>のとき<G0865><G08
+0035,5,SUPPORTED,provided_context_high,Context inference (HIGH); examples: まっ、フライパンで お<G0364><G0035>0発はカタイね！ | 前に、あんたが船に 乗ったのが<G0035><G06A6>のときか…<CTRL:09  | ゃっかりしたボウズだな そうだな…、<G0035><G0040>あげるよ
+0054,ぁ,SUPPORTED,dialogue_context,Small-vowel speech style: なぁ/まぁ/いやぁ/さぁ
+005A,ぇ,SUPPORTED,dialogue_context,Small-vowel speech style: すげぇ/ちぇっ/ねぇ
+006F,ぜ,SUPPORTED,dialogue_context,Visually verified as ぜ; sentence-ending ぜ and repeated ぜんぜん both fit the raw-byte contexts
+0083,ぱ,SUPPORTED,dialogue_context,やっぱり and やっぱ
+008F,ぽ,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ああ、そこの正体不明の ニワトリっ<G008F>い置物か…<CTRL:09 0E 00 0 | …コッペのほうが よっ<G008F>ど世の中 分かってるわね！ ユウキ、あんた | <CTRL:1E> んなこと、これっ<G008F>っちも 思ってないっしょ？
+0113,会,SUPPORTED,dialogue_context,会おう/会うわけない/会ったら
+0114,話,SUPPORTED,dialogue_context,Compound 話: そんな話/その話/子供の頃よく世話
+011C,必,SUPPORTED,dialogue_context,必 要: 必要なのか/必要になったら/必要ない
+0123,換,SUPPORTED,provided_context_high,Context inference (HIGH); examples: よ すごい勝負が見られるよ！ 気分転<G0123>になるかもよ？ | それなら オレの剣と<G0122><G0123>してやろうか？ けっこう切れるよ！
+0126,捨,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 、こないださ <G023F>しいゴミ<G0126>て場の話 してたでしょ？ ガシャンおじさん | 74><G0553>作ってさ なんか<G0126>てられなくない？ オレも飛行機で、<G04 | よく見てみると おじさん、ちょっと <G0126>て<G02ED>みたいなアイシュウが ただ
+012C,配,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 心<G012C>じゃないの？ | …ったく 心<G012C>してんのか うらやましがってんのか どっち | 3 00>まぁ、じいさんは なんも心<G012C>しないで いつも通りに ここにいればいいさ
+0132,買,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ああ、アレねっ！ いいわ、<G0132>ってきたげる！<CTRL:09 0E 00 | ああ、アレねっ！ いいわ、<G0132>ってきたげる！<CTRL:09 0E 00 | 0>は…、そうだな グラディスさんが<G0132>ってきた <G05C3>食の<G0352>
+0133,売,SUPPORTED,provided_context_high,Context inference (HIGH); examples: でも <G01D7>に立つ品物を<G0133>ってるし <G04CE>より、いい<G05 | んは、武器や防具 それに傷薬なんか <G0133>ってるんだよな<CTRL:07 0E 00 | ここで魔法が<G0133>ってるんだ <G03B4>か、攻撃する魔法
+013C,続,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 方にある… 大空に、<G0336>み<G013C>けるんだって… | 00 08 00> ったく、どこまで<G013C>くんだよ グラディスさんの<G05CE>< | 10>して満足せず おじさんは、作り<G013C>ける！<CTRL:09> そうだッ、燃える
+013E,期,SUPPORTED,provided_context_high,Context inference (HIGH); examples: >マ<CTRL:1E> こうなりゃ長<G013E>戦だ<CTRL:13>マ<CTRL:19> | CTRL:13>マ<CTRL:14><G013E>待どおり<CTRL:13>マ<CTRL:0 | は 会ってくれないかもな ホントに長<G013E>戦になりそうだ
+0143,選,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …それでシュミットは 飛ばないことを<G0143>んで そのまま… | …それでシュミットは 飛ばないことを<G0143>んで そのまま… | …それでシュミットは 飛ばないことを<G0143>んで そのまま…
+0152,村,SUPPORTED,dialogue_context,村を出る/この村のこと/村長
+0162,忘,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ううん ちょっとね、<G0162>れ物… | いっけね、<G0162>れてた！ ああ、もちろん！ | RL:07 0E 00 0A 00><G0162>れ物は…、ない！ 早くガレージに行って ロ
+0163,届,SUPPORTED,provided_context_high,Context inference (HIGH); examples: G02EF>の<G051C>しい物が<G0163>くと 必ず、お<G02E8>に 呼んでくれ | G02EF>の<G051C>しい物が<G0163>くと 必ず、お<G02E8>に 呼んでくれ | TRL:13>マ<G0012> 早く<G0163>けてあげないと……<CTRL:13>マ<G
+0167,母,SUPPORTED,provided_context_high,Context inference (HIGH); examples: はッ、はひッ！、お<G0167>さま！ | ち、ちがうよ！ ミランダは…、<G0167>親さ！ | なぁ、<G0167>さんのこと好きか？
+0170,前,SUPPORTED,dialogue_context,ミランダの前/目を覚ます前に
+0175,屋,SUPPORTED,dialogue_context,Compound 屋: 道具屋/部屋/わめき屋
+0179,晴,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ーキってのが どんなに<G018E><G0179>らしいものか…<CTRL:07 0E 00 | そんな時は、パーッと空でも 飛んで気<G0179>らししようよ！ | CTRL:13>マ<CTRL:1E><G0179>れてる！<CTRL:13>マ<G001C>
+0188,探,SUPPORTED,dialogue_context,手探り/探すさ/探しにいこう
+018B,以,SUPPORTED,provided_context_high,Context inference (HIGH); examples: んだ <G03B4>か、攻撃する魔法<G018B><G01DC>にも 傷を癒す魔法なんかも  | <G0056><G0056>〜 それ<G018B>上はいわない方が おたがいのためじゃなぁい | ああ、<G0555>中に羽がある <G018B><G01DC>はね……
+019A,赤,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 海まで、<G019A>く<G04D9>まってる…<CTRL:09 | うわ…、顔中に <G019A>いプツプツがある… | なんだ、この<G02D3>… 鳥と<G019A>い根っこが 戦ってるのか…？
+01B6,段,SUPPORTED,provided_context_high,Context inference (HIGH); examples: やっぱりいらないな 値<G01B6>はいくら？ | れしかないよな！ オレも聖獣探しが一<G01B6>落したら がんばんないと！ | フライト後のメシは また一<G01B6>とうまく感じるな！<CTRL:09 0E
+01C3,止,SUPPORTED,provided_context_high,Context inference (HIGH); examples: <G02F2>い込まれたりしてる… <G01C3>めなきゃいけないんだ | うだよ！ 夢に<G0163>くまで <G01C3>まらないんだ！<CTRL:09 0E 00 | …それ、きっと ミランダが<G01C3>めたんだ またバクチにハマると思ってさ
+01CA,年,SUPPORTED,provided_context_high,Context inference (HIGH); examples: いのはいいけどさ 実<G044C>の<G01CA><G0848>も、考えてくれよ… | オレとロッツが 長<G01CA>の苦心の末に生み出した 1<G0039>号 | :09 0E 00 08 00> 何<G01CA>も、置きっ放しだよな！
+01CC,黙,SUPPORTED,provided_context_high,Context inference (HIGH); examples: そっか、<G04D4>いか！ ただ<G01CC>ってるだけじゃ なかったんだな！ | 、なんだってのよ… <G085C>が<G01CC>れたのは あたしのせい？ | D9> <G0132>うために、マキ<G01CC>りとか いろいろ仕事して かせいだっけ…<
+01D4,最,SUPPORTED,provided_context_high,Context inference (HIGH); examples: い！ 早くガレージに行って ロッツと<G01D4><G0263>調<G04C5>しないと！ | 言われてみれば、つい<G01D4><G020F>まで <G051D>落しまく | <G01D4>初にかまれてなきゃ オレもそう思ったかもな
+01D7,役,SUPPORTED,provided_context_high,Context inference (HIGH); examples: んないな…… 出目とカードが合うと <G01D7>ができて……？ | 傷に効く薬草… こいつが <G01D7>に立つかも知れない…！ | でも <G01D7>に立つ品物を<G0133>ってるし <G0
+01DC,外,SUPPORTED,provided_context_high,Context inference (HIGH); examples: こそこかと思ってたら <G037C><G01DC>、トシいってたのねぇ… | こそこかと思ってたら <G037C><G01DC>、トシいってたのねぇ… | B4>か、攻撃する魔法<G018B><G01DC>にも 傷を癒す魔法なんかも <G0133>
+01E4,離,SUPPORTED,provided_context_high,Context inference (HIGH); examples:  00 03 00>ま、しばらく村を<G01E4>れるのが ミランダの<G04F1><G03 | ル、ダメだ！ <G07D7>から手を<G01E4>すんだ！<CTRL:09> クッ…、我を< | ル、ダメだ！ <G07D7>から手を<G01E4>すんだ！<CTRL:09> クッ…、我を<
+01FF,目,SUPPORTED,dialogue_context,出目/目を覚ます/目標
+0209,返,SUPPORTED,provided_context_high,Supplied 戻 corrected: 取り返す/返せる/繰り返す all require 返. Original supplied note: Context inference (HIGH); examples: 1<G0039>号機… 取り<G0209>してきたよ おまえの魂… | いだ 給<G05D9>が入って 金を<G0209>せるとか言ってたよな？ | L:13>マ<G0012> 村に引き<G0209>そうか<CTRL:13>マ<CTRL:1E
+020F,近,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 言われてみれば、つい<G01D4><G020F>まで <G051D>落しまくってたんだよな | アロンソ… 取り込み中なら こんな<G020F>くにいちゃ <G05B0>惑なんじゃない？ | でも、<G020F>所の人どころか その人にも <G05B2>
+021E,安,SUPPORTED,provided_context_high,Context inference (HIGH); examples: L:09 0E 00 01 00> <G021E>心しろって、もう そんなことは起きないから | 気<G021E>く呼ぶんじゃないよ | じょうぶ、だいじょうぶ アルフィナは<G021E>心して 見ててくれればいいから
+0228,有,SUPPORTED,provided_context_high,Context inference (HIGH); examples: <G083D><G06EA>なんて、<G0228>り得な… | :0F> なんたってシュミットは 超<G0228>名だから！ | って知らない？ <G085C>焼きで<G0228>名なんだけどさ
+022F,許,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 人を自由に好きになることも <G022F>されないなんて… 大変なんだな、神人っての | …あの様子じゃ <G022F>可どころじゃなさそうだな… とりあえず、ち
+023F,新,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ねぇ、親方！、こないださ <G023F>しいゴミ<G0126>て場の話 してたでし | た焼こうよ あの言<G05CC>が <G023F>しいツボ焼き伝説の 1ページ目さ… | L:13>マ<CTRL:1E> あ、<G023F>たなツボ焼き伝説が 生まれたんだッ！<CT
+0245,甘,SUPPORTED,provided_context_high,Context inference (HIGH); examples: おばさんの<G0560>のトマトさ <G0245>くて、すげぇうまいんだよ！ | 30><G02E8>とか！ やったら<G0245>い、お<G02E8><G027C>子とか！ | 30><G02E8>とか！ やったら<G0245>い、お<G02E8><G027C>子とか！
+024C,験,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 実<G024C>エンジン1号か…<CTRL:07 0E 0 | >が、<G0542>じデジャヴを 体<G024C>するなんて… ダーナ、魔法でもかけたのか？ | おまえで1度 飛んだ経<G024C>があったから あの乱気流を<G034F>け
+0252,定,SUPPORTED,provided_context_high,Context inference (HIGH); examples: みやげは 豪華下着に、<G0410><G0252>〜！ | みやげは 豪華下着に、<G0410><G0252>〜！ | ほど、<G06E4>を<G041F><G0252>できるのか こんな機能 オレの飛行機にも<
+0258,辛,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 0> でも、空が飛べる限り どんなに<G0258>いことがあっても… なんとかなるって思える | 00> ふふ！、あんときゃ ずいぶん<G0258>そうだったわよ | いは まるっきり平気だったから その<G0258>さ分からないや…
+0263,終,SUPPORTED,provided_context_high,Context inference (HIGH); examples:  02 00> 微調<G04C5>を<G0263>わらせれば いつだって飛べるよ | もう、<G0263>わらせてやる オレたちの空や、日常を 取り | ージに行って ロッツと<G01D4><G0263>調<G04C5>しないと！
+028F,儀,SUPPORTED,provided_context_high,Context inference (HIGH); examples: るけど いま大切なのは アルフィナの<G028F>式だ 気持ち、切り<G04F6>えないとな | えっ、<G028F>式が<G0263>わったら…？<CTRL: | さっそく<G028F>式…、か 着いたそうそう大変だな 久しぶり
+02AA,妙,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …なんか 奇<G02AA>な<G05C1>便ポストみたいだな | なんだか<G02AA>にうれしそうだな どんな事<G0412>な | なんか、<G02AA>に テンション高くない？
+02AD,角,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ロッツが、<G02AD>度を工夫して 削りだしたプロペラ…<CTR | っ！、ここだよ！ この<G0706><G02AD>く色あせてない所に 飛行機の<G04D1>
+02BD,涙,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あいつが、そんな風に <G02BD>を流してたなんて… よんよん思<G04EC | 0> わっ！、なんて顔してんだよ！ <G02BD>と<G0573>水が<G041F>まって… | しょっぱいのって、<G02BD>が お<G02E8>に入ってるからだろ…
+02D3,絵,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あたりまえだろ カエルの<G02D3>が、まんなかに <G058F>んであったり | 飛行機の模型に飛行機の<G02D3>… そこにある本も ほとんど飛行機がらみの | アルフィナ、似顔<G02D3> 描いてもらったら？ もう明日には、ここ
+02D4,日,SUPPORTED,dialogue_context,日常 and repeated あの日/その日
+02E4,始,SUPPORTED,provided_context_high,Context inference (HIGH); examples: してたでしょ？ ガシャンおじさんの後<G02E4>末のさ | 7 0E 00 02 00>ここから<G02E4>まったんだ オレの夢… | ああ！、もしかして もう<G02E4>まっちゃった？
+02E6,教,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 51F><G02FE>は、ちゃんと <G02E6><G0384>しとかなきゃ！ | G07CA><G011D>しの極意を<G02E6>えてくれ！ | G07CA><G011D>しの極意を<G02E6>えてくれ！
+02EC,番,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 060A>しだよな… <G0529><G02EC>してる子も おびえてるし… | 4A6>顔のアルフィナが やっぱり1<G02EC>だな！ | <G01D4>初の見<G0512>り<G02EC>は あんたがよろしくね！
+02F2,吸,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ことだよ 色んなところで、家や船が <G02F2>い込まれたりしてる… <G01C3>めなき | でも、みんなが ゾーンに、命を<G02F2>われて ガラスになっちゃったら だれも<G | ちがうんだ ちょっと<G04B7>呼<G02F2>してからと 思ってさ……
+030B,追,SUPPORTED,provided_context_high,Context inference (HIGH); examples: さ！、あたしたち もう行かなきゃ！ <G030B>っ手が来るかも 知れないからね！ | さ！、あたしたち もう行かなきゃ！ <G030B>っ手が来るかも 知れないからね！ | 森で、ヘンなヤツらに <G030B>われてたんだ とりあえず連れてきたけど…
+0320,完,SUPPORTED,provided_context_high,Context inference (HIGH); examples: いてもらいたいんだけど… やっと…、<G0320>成したんだよ | <G035F>土をこねる前に、<G0320>成した <G085C>をイメージしてるんだ | オレ見たよ、究極の<G085C>！ <G0320>成したんだ！ やり<G04BE>げたんだよ
+0327,援,SUPPORTED,provided_context_high,Context inference (HIGH); examples: の勝負 ルールくらい分かんないと 応<G0327>もできないし… 遊びにきたんだ | よし、オレが応<G0327>してやるよ！ ダーナ、勝<G0553>を< | そっか… それで助けずに 応<G0327>してたんだな…
+0336,進,SUPPORTED,provided_context_high,Context inference (HIGH); examples: オレの夢は空の彼方にある… 大空に、<G0336>み<G013C>けるんだって… | 0>くそっ！ 何度でも…！ オレは、<G0336>戦するからな！ | 0>くそっ！ 何度でも…！ オレは、<G0336>戦するからな！
+033F,明,SUPPORTED,dialogue_context,説明/証明
+0348,所,SUPPORTED,dialogue_context,場所/見え見えの場所/飛ぶ場所
+034F,歩,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 09 0E 00 0B 00> 森を<G034F>けるなら また世話になるかもな…！ | >れるのが ミランダの<G04F1><G034F>きになれば いいんだけどな！ | RL:1E> 絶対、<G030B>い<G034F>いてやるからな！<CTRL:13>マ<G0
+0351,声,SUPPORTED,provided_context_high,Context inference (HIGH); examples: おわっと… おばさん、<G0351>はりあげて なにやってんの？ | なんか大<G0351>だして 歩いているから 気になっちゃってさ | なんだ、この人 大きな<G0351>だして…
+035A,隠,SUPPORTED,provided_context_high,Supplied 忘 corrected: 隠れてた and 神隠し require 隠. Original supplied note: Context inference (HIGH); examples: 0E 00 20 00> はは〜ん <G035A>れてたご<G051F><G02FE>、ちゃ | 「神<G035A>し」？ …なんだいそりゃ？ | さすがにミランダも オレの部屋には <G035A>さないだろ…
+0368,他,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 本気で愛してんなら <G0368>の方法だってあるだろうに！ よりによって  | 空を飛ぶ <G0368>の場所に行く やめる | えで、海<G0394>えできなきゃ <G0368>のどんな飛行機だって ムリってことだからな
+036C,喜,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 0583>してくれたら ミランダも、<G036C>ぶと思う… | <G0410>だ 家具屋のおばさんも<G036C>んでたろ 良かったな！
+0373,格,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 性<G0373>なんて正反対なのに… なんていうかパズルが | すごい<G0373>好？ そんなヘンなヤツ いたっけ…？ | だけど、いつまでも そんな<G0373>好してると 狼に食べられちゃうわよ！
+0375,約,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 0> 大<G02EF>で会おうって <G0375>束したのに オレ、出<G050B>れちゃっ | あ、ああ、そっか… メンディまでって<G0375>束だっけ | オレたちさ メンディまでの<G0375>束で アルフィナと旅をしてきただろ でも、
+0376,難,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …落後者？ <G0376>しい言<G05CC>、知ってるんだな 意味 | そりゃ災<G0376>だったね！<CTRL:09 0E 00 2 | 船乗りの日<G02D5>みたいだな <G0376>破したのか…？
+037C,意,SUPPORTED,provided_context_high,Context inference (HIGH); examples: か… ハタチそこそこかと思ってたら <G037C><G01DC>、トシいってたのねぇ… | か… ハタチそこそこかと思ってたら <G037C><G01DC>、トシいってたのねぇ… | だんなさんの 「あ<G048B>の提<G037C>」ねぇ…
+037E,依,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 事<G0412>の内<G05C8> <G037E>頼人の事 <G071B>人はこいつだ！ | 事<G0412>の内<G05C8> <G037E>頼人の事 <G071B>人はこいつだ！ | 事<G0412>の内<G05C8> <G037E>頼人の事 <G071B>人はこいつだ！
+0384,育,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 2FE>は、ちゃんと <G02E6><G0384>しとかなきゃ！ | 00>子供の頃、ミランダが たくさん<G0384>ててたっけ オレが、ケガばっかつくって 戻 | イヤな家<G01B5><G02E6><G0384>だな！ まぁ、いいや <G0368>の人に
+0386,因,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 何が<G02E3><G0386>だったんだ？ | ンの呪い…… せめて、<G02E3><G0386>さえ分かれば… | ンの呪い…… せめて、<G02E3><G0386>さえ分かれば…
+0394,越,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 飛ぶんだ…、どこまでも！ 森を<G0394>えて、そして… あの大海を<G0394>え | 飛ぶんだ…、どこまでも！ 森を<G0394>えて、そして… あの大海を<G0394>え | … 世界で、ただひとり 飛行機で 海<G0394>えを果たした男…<CTRL:07 0E 0
+039E,憶,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …… オレ、小さい時の<G02D5><G039E>って ほとんどないんだよな…
+03AB,悔,SUPPORTED,provided_context_high,Context inference (HIGH); examples: バースフィアに飛びこんだこと 後<G03AB>してないよ、オレは<CTRL:07 0E  | ビアンカを 見つけだしたら 絶対に後<G03AB>するよ… | ビアンカを 見つけだしたら 絶対に後<G03AB>するよ…
+03AF,日,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 02 00> シカの干し肉かな… 2<G03AF>から<G021C>ってるんだ | 2<G03AF>は、<G04B5><G0169>に なって
+03B0,害,SUPPORTED,provided_context_high,Context inference (HIGH); examples: E 00 0B 00><G0570><G03B0>は…、そうだな グラディスさんが<G013 | 00 01 00> ねぇ、それ人には<G03B0>はないの？ つか本当に効くの？ | 09 0E 00 08 00> 激烈<G03B0>虫<G02D9><G02B7>機「コロリ<
+03B4,確,SUPPORTED,provided_context_high,Context inference (HIGH); examples: L:09 0E 00 1F 00> <G03B4>かに、あんなのだったら まだ森の獣のほうが | 9 00>だけど、こいつのおかげで <G03B4>信したんだ オレの夢は空の彼方にある… 大 | こで魔法が<G0133>ってるんだ <G03B4>か、攻撃する魔法<G018B><G01DC
+03B6,楽,SUPPORTED,provided_context_high,Context inference (HIGH); examples: TRL:13>マ<CTRL:0F> <G03B6>勝、<CTRL:13>マ<CTRL:0A> | TRL:13>マ<CTRL:0F> <G03B6>勝、<CTRL:13>マ<CTRL:0A> | G0408>？ なんだか、おばさん <G03B6>しそうだな
+03BA,勘,SUPPORTED,provided_context_high,Context inference (HIGH); examples: んだ？ もしかしてスイカかなんかと <G03BA>違いしてんのか？
+03C0,汗,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 冷や<G03C0>？ 何があったんだよ | お<G0529>の中で冷や<G03C0>たらして… ちょっと 心<G012C>しす | CTRL:13>マ<CTRL:0A><G03C0>でベッタベタ！
+03C2,看,SUPPORTED,provided_context_high,Context inference (HIGH); examples: なぁ、おじさん あの<G03C2>板…、もしかして ビアンカのヤツ 戻ってき | 自分の<G03C2>板くらい 作ればいいのに… | <G03C2>板か…<CTRL:09 0E 00 08
+03C4,簡,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ィスおばさんだ きっと、妖精だって <G03C4>単には連れてけないさ！ | おばさんだ きっと、妖精だって そう<G03C4>単には連れてけないさ | グラディスさんが<G03C4>単に いなくなるわけなんてないさ だいじょ
+03C7,観,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …、残<G0549>だね せっかくの<G03C7>光が こんな<G04EB>ぎで<G0263 | そうだな…、戻り道くらいは ちょっと<G03C7>光してこうかな… ねぇ、メンディにさ 名所 | <G03C7>光ってわけじゃないけど… ああ、<G03B
+03CB,顔,SUPPORTED,dialogue_context,みっともない顔/イヤな顔/人の顔
+03CD,勇,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 、空も 夢をかきたてるからいいんだ <G03CD><G059F>をくれるんだよ | 言ってんだ！ こういう時だからこそ <G03CD><G059F>を持って…！ | 「名匠の手による<G03CD>少品」か…<CTRL:09 0E 00 0
+03D0,戻,SUPPORTED,dialogue_context,戻ってきて/持って戻らないと
+03DF,休,SUPPORTED,dialogue_context,休み/しばらくは休み
+03E1,泣,SUPPORTED,provided_context_high,Context inference (HIGH); examples: なんだ…<CTRL:09> …<G03E1>いてる？ | もしかして <G03E1>き虫だったの？ | …<G03E1>いてるのか？
+03E5,去,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 知ったら自分たちが <G0162>れ<G03E5>られてるみたいで きっと、<G0258>い | オレの機体、壊れたまま 置き<G03E5>りでだいじょうぶかな…<CTRL:09 0 | ぁ、別れを 、<G043A>げず飛び<G03E5>るもんだ…」 とか言いそうだけどな！
+03E8,拠,SUPPORTED,provided_context_high,Context inference (HIGH); examples: だよ！ そんなの 本気でやってない証<G03E8>だよ！ | まぁ…、そんな気もするな… 特に根<G03E8>はないけど | まぁ…、そんな気もするな… 特に根<G03E8>はないけど
+03EA,加,SUPPORTED,provided_context_high,Context inference (HIGH); examples: <G03EA><G04E5>してんのか そりゃ、やりがい | L:13>マ<CTRL:19> また<G03EA><G04E5>しようよ、<CTRL:13>
+03EC,協,SUPPORTED,provided_context_high,Context inference (HIGH); examples: <G03EC>力なんかしてない …むしろ、あんたの悪事を | 00 02 00> …ちょっとあは <G03EC>力できそうにないや、まだ 自由に空を飛んで | よ オレも、<G071B>人当てに <G03EC>力してるんだ、たまにね
+03F2,興,SUPPORTED,provided_context_high,Context inference (HIGH); examples: カにするけど、実は飛行機に すっごい<G03F2>味があるんだ！ | 行機か… あいつ、カラーリングとか <G03F2>味なさそうだもんな…！ | か言って 実は、オレたちの飛行機に <G03F2>味あんだろ？ 乗ってみたいんだろ？
+03F3,郷,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ばれよ！ さっ、オレたちも ウルの故<G03F3>を目指して ひとっとびだ！ | 着いたそうそう大変だな 久しぶりの故<G03F3>だってのに… | 着いたそうそう大変だな 久しぶりの故<G03F3>だってのに…
+03F5,驚,SUPPORTED,provided_context_high,Context inference (HIGH); examples: イキナリ見せられたら そりゃ、みんな<G03F5>くよな… 早く、なんとかしなきゃな！ | イキナリ見せられたら そりゃ、みんな<G03F5>くよな… 早く、なんとかしなきゃ！ | 1E 00> 正直に言ってよ あさら<G03F5>きゃしないから…
+03F9,緊,SUPPORTED,provided_context_high,Context inference (HIGH); examples: はは…、オレは<G03DD>に <G03F9><G0512>しちゃってダメそうだな こん | …まぁ そう<G03F9><G0512>しないでさ！ リラックス、リ | まぁ、まぁ… きっと、<G03F9><G0512>してるんだよ それでヘンな話
+0406,父,SUPPORTED,provided_context_high,Context inference (HIGH); examples: タル…って、もしかして あんたの、お<G0406>さん アロンソって言わない？ | へぇ！、お<G0406>さんも 空中コンボ、使えるんだ |  0E 00 01 00> って、お<G0406>さんは行かないの？
+040C,計,SUPPORTED,provided_context_high,Context inference (HIGH); examples: G05B6>に考えた <G04D1><G040C>とかアイデア 早く<G046A>してみたく | 1<G0039>号機の<G04D1><G040C>図 まさに<G06EA>術だ…！<CTRL | これだよ… <G047E>金は<G040C><G0330>的にって言うだろ？
+040D,迎,SUPPORTED,provided_context_high,Context inference (HIGH); examples: りたいっていうなら 大<G03BF><G040D>だけどさ！ | 02 00>アルフィナと、グリフを <G040D>える準備か… オレも行かなきゃ！ | りたいっていうなら 大<G03BF><G040D>だけどさ！
+0410,決,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ラディスの、おみやげは 豪華下着に、<G0410><G0252>〜！ | ラディスの、おみやげは 豪華下着に、<G0410><G0252>〜！ | やがって<CTRL:09> …いつか<G0410>着つけないとな！
+0412,件,SUPPORTED,provided_context_high,Context inference (HIGH); examples: いたのかよ？ <G01DC>じゃ大事<G0412>があったんだよ！ グラディスさんが 人質に | 待てよ それって、また事<G0412>が <G0444>発するんじゃ…？ | ありがとな まぁ、なんか事<G0412>があったら 相<G0508>にくるからさ
+0414,嫌,SUPPORTED,provided_context_high,Context inference (HIGH); examples: は…、オレだってそうさ この村のこと<G0414>いじゃないけど ここにいた時は ずっとそう | そんな考えだと 女の子に、<G0414>われるよ！<CTRL:09 0E 00 0 | 07 0E 00 04 00>「好き<G0414>いしないっ！ 、残さず食べるっ！」<CTR
+041E,言,SUPPORTED,dialogue_context,言ってる/言えば/言った/言えてる/言う
+0423,枯,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 花か…、すぐ<G0423>れちゃうし これといって<G01D7>に立 | 花ってさ、すぐ<G0423>れちゃうし これといって<G01D7>に立
+0426,互,SUPPORTED,provided_context_high,Context inference (HIGH); examples: でに 何度ロッツとケンカしたか… お<G0426>い、こだわりがあるだけに 強<G04AD> | ランダは アンフォグには戻らない お<G0426>いに、自分の道を 行く事にしたんだ…
+0427,悟,SUPPORTED,provided_context_high,Context inference (HIGH); examples: D4><G0145>してやるっ！ 覚<G0427>してくれよ、親方！ | RL:13>マ<CTRL:1E> 覚<G0427>できてる、<CTRL:13>マ<CTRL: | よ そのかわり、きびしくいくから 覚<G0427>しといてくれよ！
+0428,誤,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 9 0E 00 06 00> ごっ、<G0428>解だよ！ …っていうか、オレ そんな目で見
+043C,頃,SUPPORTED,dialogue_context,子供の頃 and 頃には
+043D,あ,SUPPORTED,dialogue_context,あのダンナさん/あの日/あの子/あの空
+043E,困,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …そりゃ、<G043E>るだろうな！ | だろ それとも、いなくなったら 何か<G043E>るの？ | とこうと思って… また逃げられたら、<G043E>るしさ！
+043F,婚,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あのダンナさんと 結<G043F>したのか！ | して？ アロンソって、もしかして 結<G043F>したことが…？ | はは！、結<G043F>ごっこか？ でも、そういうのは 子供<G0
+0442,査,SUPPORTED,provided_context_high,Context inference (HIGH); examples: アークリフの調<G0442>… なにか分かった？ | アークリフの調<G0442>… なにか分かった？
+0444,再,SUPPORTED,provided_context_high,Context inference (HIGH); examples:  それって、また事<G0412>が <G0444>発するんじゃ…？ |  結界を<G0512>っている聖獣に<G0444>会し そこに<G0252><G048C>し | 聖地アークリフに<G053D>着し <G0444>び、グリフさまの お<G0461>を見た…
+044C,際,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 気持ちが若いのはいいけどさ 実<G044C>の<G01CA><G0848>も、考えてく | あのさ 神人を助けるっていっても 実<G044C>の<G028F>式では 神官の人たちって、 | あのさ 神人を助けるっていっても 実<G044C>の<G028F>式では 神官の人たちって、
+0451,咲,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 012C>ないよ、空から見たら 山に<G0451>く花も <G05B7><G02E3>に<G | 012C>ないよ、空から見たら 山に<G0451>く花も <G05B7><G02E3>に<G | よ ここに来れば、いつだって 元気に<G0451>いてるんだ…
+0452,昨,SUPPORTED,provided_context_high,Context inference (HIGH); examples: それ、<G0452>日聞いたって… | 旅に必要な物は<G0452>日のうちに ガレージに持っていったし フラ
+0460,姉,SUPPORTED,dialogue_context,お姉さん/ソフィー姉ちゃん/お・姉・さ・ん
+046A,試,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 1><G040C>とかアイデア 早く<G046A>してみたくてさ
+0473,執,SUPPORTED,provided_context_high,Context inference (HIGH); examples: <G0473><G0549><G04B7>いウスノロに  | TRL:13>マ<CTRL:0F> <G0473>事さんに知らせてやろう<CTRL:13>マ | そういや、<G0473>事さん 気になることいってたよな ヘクトか
+0474,失,SUPPORTED,provided_context_high,Supplied 試 corrected: 失敗作 is repeated in the examples. Original supplied note: Context inference (HIGH); examples: 作った時は、何もかも手探りで 結局、<G0474><G0553>作だったけど… これがなかっ | はは…、でも<G0474><G0553>作ってさ なんか<G0126 | はは…、でも<G0474><G0553>作ってさ なんか<G0126
+047B,謝,SUPPORTED,provided_context_high,Context inference (HIGH); examples: して 飛行機に乗れてるんだもんな 感<G047B>してるよ、ホント！ | か、感<G047B>してるってば ……ちょっと不気味だけど | ちゃんと おじさんに<G047B>ったか？ ウソつかないで 本当のことを言っ
+047E,借,SUPPORTED,provided_context_high,Context inference (HIGH); examples: また金<G047E>りたのか！ あ度は、だれに？ | 9 00> だったら、もうしばらく <G047E>りといても平気だよ アイツ、気が長いからさ | これだよ… <G047E>金は<G040C><G0330>的にって言
+0480,寂,SUPPORTED,provided_context_high,Context inference (HIGH); examples: こに 行ってあげないの？ すん〜ごく<G0480>しがってるわよ！
+0487,習,SUPPORTED,provided_context_high,Context inference (HIGH); examples:  分かってるわね！ ユウキ、あんた見<G0487>いなさいよ | 人がバカ」 って、学<G02F9>で<G0487>っただろ？ そういうことさ！ | その2人を見<G0487>うのは <G05B4><G04FB>あるよ
+048A,誘,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ！ また、いつもの <G07CA>に<G048A>われた話？ | えと… あの子、<G048A>われ… | きた 山<G02A7>みたいな大男に<G048A>われて 大変だったんだよ！
+048C,住,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ね… あたしには アンフォグの方が <G048C>みやすいけど… | ね… あたしには アンフォグの方が <G048C>みやすいけど… | ゃん、ここら辺に シュミットって人 <G048C>んでないかな？ 探してるんだ…
+0499,助,SUPPORTED,dialogue_context,助けなきゃ/助かったって
+04A2,照,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あたりまえだろ！ 改まって言うのも <G04A2>れるけど… よろしくな、アルフィナ！ | 飛行機乗り…… へへっ、なんか<G04A2>れるな… まぁ、まだ<G023F><G05 | ははっ！ なに<G04A2>れてんだか
+04A4,省,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 3B6>しそうに言うね、おじさん 反<G04A4>してるの？ | じてるんだ<G0071>… 少しは反<G04A4>しろ！ | こいつ、よんよん 反<G04A4>してないな… どうしてやろうか…！
+04A6,笑,SUPPORTED,provided_context_high,Context inference (HIGH); examples: なんか<G04A6>顔が ひきつってるけど… どうしたの？ | ぇ… 筋肉<G051E>になるまで <G04A6>うって…、大変だな | なんか<G04A6>顔が ひきつってるよ だいじょぶ？
+04AA,障,SUPPORTED,provided_context_high,Context inference (HIGH); examples: レ、飛行機乗りなんだ！ 飛行機は、故<G04AA>中だけどね | レ、飛行機乗りなんだ！ 飛行機は、故<G04AA>中だけどね
+04AD,情,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 426>い、こだわりがあるだけに 強<G04AD>だからな！ | ッ、燃えるかまの熱さが おじさんの、<G04AD>熱の<G0278>度だッ！<CTRL:07 | く！、この<G0433>にいるのは <G04AD>けない連中ばっかりね 船がない船乗りなんて
+04BC,図,SUPPORTED,dialogue_context,設計図
+04BF,酔,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 0 20 00> …って、ホントは、<G04BF>っ払って 夢でも見てたんじゃないの？ |  0E 00 01 00> そんなに<G04BF>っ払って なんかあったの？ | 船<G04BF>いか… オレ、どうなのかな
+04C2,勢,SUPPORTED,provided_context_high,Context inference (HIGH); examples:  00 03 00>っと、いけね！ <G04C2>いで、おばさんに バラしちゃうとこだった！ | うわ…、豪<G04C2>だね！<CTRL:09 0E 00 03  | ははっ…、ウル すごい<G04C2>いで食べ<G02E4>めたな…
+04C5,整,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 09 0E 00 02 00> 微調<G04C5>を<G0263>わらせれば いつだって飛べ | ッツと<G01D4><G0263>調<G04C5>しないと！ | 準備が<G04C5>ったら ヘルアセルに向けて出発だ！ 気を、
+04CE,昔,SUPPORTED,provided_context_high,Context inference (HIGH); examples: C0><G0508>サロンだもんね <G04CE>っから！ | 物ねぇ…<CTRL:09> そういや<G04CE>はオレも ミランダが<G058F>んだセー | に立つ品物を<G0133>ってるし <G04CE>より、いい<G0529>に なったと思うよ
+04CF,積,SUPPORTED,provided_context_high,Context inference (HIGH); examples: でっかいわねぇ… こんなの<G04CF>んで、本当に 空なんて飛べるもんなの？ | ああ…、これだけの エンジンを<G04CF>めば ミランダだって乗せて飛べるさ 1<G
+04D0,責,SUPPORTED,provided_context_high,Context inference (HIGH); examples: E 00 02 00>だから、自分を<G04D0>めないで アルフィナ |  ああいういい方されると オレたちも<G04D0>任感じるよな | E 00 02 00>だから、自分を<G04D0>めないで アルフィナ
+04D1,設,SUPPORTED,provided_context_high,Context inference (HIGH); examples: だ 前の日の<G05B6>に考えた <G04D1><G040C>とかアイデア 早く<G046 | に生み出した 1<G0039>号機の<G04D1><G040C>図 まさに<G06EA>術だ | はは… <G04D1><G040C>図から、ガラクタまで キレイ
+04D8,洗,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ちゃんと自分で<G04D8>ってるよ なぁ、アルフィナ？ | 落っことしたら また<G04D8><G06FB>やりなおし？ | そうだよな <G06B2>事、<G04D8>い物、<G04D8>たく、<G04E3><
+04D9,染,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 海まで、<G019A>く<G04D9>まってる…<CTRL:09 0E 00 0
+04E1,思,SUPPORTED,dialogue_context,熱い思い/思いがあれば
+04E6,相,SUPPORTED,dialogue_context,お相手/相手は
+04EC,像,SUPPORTED,provided_context_high,Context inference (HIGH); examples: るだけなのに …みんな、まったく 思<G04EC>力たくましいよ！ | 0342>、とてつもなく 恐ろしい思<G04EC>を…！ | BD>を流してたなんて… よんよん思<G04EC>できないな…
+04F1,息,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ソフィー姉ちゃん どうしたの、ため<G04F1>なんか ついちゃってさ | ソフィー姉ちゃん どうしたの、ため<G04F1>なんか ついちゃってさ | その間 <G04F1>すって生きてんだ そりゃ変わるさ
+04F3,弱,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ほ〜んと、こういうとき 女って<G04F3>よねぇ 代わりに、ユウキでも 人質にすれば
+04F4,待,SUPPORTED,dialogue_context,待ってよ/待たせる/待ってる
+04F6,替,SUPPORTED,provided_context_high,Context inference (HIGH); examples: らしいよ ミランダが、サイコロ すり<G04F6>えるの見たってさ | ナの<G028F>式だ 気持ち、切り<G04F6>えないとな<CTRL:07 0E 00 0
+04F8,退,SUPPORTED,provided_context_high,Context inference (HIGH); examples: じょうぶ もう、オレとミランダで 撃<G04F8>したから！<CTRL:07 0E 00 0 | なに言ってんだよ… あの大男は撃<G04F8>したから もうだいじょうぶだよ！ | こ 空の上でオレやアルフィナまで 撃<G04F8>されたらたまんないし
+04FE,巣,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 飛竜の<G04FE>かぁ 連れてってくれよ、オレも！ | かオレも連れてってくれよ その飛竜の<G04FE>ってところに！ | 飛竜の<G04FE>かぁ 連れてってくれよ、オレも！
+04FF,担,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 家事は分<G04FF>してるけど… <G03B4>かに大変だよな
+0502,誕,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ん〜、あ日って だれかの<G0502>生日とかだっけ？ | やっぱり、いいや 「スキルの<G0502>生」を読もう 「このブックを見よ」を読もう | やめておきましょう では、「スキルの<G0502>生」を… では、「このブックを見よ」を で
+0509,恥,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 058F>んであったりさ、あんなの <G0509>ずかしくて着られるかよ… | なんか <G0509>ずかしい小説だな…… | そんな <G0509>ずかしいタイトルの小説 読みたくないな…
+0511,貯,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ロッツとふたりで 必死にお金<G0511>めたよなぁ フライトユニット<G0132>
+0516,街,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あんがい、その子 あ頃、どこか大きな<G0516>で 幸せに<G0593>らしてたりしてな！ | に<G04D7>に荒<G05B7>に<G0516>…<CTRL:07 0E 00 09 00 | 門<G0529>か… <G0433><G0516>だよな！
+051A,直,SUPPORTED,dialogue_context,直接/仲直り/正直/真っ直ぐ
+051C,珍,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ディスさんあてに 大<G02EF>の<G051C>しい物が<G0163>くと 必ず、お<G0 | ディスさんあてに 大<G02EF>の<G051C>しい物が<G0163>くと 必ず、お<G0 | ウルの<G0364><G0365> <G051C>しがってんじゃないか？
+051D,墜,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ああ…、オレの飛行機さ <G051D>落したんだ… ごめんな、村長… | 行ってくれた1<G0038>号機… <G051D>落のせいで あじゃコックピットだけに…<C | い<G01D4><G020F>まで <G051D>落しまくってたんだよな オレ…
+051F,主,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あら、ダメよ！ <G051F><G02FE>は、ちゃんと <G02E6> | > はは〜ん <G035A>れてたご<G051F><G02FE>、ちゃんと わびを入れたって
+0529,店,SUPPORTED,provided_context_high,Context inference (HIGH); examples: でもさ あ、お<G0529>は <G0523>さんが、やってるんじゃ… | あの<G0529>、道具屋っていうか <G02C0><G05 | あの<G0529>は、<G02C0><G0508>サロンだも
+052E,途,SUPPORTED,provided_context_high,Context inference (HIGH); examples: まぁな… <G052E>中で分かれてさ いまは、この<G0033> |  なまけてるわけじゃないんだよ 旅の<G052E>中なんだ <G0514>だって早起きさ | 旅の<G052E>中でさ ちょっと<G0768>給によったん
+052F,都,SUPPORTED,provided_context_high,Context inference (HIGH); examples: もさ！、もしかしたら ただ村を出て <G052F>会に向かっただけかもよ<CTRL:07 0 |  0E 00 24 00> ホント、<G052F>会って <G05BA>断できないんだから | …そ、そうか… これが<G052F>会の思考法なのか…？
+053B,答,SUPPORTED,provided_context_high,Context inference (HIGH); examples: RL:07 0E 00 0A 00><G053B>えはきっと見つかる！ | <G053B>えはきっと見つかる！ 探しにいこう、アルフ | CTRL:13>マ<CTRL:0F><G053B>えは出た？<CTRL:13>マ<CTRL:
+053D,到,SUPPORTED,provided_context_high,Context inference (HIGH); examples: いよいよ、メンディに<G053D>着かぁ 会えるかな、シュミットに | い旅路の果て 人々は聖地アークリフに<G053D>着し <G0444>び、グリフさまの お< | いよいよ、メンディに<G053D>着かぁ 会えるかな、シュミットに
+053F,豆,SUPPORTED,provided_context_high,Context inference (HIGH); examples: その村の人は えんどう<G053F>を食べると アルフィナを 思い出すのかもな | ん？、どうしたんだ、ウル まさか <G053F>がキライとか…？ | えんどう<G053F>？ アークリフで<G0384>ててたの？
+0542,同,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ？ オレにとっては 化石時代の話と、<G0542>じだよ… | 0E 00 09 00> オレの空と<G0542>じように！ | 07 0E 00 09 00>でも、<G0542>じにおいがしたんだ オレやロッツと…… そ
+0548,認,SUPPORTED,provided_context_high,Context inference (HIGH); examples: … あいつの逃げ道を <G03B4><G0548>しとこうと思って… また逃げられたら、<G | えるんだ！ それも、明日さ！ オレ、<G0548>められたんだよ あの飛行王シュミットに！ | ああ…、グライダーで <G03B4><G0548>ずみさ…、だけど… あ度こそ、あの荒れた空
+054B,悩,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ぶだよ、アルフィナ いったろ？ もう<G054B>まなくていいって！<CTRL:07 0E  | 13>マ<CTRL:19> たぶん、<G054B>みすぎ、<CTRL:13>マ<CTRL:0 | なに<G054B>んでんの？ サイフでも落とした？
+054C,納,SUPPORTED,provided_context_high,Context inference (HIGH); examples: れにあ日で この<G079D>めも見<G054C>めだと思うと いつもとちがって見える…
+054F,派,SUPPORTED,provided_context_high,Context inference (HIGH); examples:  0E 00 02 00> 結構、立<G054F>な家になったよな | さぁ！、あの<G054F>手なテントに 行かなきゃ！ | この立<G054F>な<G033C>の持ち<G02FE>も ア
+0553,敗,SUPPORTED,provided_context_high,Context inference (HIGH); examples: もかも手探りで 結局、<G0474><G0553>作だったけど… これがなかったら あの1< | G0327>してやるよ！ ダーナ、勝<G0553>を<G04D4>ってあげてよ 景気つけてや | はは…、でも<G0474><G0553>作ってさ なんか<G0126>てられなくな
+0558,泊,SUPPORTED,dialogue_context,泊まれるテント/宿泊する
+0568,飯,SUPPORTED,provided_context_high,Context inference (HIGH); examples: よしっ、<G0569><G0109><G0568>は アジフライに<G0410>まりね！ 戻 | ィーカップが 置いてある… ここでご<G0568>、食べるとき 使うのかな？ | トさん <G0569><G0109><G0568>は、要らないそうだよ そこにいる男の人に
+0569,晩,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ミランダ、あ日から<G0569>ごはんは 自分で作ってくれよな…！<CTR | …けど、ミランダ、何でオレに <G0569>メシ作らせるんだ？ <G05D9>理の本、 | RL:13>マ<CTRL:19>ひと<G0569>たてば スッキリするもんよ<CTRL:13
+056E,比,SUPPORTED,provided_context_high,Context inference (HIGH); examples: まぁ、この村と<G056E>べるとな<CTRL:09 0E 00 0B | もいいとこだよ！ ビアンカの強烈さに<G056E>べたらさ | 機でも、船でもさ！ 空や海の大きさに<G056E>べたら…
+056F,疲,SUPPORTED,provided_context_high,Context inference (HIGH); examples: くないんだ…… そうだな、あ日はもう<G056F>れたよ | マ<CTRL:1E> いろいろあって<G056F>れたっしょ<CTRL:13>マ<CTRL: | 13>マ<CTRL:1E> ちょっと<G056F>れてるんじゃない<CTRL:13>マ<CT
+0570,被,SUPPORTED,provided_context_high,Context inference (HIGH); examples: RL:07 0E 00 0B 00><G0570><G03B0>は…、そうだな グラディスさ
+057D,婦,SUPPORTED,provided_context_high,Context inference (HIGH); examples: が立たないんじゃない？ 夫として、夫<G057D>としてぇ！ | やっぱり夫<G057D>だな あの2人… | 夫<G057D><G0058>？<CTRL:13>マ<CT
+0580,動,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 16>の入口のリフトもさ どうやって<G0580>いてるんだろ フライトユニットじゃ ないよ | 16>の入口のリフトもさ どうやって<G0580>いてるんだろ フライトユニットじゃ ないよ | 16>の入口のリフトもさ どうやって<G0580>いてるんだろ フライトユニットじゃ ないよ
+0584,腹,SUPPORTED,provided_context_high,Context inference (HIGH); examples: やオレ まだメシ食ってないんだ 少し<G0584>へったな… | E 00 08 00> オ、オレ、お<G0584>いっぱいでさ！ またねっ！、さよなら！ 行 | そろ行くか？ さすがのウルも もうお<G0584>、いっぱいだろ？
+058A,並,SUPPORTED,provided_context_high,Context inference (HIGH); examples: るほどね…、当たりカードが たくさん<G058A>べばいいのか…<CTRL:09 0E 00 |  いずれ、この中に アークリフの花が<G058A>ぶんだろう それで、<G03B2>のみんな | いっ？、<G058A>ぶの？<CTRL:09 0E 00 08
+058B,閉,SUPPORTED,provided_context_high,Context inference (HIGH); examples: なぁ、アロンソ ここの門、どうして <G058B>まってるんだ？ | 門が<G058B>まってる… ビアンカのしわざか？ アロンソ | <G058B>まってるな… アルフィナ、この<G056D
+0591,勉,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …オレも<G0591>強して、いつか 自力で、こんな立<G054 | 「<G05D9>理も、もっと<G0591>強すると 、いいじゃろう…」<CTRL:0 | どうやら、ミリトさんは 神話の<G0591>強で <G059E>しいらしいんだ それで
+0592,捕,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あきらめて戻るさ！ グラディスさんに<G0592>まるような <G05B7>鳥は、いないから | ってんの？ いまの見たでしょ なんで<G0592>まえないのよ！ | ユウキ！、いまは あのドロボウを<G0592>まえるのが 先でしょ！ ほらっ、行くわよ！
+0593,暮,SUPPORTED,provided_context_high,Context inference (HIGH); examples: どこか大きな<G0516>で 幸せに<G0593>らしてたりしてな！ | あいつ家を<G0415>てて ひとり<G0593>らしするって 言い出したんだよな | 0E 00 24 00>こんな部屋で<G0593>らしてて よくノイローゼにならないわね
+059B,飽,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …<G059B>きちゃう？ | 行かないの？ もしかして 何度も見て<G059B>きちゃったとか？
+059C,亡,SUPPORTED,provided_context_high,Context inference (HIGH); examples: それが、あでは <G059C>くなったはずの<G04F1>子さんを 探し | それが、あでは <G059C>くなったはずの<G04F1>子さんを 探し
+059E,忙,SUPPORTED,provided_context_high,Context inference (HIGH); examples: おじさん、仕事？ 相変わらず<G059E>しそうだね | オレ、<G059E>しいからさ またあ度ね！ | トさんは 神話の<G0591>強で <G059E>しいらしいんだ それで、ご<G0568>は
+05A6,毎,SUPPORTED,provided_context_high,Context inference (HIGH); examples: おばさんも<G05A6>日、大変だよな…<CTRL:09 0E 0
+05A8,慢,SUPPORTED,provided_context_high,Context inference (HIGH); examples: へへ…、我<G05A8>できなかったんだ 前の日の<G05B6>に | だね さすがに速いよ 自<G05A8>の船だけあって | っと… なんだ、おじさん 自<G05A8>したいのか
+05AA,未,SUPPORTED,provided_context_high,Context inference (HIGH); examples: <G05AA>来を見る…？ そんなことできるのか？ | そういう時はさ 考えるんだ、<G05AA>知の世界を！ 飛行機でも、船でもさ！ 空や | ひとつひとつが精<G05AB>で… <G05AA><G0320>成なのに、もうパワーが みな
+05BA,油,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 0> ホント、<G052F>会って <G05BA>断できないんだから | G0181>くて悪かったな！ けど、<G05BA>で<G0181>れたジャケットは 飛行機乗
+05BC,友,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ああ… オレと親<G05BC>の工<G0612> 夢のガレージさ… | どうしたんだ ヒマそうにしてさ <G05BC>達って…、いつもの女の子と 遊べばいいだろ | 名探<G0867>オットー メリー <G05BC>達のリック
+05BE,由,SUPPORTED,dialogue_context,理由
+05C4,予,SUPPORTED,provided_context_high,Context inference (HIGH); examples: おばさんと、おばあさんと その<G05C4>備軍か… | おっ、トラブルの<G05C4>感！ やっぱ旅は、こうでないとな！ | んか、お<G0406>さん そういう<G05C4>言者みたいな<G0722>囲気 まったく感
+05C8,容,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 当たりがないよ 事<G0412>の内<G05C8> <G037E>頼人の事 <G071B>人 | 当たりがないよ 事<G0412>の内<G05C8> <G037E>頼人の事 <G071B>人 | 当たりがないよ 事<G0412>の内<G05C8> <G037E>頼人の事 <G071B>人
+05CC,葉,SUPPORTED,provided_context_high,Context inference (HIGH); examples: …また焼こうよ あの言<G05CC>が <G023F>しいツボ焼き伝説の 1ペ | …落後者？ <G0376>しい言<G05CC>、知ってるんだな 意味、分かってんのか？ | 黒い球は封じられたが 誰も聖獣と言<G05CC>が通じない <G043E>り果てた、その時
+05CD,要,SUPPORTED,dialogue_context,必要なのか/必要になったら/必要ない
+05CE,欲,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 013C>くんだよ グラディスさんの<G05CE><G059F>は… | るのか こんな機能 オレの飛行機にも<G05CE>しいな…<CTRL:09 0E 00 0A | るのか こんな機能 オレの飛行機にも<G05CE>しいな…<CTRL:09 0E 00 0A
+05D4,理,SUPPORTED,dialogue_context,理由/理解した
+05D7,慮,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 遠<G05D7>しとくわ
+05D9,料,SUPPORTED,provided_context_high,Context inference (HIGH); examples: E 00 01 00> 「おまえの手<G05D9>理が食べたい 、、、、、、、、、、、エド」 | え？、だけど、こないだ 給<G05D9>が入って 金を<G0209>せるとか言って | 7 0E 00 01 00>ふ〜ん <G05D9>理の本が多いんだ… こんな時でなきゃ 見に
+05E1,礼,SUPPORTED,provided_context_high,Context inference (HIGH); examples: <G05E1>なんて…<CTRL:09 0E 00 09 | <G05E1>なんて…<CTRL:09 0E 00 09 | <G05E1>なんて…<CTRL:09 0E 00 09
+05E7,労,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 02 00> …そういや、あそこ 苦<G05E7>して<G0415>てたよな、みんなで | ああ、苦<G05E7>したけどね そっちもなんとか | 船は進まない、か… 飛行機にはない苦<G05E7>だな
+060F,賛,SUPPORTED,provided_context_high,Context inference (HIGH); examples: あたしは<G060F>成だけどねぇ…！ | 7 0E 00 1E 00>あたしも<G060F>成<CTRL:13>マ<CTRL:0F>  | っ！、オレも ウルはキーウィってのに<G060F>成！ 毛が生えてるし…
+061B,緒,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ガシャンおじさんと 一<G061B>にするなよっ！ オレは、ちゃんと飛べるんだ | ち、ちがうって！ いろいろあって 一<G061B>に旅する事になっただけさ ヘンなこと、言う | けど、ミランダには 内<G061B>だよ！
+06A6,歳,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ちぇっ、オレもう そんな<G06A6>じゃないよ！ | んたが船に 乗ったのが<G0035><G06A6>のときか…<CTRL:09 0E 00 2 | からね、あれはたしか <G0033><G06A6>のとき<G0865><G0865>
+06FE,迫,SUPPORTED,provided_context_high,Context inference (HIGH); examples: なんか…、ここにいると おじさんの気<G06FE>に 飲まれそうだな… | 見たんだ<CTRL:07>ものすごい<G06FE>力だった いまにも<G0330>面から 飛 | 鬼気<G06FE>る…、ってやつか 飛行王シュミット… もう
+070D,締,SUPPORTED,provided_context_high,Context inference (HIGH); examples: ルアセルに向けて出発だ！ 気を、引き<G070D>めて 行かないとな！ | ルアセルに向けて出発だ！ 気を、引き<G070D>めて 行かないとな！ | ルアセルに向けて出発だ！ 気を、引き<G070D>めて 行かないとな！
+070E,充,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 2 00> よしっ、バッチリ！ まだ<G070E>電しなくても 大丈夫だな！ | な時間、見つけて フライトユニットの<G070E>電 やっとかないとな<CTRL:07 0E | <G0008> フライトユニットを <G070E>電しさえすれば<CTRL:13>マ<CTR
+0848,齢,SUPPORTED,provided_context_high,Context inference (HIGH); examples: さ 実<G044C>の<G01CA><G0848>も、考えてくれよ… | ベッドだよ… ったく、<G01CA><G0848>を考えろって…<CTRL:07 0E 00
+085C,夢,SUPPORTED,provided_context_high,Context inference (HIGH); examples: 少<G01CA>よッ！！ <G085C>とは何かッ？ | ったく、なんだってのよ… <G085C>が<G01CC>れたのは あたしのせい？ | をこねる前に、<G0320>成した <G085C>をイメージしてるんだよ… こう見えても、お
+088E,名,SUPPORTED,provided_context_high,Context inference (HIGH); examples: なんだ、このヘンな<G088E>前…？

@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0080",
+  "stream_key": "0x80",
+  "sample_ids": [
+    "0x458",
+    "0x459"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0080.flac",
+  "audio_sha256": "4cf82f83e22666bd56164afd81eb80712ed7fedc2e1a8cc01274d2f2bad3e75e",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:8/11"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "スッ、すげーすげーやー! アルフィナ、ミロよ!この子よく前に突き出てるぜ! どうやって風の抵抗に苦してんだろうな! うーうー!なんだよこのエンジ! こんなバゲモノみたいなエンジンとんだよ! 誰かってウミゴールができそうだよな! そーもだろ!アルフィナ! あ、うーん… うーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーう うーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーう うーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーう",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 10.0,
+      "speaker": "",
+      "text": "スッ、すげーすげーやー!",
+      "avg_logprob": -0.62195,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 1.22656,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 10.0,
+      "end": 19.0,
+      "speaker": "",
+      "text": "アルフィナ、ミロよ!この子よく前に突き出てるぜ!",
+      "avg_logprob": -0.62195,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 1.22656,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 19.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "どうやって風の抵抗に苦してんだろうな!",
+      "avg_logprob": -0.62195,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 1.22656,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 23.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "うーうー!なんだよこのエンジ!",
+      "avg_logprob": -0.25228,
+      "no_speech_prob": 0.01906,
+      "compression_ratio": 4.52027,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:4.520"
+      ]
+    },
+    {
+      "segment_index": 4,
+      "start": 26.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "こんなバゲモノみたいなエンジンとんだよ!",
+      "avg_logprob": -0.25228,
+      "no_speech_prob": 0.01906,
+      "compression_ratio": 4.52027,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:4.520"
+      ]
+    },
+    {
+      "segment_index": 5,
+      "start": 29.0,
+      "end": 31.0,
+      "speaker": "",
+      "text": "誰かってウミゴールができそうだよな!",
+      "avg_logprob": -0.25228,
+      "no_speech_prob": 0.01906,
+      "compression_ratio": 4.52027,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:4.520"
+      ]
+    },
+    {
+      "segment_index": 6,
+      "start": 31.0,
+      "end": 33.0,
+      "speaker": "",
+      "text": "そーもだろ!アルフィナ!",
+      "avg_logprob": -0.25228,
+      "no_speech_prob": 0.01906,
+      "compression_ratio": 4.52027,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:4.520"
+      ]
+    },
+    {
+      "segment_index": 7,
+      "start": 34.0,
+      "end": 37.0,
+      "speaker": "",
+      "text": "あ、うーん…",
+      "avg_logprob": -0.25228,
+      "no_speech_prob": 0.01906,
+      "compression_ratio": 4.52027,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:4.520"
+      ]
+    },
+    {
+      "segment_index": 8,
+      "start": 37.0,
+      "end": 38.0,
+      "speaker": "",
+      "text": "うーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーう",
+      "avg_logprob": -0.10275,
+      "no_speech_prob": 0.00388,
+      "compression_ratio": 31.85714,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.009",
+        "HIGH_COMPRESSION_RATIO:31.857"
+      ]
+    },
+    {
+      "segment_index": 9,
+      "start": 67.0,
+      "end": 97.0,
+      "speaker": "",
+      "text": "うーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーう",
+      "avg_logprob": -0.05066,
+      "no_speech_prob": 0.23552,
+      "compression_ratio": 31.57143,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.009",
+        "HIGH_COMPRESSION_RATIO:31.571"
+      ]
+    },
+    {
+      "segment_index": 10,
+      "start": 97.0,
+      "end": 115.13,
+      "speaker": "",
+      "text": "うーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーうーう",
+      "avg_logprob": -0.04767,
+      "no_speech_prob": 0.10586,
+      "compression_ratio": 31.57143,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.009",
+        "HIGH_COMPRESSION_RATIO:31.571"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

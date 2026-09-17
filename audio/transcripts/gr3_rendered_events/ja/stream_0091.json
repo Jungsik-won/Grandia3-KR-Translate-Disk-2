@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0091",
+  "stream_key": "0x91",
+  "sample_ids": [
+    "0x486",
+    "0x487"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0091.flac",
+  "audio_sha256": "5899321ed3202a48b38dfe39ea1496c9e6fb527c0ce509605d3e68c7d38a5787",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-left-right-mid-side+whisper-base-targeted",
+  "notes": "PCSX2 AA7AC8CC slot 5 request slot 0 maps 0x486 to GR3_STR 0x91 and the extracted dialogue matches the kitchen-work screenshot. The savestate uses an older SPU2 core layout, so ADSR active-voice ownership is not asserted. Channel-separated and targeted passes were reviewed with the existing P1 draft.",
+  "text": "ほら、しっかり腰入れておやりよ！ よし！ その火が強すぎだよ！ あ、はい！ よいしょ！ 早く帰ってこないかな、ユウキ！",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.54,
+      "end": 3.7,
+      "speaker": "宿屋の女主人",
+      "text": "ほら、しっかり腰入れておやりよ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 5.4,
+      "end": 6.2,
+      "speaker": "アルフィナ",
+      "text": "よし！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 12.2,
+      "end": 14.3,
+      "speaker": "宿屋の女主人",
+      "text": "その火が強すぎだよ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 14.3,
+      "end": 15.8,
+      "speaker": "アルフィナ",
+      "text": "あ、はい！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 20.7,
+      "end": 22.1,
+      "speaker": "アルフィナ",
+      "text": "よいしょ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 24.3,
+      "end": 27.1,
+      "speaker": "アルフィナ",
+      "text": "早く帰ってこないかな、ユウキ！",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    }
+  ],
+  "screening_note": "Manual audio/scene review. Cue edges remain a 60 Hz runtime draft until scene playback verification."
+}

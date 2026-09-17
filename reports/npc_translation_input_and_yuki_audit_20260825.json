@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "npc_input": {
+    "baseline_rows": 11637,
+    "translated_rows": 11637,
+    "stable_id_order_exact": true,
+    "duplicate_ids": 0,
+    "protected_columns_checked": 26,
+    "protected_field_changes": 0,
+    "raw_hex_exact": true,
+    "offsets_exact": true,
+    "control_metadata_exact": true,
+    "control_tokens_exact": true,
+    "blank_translations": 0,
+    "invalid_encoded_terminators": 0
+  },
+  "combined_script": {
+    "scenario_rows": 5903,
+    "npc_dialogue_rows": 11637,
+    "total_rows": 17540,
+    "duplicate_offsets": 0,
+    "overlapping_source_spans": 0,
+    "manifest_id_set_exact": true,
+    "manifest_encoded_bytes_exact": true
+  },
+  "miranda_yuki_focus": {
+    "source": "DATA/00030100.MDZ",
+    "record_id": "0x00740000",
+    "rows": [
+      {
+        "id": "SCN_00030100_00740000_0014",
+        "role": "Miranda first line",
+        "new_record_offset": "0x06D7",
+        "encoded_bytes_exact": true,
+        "terminator": "0D FF 00"
+      },
+      {
+        "id": "SCN_00030100_00740000_0015",
+        "role": "Miranda follow-up",
+        "new_record_offset": "0x0733",
+        "encoded_bytes_exact": true,
+        "terminator": "0D FF 00"
+      },
+      {
+        "id": "SCN_00030100_00740000_0016",
+        "role": "Yuki response",
+        "new_record_offset": "0x076F",
+        "encoded_bytes_exact": true,
+        "terminator": "0D FF 00"
+      }
+    ],
+    "internal_references_checked": 24,
+    "internal_references_exact": 24,
+    "critical_old_reference_offset": 1776,
+    "critical_new_reference_offset": 1732,
+    "critical_old_target_offset": 1854,
+    "critical_new_target_offset": 1806,
+    "critical_bytes": "10 30 26 05 0D 00 FF FF FF FF E0 00 50",
+    "critical_opcode_byte_preserved": true
+  }
+}

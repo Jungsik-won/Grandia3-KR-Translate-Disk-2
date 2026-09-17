@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00e2",
+  "stream_key": "0xE2",
+  "sample_ids": [
+    "0x5BC",
+    "0x5BD"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00e2.flac",
+  "audio_sha256": "75d58d3d331483bc7fba5e3aa160a758b61323cab81f17fee9441a9dd856a251",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "スープ。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。ア",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "スープ。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス",
+      "avg_logprob": -0.10495,
+      "no_speech_prob": 0.07783,
+      "compression_ratio": 18.58333,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.030",
+        "HIGH_COMPRESSION_RATIO:18.583"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 35.24,
+      "speaker": "",
+      "text": "アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。アイス。ア",
+      "avg_logprob": -0.01421,
+      "no_speech_prob": 0.35964,
+      "compression_ratio": 23.67857,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.018",
+        "HIGH_COMPRESSION_RATIO:23.679"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

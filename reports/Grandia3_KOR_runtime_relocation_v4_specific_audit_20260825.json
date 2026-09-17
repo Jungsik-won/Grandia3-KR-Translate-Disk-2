@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "iso": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_runtime_relocation_v4_test_20260825.iso",
+  "iso_sha256": "01311ff3d9cd198edc505821edf3335f4b07f84d70bd2f419f63a67ce03426e6",
+  "scenario_entry": "DATA/00030000.MDZ",
+  "scenario_entry_size": 5969962,
+  "scenario_entry_sha256": "ae4553123d5b6787462f89e0be47c1695f78ea81b1bd4265e61259de72708cb8",
+  "scenario_candidate_matches_iso": true,
+  "record_id": "0x00740000",
+  "stale_reference_targets": [1463, 1464, 1465],
+  "stale_reference_count": 0,
+  "expected_relocated_targets": [1555, 1556, 1557]
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "status": "RUNTIME_PASS",
+  "stable_runtime_baseline": {
+    "version": "v21",
+    "strategy": "restore DATA/00120000.MDZ, DATA/00120100.MDZ, and DATA/00120200.MDZ from CLEAN Disc 1",
+    "runtime_result": "PASS: fire magic acquired, Mikeroma acquired, and casino NPCs persisted",
+    "limitation": "the three restored maps remain Japanese"
+  },
+  "candidate": {
+    "version": "v22",
+    "strategy": "rebuild all 346 translated scenario containers from CLEAN inputs with command-signature-proven event relocation",
+    "translated_sabatar_maps": [
+      "DATA/00120000.MDZ",
+      "DATA/00120100.MDZ",
+      "DATA/00120200.MDZ"
+    ]
+  },
+  "new_relocation_rule": {
+    "variant": "10_00_u16_data_minus_4_terminal_cluster",
+    "signature": "02 02 02 02 13 FF 01 10 00 <self-target>",
+    "coordinate": "member-data-minus-4-relative",
+    "disc1_container_count": 12,
+    "reference_count": 84,
+    "signature_and_self_reference_verified": true,
+    "note": "No same-value propagation is used. A field is relocated only when the original target has the complete terminal signature and matching embedded self-reference."
+  },
+  "sabatar_critical_references": {
+    "DATA/00120000.MDZ": {
+      "mikeroma_paired_10_00": 8,
+      "terminal_signature_references": 7,
+      "terminal_suffix_references": 2
+    },
+    "DATA/00120200.MDZ": {
+      "fire_magic_10_10": 3,
+      "fire_magic_npc_call": 1
+    }
+  },
+  "disc1_full_rebuild": {
+    "manifest": "build/central-runtime-cumulative-v22/scenario-manifest.json",
+    "container_count": 346,
+    "translated_message_count": 18205,
+    "internal_reference_update_count": 19325,
+    "field_table_container_count": 165,
+    "field_table_string_occurrence_count": 915
+  },
+  "verification": {
+    "unit_tests": "46 tests: 43 PASS, 3 SKIP",
+    "mdz_mdt_roundtrip": "346/346 PASS",
+    "serialized_reference_fields": "19325/19325 PASS",
+    "reference_target_bounds": "19325/19325 PASS",
+    "terminal_signature_and_self_reference": "84/84 PASS",
+    "scenario_structure": "346/346 PASS",
+    "iso_full_file_verification": "1265/1265 PASS",
+    "iso_scenario_verification": "346/346 PASS",
+    "iso_reverse_verified": true,
+    "runtime_tested": true,
+    "runtime_result": "PASS: user confirmed the translated Sabatar event flow is fixed",
+    "runtime_passed": [
+      "Fire magic acquisition and subsequent lodging interaction",
+      "Mikeroma acquisition at the Sabatar port",
+      "Casino re-entry with NPC persistence"
+    ]
+  },
+  "iso": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v22_sabatar_korean_eventvm_test_20260827.iso",
+    "size": 4612028416,
+    "sha256": "fe6a50aedc1652f5042102a21280770be978a5cdb8c23105f93c3fa5f780f2f8",
+    "replacement_count": 354,
+    "repacked_file_count": 1265,
+    "build_report": "build/central-runtime-cumulative-v22/iso-build-report.json",
+    "final_verification": "build/central-runtime-cumulative-v22/final-iso-verification.json",
+    "reference_verification": "build/central-runtime-cumulative-v22/scenario-reference-verification.json"
+  }
+}

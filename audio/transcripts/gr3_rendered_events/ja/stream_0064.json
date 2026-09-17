@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0064",
+  "stream_key": "0x64",
+  "sample_ids": [
+    "0x416",
+    "0x417"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0064.flac",
+  "audio_sha256": "94a04020777171025fb60da20c8a5158a2d27e8c64c46416cc4e13c10012c42f",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:2/16"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "話しとくれよ! ミランダ! ちょっとあった! ミラディスをお話しよう! ユーベーこのあたりに迷い込んだ。 金発の娘を探して、ナワ、アルフィナ。 込みをとだ。 込みをと? 男の子くわたせばよし、 サモナクバーこの場半の命は。 お前ら、あの黒い奴の仲間なんのか? 黒い奴、何のことがするわ。 だったすけと黒ユウキ、こいつがね、 私のことさらを御するんだよ! うふう、違うからよ。 金発の娘が見つからないから、カーリニサ。 若くてきれいで、お人やかなこのあたしよ。 言えたからそうじゃなくて、 さらばレタープキット体力に降り飛ばされて、 バスレの坂場で一生告誓われて、 最後にはボールドキみたいにぽいってしてられちゃうんだわ。 いいそうよ、そうに決まったら。 この人に出し! だから、違ってんだろ! いって! ザーマーないね。さあって、ここから出て行ってもらおうか。 いや、この、おぼよくな!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "speaker": "",
+      "text": "話しとくれよ! ミランダ!",
+      "avg_logprob": -0.48459,
+      "no_speech_prob": 0.03147,
+      "compression_ratio": 1.45192,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 6.0,
+      "end": 10.0,
+      "speaker": "",
+      "text": "ちょっとあった! ミラディスをお話しよう!",
+      "avg_logprob": -0.48459,
+      "no_speech_prob": 0.03147,
+      "compression_ratio": 1.45192,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 10.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "ユーベーこのあたりに迷い込んだ。 金発の娘を探して、ナワ、アルフィナ。",
+      "avg_logprob": -0.48459,
+      "no_speech_prob": 0.03147,
+      "compression_ratio": 1.45192,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 18.0,
+      "end": 28.0,
+      "speaker": "",
+      "text": "込みをとだ。 込みをと? 男の子くわたせばよし、 サモナクバーこの場半の命は。",
+      "avg_logprob": -0.48459,
+      "no_speech_prob": 0.03147,
+      "compression_ratio": 1.45192,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 28.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "お前ら、あの黒い奴の仲間なんのか? 黒い奴、何のことがするわ。",
+      "avg_logprob": -0.47699,
+      "no_speech_prob": 0.03953,
+      "compression_ratio": 1.61953,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 34.0,
+      "end": 39.0,
+      "speaker": "",
+      "text": "だったすけと黒ユウキ、こいつがね、 私のことさらを御するんだよ!",
+      "avg_logprob": -0.47699,
+      "no_speech_prob": 0.03953,
+      "compression_ratio": 1.61953,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 39.0,
+      "end": 43.0,
+      "speaker": "",
+      "text": "うふう、違うからよ。 金発の娘が見つからないから、カーリニサ。",
+      "avg_logprob": -0.47699,
+      "no_speech_prob": 0.03953,
+      "compression_ratio": 1.61953,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 43.0,
+      "end": 49.0,
+      "speaker": "",
+      "text": "若くてきれいで、お人やかなこのあたしよ。 言えたからそうじゃなくて、",
+      "avg_logprob": -0.47699,
+      "no_speech_prob": 0.03953,
+      "compression_ratio": 1.61953,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 49.0,
+      "end": 54.0,
+      "speaker": "",
+      "text": "さらばレタープキット体力に降り飛ばされて、 バスレの坂場で一生告誓われて、",
+      "avg_logprob": -0.47699,
+      "no_speech_prob": 0.03953,
+      "compression_ratio": 1.61953,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 54.0,
+      "end": 58.0,
+      "speaker": "",
+      "text": "最後にはボールドキみたいにぽいってしてられちゃうんだわ。",
+      "avg_logprob": -0.17542,
+      "no_speech_prob": 0.14078,
+      "compression_ratio": 6.07965,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:6.080"
+      ]
+    },
+    {
+      "segment_index": 10,
+      "start": 58.0,
+      "end": 61.0,
+      "speaker": "",
+      "text": "いいそうよ、そうに決まったら。",
+      "avg_logprob": -0.17542,
+      "no_speech_prob": 0.14078,
+      "compression_ratio": 6.07965,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:6.080"
+      ]
+    },
+    {
+      "segment_index": 11,
+      "start": 62.0,
+      "end": 65.0,
+      "speaker": "",
+      "text": "この人に出し!",
+      "avg_logprob": -0.48762,
+      "no_speech_prob": 0.04649,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 12,
+      "start": 65.0,
+      "end": 68.0,
+      "speaker": "",
+      "text": "だから、違ってんだろ!",
+      "avg_logprob": -0.48762,
+      "no_speech_prob": 0.04649,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 13,
+      "start": 68.0,
+      "end": 70.0,
+      "speaker": "",
+      "text": "いって!",
+      "avg_logprob": -0.48762,
+      "no_speech_prob": 0.04649,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 14,
+      "start": 80.0,
+      "end": 87.0,
+      "speaker": "",
+      "text": "ザーマーないね。さあって、ここから出て行ってもらおうか。",
+      "avg_logprob": -0.48762,
+      "no_speech_prob": 0.04649,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 15,
+      "start": 87.0,
+      "end": 93.0,
+      "speaker": "",
+      "text": "いや、この、おぼよくな!",
+      "avg_logprob": -0.77002,
+      "no_speech_prob": 0.02704,
+      "compression_ratio": 0.85,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,2921 @@
+{
+  "schema_version": 1,
+  "mode": "GR3_WIDE_DIALOGUE_SPEAKER_NAME_INVENTORY",
+  "input": "/Users/j.swon/Desktop/Grandia3_KR/build/central-runtime-cumulative-v9/font-mdt-preserved/GR3.MDT",
+  "start": "0x02E90E",
+  "end": "0x02F40A",
+  "name_count": 215,
+  "stop_reason": "empty_at_0x02F408",
+  "names": [
+    {
+      "index": 0,
+      "offset": "0x02E90E",
+      "jp_text": "ユウキ",
+      "jp_values": [
+        231,
+        168,
+        175
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 1,
+      "offset": "0x02E916",
+      "jp_text": "アルフィナ",
+      "jp_values": [
+        164,
+        237,
+        214,
+        165,
+        203
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 2,
+      "offset": "0x02E922",
+      "jp_text": "ミランダ",
+      "jp_values": [
+        224,
+        235,
+        234,
+        194
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 3,
+      "offset": "0x02E92C",
+      "jp_text": "アロンソ",
+      "jp_values": [
+        164,
+        239,
+        234,
+        191
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 4,
+      "offset": "0x02E936",
+      "jp_text": "ウル",
+      "jp_values": [
+        168,
+        237
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 5,
+      "offset": "0x02E93C",
+      "jp_text": "ダーナ",
+      "jp_values": [
+        194,
+        39,
+        203
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 6,
+      "offset": "0x02E944",
+      "jp_text": "ヘクト",
+      "jp_values": [
+        217,
+        177,
+        201
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 7,
+      "offset": "0x02E94C",
+      "jp_text": "ロッツ",
+      "jp_values": [
+        239,
+        196,
+        197
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 8,
+      "offset": "0x02E954",
+      "jp_text": "ビアンカ",
+      "jp_values": [
+        212,
+        164,
+        234,
+        173
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 9,
+      "offset": "0x02E95E",
+      "jp_text": "シュミット",
+      "jp_values": [
+        185,
+        230,
+        224,
+        196,
+        201
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 10,
+      "offset": "0x02E96A",
+      "jp_text": "エメリウス",
+      "jp_values": [
+        170,
+        226,
+        236,
+        168,
+        187
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 11,
+      "offset": "0x02E976",
+      "jp_text": "グラディス",
+      "jp_values": [
+        178,
+        235,
+        200,
+        165,
+        187
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 12,
+      "offset": "0x02E982",
+      "jp_text": "アンドレじいさん",
+      "jp_values": [
+        164,
+        234,
+        202,
+        238,
+        107,
+        87,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 13,
+      "offset": "0x02E994",
+      "jp_text": "ソフィー",
+      "jp_values": [
+        191,
+        214,
+        165,
+        39
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 14,
+      "offset": "0x02E99E",
+      "jp_text": "エネット",
+      "jp_values": [
+        170,
+        206,
+        196,
+        201
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 15,
+      "offset": "0x02E9A8",
+      "jp_text": "ウォルトじいさん",
+      "jp_values": [
+        168,
+        171,
+        237,
+        201,
+        107,
+        87,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 16,
+      "offset": "0x02E9BA",
+      "jp_text": "ポリーおばさん",
+      "jp_values": [
+        222,
+        236,
+        39,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 17,
+      "offset": "0x02E9CA",
+      "jp_text": "ミック村長",
+      "jp_values": [
+        224,
+        196,
+        177,
+        338,
+        339
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 18,
+      "offset": "0x02E9D6",
+      "jp_text": "ウィル",
+      "jp_values": [
+        168,
+        165,
+        237
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 19,
+      "offset": "0x02E9DE",
+      "jp_text": "アニキ",
+      "jp_values": [
+        164,
+        204,
+        175
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 20,
+      "offset": "0x02E9E6",
+      "jp_text": "ドリスばあさん",
+      "jp_values": [
+        202,
+        236,
+        187,
+        130,
+        85,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 21,
+      "offset": "0x02E9F6",
+      "jp_text": "エド",
+      "jp_values": [
+        170,
+        202
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 22,
+      "offset": "0x02E9FC",
+      "jp_text": "グレゴー親方",
+      "jp_values": [
+        178,
+        238,
+        182,
+        39,
+        1209,
+        268
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 23,
+      "offset": "0x02EA0A",
+      "jp_text": "ノブ",
+      "jp_values": [
+        207,
+        215
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 24,
+      "offset": "0x02EA10",
+      "jp_text": "メイおばさん",
+      "jp_values": [
+        226,
+        166,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 25,
+      "offset": "0x02EA1E",
+      "jp_text": "ガシャンおじさん",
+      "jp_values": [
+        174,
+        185,
+        228,
+        234,
+        93,
+        107,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 26,
+      "offset": "0x02EA30",
+      "jp_text": "コッペ",
+      "jp_values": [
+        181,
+        196,
+        219
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 27,
+      "offset": "0x02EA38",
+      "jp_text": "？？？",
+      "jp_values": [
+        36,
+        36,
+        36
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 28,
+      "offset": "0x02EA40",
+      "jp_text": "チャック",
+      "jp_values": [
+        195,
+        228,
+        196,
+        177
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 29,
+      "offset": "0x02EA4A",
+      "jp_text": "ヒマそうな女学生",
+      "jp_values": [
+        211,
+        223,
+        112,
+        89,
+        124,
+        1178,
+        949,
+        577
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 30,
+      "offset": "0x02EA5C",
+      "jp_text": "生意気そうな少年",
+      "jp_values": [
+        577,
+        475,
+        363,
+        112,
+        89,
+        124,
+        342,
+        458
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 31,
+      "offset": "0x02EA6E",
+      "jp_text": "紙芝居屋",
+      "jp_values": [
+        360,
+        1142,
+        998,
+        373
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 32,
+      "offset": "0x02EA78",
+      "jp_text": "紳士的な老人",
+      "jp_values": [
+        2097,
+        496,
+        405,
+        124,
+        1514,
+        391
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 33,
+      "offset": "0x02EA86",
+      "jp_text": "似顔絵描き",
+      "jp_values": [
+        1135,
+        971,
+        723,
+        793,
+        96
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 34,
+      "offset": "0x02EA92",
+      "jp_text": "少年探偵オットー",
+      "jp_values": [
+        342,
+        458,
+        392,
+        2151,
+        172,
+        196,
+        201,
+        39
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 35,
+      "offset": "0x02EAA4",
+      "jp_text": "酒屋の店員",
+      "jp_values": [
+        352,
+        373,
+        128,
+        1321,
+        573
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 36,
+      "offset": "0x02EAB0",
+      "jp_text": "寂しげなばあさん",
+      "jp_values": [
+        1152,
+        106,
+        101,
+        124,
+        130,
+        85,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 37,
+      "offset": "0x02EAC2",
+      "jp_text": "町の少女",
+      "jp_values": [
+        1302,
+        128,
+        342,
+        1178
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 38,
+      "offset": "0x02EACC",
+      "jp_text": "町の少年",
+      "jp_values": [
+        1302,
+        128,
+        342,
+        458
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 39,
+      "offset": "0x02EAD6",
+      "jp_text": "サム",
+      "jp_values": [
+        183,
+        225
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 40,
+      "offset": "0x02EADC",
+      "jp_text": "おどおどした少女",
+      "jp_values": [
+        93,
+        123,
+        93,
+        123,
+        106,
+        114,
+        342,
+        1178
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 41,
+      "offset": "0x02EAEE",
+      "jp_text": "家具屋の店番",
+      "jp_values": [
+        346,
+        296,
+        373,
+        128,
+        1321,
+        748
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 42,
+      "offset": "0x02EAFC",
+      "jp_text": "待ちぼうけの女",
+      "jp_values": [
+        1268,
+        116,
+        142,
+        89,
+        100,
+        128,
+        1178
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 43,
+      "offset": "0x02EB0C",
+      "jp_text": "何かを見ている女",
+      "jp_values": [
+        928,
+        94,
+        161,
+        337,
+        120,
+        87,
+        157,
+        1178
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 44,
+      "offset": "0x02EB1E",
+      "jp_text": "買い物する女",
+      "jp_values": [
+        306,
+        87,
+        403,
+        108,
+        157,
+        1178
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 45,
+      "offset": "0x02EB2C",
+      "jp_text": "やせた船乗り",
+      "jp_values": [
+        150,
+        110,
+        114,
+        356,
+        780,
+        156
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 46,
+      "offset": "0x02EB3A",
+      "jp_text": "大柄な男",
+      "jp_values": [
+        274,
+        1829,
+        124,
+        689
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 47,
+      "offset": "0x02EB44",
+      "jp_text": "くたびれた漁師",
+      "jp_values": [
+        98,
+        114,
+        133,
+        158,
+        114,
+        1001,
+        1123
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 48,
+      "offset": "0x02EB54",
+      "jp_text": "うろついている男",
+      "jp_values": [
+        89,
+        159,
+        118,
+        87,
+        120,
+        87,
+        157,
+        689
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 49,
+      "offset": "0x02EB66",
+      "jp_text": "マッチョな水夫",
+      "jp_values": [
+        223,
+        196,
+        195,
+        232,
+        124,
+        487,
+        507
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 50,
+      "offset": "0x02EB76",
+      "jp_text": "ずぶぬれの漁師",
+      "jp_values": [
+        109,
+        136,
+        126,
+        158,
+        128,
+        1001,
+        1123
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 51,
+      "offset": "0x02EB86",
+      "jp_text": "目つきの鋭い老人",
+      "jp_values": [
+        511,
+        118,
+        96,
+        128,
+        913,
+        87,
+        1514,
+        391
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 52,
+      "offset": "0x02EB98",
+      "jp_text": "そわそわおじさん",
+      "jp_values": [
+        112,
+        160,
+        112,
+        160,
+        93,
+        107,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 53,
+      "offset": "0x02EBAA",
+      "jp_text": "ノーラ",
+      "jp_values": [
+        207,
+        39,
+        235
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 54,
+      "offset": "0x02EBB2",
+      "jp_text": "エセル",
+      "jp_values": [
+        170,
+        189,
+        237
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 55,
+      "offset": "0x02EBBA",
+      "jp_text": "ジュード",
+      "jp_values": [
+        186,
+        230,
+        39,
+        202
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 56,
+      "offset": "0x02EBC4",
+      "jp_text": "賭博場の漁師",
+      "jp_values": [
+        1325,
+        1367,
+        353,
+        128,
+        1001,
+        1123
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 57,
+      "offset": "0x02EBD2",
+      "jp_text": "山奥から来た客",
+      "jp_values": [
+        440,
+        920,
+        94,
+        155,
+        516,
+        114,
+        987
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 58,
+      "offset": "0x02EBE2",
+      "jp_text": "ビアンカの手下Ａ",
+      "jp_values": [
+        212,
+        164,
+        234,
+        173,
+        128,
+        301,
+        313,
+        58
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 59,
+      "offset": "0x02EBF4",
+      "jp_text": "ビアンカの手下Ｂ",
+      "jp_values": [
+        212,
+        164,
+        234,
+        173,
+        128,
+        301,
+        313,
+        59
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 60,
+      "offset": "0x02EC06",
+      "jp_text": "脂ぎった中年男",
+      "jp_values": [
+        2180,
+        97,
+        117,
+        114,
+        812,
+        458,
+        689
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 61,
+      "offset": "0x02EC16",
+      "jp_text": "パシリの少年",
+      "jp_values": [
+        210,
+        185,
+        236,
+        128,
+        342,
+        458
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 62,
+      "offset": "0x02EC24",
+      "jp_text": "立ち寄った水夫",
+      "jp_values": [
+        472,
+        116,
+        772,
+        117,
+        114,
+        487,
+        507
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 63,
+      "offset": "0x02EC34",
+      "jp_text": "旅人",
+      "jp_values": [
+        357,
+        391
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 64,
+      "offset": "0x02EC3A",
+      "jp_text": "クライド",
+      "jp_values": [
+        177,
+        235,
+        166,
+        202
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 65,
+      "offset": "0x02EC44",
+      "jp_text": "ガラの悪い男",
+      "jp_values": [
+        174,
+        235,
+        128,
+        401,
+        87,
+        689
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 66,
+      "offset": "0x02EC52",
+      "jp_text": "借金まみれの男",
+      "jp_values": [
+        1150,
+        614,
+        144,
+        145,
+        158,
+        128,
+        689
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 67,
+      "offset": "0x02EC62",
+      "jp_text": "収集家のばあさん",
+      "jp_values": [
+        1155,
+        839,
+        346,
+        128,
+        130,
+        85,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 68,
+      "offset": "0x02EC74",
+      "jp_text": "初老の紳士",
+      "jp_values": [
+        317,
+        1514,
+        128,
+        2097,
+        496
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 69,
+      "offset": "0x02EC80",
+      "jp_text": "シバ",
+      "jp_values": [
+        185,
+        209
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 70,
+      "offset": "0x02EC86",
+      "jp_text": "魚屋の青年",
+      "jp_values": [
+        509,
+        373,
+        128,
+        714,
+        458
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 71,
+      "offset": "0x02EC92",
+      "jp_text": "エビ屋の少年",
+      "jp_values": [
+        170,
+        212,
+        373,
+        128,
+        342,
+        458
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 72,
+      "offset": "0x02ECA0",
+      "jp_text": "買い物している娘",
+      "jp_values": [
+        306,
+        87,
+        403,
+        106,
+        120,
+        87,
+        157,
+        1455
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 73,
+      "offset": "0x02ECB2",
+      "jp_text": "あやしげな男",
+      "jp_values": [
+        85,
+        150,
+        106,
+        101,
+        124,
+        689
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 74,
+      "offset": "0x02ECC0",
+      "jp_text": "ヅラの権威",
+      "jp_values": [
+        198,
+        235,
+        128,
+        1047,
+        340
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 75,
+      "offset": "0x02ECCC",
+      "jp_text": "気さくな青年",
+      "jp_values": [
+        363,
+        104,
+        98,
+        124,
+        714,
+        458
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 76,
+      "offset": "0x02ECDA",
+      "jp_text": "果物屋のババア",
+      "jp_values": [
+        402,
+        403,
+        373,
+        128,
+        209,
+        209,
+        164
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 77,
+      "offset": "0x02ECEA",
+      "jp_text": "紙芝居屋の常連",
+      "jp_values": [
+        360,
+        1142,
+        998,
+        373,
+        128,
+        536,
+        699
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 78,
+      "offset": "0x02ECFA",
+      "jp_text": "有閑マダム",
+      "jp_values": [
+        552,
+        1643,
+        223,
+        194,
+        225
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 79,
+      "offset": "0x02ED06",
+      "jp_text": "生意気なボンボン",
+      "jp_values": [
+        577,
+        475,
+        363,
+        124,
+        221,
+        234,
+        221,
+        234
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 80,
+      "offset": "0x02ED18",
+      "jp_text": "経済界のドン",
+      "jp_values": [
+        587,
+        1095,
+        743,
+        128,
+        202,
+        234
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 81,
+      "offset": "0x02ED26",
+      "jp_text": "サナギのビリー",
+      "jp_values": [
+        183,
+        203,
+        176,
+        128,
+        212,
+        236,
+        39
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 82,
+      "offset": "0x02ED36",
+      "jp_text": "ほがらかな女",
+      "jp_values": [
+        141,
+        95,
+        155,
+        94,
+        124,
+        1178
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 83,
+      "offset": "0x02ED44",
+      "jp_text": "島育ちの少年",
+      "jp_values": [
+        1334,
+        900,
+        116,
+        128,
+        342,
+        458
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 84,
+      "offset": "0x02ED52",
+      "jp_text": "快活な男",
+      "jp_values": [
+        938,
+        571,
+        124,
+        689
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 85,
+      "offset": "0x02ED5C",
+      "jp_text": "大声で話す女",
+      "jp_values": [
+        274,
+        849,
+        121,
+        276,
+        108,
+        1178
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 86,
+      "offset": "0x02ED6A",
+      "jp_text": "不安げに話す男",
+      "jp_values": [
+        544,
+        542,
+        101,
+        125,
+        276,
+        108,
+        689
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 87,
+      "offset": "0x02ED7A",
+      "jp_text": "おびえている女",
+      "jp_values": [
+        93,
+        133,
+        91,
+        120,
+        87,
+        157,
+        1178
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 88,
+      "offset": "0x02ED8A",
+      "jp_text": "ひそひそと話す女",
+      "jp_values": [
+        132,
+        112,
+        132,
+        112,
+        122,
+        276,
+        108,
+        1178
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 89,
+      "offset": "0x02ED9C",
+      "jp_text": "営業マン",
+      "jp_values": [
+        907,
+        665,
+        223,
+        234
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 90,
+      "offset": "0x02EDA6",
+      "jp_text": "家具屋の婆さん",
+      "jp_values": [
+        346,
+        296,
+        373,
+        128,
+        1951,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 91,
+      "offset": "0x02EDB6",
+      "jp_text": "果物屋の息子",
+      "jp_values": [
+        402,
+        403,
+        373,
+        128,
+        1265,
+        473
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 92,
+      "offset": "0x02EDC4",
+      "jp_text": "花屋",
+      "jp_values": [
+        676,
+        373
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 93,
+      "offset": "0x02EDCA",
+      "jp_text": "看板屋",
+      "jp_values": [
+        962,
+        673,
+        373
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 94,
+      "offset": "0x02EDD2",
+      "jp_text": "看板屋の奥さん",
+      "jp_values": [
+        962,
+        673,
+        373,
+        128,
+        920,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 95,
+      "offset": "0x02EDE2",
+      "jp_text": "観光客",
+      "jp_values": [
+        967,
+        626,
+        987
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 96,
+      "offset": "0x02EDEA",
+      "jp_text": "客船の受け付け",
+      "jp_values": [
+        987,
+        356,
+        128,
+        567,
+        100,
+        489,
+        100
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 97,
+      "offset": "0x02EDFA",
+      "jp_text": "橋の上の女",
+      "jp_values": [
+        1008,
+        128,
+        343,
+        128,
+        1178
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 98,
+      "offset": "0x02EE06",
+      "jp_text": "橋の上の男",
+      "jp_values": [
+        1008,
+        128,
+        343,
+        128,
+        689
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 99,
+      "offset": "0x02EE12",
+      "jp_text": "港のおばさん",
+      "jp_values": [
+        1075,
+        128,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 100,
+      "offset": "0x02EE20",
+      "jp_text": "酒屋のおじさん",
+      "jp_values": [
+        352,
+        373,
+        128,
+        93,
+        107,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 101,
+      "offset": "0x02EE30",
+      "jp_text": "やせこけた男",
+      "jp_values": [
+        150,
+        110,
+        102,
+        100,
+        114,
+        689
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 102,
+      "offset": "0x02EE3E",
+      "jp_text": "洗濯屋の婆さん",
+      "jp_values": [
+        1240,
+        1787,
+        373,
+        128,
+        1951,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 103,
+      "offset": "0x02EE4E",
+      "jp_text": "たくましい船乗り",
+      "jp_values": [
+        114,
+        98,
+        144,
+        106,
+        87,
+        356,
+        780,
+        156
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 104,
+      "offset": "0x02EE60",
+      "jp_text": "宿屋の女将",
+      "jp_values": [
+        1167,
+        373,
+        128,
+        1178,
+        760
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 105,
+      "offset": "0x02EE6C",
+      "jp_text": "植物学者の老人",
+      "jp_values": [
+        461,
+        403,
+        949,
+        550,
+        128,
+        1514,
+        391
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 106,
+      "offset": "0x02EE7C",
+      "jp_text": "船酔いトーマス",
+      "jp_values": [
+        356,
+        1215,
+        87,
+        201,
+        39,
+        223,
+        187
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 107,
+      "offset": "0x02EE8C",
+      "jp_text": "心配している水夫",
+      "jp_values": [
+        548,
+        300,
+        106,
+        120,
+        87,
+        157,
+        487,
+        507
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 108,
+      "offset": "0x02EE9E",
+      "jp_text": "ニーナ",
+      "jp_values": [
+        204,
+        39,
+        203
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 109,
+      "offset": "0x02EEA6",
+      "jp_text": "おびえている男",
+      "jp_values": [
+        93,
+        133,
+        91,
+        120,
+        87,
+        157,
+        689
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 110,
+      "offset": "0x02EEB6",
+      "jp_text": "勇敢な女",
+      "jp_values": [
+        617,
+        958,
+        124,
+        1178
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 111,
+      "offset": "0x02EEC0",
+      "jp_text": "いそがしい荷役夫",
+      "jp_values": [
+        87,
+        112,
+        95,
+        106,
+        87,
+        934,
+        471,
+        507
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 112,
+      "offset": "0x02EED2",
+      "jp_text": "せわしない買物客",
+      "jp_values": [
+        110,
+        160,
+        106,
+        124,
+        87,
+        306,
+        403,
+        987
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 113,
+      "offset": "0x02EEE4",
+      "jp_text": "八百屋セニョール",
+      "jp_values": [
+        836,
+        1398,
+        373,
+        189,
+        204,
+        232,
+        39,
+        237
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 114,
+      "offset": "0x02EEF6",
+      "jp_text": "ジェリィ",
+      "jp_values": [
+        186,
+        169,
+        236,
+        165
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 115,
+      "offset": "0x02EF00",
+      "jp_text": "メンディ海運社員",
+      "jp_values": [
+        226,
+        234,
+        200,
+        165,
+        376,
+        906,
+        1146,
+        573
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 116,
+      "offset": "0x02EF12",
+      "jp_text": "ロブ",
+      "jp_values": [
+        239,
+        215
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 117,
+      "offset": "0x02EF18",
+      "jp_text": "エマ",
+      "jp_values": [
+        170,
+        223
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 118,
+      "offset": "0x02EF1E",
+      "jp_text": "陽気なおばさん",
+      "jp_values": [
+        672,
+        363,
+        124,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 119,
+      "offset": "0x02EF2E",
+      "jp_text": "笑顔の少年",
+      "jp_values": [
+        1190,
+        971,
+        128,
+        342,
+        458
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 120,
+      "offset": "0x02EF3A",
+      "jp_text": "一息ついている女",
+      "jp_values": [
+        253,
+        1265,
+        118,
+        87,
+        120,
+        87,
+        157,
+        1178
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 121,
+      "offset": "0x02EF4C",
+      "jp_text": "肉屋のオヤジ",
+      "jp_values": [
+        706,
+        373,
+        128,
+        172,
+        229,
+        186
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 122,
+      "offset": "0x02EF5A",
+      "jp_text": "神殿の衛兵",
+      "jp_values": [
+        627,
+        1323,
+        128,
+        912,
+        465
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 123,
+      "offset": "0x02EF66",
+      "jp_text": "女官",
+      "jp_values": [
+        1178,
+        667
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 124,
+      "offset": "0x02EF6C",
+      "jp_text": "鉄球を見る神官",
+      "jp_values": [
+        442,
+        488,
+        161,
+        337,
+        157,
+        627,
+        667
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 125,
+      "offset": "0x02EF7C",
+      "jp_text": "神官",
+      "jp_values": [
+        627,
+        667
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 126,
+      "offset": "0x02EF82",
+      "jp_text": "聖歌隊の楽長",
+      "jp_values": [
+        647,
+        864,
+        1273,
+        128,
+        950,
+        339
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 127,
+      "offset": "0x02EF90",
+      "jp_text": "司教",
+      "jp_values": [
+        1118,
+        742
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 128,
+      "offset": "0x02EF96",
+      "jp_text": "厳しい女官",
+      "jp_values": [
+        1052,
+        106,
+        87,
+        1178,
+        667
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 129,
+      "offset": "0x02EFA2",
+      "jp_text": "世話役の神官",
+      "jp_values": [
+        827,
+        276,
+        471,
+        128,
+        627,
+        667
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 130,
+      "offset": "0x02EFB0",
+      "jp_text": "いきどおる神官",
+      "jp_values": [
+        87,
+        96,
+        123,
+        93,
+        157,
+        627,
+        667
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 131,
+      "offset": "0x02EFC0",
+      "jp_text": "微笑んでいる神官",
+      "jp_values": [
+        1394,
+        1190,
+        162,
+        121,
+        87,
+        157,
+        627,
+        667
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 132,
+      "offset": "0x02EFD2",
+      "jp_text": "落ち着いた女官",
+      "jp_values": [
+        423,
+        116,
+        666,
+        87,
+        114,
+        1178,
+        667
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 133,
+      "offset": "0x02EFE2",
+      "jp_text": "騒がしい女官",
+      "jp_values": [
+        1259,
+        95,
+        106,
+        87,
+        1178,
+        667
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 134,
+      "offset": "0x02EFF0",
+      "jp_text": "司書のおじいさん",
+      "jp_values": [
+        1118,
+        727,
+        128,
+        93,
+        107,
+        87,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 135,
+      "offset": "0x02F002",
+      "jp_text": "優しい女官",
+      "jp_values": [
+        1467,
+        106,
+        87,
+        1178,
+        667
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 136,
+      "offset": "0x02F00E",
+      "jp_text": "衛兵",
+      "jp_values": [
+        912,
+        465
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 137,
+      "offset": "0x02F014",
+      "jp_text": "ティカ",
+      "jp_values": [
+        199,
+        165,
+        173
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 138,
+      "offset": "0x02F01C",
+      "jp_text": "隊長",
+      "jp_values": [
+        1273,
+        339
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 139,
+      "offset": "0x02F022",
+      "jp_text": "兵士",
+      "jp_values": [
+        465,
+        496
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 140,
+      "offset": "0x02F028",
+      "jp_text": "ナアノ",
+      "jp_values": [
+        203,
+        164,
+        207
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 141,
+      "offset": "0x02F030",
+      "jp_text": "ナアノの祖父",
+      "jp_values": [
+        203,
+        164,
+        207,
+        128,
+        1242,
+        335
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 142,
+      "offset": "0x02F03E",
+      "jp_text": "水場の女",
+      "jp_values": [
+        487,
+        353,
+        128,
+        1178
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 143,
+      "offset": "0x02F048",
+      "jp_text": "大樹を見る男",
+      "jp_values": [
+        274,
+        375,
+        161,
+        337,
+        157,
+        689
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 144,
+      "offset": "0x02F056",
+      "jp_text": "彫刻家",
+      "jp_values": [
+        1876,
+        1081,
+        346
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 145,
+      "offset": "0x02F05E",
+      "jp_text": "よどんだ目の男",
+      "jp_values": [
+        154,
+        123,
+        162,
+        115,
+        511,
+        128,
+        689
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 146,
+      "offset": "0x02F06E",
+      "jp_text": "探し回る老人",
+      "jp_values": [
+        392,
+        106,
+        271,
+        157,
+        1514,
+        391
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 147,
+      "offset": "0x02F07C",
+      "jp_text": "執事",
+      "jp_values": [
+        1139,
+        394
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 148,
+      "offset": "0x02F082",
+      "jp_text": "一人暮らしの老人",
+      "jp_values": [
+        253,
+        391,
+        1427,
+        155,
+        106,
+        128,
+        1514,
+        391
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 149,
+      "offset": "0x02F094",
+      "jp_text": "弱っている老人",
+      "jp_values": [
+        578,
+        117,
+        120,
+        87,
+        157,
+        1514,
+        391
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 150,
+      "offset": "0x02F0A4",
+      "jp_text": "息子の嫁",
+      "jp_values": [
+        1265,
+        473,
+        128,
+        931
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 151,
+      "offset": "0x02F0AE",
+      "jp_text": "老人の息子",
+      "jp_values": [
+        1514,
+        391,
+        128,
+        1265,
+        473
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 152,
+      "offset": "0x02F0BA",
+      "jp_text": "粉ひきのおばさん",
+      "jp_values": [
+        1414,
+        132,
+        96,
+        128,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 153,
+      "offset": "0x02F0CC",
+      "jp_text": "粉ひきの息子",
+      "jp_values": [
+        1414,
+        132,
+        96,
+        128,
+        1265,
+        473
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 154,
+      "offset": "0x02F0DA",
+      "jp_text": "優しげなおばさん",
+      "jp_values": [
+        1467,
+        106,
+        101,
+        124,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 155,
+      "offset": "0x02F0EC",
+      "jp_text": "ダーナのおばさん",
+      "jp_values": [
+        194,
+        39,
+        203,
+        128,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 156,
+      "offset": "0x02F0FE",
+      "jp_text": "頑固そうな老人",
+      "jp_values": [
+        508,
+        1055,
+        112,
+        89,
+        124,
+        1514,
+        391
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 157,
+      "offset": "0x02F10E",
+      "jp_text": "おだやかな婆さん",
+      "jp_values": [
+        93,
+        115,
+        150,
+        94,
+        124,
+        1951,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 158,
+      "offset": "0x02F120",
+      "jp_text": "座り続ける男",
+      "jp_values": [
+        1091,
+        156,
+        316,
+        100,
+        157,
+        689
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 159,
+      "offset": "0x02F12E",
+      "jp_text": "座り続ける男の妻",
+      "jp_values": [
+        1091,
+        156,
+        316,
+        100,
+        157,
+        689,
+        128,
+        433
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 160,
+      "offset": "0x02F140",
+      "jp_text": "座り続ける男の娘",
+      "jp_values": [
+        1091,
+        156,
+        316,
+        100,
+        157,
+        689,
+        128,
+        1455
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 161,
+      "offset": "0x02F152",
+      "jp_text": "楽器屋",
+      "jp_values": [
+        950,
+        467,
+        373
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 162,
+      "offset": "0x02F15A",
+      "jp_text": "サイード",
+      "jp_values": [
+        183,
+        166,
+        39,
+        202
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 163,
+      "offset": "0x02F164",
+      "jp_text": "殺人音源サイード",
+      "jp_values": [
+        285,
+        391,
+        280,
+        1053,
+        183,
+        166,
+        39,
+        202
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 164,
+      "offset": "0x02F176",
+      "jp_text": "買い物おばさん",
+      "jp_values": [
+        306,
+        87,
+        403,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 165,
+      "offset": "0x02F186",
+      "jp_text": "服屋",
+      "jp_values": [
+        494,
+        373
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 166,
+      "offset": "0x02F18C",
+      "jp_text": "総菜屋",
+      "jp_values": [
+        1256,
+        1099,
+        373
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 167,
+      "offset": "0x02F194",
+      "jp_text": "ルイリ",
+      "jp_values": [
+        237,
+        166,
+        236
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 168,
+      "offset": "0x02F19C",
+      "jp_text": "お祈りする子供",
+      "jp_values": [
+        93,
+        978,
+        156,
+        108,
+        157,
+        473,
+        474
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 169,
+      "offset": "0x02F1AC",
+      "jp_text": "のんびりとした男",
+      "jp_values": [
+        128,
+        162,
+        133,
+        156,
+        122,
+        106,
+        114,
+        689
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 170,
+      "offset": "0x02F1BE",
+      "jp_text": "バクラの少女",
+      "jp_values": [
+        209,
+        177,
+        235,
+        128,
+        342,
+        1178
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 171,
+      "offset": "0x02F1CC",
+      "jp_text": "猟師の青年",
+      "jp_values": [
+        2213,
+        1123,
+        128,
+        714,
+        458
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 172,
+      "offset": "0x02F1D8",
+      "jp_text": "族長の戦士",
+      "jp_values": [
+        500,
+        339,
+        128,
+        443,
+        496
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 173,
+      "offset": "0x02F1E4",
+      "jp_text": "シャヒナばあさん",
+      "jp_values": [
+        185,
+        228,
+        211,
+        203,
+        130,
+        85,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 174,
+      "offset": "0x02F1F6",
+      "jp_text": "ヨウトさまの使徒",
+      "jp_values": [
+        233,
+        168,
+        201,
+        104,
+        144,
+        128,
+        292,
+        1542
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 175,
+      "offset": "0x02F208",
+      "jp_text": "バイトの娘",
+      "jp_values": [
+        209,
+        166,
+        201,
+        128,
+        1455
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 176,
+      "offset": "0x02F214",
+      "jp_text": "営業ブチョー",
+      "jp_values": [
+        907,
+        665,
+        215,
+        195,
+        232,
+        39
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 177,
+      "offset": "0x02F222",
+      "jp_text": "トンクル",
+      "jp_values": [
+        201,
+        234,
+        177,
+        237
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 178,
+      "offset": "0x02F22C",
+      "jp_text": "諦めた飛行機乗り",
+      "jp_values": [
+        302,
+        147,
+        114,
+        457,
+        450,
+        975,
+        780,
+        156
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 179,
+      "offset": "0x02F23E",
+      "jp_text": "飛行機乗り",
+      "jp_values": [
+        457,
+        450,
+        975,
+        780,
+        156
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 180,
+      "offset": "0x02F24A",
+      "jp_text": "村の長",
+      "jp_values": [
+        338,
+        128,
+        339
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 181,
+      "offset": "0x02F252",
+      "jp_text": "涙目の飛行機乗り",
+      "jp_values": [
+        701,
+        511,
+        128,
+        457,
+        450,
+        975,
+        780,
+        156
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 182,
+      "offset": "0x02F264",
+      "jp_text": "ラフリドの少女",
+      "jp_values": [
+        235,
+        214,
+        236,
+        202,
+        128,
+        342,
+        1178
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 183,
+      "offset": "0x02F274",
+      "jp_text": "チキンレースの王",
+      "jp_values": [
+        195,
+        175,
+        234,
+        238,
+        39,
+        187,
+        128,
+        549
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 184,
+      "offset": "0x02F286",
+      "jp_text": "ベテラン猟師",
+      "jp_values": [
+        218,
+        199,
+        235,
+        234,
+        2213,
+        1123
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 185,
+      "offset": "0x02F294",
+      "jp_text": "ベテラン猟師の孫",
+      "jp_values": [
+        218,
+        199,
+        235,
+        234,
+        2213,
+        1123,
+        128,
+        1754
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 186,
+      "offset": "0x02F2A6",
+      "jp_text": "ヘラヘラした男",
+      "jp_values": [
+        217,
+        235,
+        217,
+        235,
+        106,
+        114,
+        689
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 187,
+      "offset": "0x02F2B6",
+      "jp_text": "気難しそうな父親",
+      "jp_values": [
+        363,
+        886,
+        106,
+        112,
+        89,
+        124,
+        335,
+        1209
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 188,
+      "offset": "0x02F2C8",
+      "jp_text": "優しそうな母親",
+      "jp_values": [
+        1467,
+        106,
+        112,
+        89,
+        124,
+        359,
+        1209
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 189,
+      "offset": "0x02F2D8",
+      "jp_text": "不安そうな娘",
+      "jp_values": [
+        544,
+        542,
+        112,
+        89,
+        124,
+        1455
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 190,
+      "offset": "0x02F2E6",
+      "jp_text": "腹の出た男",
+      "jp_values": [
+        1412,
+        128,
+        312,
+        114,
+        689
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 191,
+      "offset": "0x02F2F2",
+      "jp_text": "腹の出た男の妻",
+      "jp_values": [
+        1412,
+        128,
+        312,
+        114,
+        689,
+        128,
+        433
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 192,
+      "offset": "0x02F302",
+      "jp_text": "技師アルベール",
+      "jp_values": [
+        286,
+        1123,
+        164,
+        237,
+        218,
+        39,
+        237
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 193,
+      "offset": "0x02F312",
+      "jp_text": "工房のヌシ",
+      "jp_values": [
+        532,
+        1554,
+        128,
+        205,
+        185
+      ],
+      "slot_glyphs": 5
+    },
+    {
+      "index": 194,
+      "offset": "0x02F31E",
+      "jp_text": "世話焼きおばさん",
+      "jp_values": [
+        827,
+        276,
+        777,
+        96,
+        93,
+        130,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 195,
+      "offset": "0x02F330",
+      "jp_text": "宿屋",
+      "jp_values": [
+        1167,
+        373
+      ],
+      "slot_glyphs": 2
+    },
+    {
+      "index": 196,
+      "offset": "0x02F336",
+      "jp_text": "ドラク",
+      "jp_values": [
+        202,
+        235,
+        177
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 197,
+      "offset": "0x02F33E",
+      "jp_text": "ヨウト",
+      "jp_values": [
+        233,
+        168,
+        201
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 198,
+      "offset": "0x02F346",
+      "jp_text": "セイバ",
+      "jp_values": [
+        189,
+        166,
+        209
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 199,
+      "offset": "0x02F34E",
+      "jp_text": "ウナマ",
+      "jp_values": [
+        168,
+        203,
+        223
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 200,
+      "offset": "0x02F356",
+      "jp_text": "フェムト",
+      "jp_values": [
+        214,
+        169,
+        225,
+        201
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 201,
+      "offset": "0x02F360",
+      "jp_text": "グラウ",
+      "jp_values": [
+        178,
+        235,
+        168
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 202,
+      "offset": "0x02F368",
+      "jp_text": "看板を見る子供",
+      "jp_values": [
+        962,
+        673,
+        161,
+        337,
+        157,
+        473,
+        474
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 203,
+      "offset": "0x02F378",
+      "jp_text": "総支配人",
+      "jp_values": [
+        1256,
+        1125,
+        300,
+        391
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 204,
+      "offset": "0x02F382",
+      "jp_text": "宿屋のねえさん",
+      "jp_values": [
+        1167,
+        373,
+        128,
+        127,
+        91,
+        104,
+        162
+      ],
+      "slot_glyphs": 7
+    },
+    {
+      "index": 205,
+      "offset": "0x02F392",
+      "jp_text": "ヴィオレッタ",
+      "jp_values": [
+        242,
+        165,
+        172,
+        238,
+        196,
+        193
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 206,
+      "offset": "0x02F3A0",
+      "jp_text": "山猫のザック",
+      "jp_values": [
+        440,
+        2202,
+        128,
+        184,
+        196,
+        177
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 207,
+      "offset": "0x02F3AE",
+      "jp_text": "ザックの新妻",
+      "jp_values": [
+        184,
+        196,
+        177,
+        128,
+        575,
+        433
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 208,
+      "offset": "0x02F3BC",
+      "jp_text": "道具屋",
+      "jp_values": [
+        295,
+        296,
+        373
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 209,
+      "offset": "0x02F3C4",
+      "jp_text": "魔法屋",
+      "jp_values": [
+        282,
+        283,
+        373
+      ],
+      "slot_glyphs": 3
+    },
+    {
+      "index": 210,
+      "offset": "0x02F3CC",
+      "jp_text": "スキル屋",
+      "jp_values": [
+        187,
+        175,
+        237,
+        373
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 211,
+      "offset": "0x02F3D6",
+      "jp_text": "セバスチャン",
+      "jp_values": [
+        189,
+        209,
+        187,
+        195,
+        228,
+        234
+      ],
+      "slot_glyphs": 6
+    },
+    {
+      "index": 212,
+      "offset": "0x02F3E4",
+      "jp_text": "謎の傭兵",
+      "jp_values": [
+        852,
+        128,
+        2226,
+        465
+      ],
+      "slot_glyphs": 4
+    },
+    {
+      "index": 213,
+      "offset": "0x02F3EE",
+      "jp_text": "道具屋のお姉さん",
+      "jp_values": [
+        295,
+        296,
+        373,
+        128,
+        93,
+        1120,
+        104,
+        162
+      ],
+      "slot_glyphs": 8
+    },
+    {
+      "index": 214,
+      "offset": "0x02F400",
+      "jp_text": "サリー",
+      "jp_values": [
+        183,
+        236,
+        39
+      ],
+      "slot_glyphs": 3
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c4",
+  "stream_key": "0xC4",
+  "sample_ids": [
+    "0x53A",
+    "0x53B"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c4.flac",
+  "audio_sha256": "8e952552dea644254826824dfd43afebcb944d323b064419d1de3ca1ada49b8c",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:5/6"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アー ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、 ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、 ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、 ごめんなさい。私、何にも知らなくて。愛を信じて、毎へと踏み出せば、その先に必ず未来はある。信じてみましょう。あなたの言葉、 私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アー",
+      "avg_logprob": -0.13984,
+      "no_speech_prob": 0.13847,
+      "compression_ratio": 9.84375,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.066",
+        "HIGH_COMPRESSION_RATIO:9.844"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、",
+      "avg_logprob": -0.05575,
+      "no_speech_prob": 0.07889,
+      "compression_ratio": 9.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.067",
+        "HIGH_COMPRESSION_RATIO:9.750"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、",
+      "avg_logprob": -0.04821,
+      "no_speech_prob": 0.01075,
+      "compression_ratio": 9.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.067",
+        "HIGH_COMPRESSION_RATIO:9.750"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 90.0,
+      "end": 120.0,
+      "speaker": "",
+      "text": "ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、",
+      "avg_logprob": -0.0617,
+      "no_speech_prob": 0.0141,
+      "compression_ratio": 9.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.067",
+        "HIGH_COMPRESSION_RATIO:9.750"
+      ]
+    },
+    {
+      "segment_index": 4,
+      "start": 120.0,
+      "end": 150.0,
+      "speaker": "",
+      "text": "ごめんなさい。私、何にも知らなくて。愛を信じて、毎へと踏み出せば、その先に必ず未来はある。信じてみましょう。あなたの言葉、",
+      "avg_logprob": -0.19543,
+      "no_speech_prob": 0.07899,
+      "compression_ratio": 1.31655,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 150.0,
+      "end": 159.78,
+      "speaker": "",
+      "text": "私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は、私は",
+      "avg_logprob": -0.06456,
+      "no_speech_prob": 0.47029,
+      "compression_ratio": 26.52,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.014",
+        "HIGH_COMPRESSION_RATIO:26.520"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

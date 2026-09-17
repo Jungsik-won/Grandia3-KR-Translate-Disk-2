@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0098",
+  "stream_key": "0x98",
+  "sample_ids": ["0x4A6", "0x4A7"],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0098.flac",
+  "audio_sha256": "768d448e69ac910c5829690c8f0a2fd04f241434c8969391fe38cd6295509379",
+  "language": "ja",
+  "status": "HUMAN_CONTEXT_REVIEWED",
+  "screening_flags": [],
+  "model": "whisper-small-targeted-separated-channels",
+  "notes": "The previous repeated names and イヤイシュ transcript over the first 30 seconds was hallucination and was discarded. Runtime slot 0 held request/resolved sample 0x4A6 and 1009 progress ticks (16.817 seconds) during Ruiri's second line; the savestate frame shows Ruiri arguing in Bakula village. The unrelated displayed sample 0x3F belongs to key-bit storage stream 0x819. Reviewed using left, right, and mixed channels with overlapping targeted Whisper-small word timestamps and the savestate frame.",
+  "text": "もうやめましょう。こんなこと続けて、何になるっていうの？ 何言ってるんだい、ルイリちゃん。いつでもコミュート様をお迎えできるように、ちゃんとお手入れしとかないと。 来ないじゃない！もう2年よ。待ってるだけじゃ駄目なんだわ。自分から動かなきゃ何も変わらないのよ！ けどよ、族長はここで待てって言ってんだろ？ 族長だからって、いつも正しいとは限らないでしょ？間違えることだってあるし、つい自分勝手になることだって……。 言い過ぎだよ、ルイリちゃん！ よしなよ。族長だなんて言っても、たった一人のお姉ちゃんじゃないか。 やれやれ……。行こう。 お願い。目を覚まして、姉さん。あの人のことは、もう……。",
+  "segments": [
+    {"segment_index": 0, "start": 10.960, "end": 13.500, "speaker": "ルイリ", "text": "もうやめましょう。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 1, "start": 14.420, "end": 18.500, "speaker": "ルイリ", "text": "こんなこと続けて、何になるっていうの？", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 2, "start": 27.040, "end": 30.500, "speaker": "老婆", "text": "何言ってるんだい、ルイリちゃん。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 3, "start": 31.140, "end": 38.500, "speaker": "老婆", "text": "いつでもコミュート様をお迎えできるように、ちゃんとお手入れしとかないと。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 4, "start": 39.640, "end": 40.900, "speaker": "ルイリ", "text": "来ないじゃない！", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 5, "start": 43.880, "end": 45.300, "speaker": "ルイリ", "text": "もう2年よ。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 6, "start": 45.900, "end": 51.200, "speaker": "ルイリ", "text": "待ってるだけじゃ駄目なんだわ。自分から動かなきゃ何も変わらないのよ！", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 7, "start": 51.220, "end": 55.100, "speaker": "村の男", "text": "けどよ、族長はここで待てって言ってんだろ？", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 8, "start": 55.480, "end": 58.700, "speaker": "ルイリ", "text": "族長だからって、いつも正しいとは限らないでしょ？", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 9, "start": 59.020, "end": 63.200, "speaker": "ルイリ", "text": "間違えることだってあるし、つい自分勝手になることだって……。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 10, "start": 63.200, "end": 65.200, "speaker": "村の女", "text": "言い過ぎだよ、ルイリちゃん！", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 11, "start": 68.620, "end": 75.200, "speaker": "村の女", "text": "よしなよ。族長だなんて言っても、たった一人のお姉ちゃんじゃないか。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 12, "start": 77.280, "end": 79.100, "speaker": "老婆", "text": "やれやれ……。行こう。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 13, "start": 88.500, "end": 93.700, "speaker": "ルイリ", "text": "お願い。目を覚まして、姉さん。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []},
+    {"segment_index": 14, "start": 96.060, "end": 100.800, "speaker": "ルイリ", "text": "あの人のことは、もう……。", "status": "HUMAN_CONTEXT_REVIEWED", "screening_flags": []}
+  ],
+  "screening_note": "Verified dialogue from 10.96 to 100.80 seconds is subtitled. Work grunts and ambience are excluded."
+}

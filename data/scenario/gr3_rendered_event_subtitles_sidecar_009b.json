@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "events": [
+    {
+      "event_id": "bakula_yout_kornell_violetta_event_009b",
+      "resource_path": "DATA/00397700.MDZ",
+      "runtime_resource_paths": [
+        "DATA/00397700.MDZ"
+      ],
+      "stream_key": "0x9B",
+      "gr3_sample_ids": [
+        "0x4AE",
+        "0x4AF"
+      ],
+      "runtime_trigger_sample_ids": [
+        "0x4AE"
+      ],
+      "runtime_sample_address": "0x00213550",
+      "timer_bias_ticks": 0,
+      "flags": 0,
+      "cue_path": "data/scenario/gr3_stream_009b_cues.json",
+      "status": "REVIEWED_CUES_SAFETY_SIDECAR_PREPARE_ONLY"
+    }
+  ]
+}

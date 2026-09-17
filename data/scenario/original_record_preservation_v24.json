@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "reason": "Ship meal NPC-selector progression safety: state slot 8 proves that cursor-to-NPC callbacks can stop after SCN_00151000_00740000_0038. Preserve the complete event VM record until every callback reference form is proven.",
+  "records": [
+    {
+      "source_file": "DATA/00151000.MDZ",
+      "record_id": "0x00740000"
+    },
+    {
+      "source_file": "DATA/01051101.MDZ",
+      "record_id": "0x00740000"
+    },
+    {
+      "source_file": "DATA/01070401.MDZ",
+      "record_id": "0x00740000"
+    },
+    {
+      "source_file": "DATA/01080701.MDZ",
+      "record_id": "0x00740000"
+    },
+    {
+      "source_file": "DATA/01080801.MDZ",
+      "record_id": "0x00740000"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_009c",
+  "stream_key": "0x9C",
+  "sample_ids": [
+    "0x4B0",
+    "0x4B1"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_009c.flac",
+  "audio_sha256": "0d6b81d8dc47fe2501156a555490650640e127f6b028906f66ae7e09cea8f47d",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "LOW_CHARACTER_DIVERSITY:0.126",
+    "HIGH_COMPRESSION_RATIO:31.857"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アル お、おい、ビョーレッタまさか エミリウス様、俺たちもろとも殺す気だったんじゃねえか そうさ、これでこそエミリウスだ! 行くよ、ここのエミリウスだ はっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっは",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディア。ユウキ、アル",
+      "avg_logprob": -0.1433,
+      "no_speech_prob": 0.00756,
+      "compression_ratio": 7.04348,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 60.0,
+      "end": 63.0,
+      "speaker": "",
+      "text": "お、おい、ビョーレッタまさか",
+      "avg_logprob": -0.31495,
+      "no_speech_prob": 0.01825,
+      "compression_ratio": 4.4966,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 63.0,
+      "end": 67.0,
+      "speaker": "",
+      "text": "エミリウス様、俺たちもろとも殺す気だったんじゃねえか",
+      "avg_logprob": -0.31495,
+      "no_speech_prob": 0.01825,
+      "compression_ratio": 4.4966,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 73.0,
+      "end": 76.0,
+      "speaker": "",
+      "text": "そうさ、これでこそエミリウスだ!",
+      "avg_logprob": -0.31495,
+      "no_speech_prob": 0.01825,
+      "compression_ratio": 4.4966,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 81.0,
+      "end": 84.0,
+      "speaker": "",
+      "text": "行くよ、ここのエミリウスだ",
+      "avg_logprob": -0.31495,
+      "no_speech_prob": 0.01825,
+      "compression_ratio": 4.4966,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 84.0,
+      "end": 96.91,
+      "speaker": "",
+      "text": "はっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっは",
+      "avg_logprob": -0.08656,
+      "no_speech_prob": 0.10884,
+      "compression_ratio": 31.85714,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

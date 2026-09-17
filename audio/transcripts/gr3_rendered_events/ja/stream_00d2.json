@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00d2",
+  "stream_key": "0xD2",
+  "sample_ids": [
+    "0x594",
+    "0x595"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00d2.flac",
+  "audio_sha256": "9c919267ee79147bd9ab988ede419ccda905016e2f75ec8759f974d008805468",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-left-right-mid-side+manual-scene-review",
+  "notes": "PCSX2 slot 4 request slot 1 maps 0x594/0x595 to GR3_STR 0xD2. The savestate uses an older SPU2 core layout, so active-voice ownership is not asserted; the extracted dialogue, screenshot, MDZ, and scene description agree. Housekeeping exertion lines are preserved, while the side-channel tail repetition is discarded as ASR leakage.",
+  "text": "よいしょ。えーと、こっちは……。 よいしょ。まず……。 すいません。何かお手伝いさせてくれませんか？ あれ、もういいのかい？ ええ、働きたいんです。 じゃあ、びしびし行こうかね。えー、まずは……。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 1.68,
+      "end": 4.1,
+      "speaker": "宿屋の女主人",
+      "text": "よいしょ。えーと、こっちは……。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 9.0,
+      "end": 10.3,
+      "speaker": "宿屋の女主人",
+      "text": "よいしょ。まず……。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 11.1,
+      "end": 16.2,
+      "speaker": "アルフィナ",
+      "text": "すいません。何かお手伝いさせてくれませんか？",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 16.8,
+      "end": 20.3,
+      "speaker": "宿屋の女主人",
+      "text": "あれ、もういいのかい？",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 20.5,
+      "end": 23.4,
+      "speaker": "アルフィナ",
+      "text": "ええ、働きたいんです。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 24.8,
+      "end": 29.4,
+      "speaker": "宿屋の女主人",
+      "text": "じゃあ、びしびし行こうかね。えー、まずは……。",
+      "status": "MANUAL_AUDIO_SCENE_REVIEW"
+    }
+  ],
+  "screening_note": "Manual audio/scene review. Cue edges remain a 60 Hz runtime draft until scene playback verification."
+}

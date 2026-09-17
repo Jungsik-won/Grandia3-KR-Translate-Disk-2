@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00bd",
+  "stream_key": "0xBD",
+  "sample_ids": [
+    "0x504",
+    "0x505"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00bd.flac",
+  "audio_sha256": "bdbc5d0e10f70b67bc57ef919dc9ca525572213b79453ae8e2fb068af0de1b05",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "ALL_SEGMENTS_LOW_CONFIDENCE"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… …………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… ……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+      "avg_logprob": -0.27858,
+      "no_speech_prob": 0.07381,
+      "compression_ratio": 37.16667,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "EMPTY_TRANSCRIPT",
+        "HIGH_COMPRESSION_RATIO:37.167"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+      "avg_logprob": -0.01074,
+      "no_speech_prob": 0.5556,
+      "compression_ratio": 36.83333,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "EMPTY_TRANSCRIPT",
+        "HIGH_COMPRESSION_RATIO:36.833"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 74.81,
+      "speaker": "",
+      "text": "……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………",
+      "avg_logprob": -0.01542,
+      "no_speech_prob": 0.76123,
+      "compression_ratio": 36.83333,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "EMPTY_TRANSCRIPT",
+        "HIGH_COMPRESSION_RATIO:36.833"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

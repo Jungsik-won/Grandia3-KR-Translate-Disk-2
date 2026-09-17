@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "status": "RUNTIME_PASS",
+  "scene": "ship meal multi-NPC selector",
+  "savestate": {
+    "source": "/Users/j.swon/Library/Application Support/PCSX2/sstates/SLPM-65976 (5B659BED).08.p2s",
+    "copy": "build/investigation/ship-meal-selector-20260827/state8.p2s",
+    "sha256": "327f8504d8366e2027cd23f7a04095767b3e7fe81f7e2f09b9e956d3dd16c49a"
+  },
+  "record_id": "0x00740000",
+  "record_size": 22912,
+  "containers": [
+    "DATA/00151000.MDZ",
+    "DATA/01051101.MDZ",
+    "DATA/01070401.MDZ",
+    "DATA/01080701.MDZ",
+    "DATA/01080801.MDZ"
+  ],
+  "preserved_translation_count": 1540,
+  "preservation_config": "data/scenario/original_record_preservation_v24.json",
+  "record_verification": "build/central-runtime-cumulative-v24/ship-meal-original-record-verification.json",
+  "record_verification_status": "PASS_5_OF_5_BYTE_IDENTICAL",
+  "scenario_reference_verification": "build/central-runtime-cumulative-v24/scenario-reference-verification.json",
+  "scenario_reference_verification_status": "PASS",
+  "final_iso_verification": "build/central-runtime-cumulative-v24/final-iso-verification.json",
+  "final_iso_verification_status": "PASS",
+  "iso": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v24_ship_meal_progression_safe_test_20260827.iso",
+    "size": 4612028416,
+    "sha256": "fac7b68c28bfe87f122c7765dfcb5b1a46bfa5072a11d4511e8a0f176dd23ce8"
+  },
+  "tests": {
+    "total": 50,
+    "passed": 47,
+    "skipped": 3
+  },
+  "runtime_note": "2026-08-27 user runtime confirmation: v24 allows the ship-meal scene to continue normally after the Yuuki line, including subsequent NPC interaction. The CLEAN 0x00740000 preservation is the verified stable baseline while Korean reinsertion relocation is investigated."
+}

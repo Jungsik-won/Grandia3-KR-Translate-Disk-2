@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_008e",
+  "stream_key": "0x8E",
+  "sample_ids": ["0x47A", "0x47B"],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_008e.flac",
+  "audio_sha256": "507fefc926f31ef68649e8eb235122a202ce47b89c8f2d0900597303b0929735",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-small-prompted+base-targeted",
+  "notes": "PCSX2 slot 8 active-SPU proof. The old repeated-name transcript was discarded as hallucination. Prompted small and targeted base/small passes were compared with project terminology and scene-order context. The 0-10.75 second effects/music bed and the false trailing ご視聴ありがとうございました output were excluded.",
+  "text": "ひどい……！ これは、バース界の……。そう、ゾーンの力だ。デュンケル！ これこそ、お前が選んだ結果だぞ、アルフィナ。そ、そんな……。お前、一体何者だ！ 何をしている？ これ以上エメリウスに関わるな。奴は人の運命を狂わせる。いずれ、お前も俺のようになる。狂わせているのはお前じゃないのか？ グリフが殺されたと各地の聖獣に伝えるがいい。待て、デュンケル！",
+  "segments": [
+    {"segment_index": 0, "start": 10.750, "end": 12.000, "speaker": "アルフィナ", "text": "ひどい……！", "avg_logprob": -0.378, "no_speech_prob": 0.056, "compression_ratio": 2.008, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 1, "start": 12.250, "end": 14.700, "speaker": "ユウキ", "text": "これは、バース界の……。", "avg_logprob": -0.378, "no_speech_prob": 0.056, "compression_ratio": 2.008, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 2, "start": 20.500, "end": 23.100, "speaker": "デュンケル", "text": "そう、ゾーンの力だ。", "avg_logprob": -0.378, "no_speech_prob": 0.056, "compression_ratio": 2.008, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 3, "start": 23.650, "end": 24.700, "speaker": "アルフィナ", "text": "デュンケル！", "avg_logprob": -0.378, "no_speech_prob": 0.056, "compression_ratio": 2.008, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 4, "start": 25.550, "end": 28.300, "speaker": "デュンケル", "text": "これこそ、お前が選んだ結果だぞ、アルフィナ。", "avg_logprob": -0.378, "no_speech_prob": 0.056, "compression_ratio": 2.008, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 5, "start": 31.200, "end": 32.300, "speaker": "アルフィナ", "text": "そ、そんな……。", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 6, "start": 34.450, "end": 38.050, "speaker": "ユウキ", "text": "お前、一体何者だ！ 何をしている？", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 7, "start": 38.850, "end": 41.450, "speaker": "デュンケル", "text": "これ以上エメリウスに関わるな。", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 8, "start": 42.050, "end": 44.200, "speaker": "デュンケル", "text": "奴は人の運命を狂わせる。", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 9, "start": 44.650, "end": 48.250, "speaker": "デュンケル", "text": "いずれ、お前も俺のようになる。", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 10, "start": 48.750, "end": 52.050, "speaker": "ユウキ", "text": "狂わせているのはお前じゃないのか？", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 11, "start": 52.600, "end": 55.700, "speaker": "デュンケル", "text": "グリフが殺されたと各地の聖獣に伝えるがいい。", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []},
+    {"segment_index": 12, "start": 56.050, "end": 57.800, "speaker": "ユウキ", "text": "待て、デュンケル！", "avg_logprob": -0.214, "no_speech_prob": 0.654, "compression_ratio": 1.389, "status": "MANUAL_AUDIO_SCENE_REVIEW", "screening_flags": []}
+  ],
+  "screening_note": "Runtime-proven dialogue; manual review retained only the 10.75-57.80 second spoken lines."
+}

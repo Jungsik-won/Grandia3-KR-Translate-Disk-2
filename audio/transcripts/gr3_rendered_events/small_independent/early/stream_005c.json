@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_005c",
+  "stream_key": "0x5C",
+  "sample_ids": [
+    "0x3FE",
+    "0x3FF"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_005c.flac",
+  "audio_sha256": "4597fcc61ed916a6a3d99404556395f6cea5b3a771e37b7ede6acf34e4b6f847",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "くそ、これだけは、これだけは絶対! 俺たちの夢が、燃えてく。 飛行機って案外茶散なもんね。 タガが二人乗ったくらいでさ。 誰のせいだと思ってんだよ! まあ良かったじゃない 怪我せずに住んだんだし あのなぁ お前たちか 飛んだ邪魔をしてくれたのは 空から突っ込んでくれた コミュートの声にしちゃ手やらなまにしよう コミュートの声? うっ! うっ! てや! な、波上がって! この辺じゃ見ない顔だね コミュートは力づくでも俺たちがいただく! 気を抜くんじゃないよ、ゆうき あ!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 4.5,
+      "speaker": "",
+      "text": "くそ、これだけは、これだけは絶対!",
+      "avg_logprob": -0.35224,
+      "no_speech_prob": 0.04581,
+      "compression_ratio": 1.32051,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 15.0,
+      "end": 18.5,
+      "speaker": "",
+      "text": "俺たちの夢が、燃えてく。",
+      "avg_logprob": -0.35224,
+      "no_speech_prob": 0.04581,
+      "compression_ratio": 1.32051,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 19.5,
+      "end": 22.0,
+      "speaker": "",
+      "text": "飛行機って案外茶散なもんね。",
+      "avg_logprob": -0.35224,
+      "no_speech_prob": 0.04581,
+      "compression_ratio": 1.32051,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 22.5,
+      "end": 24.5,
+      "speaker": "",
+      "text": "タガが二人乗ったくらいでさ。",
+      "avg_logprob": -0.35224,
+      "no_speech_prob": 0.04581,
+      "compression_ratio": 1.32051,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 24.5,
+      "end": 26.5,
+      "speaker": "",
+      "text": "誰のせいだと思ってんだよ!",
+      "avg_logprob": -0.35224,
+      "no_speech_prob": 0.04581,
+      "compression_ratio": 1.32051,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 26.5,
+      "end": 30.74,
+      "speaker": "",
+      "text": "まあ良かったじゃない 怪我せずに住んだんだし",
+      "avg_logprob": -0.51818,
+      "no_speech_prob": 0.03428,
+      "compression_ratio": 1.47904,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 30.74,
+      "end": 33.14,
+      "speaker": "",
+      "text": "あのなぁ",
+      "avg_logprob": -0.51818,
+      "no_speech_prob": 0.03428,
+      "compression_ratio": 1.47904,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 33.14,
+      "end": 38.74,
+      "speaker": "",
+      "text": "お前たちか 飛んだ邪魔をしてくれたのは",
+      "avg_logprob": -0.51818,
+      "no_speech_prob": 0.03428,
+      "compression_ratio": 1.47904,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 38.74,
+      "end": 43.62,
+      "speaker": "",
+      "text": "空から突っ込んでくれた コミュートの声にしちゃ手やらなまにしよう",
+      "avg_logprob": -0.51818,
+      "no_speech_prob": 0.03428,
+      "compression_ratio": 1.47904,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 43.62,
+      "end": 47.5,
+      "speaker": "",
+      "text": "コミュートの声?",
+      "avg_logprob": -0.51818,
+      "no_speech_prob": 0.03428,
+      "compression_ratio": 1.47904,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 47.5,
+      "end": 49.5,
+      "speaker": "",
+      "text": "うっ!",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 49.5,
+      "end": 51.5,
+      "speaker": "",
+      "text": "うっ!",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 51.5,
+      "end": 53.5,
+      "speaker": "",
+      "text": "てや!",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 53.5,
+      "end": 57.5,
+      "speaker": "",
+      "text": "な、波上がって!",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 57.5,
+      "end": 60.5,
+      "speaker": "",
+      "text": "この辺じゃ見ない顔だね",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 60.5,
+      "end": 64.5,
+      "speaker": "",
+      "text": "コミュートは力づくでも俺たちがいただく!",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 64.5,
+      "end": 67.5,
+      "speaker": "",
+      "text": "気を抜くんじゃないよ、ゆうき",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 67.5,
+      "end": 69.5,
+      "speaker": "",
+      "text": "あ!",
+      "avg_logprob": -0.49151,
+      "no_speech_prob": 0.12446,
+      "compression_ratio": 1.29496,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00a1",
+  "stream_key": "0xA1",
+  "sample_ids": [
+    "0x4BC",
+    "0x4BD"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00a1.flac",
+  "audio_sha256": "bf446da751d33fffc4adfb63b22dc4f3c8e7419a2245c4e314ad4f5f337d5524",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:31.857"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "答えが見つかるかもしれない場所だから。 私たちがコミュートの一族として生まれてきたその訳が。 私たち? 本当なら、コミュートになるはずなのは兄さんだった。 でも、兄さんは3年前、儀式の途中で神を受け入れることを拒んだの。 コミュートの証?ちょっといい? 不思議な形をしているね まるで鳥の翼みたいだ 何があったの? 兄さんに 私 コミュートになるのが怖い 本当は 逃げ出してしまいたいくらい でも、私がコミュートの一族として生まれたことに、もしも何か意味があるなら、そこから目をそらしたくないの。 あの日な。 ごめんね。こんなことは勇気に話しても仕方ないのに。 行けるさ きっと 俺たちだってついてるだろ ゆうき 来るのか はっ 来るのか ああ うっ はい はっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっは",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "speaker": "",
+      "text": "答えが見つかるかもしれない場所だから。",
+      "avg_logprob": -0.17322,
+      "no_speech_prob": 0.20151,
+      "compression_ratio": 1.48815,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 6.0,
+      "end": 11.0,
+      "speaker": "",
+      "text": "私たちがコミュートの一族として生まれてきたその訳が。",
+      "avg_logprob": -0.17322,
+      "no_speech_prob": 0.20151,
+      "compression_ratio": 1.48815,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 12.0,
+      "end": 13.0,
+      "speaker": "",
+      "text": "私たち?",
+      "avg_logprob": -0.17322,
+      "no_speech_prob": 0.20151,
+      "compression_ratio": 1.48815,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 14.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "本当なら、コミュートになるはずなのは兄さんだった。",
+      "avg_logprob": -0.17322,
+      "no_speech_prob": 0.20151,
+      "compression_ratio": 1.48815,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 21.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "でも、兄さんは3年前、儀式の途中で神を受け入れることを拒んだの。",
+      "avg_logprob": -0.17322,
+      "no_speech_prob": 0.20151,
+      "compression_ratio": 1.48815,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 30.0,
+      "end": 32.0,
+      "speaker": "",
+      "text": "コミュートの証?ちょっといい?",
+      "avg_logprob": -0.91003,
+      "no_speech_prob": 0.07145,
+      "compression_ratio": 0.82,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 60.0,
+      "end": 62.0,
+      "speaker": "",
+      "text": "不思議な形をしているね",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 63.12,
+      "end": 65.62,
+      "speaker": "",
+      "text": "まるで鳥の翼みたいだ",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 68.46,
+      "end": 69.5,
+      "speaker": "",
+      "text": "何があったの?",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 69.92,
+      "end": 70.92,
+      "speaker": "",
+      "text": "兄さんに",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 79.2,
+      "end": 80.2,
+      "speaker": "",
+      "text": "私",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 81.12,
+      "end": 83.12,
+      "speaker": "",
+      "text": "コミュートになるのが怖い",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 85.76,
+      "end": 86.76,
+      "speaker": "",
+      "text": "本当は",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 87.26,
+      "end": 89.26,
+      "speaker": "",
+      "text": "逃げ出してしまいたいくらい",
+      "avg_logprob": -0.50859,
+      "no_speech_prob": 0.00622,
+      "compression_ratio": 1.23973,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 90.0,
+      "end": 105.0,
+      "speaker": "",
+      "text": "でも、私がコミュートの一族として生まれたことに、もしも何か意味があるなら、そこから目をそらしたくないの。",
+      "avg_logprob": -0.23641,
+      "no_speech_prob": 0.04748,
+      "compression_ratio": 1.46429,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 105.0,
+      "end": 107.0,
+      "speaker": "",
+      "text": "あの日な。",
+      "avg_logprob": -0.23641,
+      "no_speech_prob": 0.04748,
+      "compression_ratio": 1.46429,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 107.0,
+      "end": 115.0,
+      "speaker": "",
+      "text": "ごめんね。こんなことは勇気に話しても仕方ないのに。",
+      "avg_logprob": -0.23641,
+      "no_speech_prob": 0.04748,
+      "compression_ratio": 1.46429,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 17,
+      "start": 115.0,
+      "end": 117.0,
+      "speaker": "",
+      "text": "行けるさ きっと",
+      "avg_logprob": -0.51214,
+      "no_speech_prob": 0.00617,
+      "compression_ratio": 1.03947,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 18,
+      "start": 118.0,
+      "end": 120.0,
+      "speaker": "",
+      "text": "俺たちだってついてるだろ",
+      "avg_logprob": -0.51214,
+      "no_speech_prob": 0.00617,
+      "compression_ratio": 1.03947,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 19,
+      "start": 129.0,
+      "end": 130.0,
+      "speaker": "",
+      "text": "ゆうき",
+      "avg_logprob": -0.51214,
+      "no_speech_prob": 0.00617,
+      "compression_ratio": 1.03947,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 20,
+      "start": 136.0,
+      "end": 137.0,
+      "speaker": "",
+      "text": "来るのか",
+      "avg_logprob": -0.51214,
+      "no_speech_prob": 0.00617,
+      "compression_ratio": 1.03947,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 21,
+      "start": 137.0,
+      "end": 139.0,
+      "speaker": "",
+      "text": "はっ",
+      "avg_logprob": -0.84604,
+      "no_speech_prob": 0.00345,
+      "compression_ratio": 0.97297,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 22,
+      "start": 141.0,
+      "end": 143.0,
+      "speaker": "",
+      "text": "来るのか",
+      "avg_logprob": -0.84604,
+      "no_speech_prob": 0.00345,
+      "compression_ratio": 0.97297,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 23,
+      "start": 151.0,
+      "end": 153.0,
+      "speaker": "",
+      "text": "ああ",
+      "avg_logprob": -0.84604,
+      "no_speech_prob": 0.00345,
+      "compression_ratio": 0.97297,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 24,
+      "start": 153.0,
+      "end": 155.0,
+      "speaker": "",
+      "text": "うっ",
+      "avg_logprob": -0.84604,
+      "no_speech_prob": 0.00345,
+      "compression_ratio": 0.97297,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 25,
+      "start": 156.5,
+      "end": 158.5,
+      "speaker": "",
+      "text": "はい",
+      "avg_logprob": -0.84604,
+      "no_speech_prob": 0.00345,
+      "compression_ratio": 0.97297,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 26,
+      "start": 167.0,
+      "end": 173.97,
+      "speaker": "",
+      "text": "はっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっはっは",
+      "avg_logprob": -0.12455,
+      "no_speech_prob": 0.6612,
+      "compression_ratio": 31.85714,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

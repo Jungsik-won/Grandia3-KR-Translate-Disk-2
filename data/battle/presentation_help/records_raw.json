@@ -1,0 +1,4295 @@
+[
+  {
+    "ordinal": 1,
+    "id": "BATTLE_HELP_0001",
+    "record_start": 161920,
+    "record_end": 161989,
+    "record_size": 69,
+    "raw_hex": "16 00 05 00 00 00 17 00 20 00 40 01 16 00 02 00 01 00 16 00 08 00 01 00 02 00 68 54 20 E4 F0 62 5D F0 7C 9B 6A 7A 57 62 A0 9A 1F 00 C3 E6 27 C9 EC A4 ED 75 78 E5 C5 7F 1F 00 57 90 D4 F0 7D 57 59 7A B7 1A 00",
+    "jp_text": "さぁ　軽く手ならしといくわよ\nチュートリアルってヤツね\nいま風にいうとサ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 161946,
+        "relative_offset": 26,
+        "raw_hex": "68 54 20 E4 F0 62 5D F0 7C 9B 6A 7A 57 62 A0 9A",
+        "text": "さぁ　軽く手ならしといくわよ",
+        "prefix_raw_hex": "16 00 05 00 00 00 17 00 20 00 40 01 16 00 02 00 01 00 16 00 08 00 01 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 161964,
+        "relative_offset": 44,
+        "raw_hex": "C3 E6 27 C9 EC A4 ED 75 78 E5 C5 7F",
+        "text": "チュートリアルってヤツね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 161978,
+        "relative_offset": 58,
+        "raw_hex": "57 90 D4 F0 7D 57 59 7A B7",
+        "text": "いま風にいうとサ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 161920,
+        "relative_offset": 0,
+        "raw_hex": "16 00 05 00 00 00 17 00 20 00 40 01 16 00 02 00 01 00 16 00 08 00 01 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 161962,
+        "relative_offset": 42,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 161976,
+        "relative_offset": 56,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 161987,
+        "relative_offset": 67,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 2,
+    "id": "BATTLE_HELP_0002",
+    "record_start": 161989,
+    "record_end": 162052,
+    "record_size": 63,
+    "raw_hex": "16 00 03 00 01 00 3C 00 50 00 50 00 50 00 1F 00 66 9E 5F 42 49 B4 27 BA 75 78 96 76 7F 1F 00 ED F1 7D 61 F0 80 7C F2 5E 20 A0 5E 75 74 95 59 1F 00 6C 63 9E 94 80 80 B4 27 BA 7C 80 9A 1A 00",
+    "jp_text": "これがIＰゲージってやつね\n次に誰の番か　わかっちゃう\nすぐれもののゲージなのよ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162005,
+        "relative_offset": 16,
+        "raw_hex": "66 9E 5F 42 49 B4 27 BA 75 78 96 76 7F",
+        "text": "これがIＰゲージってやつね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162020,
+        "relative_offset": 31,
+        "raw_hex": "ED F1 7D 61 F0 80 7C F2 5E 20 A0 5E 75 74 95 59",
+        "text": "次に誰の番か　わかっちゃう",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162038,
+        "relative_offset": 49,
+        "raw_hex": "6C 63 9E 94 80 80 B4 27 BA 7C 80 9A",
+        "text": "すぐれもののゲージなのよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162003,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162018,
+        "relative_offset": 29,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162036,
+        "relative_offset": 47,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162050,
+        "relative_offset": 61,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 3,
+    "id": "BATTLE_HELP_0003",
+    "record_start": 162052,
+    "record_end": 162083,
+    "record_size": 31,
+    "raw_hex": "16 00 03 00 01 00 48 00 50 00 18 00 18 00 1F 00 42 49 B4 27 BA 87 F0 80 B9 EA DD ED 5F 1A 00",
+    "jp_text": "IＰゲージ上のシンボルが",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162068,
+        "relative_offset": 16,
+        "raw_hex": "42 49 B4 27 BA 87 F0 80 B9 EA DD ED 5F",
+        "text": "IＰゲージ上のシンボルが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162066,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162081,
+        "relative_offset": 29,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 4,
+    "id": "BATTLE_HELP_0004",
+    "record_start": 162083,
+    "record_end": 162131,
+    "record_size": 48,
+    "raw_hex": "16 00 03 00 01 00 50 00 6C 00 18 00 18 00 1F 00 66 66 20 3C 48 46 A3 F0 5E F2 7D 64 F1 72 9B 1F 00 2A F3 5A F0 AC C4 B3 27 75 78 66 7A 7F 1A 00",
+    "jp_text": "ここ　COＭ地点に来たら\n準備オッケーってことね",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162099,
+        "relative_offset": 16,
+        "raw_hex": "66 66 20 3C 48 46 A3 F0 5E F2 7D 64 F1 72 9B",
+        "text": "ここ　COＭ地点に来たら",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162116,
+        "relative_offset": 33,
+        "raw_hex": "2A F3 5A F0 AC C4 B3 27 75 78 66 7A 7F",
+        "text": "準備オッケーってことね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162097,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162114,
+        "relative_offset": 31,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162129,
+        "relative_offset": 46,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 5,
+    "id": "BATTLE_HELP_0005",
+    "record_start": 162131,
+    "record_end": 162207,
+    "record_size": 76,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 00 00 00 00 16 00 01 00 00 00 02 00 B9 EA DD ED 5F 3C 48 46 A3 F0 5E F2 7D 64 F1 9D 7A 1F 00 DC A6 27 ED B5 DF EA CA 75 78 80 5F 1F 00 68 F0 78 60 74 95 59 80 9A 1A 00",
+    "jp_text": "シンボルがCOＭ地点に来ると\nホイールコマンドってのが\n出てきちゃうのよ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162163,
+        "relative_offset": 32,
+        "raw_hex": "B9 EA DD ED 5F 3C 48 46 A3 F0 5E F2 7D 64 F1 9D 7A",
+        "text": "シンボルがCOＭ地点に来ると",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 00 00 00 00 16 00 01 00 00 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162182,
+        "relative_offset": 51,
+        "raw_hex": "DC A6 27 ED B5 DF EA CA 75 78 80 5F",
+        "text": "ホイールコマンドってのが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162196,
+        "relative_offset": 65,
+        "raw_hex": "68 F0 78 60 74 95 59 80 9A",
+        "text": "出てきちゃうのよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162135,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 00 00 00 00 16 00 01 00 00 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 162133,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162180,
+        "relative_offset": 49,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162194,
+        "relative_offset": 63,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162205,
+        "relative_offset": 74,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 6,
+    "id": "BATTLE_HELP_0006",
+    "record_start": 162207,
+    "record_end": 162235,
+    "record_size": 28,
+    "raw_hex": "16 00 03 00 01 00 80 00 D0 00 40 00 60 00 1F 00 76 90 9C 20 66 9E 80 66 7A 7F 1A 00",
+    "jp_text": "つまり　これのことね",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162223,
+        "relative_offset": 16,
+        "raw_hex": "76 90 9C 20 66 9E 80 66 7A 7F",
+        "text": "つまり　これのことね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162221,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162233,
+        "relative_offset": 26,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 7,
+    "id": "BATTLE_HELP_0007",
+    "record_start": 162235,
+    "record_end": 162272,
+    "record_size": 37,
+    "raw_hex": "DC A6 27 ED B5 DF EA CA 80 BC F2 5E 9B 1F 00 96 9C 72 57 66 7A A1 73 F0 A2 79 1F 00 D0 F3 B2 F1 6C A2 80 1A 00",
+    "jp_text": "ホイールコマンドの中から\nやりたいことを選んで\n決定すんの",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162235,
+        "relative_offset": 0,
+        "raw_hex": "DC A6 27 ED B5 DF EA CA 80 BC F2 5E 9B",
+        "text": "ホイールコマンドの中から",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162250,
+        "relative_offset": 15,
+        "raw_hex": "96 9C 72 57 66 7A A1 73 F0 A2 79",
+        "text": "やりたいことを選んで",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162263,
+        "relative_offset": 28,
+        "raw_hex": "D0 F3 B2 F1 6C A2 80",
+        "text": "決定すんの",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162248,
+        "relative_offset": 13,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162261,
+        "relative_offset": 26,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162270,
+        "relative_offset": 35,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 8,
+    "id": "BATTLE_HELP_0008",
+    "record_start": 162272,
+    "record_end": 162322,
+    "record_size": 50,
+    "raw_hex": "16 00 03 00 01 00 78 00 D4 00 20 00 20 00 1F 00 70 59 7F 5A 20 34 F1 6D F0 81 96 75 83 1F 00 A2 F0 7D F0 BC F2 80 A2 F0 7D F0 B5 EA DD 5E 6A 9B 1A 00",
+    "jp_text": "そうねぇ　最初はやっぱ\n基本中の基本コンボかしら",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162288,
+        "relative_offset": 16,
+        "raw_hex": "70 59 7F 5A 20 34 F1 6D F0 81 96 75 83",
+        "text": "そうねぇ　最初はやっぱ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162303,
+        "relative_offset": 31,
+        "raw_hex": "A2 F0 7D F0 BC F2 80 A2 F0 7D F0 B5 EA DD 5E 6A 9B",
+        "text": "基本中の基本コンボかしら",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162286,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162301,
+        "relative_offset": 29,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162320,
+        "relative_offset": 48,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 9,
+    "id": "BATTLE_HELP_0009",
+    "record_start": 162322,
+    "record_end": 162337,
+    "record_size": 15,
+    "raw_hex": "73 F0 A2 79 D0 F3 B2 F1 6A 78 67 9B A2 1A 00",
+    "jp_text": "選んで決定してごらん",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162322,
+        "relative_offset": 0,
+        "raw_hex": "73 F0 A2 79 D0 F3 B2 F1 6A 78 67 9B A2",
+        "text": "選んで決定してごらん",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162335,
+        "relative_offset": 13,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 10,
+    "id": "BATTLE_HELP_0010",
+    "record_start": 162337,
+    "record_end": 162415,
+    "record_size": 78,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00 ED F1 7D D6 F4 5D F0 A1 D0 F3 93 A2 80 1F 00 5E A0 57 70 59 7C 90 F5 70 F3 86 F1 81 26 26 1F 00 E4 F2 80 92 F9 31 F1 3A 20 55 A2 72 7D D0 F3 93 72 23 1A 00",
+    "jp_text": "次に相手を決めんの\nかわいそうな被害者は……\n謎の傭兵A　あんたに決めた！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162363,
+        "relative_offset": 26,
+        "raw_hex": "ED F1 7D D6 F4 5D F0 A1 D0 F3 93 A2 80",
+        "text": "次に相手を決めんの",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162378,
+        "relative_offset": 41,
+        "raw_hex": "5E A0 57 70 59 7C 90 F5 70 F3 86 F1 81 26 26",
+        "text": "かわいそうな被害者は……",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162395,
+        "relative_offset": 58,
+        "raw_hex": "E4 F2 80 92 F9 31 F1 3A 20 55 A2 72 7D D0 F3 93 72 23",
+        "text": "謎の傭兵A　あんたに決めた！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162341,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 162339,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162376,
+        "relative_offset": 39,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162393,
+        "relative_offset": 56,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162413,
+        "relative_offset": 76,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 11,
+    "id": "BATTLE_HELP_0011",
+    "record_start": 162415,
+    "record_end": 162471,
+    "record_size": 56,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 00 00 05 00 16 00 01 00 00 00 02 00 16 00 03 00 01 00 80 00 D0 00 40 00 60 00 1F 00 2D F4 99 F1 81 74 99 75 7A D5 EC B8 F1 80 1A 00",
+    "jp_text": "今度はちょっとピリ辛の",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162455,
+        "relative_offset": 40,
+        "raw_hex": "2D F4 99 F1 81 74 99 75 7A D5 EC B8 F1 80",
+        "text": "今度はちょっとピリ辛の",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162417,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162453,
+        "relative_offset": 38,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162469,
+        "relative_offset": 54,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 12,
+    "id": "BATTLE_HELP_0012",
+    "record_start": 162471,
+    "record_end": 162519,
+    "record_size": 48,
+    "raw_hex": "16 00 03 00 01 00 80 00 A8 00 20 00 20 00 1F 00 B1 EC C7 A5 AD ED 57 75 78 91 9A 75 5E 1F 00 68 75 60 91 72 57 7D D0 F3 B2 F1 6C A2 80 9A 1A 00",
+    "jp_text": "クリティカルいってみよっか\nさっきみたいに決定すんのよ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162487,
+        "relative_offset": 16,
+        "raw_hex": "B1 EC C7 A5 AD ED 57 75 78 91 9A 75 5E",
+        "text": "クリティカルいってみよっか",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162502,
+        "relative_offset": 31,
+        "raw_hex": "68 75 60 91 72 57 7D D0 F3 B2 F1 6C A2 80 9A",
+        "text": "さっきみたいに決定すんのよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162485,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162500,
+        "relative_offset": 29,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162517,
+        "relative_offset": 46,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 13,
+    "id": "BATTLE_HELP_0013",
+    "record_start": 162519,
+    "record_end": 162586,
+    "record_size": 67,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00 2D F4 99 F1 80 D6 F4 5D F0 81 E4 F2 80 92 F9 31 F1 3B 23 1F 00 26 26 7A 81 F0 6E 5E 64 78 1F 00 96 75 83 9C 3A 9A 23 1A 00",
+    "jp_text": "今度の相手は謎の傭兵B！\n……と見せかけて\nやっぱりAよ！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162545,
+        "relative_offset": 26,
+        "raw_hex": "2D F4 99 F1 80 D6 F4 5D F0 81 E4 F2 80 92 F9 31 F1 3B 23",
+        "text": "今度の相手は謎の傭兵B！",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162566,
+        "relative_offset": 47,
+        "raw_hex": "26 26 7A 81 F0 6E 5E 64 78",
+        "text": "……と見せかけて",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162577,
+        "relative_offset": 58,
+        "raw_hex": "96 75 83 9C 3A 9A 23",
+        "text": "やっぱりAよ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162523,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 162521,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162564,
+        "relative_offset": 45,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162575,
+        "relative_offset": 56,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162584,
+        "relative_offset": 65,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 14,
+    "id": "BATTLE_HELP_0014",
+    "record_start": 162586,
+    "record_end": 162658,
+    "record_size": 72,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 01 00 02 00 16 00 02 00 01 00 02 00 B5 EA DD 75 78 80 81 1F 00 60 F3 99 F1 94 36 F0 37 F0 A1 62 9C 69 F1 6C 80 1F 00 ED F5 6C 9D 7D 5D F0 9E F1 79 8C F4 A1 F5 75 78 B5 C9 7F 1A 00",
+    "jp_text": "コンボってのは\n何度も攻撃をくり返すの\n要するに手数で勝負ってコトね",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162610,
+        "relative_offset": 24,
+        "raw_hex": "B5 EA DD 75 78 80 81",
+        "text": "コンボってのは",
+        "prefix_raw_hex": "16 00 01 00 01 00 16 00 01 00 02 00 16 00 02 00 01 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162619,
+        "relative_offset": 33,
+        "raw_hex": "60 F3 99 F1 94 36 F0 37 F0 A1 62 9C 69 F1 6C 80",
+        "text": "何度も攻撃をくり返すの",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162637,
+        "relative_offset": 51,
+        "raw_hex": "ED F5 6C 9D 7D 5D F0 9E F1 79 8C F4 A1 F5 75 78 B5 C9 7F",
+        "text": "要するに手数で勝負ってコトね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162590,
+        "relative_offset": 4,
+        "raw_hex": "16 00 01 00 01 00 16 00 01 00 02 00 16 00 02 00 01 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 162588,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162617,
+        "relative_offset": 31,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162635,
+        "relative_offset": 49,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162656,
+        "relative_offset": 70,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 15,
+    "id": "BATTLE_HELP_0015",
+    "record_start": 162658,
+    "record_end": 162707,
+    "record_size": 49,
+    "raw_hex": "79 20 B1 EC C7 A5 AD ED 81 75 78 57 59 7A 1F 00 81 F1 57 75 60 9C 84 75 83 72 57 78 1F 00 D6 F4 5D F0 80 46 F0 60 A1 23 F1 93 74 95 59 A0 64 1A 00",
+    "jp_text": "で　クリティカルはっていうと\n思いっきりひっぱたいて\n相手の動きを止めちゃうわけ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162658,
+        "relative_offset": 0,
+        "raw_hex": "79 20 B1 EC C7 A5 AD ED 81 75 78 57 59 7A",
+        "text": "で　クリティカルはっていうと",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162674,
+        "relative_offset": 16,
+        "raw_hex": "81 F1 57 75 60 9C 84 75 83 72 57 78",
+        "text": "思いっきりひっぱたいて",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162688,
+        "relative_offset": 30,
+        "raw_hex": "D6 F4 5D F0 80 46 F0 60 A1 23 F1 93 74 95 59 A0 64",
+        "text": "相手の動きを止めちゃうわけ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162672,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162686,
+        "relative_offset": 28,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162705,
+        "relative_offset": 47,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 16,
+    "id": "BATTLE_HELP_0016",
+    "record_start": 162707,
+    "record_end": 162758,
+    "record_size": 51,
+    "raw_hex": "7B 75 74 5F 57 57 5E 81 70 80 7A 60 ED F1 30 F3 1F 00 2D F0 D2 F2 80 81 F5 26 F5 E0 BB 5F 4A F2 6A F0 9C 9A 1F 00 9A 5C 62 4F F0 5B 7A 60 7C 68 57 1A 00",
+    "jp_text": "どっちがいいかはそのとき次第\n一瞬の判断ミスが命取りよ\nよぉく覚えときなさい",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162707,
+        "relative_offset": 0,
+        "raw_hex": "7B 75 74 5F 57 57 5E 81 70 80 7A 60 ED F1 30 F3",
+        "text": "どっちがいいかはそのとき次第",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162725,
+        "relative_offset": 18,
+        "raw_hex": "2D F0 D2 F2 80 81 F5 26 F5 E0 BB 5F 4A F2 6A F0 9C 9A",
+        "text": "一瞬の判断ミスが命取りよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162745,
+        "relative_offset": 38,
+        "raw_hex": "9A 5C 62 4F F0 5B 7A 60 7C 68 57",
+        "text": "よぉく覚えときなさい",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162723,
+        "relative_offset": 16,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162743,
+        "relative_offset": 36,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162756,
+        "relative_offset": 49,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 17,
+    "id": "BATTLE_HELP_0017",
+    "record_start": 162758,
+    "record_end": 162818,
+    "record_size": 60,
+    "raw_hex": "02 00 1F 00 16 00 00 00 0A 00 16 00 01 00 00 00 02 00 70 9E 6B 95 20 C7 BB C9 6C 9D A0 9A 1F 00 B5 EA DD 5E B1 EC C7 A5 AD ED A1 73 F0 A2 79 1F 00 D0 F3 B2 F1 6A 78 67 9B A2 1A 00",
+    "jp_text": "それじゃ　テストするわよ\nコンボかクリティカルを選んで\n決定してごらん",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162776,
+        "relative_offset": 18,
+        "raw_hex": "70 9E 6B 95 20 C7 BB C9 6C 9D A0 9A",
+        "text": "それじゃ　テストするわよ",
+        "prefix_raw_hex": "16 00 00 00 0A 00 16 00 01 00 00 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162790,
+        "relative_offset": 32,
+        "raw_hex": "B5 EA DD 5E B1 EC C7 A5 AD ED A1 73 F0 A2 79",
+        "text": "コンボかクリティカルを選んで",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162807,
+        "relative_offset": 49,
+        "raw_hex": "D0 F3 B2 F1 6A 78 67 9B A2",
+        "text": "決定してごらん",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162762,
+        "relative_offset": 4,
+        "raw_hex": "16 00 00 00 0A 00 16 00 01 00 00 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 162760,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162788,
+        "relative_offset": 30,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162805,
+        "relative_offset": 47,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162816,
+        "relative_offset": 58,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 18,
+    "id": "BATTLE_HELP_0018",
+    "record_start": 162818,
+    "record_end": 162877,
+    "record_size": 59,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 00 00 07 00 16 00 01 00 00 00 02 00 16 00 03 00 01 00 80 00 D4 00 40 00 60 00 1F 00 A2 6B 95 20 B6 F2 E9 F0 AF F5 7A 57 66 59 5E 6A 9B 1A 00",
+    "jp_text": "んじゃ　応用編といこうかしら",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162858,
+        "relative_offset": 40,
+        "raw_hex": "A2 6B 95 20 B6 F2 E9 F0 AF F5 7A 57 66 59 5E 6A 9B",
+        "text": "んじゃ　応用編といこうかしら",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162820,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162856,
+        "relative_offset": 38,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162875,
+        "relative_offset": 57,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 19,
+    "id": "BATTLE_HELP_0019",
+    "record_start": 162877,
+    "record_end": 162911,
+    "record_size": 34,
+    "raw_hex": "16 00 03 00 01 00 5C 00 D0 00 20 00 20 00 1F 00 4A F0 4B F0 A1 73 F0 A2 79 D0 F3 B2 F1 7C 68 57 1A 00",
+    "jp_text": "魔法を選んで決定なさい",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162893,
+        "relative_offset": 16,
+        "raw_hex": "4A F0 4B F0 A1 73 F0 A2 79 D0 F3 B2 F1 7C 68 57",
+        "text": "魔法を選んで決定なさい",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162891,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162909,
+        "relative_offset": 32,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 20,
+    "id": "BATTLE_HELP_0020",
+    "record_start": 162911,
+    "record_end": 162984,
+    "record_size": 73,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00 4A F0 4B F0 81 CE 20 46 49 A1 54 F0 59 5E A0 9C 7D 1F 00 57 9F 57 9F 5D 57 6A 57 81 F1 57 5F 1F 00 79 60 74 95 59 75 78 B9 EF E3 CF 9A 1A 00",
+    "jp_text": "魔法はネ　ＭＰを使うかわりに\nいろいろおいしい思いが\nできちゃうってシロモノよ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 162937,
+        "relative_offset": 26,
+        "raw_hex": "4A F0 4B F0 81 CE 20 46 49 A1 54 F0 59 5E A0 9C 7D",
+        "text": "魔法はネ　ＭＰを使うかわりに",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 162956,
+        "relative_offset": 45,
+        "raw_hex": "57 9F 57 9F 5D 57 6A 57 81 F1 57 5F",
+        "text": "いろいろおいしい思いが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 162970,
+        "relative_offset": 59,
+        "raw_hex": "79 60 74 95 59 75 78 B9 EF E3 CF 9A",
+        "text": "できちゃうってシロモノよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162915,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 162913,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162954,
+        "relative_offset": 43,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162968,
+        "relative_offset": 57,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 162982,
+        "relative_offset": 71,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 21,
+    "id": "BATTLE_HELP_0021",
+    "record_start": 162984,
+    "record_end": 163026,
+    "record_size": 42,
+    "raw_hex": "16 00 03 00 01 00 48 01 80 00 B4 00 20 00 1F 00 74 7C 91 7D 66 9E 5F 1F 00 55 A2 72 5F 57 90 54 F0 5B 9D 4A F0 4B F0 7F 1A 00",
+    "jp_text": "ちなみにこれが\nあんたがいま使える魔法ね",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163000,
+        "relative_offset": 16,
+        "raw_hex": "74 7C 91 7D 66 9E 5F",
+        "text": "ちなみにこれが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163009,
+        "relative_offset": 25,
+        "raw_hex": "55 A2 72 5F 57 90 54 F0 5B 9D 4A F0 4B F0 7F",
+        "text": "あんたがいま使える魔法ね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 162998,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163007,
+        "relative_offset": 23,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163024,
+        "relative_offset": 40,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 22,
+    "id": "BATTLE_HELP_0022",
+    "record_start": 163026,
+    "record_end": 163060,
+    "record_size": 34,
+    "raw_hex": "90 20 7A 9C 55 5B 6D 1F 00 22 F0 A3 27 EA 55 72 9C 79 1F 00 67 60 65 A2 A1 59 5E 5F 57 90 6A 99 1A 00",
+    "jp_text": "ま　とりあえず\nヴァーンあたりで\nごきげんをうかがいましょ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163026,
+        "relative_offset": 0,
+        "raw_hex": "90 20 7A 9C 55 5B 6D",
+        "text": "ま　とりあえず",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163035,
+        "relative_offset": 9,
+        "raw_hex": "22 F0 A3 27 EA 55 72 9C 79",
+        "text": "ヴァーンあたりで",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163046,
+        "relative_offset": 20,
+        "raw_hex": "67 60 65 A2 A1 59 5E 5F 57 90 6A 99",
+        "text": "ごきげんをうかがいましょ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163033,
+        "relative_offset": 7,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163044,
+        "relative_offset": 18,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163058,
+        "relative_offset": 32,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 23,
+    "id": "BATTLE_HELP_0023",
+    "record_start": 163060,
+    "record_end": 163134,
+    "record_size": 74,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 03 00 02 00 5F F1 97 F5 81 26 26 75 7A 1F 00 57 90 43 F6 D4 B1 C4 23 44 F6 7A 6A 72 79 6A 99 1F 00 70 59 20 55 A2 72 9A 20 E4 F2 80 92 F9 31 F1 3A 23 1A 00",
+    "jp_text": "目標は……っと\nいま「ビクッ！」としたでしょ\nそう　あんたよ　謎の傭兵A！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163086,
+        "relative_offset": 26,
+        "raw_hex": "5F F1 97 F5 81 26 26 75 7A",
+        "text": "目標は……っと",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 03 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163097,
+        "relative_offset": 37,
+        "raw_hex": "57 90 43 F6 D4 B1 C4 23 44 F6 7A 6A 72 79 6A 99",
+        "text": "いま「ビクッ！」としたでしょ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163115,
+        "relative_offset": 55,
+        "raw_hex": "70 59 20 55 A2 72 9A 20 E4 F2 80 92 F9 31 F1 3A 23",
+        "text": "そう　あんたよ　謎の傭兵A！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163064,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 03 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 163062,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163095,
+        "relative_offset": 35,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163113,
+        "relative_offset": 53,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163132,
+        "relative_offset": 72,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 24,
+    "id": "BATTLE_HELP_0024",
+    "record_start": 163134,
+    "record_end": 163195,
+    "record_size": 61,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 00 00 08 00 16 00 01 00 00 00 02 00 16 00 03 00 01 00 80 00 D0 00 40 00 60 00 1F 00 34 F1 C5 F1 81 7A 75 78 5D 60 80 4C F0 4D F0 4E F0 9A 23 1A 00",
+    "jp_text": "最後はとっておきの必殺技よ！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163174,
+        "relative_offset": 40,
+        "raw_hex": "34 F1 C5 F1 81 7A 75 78 5D 60 80 4C F0 4D F0 4E F0 9A 23",
+        "text": "最後はとっておきの必殺技よ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163136,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163172,
+        "relative_offset": 38,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163193,
+        "relative_offset": 59,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 25,
+    "id": "BATTLE_HELP_0025",
+    "record_start": 163195,
+    "record_end": 163236,
+    "record_size": 41,
+    "raw_hex": "16 00 03 00 01 00 AC 00 D8 00 20 00 20 00 1F 00 2F F6 7D 9A 75 78 1F 00 73 F0 A2 79 D0 F3 B2 F1 6A 78 74 99 59 73 57 1A 00",
+    "jp_text": "例によって\n選んで決定してちょうだい",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163211,
+        "relative_offset": 16,
+        "raw_hex": "2F F6 7D 9A 75 78",
+        "text": "例によって",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163219,
+        "relative_offset": 24,
+        "raw_hex": "73 F0 A2 79 D0 F3 B2 F1 6A 78 74 99 59 73 57",
+        "text": "選んで決定してちょうだい",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163209,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163217,
+        "relative_offset": 22,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163234,
+        "relative_offset": 39,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 26,
+    "id": "BATTLE_HELP_0026",
+    "record_start": 163236,
+    "record_end": 163311,
+    "record_size": 75,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00 4C F0 4D F0 4E F0 81 4C 49 A1 54 F0 75 74 95 59 64 7B 1F 00 70 A2 7C 80 9B F0 7D 7C 9B 7C 57 63 9B 57 1F 00 E7 F2 5D 57 6A 57 75 78 A0 64 23 1A 00",
+    "jp_text": "必殺技はＳＰを使っちゃうけど\nそんなの気にならないぐらい\n超おいしいってわけ！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163262,
+        "relative_offset": 26,
+        "raw_hex": "4C F0 4D F0 4E F0 81 4C 49 A1 54 F0 75 74 95 59 64 7B",
+        "text": "必殺技はＳＰを使っちゃうけど",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163282,
+        "relative_offset": 46,
+        "raw_hex": "70 A2 7C 80 9B F0 7D 7C 9B 7C 57 63 9B 57",
+        "text": "そんなの気にならないぐらい",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163298,
+        "relative_offset": 62,
+        "raw_hex": "E7 F2 5D 57 6A 57 75 78 A0 64 23",
+        "text": "超おいしいってわけ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163240,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 163238,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163280,
+        "relative_offset": 44,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163296,
+        "relative_offset": 60,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163309,
+        "relative_offset": 73,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 27,
+    "id": "BATTLE_HELP_0027",
+    "record_start": 163311,
+    "record_end": 163362,
+    "record_size": 51,
+    "raw_hex": "16 00 03 00 01 00 48 01 80 00 B4 00 20 00 1F 00 26 26 7A 81 57 75 78 94 1F 00 57 90 55 A2 72 5F 54 F0 5B A2 80 81 1F 00 66 9E 63 9B 57 73 64 7B CE 1A 00",
+    "jp_text": "……とはいっても\nいまあんたが使えんのは\nこれぐらいだけどネ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163327,
+        "relative_offset": 16,
+        "raw_hex": "26 26 7A 81 57 75 78 94",
+        "text": "……とはいっても",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163337,
+        "relative_offset": 26,
+        "raw_hex": "57 90 55 A2 72 5F 54 F0 5B A2 80 81",
+        "text": "いまあんたが使えんのは",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163351,
+        "relative_offset": 40,
+        "raw_hex": "66 9E 63 9B 57 73 64 7B CE",
+        "text": "これぐらいだけどネ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163325,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163335,
+        "relative_offset": 24,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163349,
+        "relative_offset": 38,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163360,
+        "relative_offset": 49,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 28,
+    "id": "BATTLE_HELP_0028",
+    "record_start": 163362,
+    "record_end": 163409,
+    "record_size": 47,
+    "raw_hex": "A4 D0 D0 20 93 65 7C 57 93 65 7C 57 1F 00 68 75 20 55 A2 72 80 25 F2 79 F2 B5 F0 A1 1F 00 81 F1 57 C0 F0 9C 88 74 66 A2 79 67 9B A2 23 1A 00",
+    "jp_text": "アハハ　めげないめげない\nさっ　あんたの天空剣を\n思い切りぶちこんでごらん！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163362,
+        "relative_offset": 0,
+        "raw_hex": "A4 D0 D0 20 93 65 7C 57 93 65 7C 57",
+        "text": "アハハ　めげないめげない",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163376,
+        "relative_offset": 14,
+        "raw_hex": "68 75 20 55 A2 72 80 25 F2 79 F2 B5 F0 A1",
+        "text": "さっ　あんたの天空剣を",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163392,
+        "relative_offset": 30,
+        "raw_hex": "81 F1 57 C0 F0 9C 88 74 66 A2 79 67 9B A2 23",
+        "text": "思い切りぶちこんでごらん！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163374,
+        "relative_offset": 12,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163390,
+        "relative_offset": 28,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163407,
+        "relative_offset": 45,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 29,
+    "id": "BATTLE_HELP_0029",
+    "record_start": 163409,
+    "record_end": 163464,
+    "record_size": 55,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 03 00 02 00 5F F1 97 F5 81 26 26 1F 00 94 59 87 F3 69 F5 6A 78 9D E4 F2 80 92 F9 31 F1 3A 23 1A 00",
+    "jp_text": "目標は……\nもう観念してる謎の傭兵A！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163435,
+        "relative_offset": 26,
+        "raw_hex": "5F F1 97 F5 81 26 26",
+        "text": "目標は……",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 03 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163444,
+        "relative_offset": 35,
+        "raw_hex": "94 59 87 F3 69 F5 6A 78 9D E4 F2 80 92 F9 31 F1 3A 23",
+        "text": "もう観念してる謎の傭兵A！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163413,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 03 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 163411,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163442,
+        "relative_offset": 33,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163462,
+        "relative_offset": 53,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 30,
+    "id": "BATTLE_HELP_0030",
+    "record_start": 163464,
+    "record_end": 163524,
+    "record_size": 60,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 00 00 0C 00 16 00 01 00 00 00 02 00 D0 A6 20 87 F0 68 F0 64 F1 87 F0 68 F0 64 F1 23 1F 00 66 A2 73 64 79 60 9E 82 83 F1 33 F3 75 6A 99 23 1A 00",
+    "jp_text": "ハイ　上出来上出来！\nこんだけできれば合格っしょ！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163488,
+        "relative_offset": 24,
+        "raw_hex": "D0 A6 20 87 F0 68 F0 64 F1 87 F0 68 F0 64 F1 23",
+        "text": "ハイ　上出来上出来！",
+        "prefix_raw_hex": "16 00 01 00 01 00 16 00 00 00 0C 00 16 00 01 00 00 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163506,
+        "relative_offset": 42,
+        "raw_hex": "66 A2 73 64 79 60 9E 82 83 F1 33 F3 75 6A 99 23",
+        "text": "こんだけできれば合格っしょ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163468,
+        "relative_offset": 4,
+        "raw_hex": "16 00 01 00 01 00 16 00 00 00 0C 00 16 00 01 00 00 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 163466,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163504,
+        "relative_offset": 40,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163522,
+        "relative_offset": 58,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 31,
+    "id": "BATTLE_HELP_0031",
+    "record_start": 163524,
+    "record_end": 163571,
+    "record_size": 47,
+    "raw_hex": "A2 6B 95 20 76 F2 5B 72 C7 B1 CC C4 B1 79 1F 00 5E A0 57 70 59 7C E4 F2 80 92 F9 31 F1 3A 7D 1F 00 C9 CA E2 4D F4 6A 74 95 57 90 6A 99 1A 00",
+    "jp_text": "んじゃ　教えたテクニックで\nかわいそうな謎の傭兵Aに\nトドメ刺しちゃいましょ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163524,
+        "relative_offset": 0,
+        "raw_hex": "A2 6B 95 20 76 F2 5B 72 C7 B1 CC C4 B1 79",
+        "text": "んじゃ　教えたテクニックで",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163540,
+        "relative_offset": 16,
+        "raw_hex": "5E A0 57 70 59 7C E4 F2 80 92 F9 31 F1 3A 7D",
+        "text": "かわいそうな謎の傭兵Aに",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163557,
+        "relative_offset": 33,
+        "raw_hex": "C9 CA E2 4D F4 6A 74 95 57 90 6A 99",
+        "text": "トドメ刺しちゃいましょ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163538,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163555,
+        "relative_offset": 31,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163569,
+        "relative_offset": 45,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0
+    ],
+    "pointer_offsets": [
+      161796
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "tutorial_battle_basics",
+    "related_skill_action": "battle_tutorial_step",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 32,
+    "id": "BATTLE_HELP_0032",
+    "record_start": 163571,
+    "record_end": 163665,
+    "record_size": 94,
+    "raw_hex": "02 00 1F 00 16 00 06 00 78 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 1E 00 2C 01 02 00 79 F2 BC F2 7D A0 F5 57 78 57 9D E3 EA BB C1 27 7D 1F 00 B5 EA DD 5E B1 EC C7 A5 AD ED 79 36 F0 37 F0 6C 9D 7A 1F 00 79 F2 BC F2 B5 EA DD 7D 7C 9C 90 6C 1A 00",
+    "jp_text": "空中に浮いているモンスターに\nコンボかクリティカルで攻撃すると\n空中コンボになります",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163612,
+        "relative_offset": 41,
+        "raw_hex": "79 F2 BC F2 7D A0 F5 57 78 57 9D E3 EA BB C1 27 7D",
+        "text": "空中に浮いているモンスターに",
+        "prefix_raw_hex": "16 00 06 00 78 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 1E 00 2C 01 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163631,
+        "relative_offset": 60,
+        "raw_hex": "B5 EA DD 5E B1 EC C7 A5 AD ED 79 36 F0 37 F0 6C 9D 7A",
+        "text": "コンボかクリティカルで攻撃すると",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163651,
+        "relative_offset": 80,
+        "raw_hex": "79 F2 BC F2 B5 EA DD 7D 7C 9C 90 6C",
+        "text": "空中コンボになります",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163575,
+        "relative_offset": 4,
+        "raw_hex": "16 00 06 00 78 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 1E 00 2C 01 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 163573,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163629,
+        "relative_offset": 58,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163649,
+        "relative_offset": 78,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163663,
+        "relative_offset": 92,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      0,
+      2
+    ],
+    "pointer_offsets": [
+      161796,
+      161812
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "air_combo_mechanic",
+    "related_skill_action": "air_combo",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 33,
+    "id": "BATTLE_HELP_0033",
+    "record_start": 163665,
+    "record_end": 163708,
+    "record_size": 43,
+    "raw_hex": "79 F2 BC F2 B5 EA DD 81 20 AD F2 AE F5 7C 4E F0 A1 54 F0 57 1F 00 57 76 94 9A 9C 42 F0 60 7C C2 E2 27 BA A1 B2 F2 5B 90 6C 1A 00",
+    "jp_text": "空中コンボは　特別な技を使い\nいつもより大きなダメージを与えます",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163665,
+        "relative_offset": 0,
+        "raw_hex": "79 F2 BC F2 B5 EA DD 81 20 AD F2 AE F5 7C 4E F0 A1 54 F0 57",
+        "text": "空中コンボは　特別な技を使い",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163687,
+        "relative_offset": 22,
+        "raw_hex": "57 76 94 9A 9C 42 F0 60 7C C2 E2 27 BA A1 B2 F2 5B 90 6C",
+        "text": "いつもより大きなダメージを与えます",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163685,
+        "relative_offset": 20,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163706,
+        "relative_offset": 41,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      2
+    ],
+    "pointer_offsets": [
+      161812
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "air_combo_mechanic",
+    "related_skill_action": "air_combo",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 34,
+    "id": "BATTLE_HELP_0034",
+    "record_start": 163708,
+    "record_end": 163769,
+    "record_size": 61,
+    "raw_hex": "79 F2 BC F2 B5 EA DD 79 3A F0 A1 53 F5 6C 7A 20 E3 EA BB C1 27 5F 1F 00 D7 F0 7A 6C 5D C6 F1 5F 56 F1 5B 72 9C 20 EE A4 A4 A6 C7 E1 5F 1F 00 68 F0 71 F0 6A 96 6C 62 7C 9C 90 6C 1A 00",
+    "jp_text": "空中コンボで敵を倒すと　モンスターが\n落とすお金が増えたり　レアアイテムが\n出現しやすくなります",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163708,
+        "relative_offset": 0,
+        "raw_hex": "79 F2 BC F2 B5 EA DD 79 3A F0 A1 53 F5 6C 7A 20 E3 EA BB C1 27 5F",
+        "text": "空中コンボで敵を倒すと　モンスターが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163732,
+        "relative_offset": 24,
+        "raw_hex": "D7 F0 7A 6C 5D C6 F1 5F 56 F1 5B 72 9C 20 EE A4 A4 A6 C7 E1 5F",
+        "text": "落とすお金が増えたり　レアアイテムが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163755,
+        "relative_offset": 47,
+        "raw_hex": "68 F0 71 F0 6A 96 6C 62 7C 9C 90 6C",
+        "text": "出現しやすくなります",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163730,
+        "relative_offset": 22,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163753,
+        "relative_offset": 45,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163767,
+        "relative_offset": 59,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      2
+    ],
+    "pointer_offsets": [
+      161812
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "air_combo_mechanic",
+    "related_skill_action": "air_combo",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 35,
+    "id": "BATTLE_HELP_0035",
+    "record_start": 163769,
+    "record_end": 163917,
+    "record_size": 148,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 1E 00 28 00 02 00 C2 E2 27 BA A1 97 F1 64 6D 7D 20 3A F0 A1 7B F1 9C F1 68 6E 9D 7A 1F 00 AA B1 BD EE EA C9 DD 27 CB BB 7A 6A 78 1F 00 4C 49 5F 31 30 3F F6 3F F0 B6 F0 6A 90 6C 1A 00",
+    "jp_text": "ダメージを受けずに　敵を全滅させると\nエクセレントボーナスとして\nＳＰが１０％回復します",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163862,
+        "relative_offset": 93,
+        "raw_hex": "C2 E2 27 BA A1 97 F1 64 6D 7D 20 3A F0 A1 7B F1 9C F1 68 6E 9D 7A",
+        "text": "ダメージを受けずに　敵を全滅させると",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 1E 00 28 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 163886,
+        "relative_offset": 117,
+        "raw_hex": "AA B1 BD EE EA C9 DD 27 CB BB 7A 6A 78",
+        "text": "エクセレントボーナスとして",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 163901,
+        "relative_offset": 132,
+        "raw_hex": "4C 49 5F 31 30 3F F6 3F F0 B6 F0 6A 90 6C",
+        "text": "ＳＰが１０％回復します",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163773,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 1E 00 28 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 163771,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163884,
+        "relative_offset": 115,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163899,
+        "relative_offset": 130,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 163915,
+        "relative_offset": 146,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      2,
+      3
+    ],
+    "pointer_offsets": [
+      161812,
+      161820
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "excellent_orb_special_mechanic",
+    "related_skill_action": "excellent_bonus_orb_special_level",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 36,
+    "id": "BATTLE_HELP_0036",
+    "record_start": 163917,
+    "record_end": 164041,
+    "record_size": 124,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 E0 01 10 00 B0 00 C8 00 17 00 1E 00 04 01 02 00 E7 F1 7E F4 80 AC 27 D7 A1 D8 F2 98 F1 6A 78 57 9D 7A 1F 00 EB F0 EC F0 BC F2 7D AC 27 D7 B5 DF EA CA 5F 54 F0 E9 F0 79 60 90 6C 1A 00",
+    "jp_text": "聖獣のオーブを所持していると\n戦闘中にオーブコマンドが使用できます",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 163996,
+        "relative_offset": 79,
+        "raw_hex": "E7 F1 7E F4 80 AC 27 D7 A1 D8 F2 98 F1 6A 78 57 9D 7A",
+        "text": "聖獣のオーブを所持していると",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 E0 01 10 00 B0 00 C8 00 17 00 1E 00 04 01 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164016,
+        "relative_offset": 99,
+        "raw_hex": "EB F0 EC F0 BC F2 7D AC 27 D7 B5 DF EA CA 5F 54 F0 E9 F0 79 60 90 6C",
+        "text": "戦闘中にオーブコマンドが使用できます",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 163921,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 E0 01 10 00 B0 00 C8 00 17 00 1E 00 04 01 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 163919,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164014,
+        "relative_offset": 97,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164039,
+        "relative_offset": 122,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      3,
+      4
+    ],
+    "pointer_offsets": [
+      161820,
+      161828
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "excellent_orb_special_mechanic",
+    "related_skill_action": "excellent_bonus_orb_special_level",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 37,
+    "id": "BATTLE_HELP_0037",
+    "record_start": 164041,
+    "record_end": 164086,
+    "record_size": 45,
+    "raw_hex": "31 99 F1 AC 27 D7 A1 54 F0 E9 F0 6C 9D 7A 20 AC 27 D7 B4 27 BA 5F 1F 00 72 90 9D 90 79 20 AC 27 D7 81 54 F0 5B 7C 62 7C 9C 90 6C 1A 00",
+    "jp_text": "１度オーブを使用すると　オーブゲージが\nたまるまで　オーブは使えなくなります",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164041,
+        "relative_offset": 0,
+        "raw_hex": "31 99 F1 AC 27 D7 A1 54 F0 E9 F0 6C 9D 7A 20 AC 27 D7 B4 27 BA 5F",
+        "text": "１度オーブを使用すると　オーブゲージが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164065,
+        "relative_offset": 24,
+        "raw_hex": "72 90 9D 90 79 20 AC 27 D7 81 54 F0 5B 7C 62 7C 9C 90 6C",
+        "text": "たまるまで　オーブは使えなくなります",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164063,
+        "relative_offset": 22,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164084,
+        "relative_offset": 43,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      4
+    ],
+    "pointer_offsets": [
+      161828
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "excellent_orb_special_mechanic",
+    "related_skill_action": "excellent_bonus_orb_special_level",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 38,
+    "id": "BATTLE_HELP_0038",
+    "record_start": 164086,
+    "record_end": 164313,
+    "record_size": 227,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 78 00 28 00 02 00 2D F0 B2 F1 80 BB DB B9 E4 ED EE DA ED 5F 55 9D 75 F1 76 F1 79 1F 00 B5 EA DD B5 DF EA CA A1 73 F0 88 7A 1F 00 9F F1 6A 57 4C F0 4D F0 4E F0 A1 84 9B 93 62 BA F0 5F 55 9C 90 6C 1A 00",
+    "jp_text": "一定のスペシャルレベルがある状態で\nコンボコマンドを選ぶと\n新しい必殺技をひらめく事があります",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164252,
+        "relative_offset": 166,
+        "raw_hex": "2D F0 B2 F1 80 BB DB B9 E4 ED EE DA ED 5F 55 9D 75 F1 76 F1 79",
+        "text": "一定のスペシャルレベルがある状態で",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 78 00 28 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164275,
+        "relative_offset": 189,
+        "raw_hex": "B5 EA DD B5 DF EA CA A1 73 F0 88 7A",
+        "text": "コンボコマンドを選ぶと",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 164289,
+        "relative_offset": 203,
+        "raw_hex": "9F F1 6A 57 4C F0 4D F0 4E F0 A1 84 9B 93 62 BA F0 5F 55 9C 90 6C",
+        "text": "新しい必殺技をひらめく事があります",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164090,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 78 00 28 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 164088,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164273,
+        "relative_offset": 187,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164287,
+        "relative_offset": 201,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164311,
+        "relative_offset": 225,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      4,
+      5
+    ],
+    "pointer_offsets": [
+      161828,
+      161836
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "excellent_orb_special_mechanic",
+    "related_skill_action": "excellent_bonus_orb_special_level",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 39,
+    "id": "BATTLE_HELP_0039",
+    "record_start": 164313,
+    "record_end": 164432,
+    "record_size": 119,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 78 00 28 00 02 00 4C F0 4D F0 4E F0 A1 54 F0 57 6C F0 64 78 57 9D 7A 20 4E F0 80 74 F4 35 F6 99 F1 5F 1F 00 87 F0 5F 9C 20 3E F2 9B F9 A1 64 F5 9D BA F0 5F 55 9C 90 6C 1A 00",
+    "jp_text": "必殺技を使い続けていると　技の修練度が\n上がり　秘訣を得る事があります",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164380,
+        "relative_offset": 67,
+        "raw_hex": "4C F0 4D F0 4E F0 A1 54 F0 57 6C F0 64 78 57 9D 7A 20 4E F0 80 74 F4 35 F6 99 F1 5F",
+        "text": "必殺技を使い続けていると　技の修練度が",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 78 00 28 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164410,
+        "relative_offset": 97,
+        "raw_hex": "87 F0 5F 9C 20 3E F2 9B F9 A1 64 F5 9D BA F0 5F 55 9C 90 6C",
+        "text": "上がり　秘訣を得る事があります",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164317,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 02 00 02 00 16 00 03 00 01 00 00 01 E0 00 20 01 E0 00 17 00 78 00 28 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 164315,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164408,
+        "relative_offset": 95,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164430,
+        "relative_offset": 117,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      5,
+      6
+    ],
+    "pointer_offsets": [
+      161836,
+      161844
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "excellent_orb_special_mechanic",
+    "related_skill_action": "excellent_bonus_orb_special_level",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 40,
+    "id": "BATTLE_HELP_0040",
+    "record_start": 164432,
+    "record_end": 164486,
+    "record_size": 54,
+    "raw_hex": "3E F2 9B F9 A1 64 F5 9D 7A 20 9A 9C 35 F1 85 F0 7C 4C F0 4D F0 4E F0 7D 1F 00 D2 20 F0 27 A4 C4 D8 6A 90 6C 1F 00 D3 F1 8F F9 A1 BA F1 93 78 91 90 6A 99 59 1A 00",
+    "jp_text": "秘訣を得ると　より強力な必殺技に\nパワーアップします\n神髄を極めてみましょう",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164432,
+        "relative_offset": 0,
+        "raw_hex": "3E F2 9B F9 A1 64 F5 9D 7A 20 9A 9C 35 F1 85 F0 7C 4C F0 4D F0 4E F0 7D",
+        "text": "秘訣を得ると　より強力な必殺技に",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164458,
+        "relative_offset": 26,
+        "raw_hex": "D2 20 F0 27 A4 C4 D8 6A 90 6C",
+        "text": "パワーアップします",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 164470,
+        "relative_offset": 38,
+        "raw_hex": "D3 F1 8F F9 A1 BA F1 93 78 91 90 6A 99 59",
+        "text": "神髄を極めてみましょう",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164456,
+        "relative_offset": 24,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164468,
+        "relative_offset": 36,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164484,
+        "relative_offset": 52,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      6
+    ],
+    "pointer_offsets": [
+      161844
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "excellent_orb_special_mechanic",
+    "related_skill_action": "excellent_bonus_orb_special_level",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 41,
+    "id": "BATTLE_HELP_0041",
+    "record_start": 164486,
+    "record_end": 164677,
+    "record_size": 191,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 05 00 00 00 17 00 20 00 40 01 16 00 02 00 01 00 16 00 08 00 01 00 02 00 2D F4 99 F1 81 9A 9C 4F F2 EB F0 BD F2 64 7D 57 62 A0 9A 1F 00 57 90 D4 F0 7D 57 59 7A 26 26 1F 00 75 78 20 94 59 57 57 5E 1A 00",
+    "jp_text": "今度はより実戦向けにいくわよ\nいま風にいうと……\nって　もういいか",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164634,
+        "relative_offset": 148,
+        "raw_hex": "2D F4 99 F1 81 9A 9C 4F F2 EB F0 BD F2 64 7D 57 62 A0 9A",
+        "text": "今度はより実戦向けにいくわよ",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 05 00 00 00 17 00 20 00 40 01 16 00 02 00 01 00 16 00 08 00 01 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164655,
+        "relative_offset": 169,
+        "raw_hex": "57 90 D4 F0 7D 57 59 7A 26 26",
+        "text": "いま風にいうと……",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 164667,
+        "relative_offset": 181,
+        "raw_hex": "75 78 20 94 59 57 57 5E",
+        "text": "って　もういいか",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164490,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 06 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 16 00 05 00 00 00 17 00 20 00 40 01 16 00 02 00 01 00 16 00 08 00 01 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 164488,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164653,
+        "relative_offset": 167,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164665,
+        "relative_offset": 179,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164675,
+        "relative_offset": 189,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [
+      6
+    ],
+    "pointer_offsets": [
+      161844
+    ],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "general_mechanic_help",
+    "related_event_id": "excellent_orb_special_mechanic",
+    "related_skill_action": "excellent_bonus_orb_special_level",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 42,
+    "id": "BATTLE_HELP_0042",
+    "record_start": 164677,
+    "record_end": 164744,
+    "record_size": 67,
+    "raw_hex": "02 00 1F 00 16 00 00 00 05 00 16 00 01 00 00 00 02 00 90 6D 81 AF E4 EA BD ED 7F 1F 00 BF F0 57 44 F0 5F 2A F3 5A F0 BC F2 80 D6 F4 5D F0 80 46 F0 60 A1 1F 00 BA E4 DF 6A 78 96 9D 75 78 66 7A 9A 1A 00",
+    "jp_text": "まずはキャンセルね\n早い話が準備中の相手の動きを\nジャマしてやるってことよ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164695,
+        "relative_offset": 18,
+        "raw_hex": "90 6D 81 AF E4 EA BD ED 7F",
+        "text": "まずはキャンセルね",
+        "prefix_raw_hex": "16 00 00 00 05 00 16 00 01 00 00 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164706,
+        "relative_offset": 29,
+        "raw_hex": "BF F0 57 44 F0 5F 2A F3 5A F0 BC F2 80 D6 F4 5D F0 80 46 F0 60 A1",
+        "text": "早い話が準備中の相手の動きを",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 164730,
+        "relative_offset": 53,
+        "raw_hex": "BA E4 DF 6A 78 96 9D 75 78 66 7A 9A",
+        "text": "ジャマしてやるってことよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164681,
+        "relative_offset": 4,
+        "raw_hex": "16 00 00 00 05 00 16 00 01 00 00 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 164679,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164704,
+        "relative_offset": 27,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164728,
+        "relative_offset": 51,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164742,
+        "relative_offset": 65,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 43,
+    "id": "BATTLE_HELP_0043",
+    "record_start": 164744,
+    "record_end": 164775,
+    "record_size": 31,
+    "raw_hex": "16 00 03 00 01 00 3C 00 50 00 50 00 50 00 1F 00 42 49 B4 27 BA 87 F0 80 B9 EA DD ED 5F 1A 00",
+    "jp_text": "IＰゲージ上のシンボルが",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164760,
+        "relative_offset": 16,
+        "raw_hex": "42 49 B4 27 BA 87 F0 80 B9 EA DD ED 5F",
+        "text": "IＰゲージ上のシンボルが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164758,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164773,
+        "relative_offset": 29,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 44,
+    "id": "BATTLE_HELP_0044",
+    "record_start": 164775,
+    "record_end": 164841,
+    "record_size": 66,
+    "raw_hex": "16 00 03 00 01 00 3C 00 78 00 30 00 18 00 1F 00 42 49 B4 27 BA 80 CA F0 57 7A 66 1F 00 3C 48 46 25 3A 3C 4D 80 AA F2 7D 55 9D 7A 1F 00 70 57 76 81 22 F1 46 F0 80 2A F3 5A F0 BC F2 75 78 66 7A 1A 00",
+    "jp_text": "IＰゲージの赤いとこ\nCOＭ～ACTの間にあると\nそいつは行動の準備中ってこと",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164791,
+        "relative_offset": 16,
+        "raw_hex": "42 49 B4 27 BA 80 CA F0 57 7A 66",
+        "text": "IＰゲージの赤いとこ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164804,
+        "relative_offset": 29,
+        "raw_hex": "3C 48 46 25 3A 3C 4D 80 AA F2 7D 55 9D 7A",
+        "text": "COＭ～ACTの間にあると",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 164820,
+        "relative_offset": 45,
+        "raw_hex": "70 57 76 81 22 F1 46 F0 80 2A F3 5A F0 BC F2 75 78 66 7A",
+        "text": "そいつは行動の準備中ってこと",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164789,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164802,
+        "relative_offset": 27,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164818,
+        "relative_offset": 43,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164839,
+        "relative_offset": 64,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 45,
+    "id": "BATTLE_HELP_0045",
+    "record_start": 164841,
+    "record_end": 164890,
+    "record_size": 49,
+    "raw_hex": "66 66 7D 57 9D D6 F4 5D F0 7D 1F 00 AF E4 EA BD ED BC F0 C2 F0 80 55 9D 36 F0 37 F0 A1 1F 00 72 72 60 66 92 7A A4 F2 A1 F1 6C 9D 75 78 A0 64 1A 00",
+    "jp_text": "ここにいる相手に\nキャンセル効果のある攻撃を\nたたきこむと発生するってわけ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164841,
+        "relative_offset": 0,
+        "raw_hex": "66 66 7D 57 9D D6 F4 5D F0 7D",
+        "text": "ここにいる相手に",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164853,
+        "relative_offset": 12,
+        "raw_hex": "AF E4 EA BD ED BC F0 C2 F0 80 55 9D 36 F0 37 F0 A1",
+        "text": "キャンセル効果のある攻撃を",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 164872,
+        "relative_offset": 31,
+        "raw_hex": "72 72 60 66 92 7A A4 F2 A1 F1 6C 9D 75 78 A0 64",
+        "text": "たたきこむと発生するってわけ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164851,
+        "relative_offset": 10,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164870,
+        "relative_offset": 29,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164888,
+        "relative_offset": 47,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 46,
+    "id": "BATTLE_HELP_0046",
+    "record_start": 164890,
+    "record_end": 164946,
+    "record_size": 56,
+    "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 1F 00 77 F4 59 9A 9C 7D F3 9E 9F 9A 1F 00 B1 EC C7 A5 AD ED A1 88 74 58 F1 78 78 1F 00 D4 D4 9B 6E 78 96 A2 7C 68 57 23 1A 00",
+    "jp_text": "習うより慣れろよ\nクリティカルをぶち当てて\nビビらせてやんなさい！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164906,
+        "relative_offset": 16,
+        "raw_hex": "77 F4 59 9A 9C 7D F3 9E 9F 9A",
+        "text": "習うより慣れろよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164918,
+        "relative_offset": 28,
+        "raw_hex": "B1 EC C7 A5 AD ED A1 88 74 58 F1 78 78",
+        "text": "クリティカルをぶち当てて",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 164933,
+        "relative_offset": 43,
+        "raw_hex": "D4 D4 9B 6E 78 96 A2 7C 68 57 23",
+        "text": "ビビらせてやんなさい！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164904,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164916,
+        "relative_offset": 26,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164931,
+        "relative_offset": 41,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164944,
+        "relative_offset": 54,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 47,
+    "id": "BATTLE_HELP_0047",
+    "record_start": 164946,
+    "record_end": 165007,
+    "record_size": 61,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 01 00 02 00 16 00 02 00 01 00 02 00 16 00 03 00 01 00 3C 00 50 00 50 00 50 00 1F 00 8D 9B 20 E7 A8 AF 1F 00 42 49 B4 27 BA A1 C4 F2 5F F1 23 1A 00",
+    "jp_text": "ほら　ユウキ\nIＰゲージを注目！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 164986,
+        "relative_offset": 40,
+        "raw_hex": "8D 9B 20 E7 A8 AF",
+        "text": "ほら　ユウキ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 164994,
+        "relative_offset": 48,
+        "raw_hex": "42 49 B4 27 BA A1 C4 F2 5F F1 23",
+        "text": "IＰゲージを注目！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 164948,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164984,
+        "relative_offset": 38,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 164992,
+        "relative_offset": 46,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165005,
+        "relative_offset": 59,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 48,
+    "id": "BATTLE_HELP_0048",
+    "record_start": 165007,
+    "record_end": 165049,
+    "record_size": 42,
+    "raw_hex": "16 00 03 00 01 00 3C 00 78 00 30 00 18 00 1F 00 3C 48 46 25 3A 3C 4D 80 AA F2 7D 57 72 1F 00 55 57 76 80 B9 EA DD ED 5F 1A 00",
+    "jp_text": "COＭ～ACTの間にいた\nあいつのシンボルが",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165023,
+        "relative_offset": 16,
+        "raw_hex": "3C 48 46 25 3A 3C 4D 80 AA F2 7D 57 72",
+        "text": "COＭ～ACTの間にいた",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165038,
+        "relative_offset": 31,
+        "raw_hex": "55 57 76 80 B9 EA DD ED 5F",
+        "text": "あいつのシンボルが",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165021,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165036,
+        "relative_offset": 29,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165047,
+        "relative_offset": 40,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 49,
+    "id": "BATTLE_HELP_0049",
+    "record_start": 165049,
+    "record_end": 165103,
+    "record_size": 54,
+    "raw_hex": "16 00 03 00 01 00 58 00 38 00 30 00 30 00 1F 00 AF E4 EA BD ED 68 9E 78 1F 00 42 49 B4 27 BA 80 5A F2 57 7A 66 90 79 1F 00 D3 F5 75 74 95 75 72 75 78 A0 64 1A 00",
+    "jp_text": "キャンセルされて\nIＰゲージの青いとこまで\n戻っちゃったってわけ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165065,
+        "relative_offset": 16,
+        "raw_hex": "AF E4 EA BD ED 68 9E 78",
+        "text": "キャンセルされて",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165075,
+        "relative_offset": 26,
+        "raw_hex": "42 49 B4 27 BA 80 5A F2 57 7A 66 90 79",
+        "text": "IＰゲージの青いとこまで",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165090,
+        "relative_offset": 41,
+        "raw_hex": "D3 F5 75 74 95 75 72 75 78 A0 64",
+        "text": "戻っちゃったってわけ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165063,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165073,
+        "relative_offset": 24,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165088,
+        "relative_offset": 39,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165101,
+        "relative_offset": 52,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 50,
+    "id": "BATTLE_HELP_0050",
+    "record_start": 165103,
+    "record_end": 165180,
+    "record_size": 77,
+    "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 1F 00 02 00 1F 00 16 00 01 00 00 00 02 00 94 59 20 A0 5E 75 72 75 6A 99 24 1F 00 B1 EC C7 A5 AD ED 81 D6 F4 5D F0 80 22 F1 46 F0 A1 1F 00 AF E4 EA BD ED 6C 9D 36 F0 37 F0 75 78 B5 C9 1A 00",
+    "jp_text": "もう　わかったっしょ？\nクリティカルは相手の行動を\nキャンセルする攻撃ってコト",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165131,
+        "relative_offset": 28,
+        "raw_hex": "94 59 20 A0 5E 75 72 75 6A 99 24",
+        "text": "もう　わかったっしょ？",
+        "prefix_raw_hex": "16 00 01 00 00 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165144,
+        "relative_offset": 41,
+        "raw_hex": "B1 EC C7 A5 AD ED 81 D6 F4 5D F0 80 22 F1 46 F0 A1",
+        "text": "クリティカルは相手の行動を",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165163,
+        "relative_offset": 60,
+        "raw_hex": "AF E4 EA BD ED 6C 9D 36 F0 37 F0 75 78 B5 C9",
+        "text": "キャンセルする攻撃ってコト",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165123,
+        "relative_offset": 20,
+        "raw_hex": "16 00 01 00 00 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 165117,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165121,
+        "relative_offset": 18,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165142,
+        "relative_offset": 39,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165161,
+        "relative_offset": 58,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165178,
+        "relative_offset": 75,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 51,
+    "id": "BATTLE_HELP_0051",
+    "record_start": 165180,
+    "record_end": 165209,
+    "record_size": 29,
+    "raw_hex": "D5 EA C3 80 7A 60 7C A2 5E 7D 1F 00 BF F4 BA F1 C5 F0 7D 54 F0 59 7A A6 A6 A0 7F 1A 00",
+    "jp_text": "ピンチのときなんかに\n積極的に使うとイイわね",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165180,
+        "relative_offset": 0,
+        "raw_hex": "D5 EA C3 80 7A 60 7C A2 5E 7D",
+        "text": "ピンチのときなんかに",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165192,
+        "relative_offset": 12,
+        "raw_hex": "BF F4 BA F1 C5 F0 7D 54 F0 59 7A A6 A6 A0 7F",
+        "text": "積極的に使うとイイわね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165190,
+        "relative_offset": 10,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165207,
+        "relative_offset": 27,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 52,
+    "id": "BATTLE_HELP_0052",
+    "record_start": 165209,
+    "record_end": 165252,
+    "record_size": 43,
+    "raw_hex": "70 9E 6B 95 20 5D 68 9B 57 1F 00 94 59 57 75 74 99 20 B1 EC C7 A5 AD ED 79 1F 00 81 F1 57 CC F1 9B 6E 78 96 A2 7C 68 57 23 1A 00",
+    "jp_text": "それじゃ　おさらい\nもういっちょ　クリティカルで\n思い知らせてやんなさい！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165209,
+        "relative_offset": 0,
+        "raw_hex": "70 9E 6B 95 20 5D 68 9B 57",
+        "text": "それじゃ　おさらい",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165220,
+        "relative_offset": 11,
+        "raw_hex": "94 59 57 75 74 99 20 B1 EC C7 A5 AD ED 79",
+        "text": "もういっちょ　クリティカルで",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165236,
+        "relative_offset": 27,
+        "raw_hex": "81 F1 57 CC F1 9B 6E 78 96 A2 7C 68 57 23",
+        "text": "思い知らせてやんなさい！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165218,
+        "relative_offset": 9,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165234,
+        "relative_offset": 25,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165250,
+        "relative_offset": 41,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 53,
+    "id": "BATTLE_HELP_0053",
+    "record_start": 165252,
+    "record_end": 165326,
+    "record_size": 74,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 06 00 EE 01 16 00 02 00 01 00 02 00 16 00 03 00 01 00 F0 00 F0 00 60 00 80 00 1F 00 16 00 07 00 04 00 1F 00 55 75 20 8D 9B 20 E7 A8 AF 23 1F 00 74 99 75 7A 55 57 76 A1 67 9B A2 23 1A 00",
+    "jp_text": "あっ　ほら　ユウキ！\nちょっとあいつをごらん！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165300,
+        "relative_offset": 48,
+        "raw_hex": "55 75 20 8D 9B 20 E7 A8 AF 23",
+        "text": "あっ　ほら　ユウキ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165312,
+        "relative_offset": 60,
+        "raw_hex": "74 99 75 7A 55 57 76 A1 67 9B A2 23",
+        "text": "ちょっとあいつをごらん！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165254,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165290,
+        "relative_offset": 38,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165298,
+        "relative_offset": 46,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165310,
+        "relative_offset": 58,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165324,
+        "relative_offset": 72,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 54,
+    "id": "BATTLE_HELP_0054",
+    "record_start": 165326,
+    "record_end": 165359,
+    "record_size": 33,
+    "raw_hex": "55 A2 7C 87 59 7D 1F 00 22 F3 6A 57 46 F0 60 A1 74 F2 93 72 9B 1F 00 ED F5 C3 A9 C4 B1 9A 23 1A 00",
+    "jp_text": "あんなふうに\n怪しい動きを始めたら\n要チェックよ！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165326,
+        "relative_offset": 0,
+        "raw_hex": "55 A2 7C 87 59 7D",
+        "text": "あんなふうに",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165334,
+        "relative_offset": 8,
+        "raw_hex": "22 F3 6A 57 46 F0 60 A1 74 F2 93 72 9B",
+        "text": "怪しい動きを始めたら",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165349,
+        "relative_offset": 23,
+        "raw_hex": "ED F5 C3 A9 C4 B1 9A 23",
+        "text": "要チェックよ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165332,
+        "relative_offset": 6,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165347,
+        "relative_offset": 21,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165357,
+        "relative_offset": 31,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 55,
+    "id": "BATTLE_HELP_0055",
+    "record_start": 165359,
+    "record_end": 165401,
+    "record_size": 42,
+    "raw_hex": "4C F0 4D F0 4E F0 7A 5E 4A F0 4B F0 7A 5E 1F 00 A6 E5 25 7C 36 F0 37 F0 5F 29 F1 A2 79 62 9D 1F 00 A0 F0 88 9E 7C 80 9A 1A 00",
+    "jp_text": "必殺技とか魔法とか\nイヤ～な攻撃が飛んでくる\n前ぶれなのよ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165359,
+        "relative_offset": 0,
+        "raw_hex": "4C F0 4D F0 4E F0 7A 5E 4A F0 4B F0 7A 5E",
+        "text": "必殺技とか魔法とか",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165375,
+        "relative_offset": 16,
+        "raw_hex": "A6 E5 25 7C 36 F0 37 F0 5F 29 F1 A2 79 62 9D",
+        "text": "イヤ～な攻撃が飛んでくる",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165392,
+        "relative_offset": 33,
+        "raw_hex": "A0 F0 88 9E 7C 80 9A",
+        "text": "前ぶれなのよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165373,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165390,
+        "relative_offset": 31,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165399,
+        "relative_offset": 40,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 56,
+    "id": "BATTLE_HELP_0056",
+    "record_start": 165401,
+    "record_end": 165476,
+    "record_size": 75,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 07 00 63 00 16 00 01 00 00 00 02 00 66 59 57 59 7A 60 66 70 1F 00 B1 EC C7 A5 AD ED 80 68 F0 7C F2 23 1F 00 22 F1 46 F0 80 AF E4 EA BD ED A1 DE F0 59 80 9A 23 1A 00",
+    "jp_text": "こういうときこそ\nクリティカルの出番！\n行動のキャンセルを狙うのよ！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165433,
+        "relative_offset": 32,
+        "raw_hex": "66 59 57 59 7A 60 66 70",
+        "text": "こういうときこそ",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 07 00 63 00 16 00 01 00 00 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165443,
+        "relative_offset": 42,
+        "raw_hex": "B1 EC C7 A5 AD ED 80 68 F0 7C F2 23",
+        "text": "クリティカルの出番！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165457,
+        "relative_offset": 56,
+        "raw_hex": "22 F1 46 F0 80 AF E4 EA BD ED A1 DE F0 59 80 9A 23",
+        "text": "行動のキャンセルを狙うのよ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165405,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 07 00 63 00 16 00 01 00 00 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 165403,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165441,
+        "relative_offset": 40,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165455,
+        "relative_offset": 54,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165474,
+        "relative_offset": 73,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 57,
+    "id": "BATTLE_HELP_0057",
+    "record_start": 165476,
+    "record_end": 165512,
+    "record_size": 36,
+    "raw_hex": "68 54 20 5D A6 C1 6C 9D A0 F0 7D 1F 00 B1 EC C7 A5 AD ED 79 1F 00 5D 6A 5D 60 6A 78 96 A2 7C 68 57 23 1A 00",
+    "jp_text": "さぁ　おイタする前に\nクリティカルで\nおしおきしてやんなさい！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165476,
+        "relative_offset": 0,
+        "raw_hex": "68 54 20 5D A6 C1 6C 9D A0 F0 7D",
+        "text": "さぁ　おイタする前に",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165489,
+        "relative_offset": 13,
+        "raw_hex": "B1 EC C7 A5 AD ED 79",
+        "text": "クリティカルで",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165498,
+        "relative_offset": 22,
+        "raw_hex": "5D 6A 5D 60 6A 78 96 A2 7C 68 57 23",
+        "text": "おしおきしてやんなさい！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165487,
+        "relative_offset": 11,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165496,
+        "relative_offset": 20,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165510,
+        "relative_offset": 34,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 58,
+    "id": "BATTLE_HELP_0058",
+    "record_start": 165512,
+    "record_end": 165564,
+    "record_size": 52,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 00 00 08 00 16 00 01 00 00 00 16 00 03 00 01 00 80 00 D0 00 40 00 60 00 02 00 55 20 57 57 92 F0 9E 78 72 64 7B B7 1A 00",
+    "jp_text": "あ　いい忘れてたけどサ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165550,
+        "relative_offset": 38,
+        "raw_hex": "55 20 57 57 92 F0 9E 78 72 64 7B B7",
+        "text": "あ　いい忘れてたけどサ",
+        "prefix_raw_hex": "16 00 01 00 01 00 16 00 00 00 08 00 16 00 01 00 00 00 16 00 03 00 01 00 80 00 D0 00 40 00 60 00 02 00",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165516,
+        "relative_offset": 4,
+        "raw_hex": "16 00 01 00 01 00 16 00 00 00 08 00 16 00 01 00 00 00 16 00 03 00 01 00 80 00 D0 00 40 00 60 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 165514,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165562,
+        "relative_offset": 50,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 59,
+    "id": "BATTLE_HELP_0059",
+    "record_start": 165564,
+    "record_end": 165613,
+    "record_size": 49,
+    "raw_hex": "16 00 03 00 01 00 AC 00 D8 00 20 00 20 00 1F 00 AF E4 EA BD ED BC F0 C2 F0 80 55 9D 1F 00 4C F0 4D F0 4E F0 75 78 80 94 BC F2 7D 81 55 9D A0 1A 00",
+    "jp_text": "キャンセル効果のある\n必殺技ってのも中にはあるわ",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165580,
+        "relative_offset": 16,
+        "raw_hex": "AF E4 EA BD ED BC F0 C2 F0 80 55 9D",
+        "text": "キャンセル効果のある",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165594,
+        "relative_offset": 30,
+        "raw_hex": "4C F0 4D F0 4E F0 75 78 80 94 BC F2 7D 81 55 9D A0",
+        "text": "必殺技ってのも中にはあるわ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165578,
+        "relative_offset": 14,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165592,
+        "relative_offset": 28,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165611,
+        "relative_offset": 47,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 60,
+    "id": "BATTLE_HELP_0060",
+    "record_start": 165613,
+    "record_end": 165663,
+    "record_size": 50,
+    "raw_hex": "4C F0 4D F0 4E F0 81 9A 64 9B 9E 7C 57 5E 9B 1F 00 74 F3 4F F2 7D AF E4 EA BD ED 6A 72 57 7A 60 81 1F 00 66 75 74 A1 54 F0 59 80 5F A6 A6 A0 7F 1A 00",
+    "jp_text": "必殺技はよけられないから\n確実にキャンセルしたいときは\nこっちを使うのがイイわね",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165613,
+        "relative_offset": 0,
+        "raw_hex": "4C F0 4D F0 4E F0 81 9A 64 9B 9E 7C 57 5E 9B",
+        "text": "必殺技はよけられないから",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165630,
+        "relative_offset": 17,
+        "raw_hex": "74 F3 4F F2 7D AF E4 EA BD ED 6A 72 57 7A 60 81",
+        "text": "確実にキャンセルしたいときは",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165648,
+        "relative_offset": 35,
+        "raw_hex": "66 75 74 A1 54 F0 59 80 5F A6 A6 A0 7F",
+        "text": "こっちを使うのがイイわね",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165628,
+        "relative_offset": 15,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165646,
+        "relative_offset": 33,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165661,
+        "relative_offset": 48,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 61,
+    "id": "BATTLE_HELP_0061",
+    "record_start": 165663,
+    "record_end": 165753,
+    "record_size": 90,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 06 00 02 00 16 00 03 00 01 00 48 01 80 00 B4 00 20 00 1F 00 75 78 7C A0 64 79 20 57 90 A2 7A 66 1F 00 55 A2 72 80 CB F6 2D F0 80 4C F0 4D F0 4E F0 1F 00 25 F2 79 F2 B5 F0 79 D6 A5 CC C4 B9 E6 9A 23 1A 00",
+    "jp_text": "ってなわけで　いまんとこ\nあんたの唯一の必殺技\n天空剣でフィニッシュよ！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165705,
+        "relative_offset": 42,
+        "raw_hex": "75 78 7C A0 64 79 20 57 90 A2 7A 66",
+        "text": "ってなわけで　いまんとこ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165719,
+        "relative_offset": 56,
+        "raw_hex": "55 A2 72 80 CB F6 2D F0 80 4C F0 4D F0 4E F0",
+        "text": "あんたの唯一の必殺技",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165736,
+        "relative_offset": 73,
+        "raw_hex": "25 F2 79 F2 B5 F0 79 D6 A5 CC C4 B9 E6 9A 23",
+        "text": "天空剣でフィニッシュよ！",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165665,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165703,
+        "relative_offset": 40,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165717,
+        "relative_offset": 54,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165734,
+        "relative_offset": 71,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165751,
+        "relative_offset": 88,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 62,
+    "id": "BATTLE_HELP_0062",
+    "record_start": 165753,
+    "record_end": 165818,
+    "record_size": 65,
+    "raw_hex": "02 00 1F 00 16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 01 00 16 00 00 00 0B 00 16 00 01 00 00 00 02 00 D0 A6 20 66 9E 79 1F 00 4F F2 EB F0 BD F2 60 80 EE C4 BB EA 81 5D 6A 90 57 1A 00",
+    "jp_text": "ハイ　これで\n実戦向きのレッスンはおしまい",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165791,
+        "relative_offset": 38,
+        "raw_hex": "D0 A6 20 66 9E 79",
+        "text": "ハイ　これで",
+        "prefix_raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 01 00 16 00 00 00 0B 00 16 00 01 00 00 00 02 00",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165799,
+        "relative_offset": 46,
+        "raw_hex": "4F F2 EB F0 BD F2 60 80 EE C4 BB EA 81 5D 6A 90 57",
+        "text": "実戦向きのレッスンはおしまい",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165757,
+        "relative_offset": 4,
+        "raw_hex": "16 00 03 00 00 00 00 00 00 00 00 00 00 00 16 00 01 00 01 00 16 00 00 00 0B 00 16 00 01 00 00 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 165755,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165797,
+        "relative_offset": 44,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165816,
+        "relative_offset": 63,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 63,
+    "id": "BATTLE_HELP_0063",
+    "record_start": 165818,
+    "record_end": 165854,
+    "record_size": 36,
+    "raw_hex": "55 72 6A 5F 76 F2 5B 72 66 7A 92 F0 9E 6D 7D 1F 00 74 95 25 A2 7A 54 F0 75 78 62 80 9A 1F 00 57 57 24 1A 00",
+    "jp_text": "あたしが教えたこと忘れずに\nちゃ～んと使ってくのよ\nいい？",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165818,
+        "relative_offset": 0,
+        "raw_hex": "55 72 6A 5F 76 F2 5B 72 66 7A 92 F0 9E 6D 7D",
+        "text": "あたしが教えたこと忘れずに",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 1,
+        "offset": 165835,
+        "relative_offset": 17,
+        "raw_hex": "74 95 25 A2 7A 54 F0 75 78 62 80 9A",
+        "text": "ちゃ～んと使ってくのよ",
+        "prefix_raw_hex": "",
+        "resolved": true
+      },
+      {
+        "index": 2,
+        "offset": 165849,
+        "relative_offset": 31,
+        "raw_hex": "57 57 24",
+        "text": "いい？",
+        "prefix_raw_hex": "",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165833,
+        "relative_offset": 15,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165847,
+        "relative_offset": 29,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165852,
+        "relative_offset": 34,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue",
+    "related_event_id": "cancel_mechanic_tutorial",
+    "related_skill_action": "critical_cancel",
+    "confidence": "HIGH"
+  },
+  {
+    "ordinal": 64,
+    "id": "BATTLE_HELP_0064",
+    "record_start": 165854,
+    "record_end": 165917,
+    "record_size": 63,
+    "raw_hex": "02 00 1F 00 16 00 01 00 01 00 16 00 01 00 02 00 16 00 00 00 0C 00 16 00 06 00 95 01 16 00 02 00 02 00 16 00 08 00 04 00 16 00 07 00 04 00 02 00 C3 20 C3 AF B9 E8 27 23 23 23 23 23 23 1A 00",
+    "jp_text": "チ　チキショー！！！！！！",
+    "lines": [
+      {
+        "index": 0,
+        "offset": 165902,
+        "relative_offset": 48,
+        "raw_hex": "C3 20 C3 AF B9 E8 27 23 23 23 23 23 23",
+        "text": "チ　チキショー！！！！！！",
+        "prefix_raw_hex": "16 00 01 00 01 00 16 00 01 00 02 00 16 00 00 00 0C 00 16 00 06 00 95 01 16 00 02 00 02 00 16 00 08 00 04 00 16 00 07 00 04 00 02 00",
+        "resolved": true
+      }
+    ],
+    "control_codes": [
+      {
+        "offset": 165858,
+        "relative_offset": 4,
+        "raw_hex": "16 00 01 00 01 00 16 00 01 00 02 00 16 00 00 00 0C 00 16 00 06 00 95 01 16 00 02 00 02 00 16 00 08 00 04 00 16 00 07 00 04 00 02 00",
+        "kind": "RECORD_PREFIX"
+      },
+      {
+        "offset": 165856,
+        "relative_offset": 2,
+        "raw_hex": "1F 00",
+        "kind": "LINE_SEPARATOR"
+      },
+      {
+        "offset": 165915,
+        "relative_offset": 61,
+        "raw_hex": "1A 00",
+        "kind": "MESSAGE_END"
+      }
+    ],
+    "pointer_indices": [],
+    "pointer_offsets": [],
+    "occurrence_count": 1,
+    "resolved": true,
+    "classification": "tutorial_dialogue_reaction",
+    "related_event_id": "tutorial_reaction",
+    "related_skill_action": "tutorial_dialogue_reaction",
+    "confidence": "HIGH"
+  }
+]

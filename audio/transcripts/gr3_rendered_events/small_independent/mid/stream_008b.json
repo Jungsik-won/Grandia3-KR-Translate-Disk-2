@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_008b",
+  "stream_key": "0x8B",
+  "sample_ids": [
+    "0x470",
+    "0x471"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_008b.flac",
+  "audio_sha256": "b36688d59c2f0cd2359b0453acda4ad30b133561da81e126f374e0ca62567331",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "どうぞ、こちらへ。 アルフィナ。 あいつは… 散々俺の邪魔を仕上がった勇気とかいう限らぜ! よれた! どうせ神様も それを祀り上げる本人どもも もうすぐ綺麗さっぱりよ ここで… あの力を使うっていうのか だから滲みれるんじゃないのか というのか だから滲みれるんじゃないの さあゾーンの力を拝見しようじゃない",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "どうぞ、こちらへ。",
+      "avg_logprob": -0.62254,
+      "no_speech_prob": 0.00843,
+      "compression_ratio": 0.86538,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 16.0,
+      "end": 18.0,
+      "speaker": "",
+      "text": "アルフィナ。",
+      "avg_logprob": -0.62254,
+      "no_speech_prob": 0.00843,
+      "compression_ratio": 0.86538,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 30.0,
+      "end": 31.0,
+      "speaker": "",
+      "text": "あいつは…",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 32.0,
+      "end": 36.0,
+      "speaker": "",
+      "text": "散々俺の邪魔を仕上がった勇気とかいう限らぜ!",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 36.0,
+      "end": 37.0,
+      "speaker": "",
+      "text": "よれた!",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 44.0,
+      "end": 45.0,
+      "speaker": "",
+      "text": "どうせ神様も",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 45.0,
+      "end": 47.0,
+      "speaker": "",
+      "text": "それを祀り上げる本人どもも",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 48.0,
+      "end": 50.0,
+      "speaker": "",
+      "text": "もうすぐ綺麗さっぱりよ",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 51.0,
+      "end": 52.0,
+      "speaker": "",
+      "text": "ここで…",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 52.0,
+      "end": 54.0,
+      "speaker": "",
+      "text": "あの力を使うっていうのか",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 55.0,
+      "end": 57.0,
+      "speaker": "",
+      "text": "だから滲みれるんじゃないのか",
+      "avg_logprob": -0.32407,
+      "no_speech_prob": 0.07369,
+      "compression_ratio": 1.40838,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 57.0,
+      "end": 58.0,
+      "speaker": "",
+      "text": "というのか",
+      "avg_logprob": -0.50417,
+      "no_speech_prob": 0.54107,
+      "compression_ratio": 1.17978,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 58.0,
+      "end": 61.0,
+      "speaker": "",
+      "text": "だから滲みれるんじゃないの",
+      "avg_logprob": -0.50417,
+      "no_speech_prob": 0.54107,
+      "compression_ratio": 1.17978,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 61.0,
+      "end": 65.0,
+      "speaker": "",
+      "text": "さあゾーンの力を拝見しようじゃない",
+      "avg_logprob": -0.50417,
+      "no_speech_prob": 0.54107,
+      "compression_ratio": 1.17978,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    }
+  ]
+}

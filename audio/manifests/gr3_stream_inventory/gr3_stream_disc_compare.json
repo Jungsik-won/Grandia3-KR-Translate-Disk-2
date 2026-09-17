@@ -1,0 +1,167 @@
+{
+  "status": "PASS",
+  "disc1": {
+    "iso": "/Users/j.swon/Desktop/Grandia3_KR/Original ISO/Grandia III (Japan) (Disc 1).iso",
+    "files": {
+      "MUSIC/GR3.IDX": {
+        "extent_lsn": 1339005,
+        "size_bytes": 56640,
+        "sha256": "ab70cc08c7c363d56341930abcc3b4b773ac8305002465cabea8c1d250c2ad0e"
+      },
+      "MUSIC/GR3_STR.IDX": {
+        "extent_lsn": 1339033,
+        "size_bytes": 4096,
+        "sha256": "cac5e5005c90be856cbc8c9f3154ca83d5513afc7f8c0774bfa27c9aa99b56a7"
+      },
+      "MUSIC/GR3_STR.STZ": {
+        "extent_lsn": 1339035,
+        "size_bytes": 592166912,
+        "sha256": "b05c8824e9288e3f2b10ebed45d75f22676ff92af40d3397d7cc0e857bcf416b"
+      }
+    },
+    "idx_slots": 1024,
+    "valid_streams": 672,
+    "referenced_streams": 593,
+    "stereo_streams": 281,
+    "mono_streams": 391,
+    "rendered_event_candidates": 203,
+    "classification_counts": {
+      "unreferenced_stereo_stream": 78,
+      "mono_shared_stream": 8,
+      "rendered_event_candidate": 202,
+      "rendered_event_proven": 1,
+      "mono_battle_voice_candidate": 383
+    },
+    "sample_rate_counts": {
+      "22050": 6,
+      "24000": 663,
+      "48000": 3
+    },
+    "subtitle_compatibility": {
+      "boot_executable": {
+        "path": "SLPM_659.76",
+        "extent_lsn": 2804,
+        "size_bytes": 1012864,
+        "sha256": "e50a877d9199b34c20f8917059745a35d344699e34cc3fafe7628ef324e3be0c"
+      },
+      "subtitle_hook": {
+        "virtual_address": "0x00145800",
+        "original_words": [
+          "0x27BDFFE0",
+          "0xFFBF0010"
+        ],
+        "expected_words_match": true
+      },
+      "subtitle_zero_regions": {
+        "packet_template_cave": {
+          "virtual_address": "0x001E7B00",
+          "size_bytes": 4096,
+          "all_zero": true
+        },
+        "event_timer_storage": {
+          "virtual_address": "0x001E8B40",
+          "size_bytes": 16,
+          "all_zero": true
+        },
+        "renderer_code_cave": {
+          "virtual_address": "0x001E9DF0",
+          "size_bytes": 1536,
+          "all_zero": true
+        }
+      },
+      "alfina_field_resource": {
+        "path": "DATA/00030100.MDZ",
+        "extent_lsn": 1675499,
+        "size_bytes": 1766163,
+        "sha256": "404651c04211b5551f07235d7ad3423392b0a83ba34ff456c035168f0d1f2910"
+      }
+    }
+  },
+  "disc2": {
+    "iso": "/Users/j.swon/Desktop/Grandia3_KR/Original ISO/Grandia III (Japan) (Disc 2).iso",
+    "files": {
+      "MUSIC/GR3.IDX": {
+        "extent_lsn": 1265877,
+        "size_bytes": 56640,
+        "sha256": "ab70cc08c7c363d56341930abcc3b4b773ac8305002465cabea8c1d250c2ad0e"
+      },
+      "MUSIC/GR3_STR.IDX": {
+        "extent_lsn": 1265905,
+        "size_bytes": 4096,
+        "sha256": "cac5e5005c90be856cbc8c9f3154ca83d5513afc7f8c0774bfa27c9aa99b56a7"
+      },
+      "MUSIC/GR3_STR.STZ": {
+        "extent_lsn": 1265907,
+        "size_bytes": 592166912,
+        "sha256": "b05c8824e9288e3f2b10ebed45d75f22676ff92af40d3397d7cc0e857bcf416b"
+      }
+    },
+    "idx_slots": 1024,
+    "valid_streams": 672,
+    "referenced_streams": 593,
+    "stereo_streams": 281,
+    "mono_streams": 391,
+    "rendered_event_candidates": 203,
+    "classification_counts": {
+      "unreferenced_stereo_stream": 78,
+      "mono_shared_stream": 8,
+      "rendered_event_candidate": 202,
+      "rendered_event_proven": 1,
+      "mono_battle_voice_candidate": 383
+    },
+    "sample_rate_counts": {
+      "22050": 6,
+      "24000": 663,
+      "48000": 3
+    },
+    "subtitle_compatibility": {
+      "boot_executable": {
+        "path": "SLPM_659.77",
+        "extent_lsn": 2804,
+        "size_bytes": 1012864,
+        "sha256": "e50a877d9199b34c20f8917059745a35d344699e34cc3fafe7628ef324e3be0c"
+      },
+      "subtitle_hook": {
+        "virtual_address": "0x00145800",
+        "original_words": [
+          "0x27BDFFE0",
+          "0xFFBF0010"
+        ],
+        "expected_words_match": true
+      },
+      "subtitle_zero_regions": {
+        "packet_template_cave": {
+          "virtual_address": "0x001E7B00",
+          "size_bytes": 4096,
+          "all_zero": true
+        },
+        "event_timer_storage": {
+          "virtual_address": "0x001E8B40",
+          "size_bytes": 16,
+          "all_zero": true
+        },
+        "renderer_code_cave": {
+          "virtual_address": "0x001E9DF0",
+          "size_bytes": 1536,
+          "all_zero": true
+        }
+      },
+      "alfina_field_resource": {
+        "path": "DATA/00030100.MDZ",
+        "extent_lsn": 1602371,
+        "size_bytes": 1766163,
+        "sha256": "404651c04211b5551f07235d7ad3423392b0a83ba34ff456c035168f0d1f2910"
+      }
+    }
+  },
+  "file_bytes_identical": {
+    "MUSIC/GR3.IDX": true,
+    "MUSIC/GR3_STR.IDX": true,
+    "MUSIC/GR3_STR.STZ": true
+  },
+  "decoded_stream_records_identical": true,
+  "boot_executables_byte_identical": true,
+  "alfina_field_resource_byte_identical": true,
+  "subtitle_hook_layout_compatible": true,
+  "shared_manifest_note": "Disc 1 and Disc 2 use byte-identical GR3.IDX, GR3_STR.IDX, and GR3_STR.STZ; the common stream manifest applies to both discs. Runtime callers and executable patches must still be verified separately."
+}

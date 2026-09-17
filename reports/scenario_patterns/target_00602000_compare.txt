@@ -1,0 +1,21 @@
+00150100 0x2000 SUBTYPE 0..3 COMPARISON
+
+resource       subtype  size   prefix              messages  message_offsets
+0x00602000        0  0x0260  03 00 01 20                    4  0x003D65B5;0x003D6624;0x003D66FE;0x003D677B
+0x00AC2001        1  0x0050  03 00 01 21                    1  0x003D67EE
+0x00B62002        2  0x0200  03 00 01 22                    1  0x003D6846
+0x00F62003        3  0x0140  03 00 01 23                    0  -
+
+UNKNOWN_CONTROL roles
+0x00602000: {'pre_message': 1, 'between_messages': 6, 'resource_tail': 1}
+0x00AC2001: {'pre_message': 1, 'resource_tail': 1}
+0x00B62002: {'pre_message': 1, 'resource_tail': 1}
+0x00F62003: {'no_message_anchor': 2}
+
+message header prefixes
+0x00602000: ['02 0e 00 02 00', '02 0e 00 05 00', '02 0e 00 06 00', '02 0e 00 0c 00']
+0x00AC2001: ['22 0e 00 22 00']
+0x00B62002: ['02 0e 00 0c 00']
+0x00F62003: []
+
+NOTE: 03 00 01 xx is reported as a resource prefix observation; opcode/header meaning remains unresolved.

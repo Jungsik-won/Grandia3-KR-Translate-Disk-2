@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0089",
+  "stream_key": "0x89",
+  "sample_ids": [
+    "0x46C",
+    "0x46D"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0089.flac",
+  "audio_sha256": "12828aae1940525ca17b4d93dba96da8c764b4f8dcd1bb344f0e977c691995f5",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:1/2"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "けどすぐに分かった。生きてる。そう、生きてるってことが。ユウキ、私も感じてるよ。 ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 15.0,
+      "speaker": "",
+      "text": "けどすぐに分かった。生きてる。そう、生きてるってことが。ユウキ、私も感じてるよ。",
+      "avg_logprob": -0.36627,
+      "no_speech_prob": 0.00754,
+      "compression_ratio": 1.31868,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 31.0,
+      "speaker": "",
+      "text": "ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ、ああ",
+      "avg_logprob": -0.14322,
+      "no_speech_prob": 0.45503,
+      "compression_ratio": 40.2,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.004",
+        "HIGH_COMPRESSION_RATIO:40.200"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

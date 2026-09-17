@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c1",
+  "stream_key": "0xC1",
+  "sample_ids": [
+    "0x512",
+    "0x513"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c1.flac",
+  "audio_sha256": "3d0e836c53d32c97baabf11c7d48441efa1ddd6af202936dd15f20858d8e053f",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "あ、ニエア… ゾーンが…まだ間に合うかもしれない。 ん? 誰かいるのか? アルフィナ! ん?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 14.0,
+      "speaker": "",
+      "text": "あ、ニエア… ゾーンが…まだ間に合うかもしれない。",
+      "avg_logprob": -0.63569,
+      "no_speech_prob": 0.05587,
+      "compression_ratio": 1.08571,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 14.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "ん? 誰かいるのか? アルフィナ!",
+      "avg_logprob": -0.63569,
+      "no_speech_prob": 0.05587,
+      "compression_ratio": 1.08571,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 24.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "ん?",
+      "avg_logprob": -0.73015,
+      "no_speech_prob": 0.31859,
+      "compression_ratio": 0.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

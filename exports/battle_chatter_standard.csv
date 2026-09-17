@@ -1,0 +1,1037 @@
+﻿id,category,sub_category,source_file,inner_file,record_id,scene_id,string_index,original_offset,pointer_offset,jp_raw_hex,jp_text,kr_text,kr_encoded_hex,speaker,control_codes,status,game_verified,translator_note,review_note
+BATTLE_CHATTER_0001,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,0,0x21EF0,0x21B00,DF BC 57 20 66 75 74 8A 64 F1 9D 23 1F 00 16 00 03 00 80 46 F0 60 A1 1F 00 AF E4 EA BD ED 6A 78 62 9E 23,"マズい　こっちへ来る！
+<NAME:0003>の動きを
+キャンセルしてくれ！","큰일이야, 이쪽으로 온다!
+<NAME:0003>의 행동을
+캔슬해 줘!",45 F7 92 6B 4F 3D F6 20 6B EF F6 82 79 20 EC F4 72 23 1F 00 16 00 03 00 75 20 A5 E7 F7 A1 1F 00 5B F5 D8 F7 74 20 27 F5 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0002,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,1,0x21FF6,0x21B04,16 00 03 00 7D 1F 00 DE F0 A0 9E 78 9D 23 1F 00 E5 C5 80 46 F0 60 A1 23 F1 93 78 62 9E 23,"<NAME:0003>に
+狙われてる！
+ヤツの動きを止めてくれ！","<NAME:0003>에게
+노려지고 있어!
+녀석을 멈춰 줘!",16 00 03 00 7D 68 1F 00 68 F7 AB 6F 43 20 5E 69 23 1F 00 DE E2 A1 20 E4 F8 E8 F2 20 27 F5 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0003,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,2,0x220F0,0x21B08,16 00 03 00 80 36 F0 37 F0 81 1F 00 AC EE 5F 67 F0 60 97 F1 64 9D 23 1F 00 70 80 AA F2 7D 72 72 57 78 62 9E 23,"<NAME:0003>の攻撃は
+オレが引き受ける！
+その間にたたいてくれ！","<NAME:0003>의 공격은
+내가 맡을게!
+그동안 공격해 줘!",16 00 03 00 75 20 D8 F5 B3 F4 5D 1F 00 99 4A 20 CC F8 A1 68 23 1F 00 63 E7 F7 9B 20 D8 F5 B3 F4 74 20 27 F5 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0004,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,3,0x21F15,0x21B0C,5D 29 F3 57 20 66 75 74 8A 64 F1 7C 57 79 23 1F 00 73 9E 5E 20 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 78 23,"お願い　こっちへ来ないで！
+だれか　<NAME:0003>を
+キャンセルして！","제발, 이쪽으로 오지 마!
+누가 <NAME:0003>을
+캔슬해 줘!",AA 6C F9 3D F6 20 6B EF F6 82 79 20 90 6F 20 5C 23 1F 00 87 F7 4A 20 16 00 03 00 A1 1F 00 5B F5 D8 F7 74 20 27 F5 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0005,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,4,0x22016,0x21B10,67 93 A2 7C 68 57 20 16 00 01 00 23 1F 00 16 00 03 00 80 1F 00 46 F0 60 A1 23 F1 93 78 75 23,"ごめんなさい　<NAME:0001>！
+<NAME:0003>の
+動きを止めてっ！","미안해, <NAME:0001>!
+<NAME:0003>의
+행동을 멈춰 줘!",9C 9B 74 3D F6 20 16 00 01 00 23 1F 00 16 00 03 00 75 1F 00 A5 E7 F7 A1 20 E4 F8 E8 F2 20 27 F5 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0006,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,5,0x22117,0x21B14,5B 75 24 20 5B 75 24 1F 00 A0 72 6A 5F DE F0 A0 9E 78 9D 80 22,"えっ？　えっ？
+わたしが狙われてるの？","뭐? 뭐라고?
+내가 표적이 된 거야?",A2 24 20 A2 66 43 24 1F 00 99 4A 20 21 F7 41 F0 6B 20 EE F7 20 6E 4F 24,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0007,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,6,0x21F3B,0x21B18,96 54 7F 20 16 00 03 00 5F 1F 00 66 75 74 81 F0 78 9D 91 72 57 26 26 1F 00 75 78 A0 64 79 AF E4 EA BD ED 9A 9F 6A 62,"やぁね　<NAME:0003>が
+こっち見てるみたい……
+ってわけでキャンセルよろしく","싫다, <NAME:0003>이
+이쪽을 보는 것 같아...
+캔슬은 부탁할게",57 F8 72 3D F6 20 16 00 03 00 6B 1F 00 6B EF F6 A1 20 89 73 20 53 20 B5 70 28 28 28 1F 00 5B F5 D8 F7 5D 20 A4 48 F8 AD 68,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0008,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,7,0x22037,0x21B1C,94 58 20 66 75 74 94 5D F0 2D F0 74 F5 7C 80 7D 23 1F 00 AF E4 EA BD ED 90 5E 6E 72 A0 9A 23 1F 00 16 00 01 00 23,"もぅ　こっちも手一杯なのに！
+キャンセルまかせたわよ！
+<NAME:0001>！","정말, 나도 벅찬데!
+캔슬은 맡길게!
+<NAME:0001>!",93 77 3D F6 20 50 4E 20 A7 F4 9F F7 96 23 1F 00 5B F5 D8 F7 5D 20 CC F8 9C F6 68 23 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0009,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,8,0x2212E,0x21B20,74 99 75 7A 74 99 75 7A 23 1F 00 5E A2 F1 57 55 72 6A A1 81 F0 56 F0 78 9D 9B F0 22 1F 00 16 00 01 00 23,"ちょっとちょっと！
+か弱いあたしを見捨てる気？
+<NAME:0001>！","잠깐만!
+가녀린 날 버릴 셈이야?
+<NAME:0001>!",5B F9 AE F6 55 23 1F 00 4A DE B6 F8 20 AF 20 B3 B7 F8 20 BA F6 6B 4F 24 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0010,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,9,0x21F64,0x21B24,59 5C 23 20 16 00 03 00 7D 1F 00 DE F0 A0 9E 78 96 5F 9D 1F 00 AF E4 EA BD ED 62 F2 92 6F 23,"うぉ！　<NAME:0003>に
+狙われてやがる
+キャンセル頼むぜ！","우왓! <NAME:0003>에게
+노려지고 있잖아
+캔슬 부탁해!",83 A8 F1 23 20 16 00 03 00 7D 68 1F 00 68 F7 AB 6F 43 20 5E B8 70 1F 00 5B F5 D8 F7 20 A4 48 F8 74 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0011,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,10,0x2205F,0x21B28,62 C4 20 40 F6 7A 6A 72 66 7A 5F 26 26 23 1F 00 BB DF EA 20 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 78 62 9E 23,"くッ　俺としたことが……！
+スマン　<NAME:0003>を
+キャンセルしてくれ！","큭, 내가 실수하다니...!
+미안, <NAME:0003>을
+캔슬해 줘!",9A F1 3D F6 20 99 4A 20 53 F8 8B 61 72 5B 28 28 28 23 1F 00 9C 9B 3D F6 20 16 00 03 00 A1 1F 00 5B F5 D8 F7 74 20 27 F5 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0012,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,11,0x22153,0x21B2C,40 F6 80 66 7A 81 57 57 23 1F 00 5F F1 80 A0 F0 80 3A F0 7D D7 F2 BC F2 6A 9F C4 23,"俺のことはいい！
+目の前の敵に集中しろッ！","난 신경 쓰지 마!
+눈앞의 적에게 집중해!",D1 20 B0 D0 F4 20 96 F8 6F 20 5C 23 1F 00 88 F7 4E F9 75 20 41 F0 7D 68 20 6B F6 E5 F4 74 23,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0013,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,12,0x21F85,0x21B30,C3 C4 20 AC A6 EB A1 DE F0 75 78 96 5F 9D 23 1F 00 AF E4 EA BD ED 62 F2 92 6F 23 1F 00 16 00 01 00 23,"チッ　オイラを狙ってやがる！
+キャンセル頼むぜ！
+<NAME:0001>！","쳇, 날 노리고 있잖아!
+캔슬 부탁한다!
+<NAME:0001>!",71 F0 3D F6 20 AF 20 68 F7 6A 43 20 5E B8 70 23 1F 00 5B F5 D8 F7 20 A4 48 F8 7A 72 23 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0014,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,13,0x22086,0x21B34,16 00 03 00 80 E5 C5 7D 1F 00 DE F0 A0 9E 74 90 75 72 23 1F 00 59 F2 57 79 AF E4 EA BD ED 6A 78 62 9E 23,"<NAME:0003>のヤツに
+狙われちまった！
+急いでキャンセルしてくれ！","<NAME:0003> 녀석에게
+노려지고 말았어!
+서둘러 캔슬해 줘!",16 00 03 00 20 DE E2 7D 68 1F 00 68 F7 AB 6F 43 20 77 EF 69 23 1F 00 6C 27 F8 A6 20 5B F5 D8 F7 74 20 27 F5 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0015,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,14,0x22171,0x21B38,A2 22 20 AC A6 EB 7A 96 9F 59 75 78 80 5E 1F 00 57 57 99 F1 57 F1 6B 95 7F 5A 5E 1F 00 16 00 03 00 23,"ん？　オイラとやろうってのか
+いい度胸じゃねぇか
+<NAME:0003>！","응? 나와 해보겠다고?
+배짱 한번 좋구나
+<NAME:0003>!",45 F8 24 20 50 CA 20 74 89 94 72 43 24 1F 00 72 F9 C9 F6 20 7A 75 F9 20 BA 9D 50 1F 00 16 00 03 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0003>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0016,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,15,0x21FA9,0x21B3C,16 00 03 00 5E 9B 1F 00 35 F1 57 6D F4 9B F0 A1 7C F3 6B 9D A0 26 26 1F 00 73 9E 5E AF E4 EA BD ED A1 5D 29 F3 57 23,"<NAME:0003>から
+強い邪気を感じるわ……
+だれかキャンセルをお願い！","<NAME:0003>에게서
+강한 사기가 느껴져...
+누가 캔슬을 부탁해!",16 00 03 00 7D 68 6C 1F 00 8C F2 7A 20 7E 6D 4A 20 93 F7 32 F2 8E F2 28 28 28 1F 00 87 F7 4A 20 5B F5 D8 F7 A1 20 A4 48 F8 74 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0017,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,16,0x220AB,0x21B40,16 00 01 00 23 1F 00 AF E4 EA BD ED 36 F0 37 F0 1F 00 55 7C 72 7D 5D 90 5E 6E 6C 9D A0 23,"<NAME:0001>！
+キャンセル攻撃
+あなたにおまかせするわ！","<NAME:0001>!
+캔슬 공격은
+당신에게 맡길게!",16 00 01 00 23 1F 00 5B F5 D8 F7 20 D8 F5 B3 F4 5D 1F 00 CE F7 B0 7D 68 20 CC F8 9C F6 68 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0018,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,17,0x22195,0x21B44,55 55 20 E9 A8 C9 68 90 1F 00 58 F4 A1 5D 8D F1 9C 62 73 68 57 26 26 23,"ああ　ヨウトさま
+私をお守りください……！","아아, 요우트 님
+저를 지켜주소서...!",70 70 3D F6 20 52 83 D2 20 B7 1F 00 7B 87 20 6F 3A F6 A3 B4 6C 28 28 28 23,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0019,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,18,0x21FD2,0x21B48,16 00 03 00 80 97 F5 C5 F0 81 1F 00 58 F4 80 9A 59 79 6C 1F 00 AF E4 EA BD ED A1 5D 29 F3 57 6A 90 6C,"<NAME:0003>の標的は
+私のようです
+キャンセルをお願いします","<NAME:0003>의 표적은
+저인 듯합니다
+캔슬을 부탁드립니다",16 00 03 00 75 20 21 F7 41 F0 5D 1F 00 7B 8C 20 3F F8 43 F8 5B 72 1F 00 5B F5 D8 F7 A1 20 A4 48 F8 30 F8 90 F1 5B 72,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0020,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,19,0x220CB,0x21B4C,79 60 9D 5E 61 9C 79 5E 90 57 90 6E A2 1F 00 16 00 03 00 80 1F 00 AF E4 EA BD ED A1 8D F3 BF F5 6A 90 6C,"できるかぎりでかまいません
+<NAME:0003>の
+キャンセルを希望します","할 수 있는 만큼이면 됩니다
+<NAME:0003>을
+캔슬해 주십시오",AD 20 8B 20 5E 73 20 55 54 F7 6B 80 20 22 F8 5B 72 1F 00 16 00 03 00 A1 1F 00 5B F5 D8 F7 74 20 A3 5E F8 88 90,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0021,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,20,0x221AF,0x21B50,75 F1 B1 F3 5F 81 F1 A0 6A 62 55 9C 90 6E A2 1F 00 16 00 01 00 7D 1F 00 58 F4 80 58 F2 B7 F2 A1 3E F3 62 F2 6A 90 6C,"状況が思わしくありません
+<NAME:0001>に
+私の救援を依頼します","상황이 좋지 않습니다
+<NAME:0001>에게
+구원을 요청합니다",BD BA F4 6B 20 BA 6F 20 AE 29 F8 5B 72 1F 00 16 00 01 00 7D 68 1F 00 9D 30 F7 A1 20 52 A7 F9 43 F8 5B 72,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0022,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,21,0x221D8,0x21B54,62 C4 20 DF BC 57 26 26 23 1F 00 16 00 02 00 5F DE F0 A0 9E 78 9D 23,"くッ　マズい……！
+<NAME:0002>が狙われてる！","큭, 위험해...!
+<NAME:0002>이 노려지고 있어!",9A F1 3D F6 20 3F F7 25 F1 74 28 28 28 23 1F 00 16 00 02 00 6B 20 68 F7 AB 6F 43 20 5E 69 23,,"[""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0023,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,22,0x222DA,0x21B58,AF E4 EA BD ED 36 F0 37 F0 5F D0 F3 90 9E 82 1F 00 16 00 02 00 5F 89 F4 5E 9D 23 1F 00 D0 F3 93 78 62 9E 20 16 00 01 00 26 26 23,"キャンセル攻撃が決まれば
+<NAME:0002>が助かる！
+決めてくれ　<NAME:0001>……！","캔슬 공격이 성공하면
+<NAME:0002>을 구할 수 있어!
+부탁해, <NAME:0001>...!",5B F5 D8 F7 20 D8 F5 B3 F4 6B 20 D6 D8 F5 61 80 1F 00 16 00 02 00 A1 20 9D AD 20 8B 20 5E 69 23 1F 00 A4 48 F8 74 3D F6 20 16 00 01 00 28 28 28 23,,"[""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0024,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,23,0x223E4,0x21B5C,16 00 03 00 80 1F 00 46 F0 60 5F 7D 88 57 26 26 23 1F 00 57 90 73 20 16 00 01 00 23,"<NAME:0003>の
+動きがにぶい……！
+いまだ　<NAME:0001>！","<NAME:0003>의
+움직임이 느려...!
+지금이야, <NAME:0001>!",16 00 03 00 75 1F 00 E7 F6 9D F5 C7 F8 6B 20 93 F7 AB 28 28 28 23 1F 00 6F C7 6B 4F 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0025,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,24,0x221F1,0x21B60,57 90 16 00 02 00 A1 58 F2 5B 9D 80 81 1F 00 55 7C 72 73 64 26 26 1F 00 5F A2 82 75 78 20 16 00 01 00 23,"いま<NAME:0002>を救えるのは
+あなただけ……
+がんばって　<NAME:0001>！","지금 <NAME:0002>을 구할 수 있는 건
+너뿐이야...
+힘내, <NAME:0001>!",6F C7 20 16 00 02 00 A1 20 9D AD 20 8B 20 5E 73 20 8F 1F 00 D3 61 F5 6B 4F 28 28 28 1F 00 85 F7 99 3D F6 20 16 00 01 00 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0026,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,25,0x22307,0x21B64,57 90 9A 20 16 00 01 00 23 1F 00 16 00 03 00 80 46 F0 60 A1 1F 00 AF E4 EA BD ED 6A 78 75 23,"いまよ　<NAME:0001>！
+<NAME:0003>の動きを
+キャンセルしてっ！","지금이야, <NAME:0001>!
+<NAME:0003>의 행동을
+캔슬해 줘!",6F C7 6B 4F 3D F6 20 16 00 01 00 23 1F 00 16 00 03 00 75 20 A5 E7 F7 A1 1F 00 5B F5 D8 F7 74 20 27 F5 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0027,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,26,0x22402,0x21B68,16 00 02 00 5F D5 EA C3 7C 80 23 1F 00 89 F4 64 78 55 65 78 20 16 00 01 00 23,"<NAME:0002>がピンチなの！
+助けてあげて　<NAME:0001>！","<NAME:0002>이 위험해!
+도와줘, <NAME:0001>!",16 00 02 00 6B 20 3F F7 25 F1 74 23 1F 00 4E CA 27 F5 3D F6 20 16 00 01 00 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0028,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,27,0x22216,0x21B6C,16 00 02 00 A1 D6 AB EF 27 6A 7C 57 7A 1F 00 DF BC 57 A0 7F 26 26 1F 00 57 75 74 95 5B 20 16 00 01 00 23,"<NAME:0002>をフォローしないと
+マズいわね……
+いっちゃえ　<NAME:0001>！","<NAME:0002>을 엄호해야 해
+위험해 보이네...
+가자, <NAME:0001>!",16 00 02 00 A1 20 EE F0 7D F3 74 4F 20 74 1F 00 3F F7 25 F1 74 20 89 6B 84 28 28 28 1F 00 4A 81 3D F6 20 16 00 01 00 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0029,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,28,0x22328,0x21B70,87 A2 82 9C 7B 66 9F 9A 20 16 00 01 00 1F 00 16 00 03 00 80 46 F0 60 A1 1F 00 23 F1 93 74 95 57 7C 68 57 23,"ふんばりどころよ　<NAME:0001>
+<NAME:0003>の動きを
+止めちゃいなさい！","힘낼 때야, <NAME:0001>
+<NAME:0003>의 행동을
+멈춰 버려!",85 F7 4E F7 20 C4 4F 3D F6 20 16 00 01 00 1F 00 16 00 03 00 75 20 A5 E7 F7 A1 1F 00 E4 F8 E8 F2 20 B3 AB 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0030,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,29,0x2241E,0x21B74,16 00 03 00 75 72 9B 1F 00 3C F3 3C F1 B2 BC 7C 80 7F 5A 1F 00 AF E4 EA BD ED 79 60 74 95 57 70 59 9A 23,"<NAME:0003>ったら
+案外グズなのねぇ
+キャンセルできちゃいそうよ！","<NAME:0003> 녀석
+의외로 굼뜨네
+캔슬할 수 있겠어!",16 00 03 00 20 DE E2 1F 00 75 8C F6 79 20 DB F5 6F F8 84 1F 00 5B F5 D8 F7 AD 20 8B 20 5E 94 69 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0031,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,30,0x2223B,0x21B78,DF BC 57 20 16 00 02 00 A1 B7 F2 DD F1 73 23 1F 00 AF E4 EA BD ED 36 F0 37 F0 A1 88 74 66 93 23 1F 00 16 00 01 00 23,"マズい　<NAME:0002>を援護だ！
+キャンセル攻撃をぶちこめ！
+<NAME:0001>！","<NAME:0002>을 엄호해!
+캔슬 공격을 먹여 줘!
+<NAME:0001>!",16 00 02 00 A1 20 EE F0 7D F3 74 23 1F 00 5B F5 D8 F7 20 D8 F5 B3 F4 A1 20 C3 95 20 27 F5 23 1F 00 16 00 01 00 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0032,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,31,0x2234E,0x21B7C,16 00 02 00 A1 89 F4 64 9B 9E A2 80 81 1F 00 5D 90 5B 73 64 73 23 1F 00 9B F0 83 F1 57 60 F0 9E 78 64 20 16 00 01 00 23,"<NAME:0002>を助けられんのは
+おまえだけだ！
+気合い入れてけ　<NAME:0001>！","<NAME:0002>을 구할 수 있는 건
+너뿐이야!
+힘내라, <NAME:0001>!",16 00 02 00 A1 20 9D AD 20 8B 20 5E 73 20 8F 1F 00 D3 61 F5 6B 4F 23 1F 00 85 F7 99 66 3D F6 20 16 00 01 00 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0033,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,32,0x22443,0x21B80,16 00 02 00 5F 55 88 7F 5A 23 1F 00 16 00 03 00 A1 1F 00 7C 7D 5F 7C A2 79 94 23 F1 93 9D A2 73 C4 23,"<NAME:0002>があぶねぇ！
+<NAME:0003>を
+なにがなんでも止めるんだッ！","<NAME:0002>이 위험해!
+무슨 수를 써서라도
+<NAME:0003>을 멈춰!",16 00 02 00 6B 20 3F F7 25 F1 74 23 1F 00 97 D1 F7 20 8B 87 20 89 F2 6C 66 4E 1F 00 16 00 03 00 A1 20 E4 F8 E8 F2 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0034,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,33,0x22264,0x21B84,16 00 02 00 5F 1F 00 E5 D1 57 A2 6B 95 7F 5A 5E 24 1F 00 89 F4 64 78 96 9E 9A 20 16 00 01 00 23,"<NAME:0002>が
+ヤバいんじゃねぇか？
+助けてやれよ　<NAME:0001>！","<NAME:0002>이
+위험한 것 같은데?
+도와줘, <NAME:0001>!",16 00 02 00 6B 1F 00 3F F7 25 F1 7A 20 53 20 B5 5D 96 24 1F 00 4E CA 27 F5 3D F6 20 16 00 01 00 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0035,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,34,0x22378,0x21B88,AC A6 EB 6B 95 AA F2 7D 83 F1 A0 7C 57 23 1F 00 16 00 03 00 81 62 F2 A2 73 6F 1F 00 16 00 01 00 23,"オイラじゃ間に合わない！
+<NAME:0003>は頼んだぜ
+<NAME:0001>！","난 늦을 것 같아!
+<NAME:0003>은 부탁한다
+<NAME:0001>!",D1 20 ED F6 A1 20 53 20 B5 70 23 1F 00 16 00 03 00 5D 20 A4 48 F8 7A 72 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0036,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,35,0x22467,0x21B8C,16 00 03 00 80 E5 C5 1F 00 78 A2 79 C9 EF 57 A2 79 96 A2 80 23 1F 00 AF E4 EA BD ED 6A 78 96 A2 7C 23,"<NAME:0003>のヤツ
+てんでトロいんでやんの！
+キャンセルしてやんな！","<NAME:0003> 녀석
+엄청 굼뜨잖아!
+캔슬해 버려!",16 00 03 00 20 DE E2 1F 00 EE F0 A7 F9 20 DB F5 6F F8 B8 70 23 1F 00 5B F5 D8 F7 74 20 B3 AB 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0037,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,36,0x22286,0x21B90,57 90 89 F4 64 7C 57 7A 1F 00 16 00 02 00 5F 8C F3 4D F1 73 A0 23 1F 00 AF E4 EA BD ED 6A 78 55 65 78 23,"いま助けないと
+<NAME:0002>が危険だわ！
+キャンセルしてあげて！","지금 돕지 않으면
+<NAME:0002>이 위험해!
+캔슬해 줘!",6F C7 20 E1 F6 6F 20 AE 82 80 1F 00 16 00 02 00 6B 20 3F F7 25 F1 74 23 1F 00 5B F5 D8 F7 74 20 27 F5 23,,"[""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0038,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,37,0x2239B,0x21B94,16 00 02 00 5F 89 F4 5E 9D 5E 7B 59 5E 1F 00 55 7C 72 ED F1 30 F3 9A 1F 00 16 00 01 00 23,"<NAME:0002>が助かるかどうか
+あなた次第よ
+<NAME:0001>！","<NAME:0002>을 구할지는
+당신에게 달렸어
+<NAME:0001>!",16 00 02 00 A1 20 9D AD 6F 73 1F 00 CE F7 B0 7D 68 20 C9 F7 97 F8 69 1F 00 16 00 01 00 23,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0039,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,38,0x2248B,0x21B98,16 00 03 00 80 46 F0 60 7C 9B 1F 00 AF E4 EA BD ED 79 60 70 59 9A 1F 00 D7 F0 74 76 57 78 20 16 00 01 00 23,"<NAME:0003>の動きなら
+キャンセルできそうよ
+落ちついて　<NAME:0001>！","<NAME:0003>의 행동이라면
+캔슬할 수 있겠어
+침착해, <NAME:0001>!",16 00 03 00 75 20 A5 E7 F7 6B 66 80 1F 00 5B F5 D8 F7 AD 20 8B 20 5E 94 69 1F 00 87 F3 82 F7 74 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0040,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,39,0x222AB,0x21B9C,16 00 02 00 A1 B7 F2 DD F1 6A 7C 57 7A 1F 00 8C F3 8F F3 C5 F0 75 F1 B1 F3 7D 5D 74 57 9D 66 7A 5F 1F 00 E4 F5 D1 F4 68 9E 90 6C 26 26,"<NAME:0002>を援護しないと
+危機的状況におちいることが
+予想されます……","<NAME:0002>을 엄호하지 않으면
+위험한 상황에 빠질 것으로
+예상됩니다...",16 00 02 00 A1 20 EE F0 7D F3 61 6F 20 AE 82 80 1F 00 3F F7 25 F1 7A 20 BD BA F4 7D 20 A8 F4 2F F6 20 53 82 79 1F 00 7B F4 BD 22 F8 5B 72 28 28 28,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0041,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,40,0x223BB,0x21BA0,16 00 01 00 73 64 5F 1F 00 66 80 75 F1 B1 F3 A1 C7 F0 74 21 F2 9E 90 6C 1F 00 7B 59 5E 16 00 02 00 80 58 F2 68 F0 A1,"<NAME:0001>だけが
+この状況を打ち破れます
+どうか<NAME:0002>の救出を","<NAME:0001>만이
+이 상황을 돌파할 수 있습니다
+<NAME:0002>을 구해 주십시오",16 00 01 00 55 6B 1F 00 6B 20 BD BA F4 A1 20 E7 57 F4 AD 20 8B 20 5E 29 F8 5B 72 1F 00 16 00 02 00 A1 20 9D 74 20 A3 5E F8 88 90,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0042,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,41,0x224B1,0x21BA4,16 00 02 00 5F 1F 00 8C F3 4D F1 7C 75 F1 76 F1 7D 55 9C 90 6C 1F 00 AF E4 EA BD ED 7D D7 F2 BC F2 6A 90 6A 99 59,"<NAME:0002>が
+危険な状態にあります
+キャンセルに集中しましょう","<NAME:0002>이
+위험한 상태입니다
+캔슬에 집중합시다",16 00 02 00 6B 1F 00 3F F7 25 F1 7A 20 BD D3 F8 C8 F8 5B 72 1F 00 5B F5 D8 F7 7D 20 6B F6 E5 F4 43 F8 88 72,,"[""<NAME:0002>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0043,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,42,0x224D9,0x21BA8,16 00 03 00 5E 9B 1F 00 A6 E5 7C 9B F0 5C F0 A1 7C F3 6B 9D 26 26 23 1F 00 91 A2 7C 9B F0 A1 DF F2 62 7C 23,"<NAME:0003>から
+イヤな気配を感じる……！
+みんな気を抜くな！","<NAME:0003>에게서
+불길한 기운이 느껴져...!
+모두 방심하지 마!",16 00 03 00 7D 68 6C 1F 00 95 F2 9C F6 7A 20 6D E9 6B 20 93 F7 32 F2 8E F2 28 28 28 23 1F 00 B2 8A 20 71 F9 5C F8 61 6F 20 5C 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0044,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,43,0x225CE,0x21BAC,57 90 7C 9B 20 AF E4 EA BD ED 5F 1F 00 AA F2 7D 83 F1 57 70 59 73 23 1F 00 57 64 75 20 16 00 01 00 23,"いまなら　キャンセルが
+間に合いそうだ！
+いけっ　<NAME:0001>！","지금이라면 캔슬이
+늦지 않을 것 같아!
+가자, <NAME:0001>!",6F C7 6B 66 80 20 5B F5 D8 F7 6B 1F 00 ED F6 6F 20 AE A1 20 53 20 B5 70 23 1F 00 4A 81 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0045,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,44,0x226BC,0x21BB0,59 75 20 66 9E 81 22 1F 00 16 00 03 00 80 36 F0 37 F0 A1 1F 00 AF E4 EA BD ED 6A 7C 57 7A 23,"うっ　これは？
+<NAME:0003>の攻撃を
+キャンセルしないと！","윽, 이건?
+<NAME:0003>의 공격을
+캔슬해야 해!",77 F1 3D F6 20 6B 8F 24 1F 00 16 00 03 00 75 20 D8 F5 B3 F4 A1 1F 00 5B F5 D8 F7 74 4F 20 74 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0046,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,45,0x224FF,0x21BB4,16 00 03 00 5F 1F 00 DE F0 75 78 57 9D 80 81 26 26 1F 00 16 00 01 00 22,"<NAME:0003>が
+狙っているのは……
+<NAME:0001>？","<NAME:0003>이
+노리는 건...
+<NAME:0001>?",16 00 03 00 6B 1F 00 68 F7 6A 73 20 8F 28 28 28 1F 00 16 00 01 00 24,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0047,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,46,0x225F2,0x21BB8,AF E4 EA BD ED 5F AA F2 7D 83 F1 57 70 59 26 26 1F 00 5F A2 82 75 78 20 16 00 01 00 23,"キャンセルが間に合いそう……
+がんばって　<NAME:0001>！","아직 캔슬할 수 있어...
+힘내, <NAME:0001>!",70 9D F5 20 5B F5 D8 F7 AD 20 8B 20 5E 69 28 28 28 1F 00 85 F7 99 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0048,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,47,0x226DD,0x21BBC,16 00 03 00 5F 1F 00 7C 7D 5E 6A 9A 59 7A 6A 78 9D 23 1F 00 59 F2 57 79 AF E4 EA BD ED 6A 78 75 23,"<NAME:0003>が
+なにかしようとしてる！
+急いでキャンセルしてっ！","<NAME:0003>이
+뭔가 하려고 해!
+서둘러 캔슬해!",16 00 03 00 6B 1F 00 40 F9 4A 20 61 AB 43 20 74 23 1F 00 6C 27 F8 A6 20 5B F5 D8 F7 74 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0049,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,48,0x22519,0x21BC0,75 72 62 20 80 A2 9B F0 7C 8B F3 6A 78 26 26 1F 00 DE F0 A0 9E 78 A2 80 81 55 A2 72 9A 1F 00 16 00 01 00,"ったく　のん気な顔して……
+狙われてんのはあんたよ
+<NAME:0001>","정말 태평한 얼굴이네...
+노려지는 건 당신이야
+<NAME:0001>",93 77 20 D3 F8 7C F6 7A 20 5E F0 6D F6 6B 84 28 28 28 1F 00 68 F7 AB 6F 73 20 8F 20 CE F7 B0 6B 4F 1F 00 16 00 01 00,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0050,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,49,0x22611,0x21BC4,16 00 01 00 23 1F 00 57 90 7C 9B AF E4 EA BD ED 5F 1F 00 CA EA D5 B9 E4 79 D0 F3 90 9D A0 23,"<NAME:0001>！
+いまならキャンセルが
+ドンピシャで決まるわ！","<NAME:0001>!
+지금이라면 캔슬이
+정확히 들어갈 거야!",16 00 01 00 23 1F 00 6F C7 6B 66 80 20 5B F5 D8 F7 6B 1F 00 93 92 F4 D5 20 85 69 B5 F1 20 6E 4F 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0051,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,50,0x22700,0x21BC8,16 00 03 00 A1 1F 00 6A 75 5E 9C AF E4 EA BD ED 7C 68 57 23 1F 00 96 9B 9E 72 62 7C 60 95 7F 23,"<NAME:0003>を
+しっかりキャンセルなさい！
+やられたくなきゃね！","<NAME:0003>을
+확실히 캔슬해!
+당하기 싫다면 말이야!",16 00 03 00 A1 1F 00 92 F4 53 F8 D5 20 5B F5 D8 F7 74 23 1F 00 CE F7 61 6D 20 57 F8 72 80 20 77 6B 4F 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0052,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,51,0x2253E,0x21BCC,5D 57 20 16 00 01 00 23 1F 00 16 00 03 00 5E 9B 1F 00 5F F1 5A 76 64 9B 9E 78 9D 91 72 57 73 6F 23,"おい　<NAME:0001>！
+<NAME:0003>から
+目ぇつけられてるみたいだぜ！","야, <NAME:0001>!
+<NAME:0003>에게
+찍힌 것 같은데!",4F 3D F6 20 16 00 01 00 23 1F 00 16 00 03 00 7D 68 1F 00 E7 F3 60 F7 20 53 20 B5 5D 96 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0053,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,52,0x22632,0x21BD0,D7 F0 74 76 64 20 16 00 01 00 23 1F 00 9A 5C 62 81 F0 78 9C 95 1F 00 74 F3 4F F2 7D AF E4 EA BD ED 79 60 9D 23,"落ちつけ　<NAME:0001>！
+よぉく見てりゃ
+確実にキャンセルできる！","침착해, <NAME:0001>!
+잘 보고 있으면
+확실히 캔슬할 수 있어!",87 F3 82 F7 74 3D F6 20 16 00 01 00 23 1F 00 58 F9 20 89 43 20 5E 82 80 1F 00 92 F4 53 F8 D5 20 5B F5 D8 F7 AD 20 8B 20 5E 69 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0054,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,53,0x22722,0x21BD4,7E 5C 5C 20 CD F0 7E 9A 9C 95 DF B9 73 23 1F 00 16 00 03 00 A1 1F 00 A6 C3 5E D1 C3 5E AF E4 EA BD ED 6A 9F 23,"ぬぉぉ　死ぬよりゃマシだ！
+<NAME:0003>を
+イチかバチかキャンセルしろ！","으아, 죽는 것보단 낫지!
+<NAME:0003>을
+모 아니면 도로 캔슬해!",82 70 3D F6 20 41 F4 73 20 53 89 C7 F7 20 AD F0 6F 23 1F 00 16 00 03 00 A1 1F 00 B2 20 70 5B 80 20 4E 79 20 5B F5 D8 F7 74 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0055,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,54,0x22561,0x21BD8,16 00 03 00 5E 9B 1F 00 E5 D1 57 7D 5D 57 A1 7C F3 6B 9D 71 23 1F 00 DA F5 26 F5 6C A2 7C 20 16 00 01 00 23,"<NAME:0003>から
+ヤバいにおいを感じるぞ！
+油断すんな　<NAME:0001>！","<NAME:0003>에게서
+위험한 냄새가 나!
+방심 마, <NAME:0001>!",16 00 03 00 7D 68 6C 1F 00 3F F7 25 F1 7A 20 4F F7 40 F6 4A 20 50 23 1F 00 71 F9 5C F8 20 5C 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0056,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,55,0x22659,0x21BDC,16 00 01 00 23 1F 00 5D 90 5B 7C 9B AA F2 7D 83 F1 59 23 1F 00 E5 C5 A1 AF E4 EA BD ED 6A 74 90 5B 23,"<NAME:0001>！
+おまえなら間に合う！
+ヤツをキャンセルしちまえ！","<NAME:0001>!
+너라면 늦지 않아!
+녀석을 캔슬해 버려!",16 00 01 00 23 1F 00 D3 66 80 20 ED F6 6F 20 AE 70 23 1F 00 DE E2 A1 20 5B F5 D8 F7 74 20 B3 AB 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0057,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,56,0x22749,0x21BE0,16 00 03 00 A1 1F 00 AF E4 EA BD ED 73 23 20 79 7C 60 95 1F 00 B9 D4 9E 9D 8D 7B D5 EA C3 7D 7C 9D 6F 23,"<NAME:0003>を
+キャンセルだ！　でなきゃ
+シビれるほどピンチになるぜ！","<NAME:0003>을
+캔슬해! 안 그러면
+짜릿하게 위험해질걸!",16 00 03 00 A1 1F 00 5B F5 D8 F7 74 23 20 9B 20 63 A6 80 1F 00 B9 F6 BB F8 61 68 20 3F F7 25 F1 74 2F F6 C0 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0058,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,57,0x22587,0x21BE4,9A 70 81 F0 6A 7C 57 79 20 16 00 01 00 23 1F 00 55 7C 72 5F DE F0 A0 9E 78 9D 80 9A 23,"よそ見しないで　<NAME:0001>！
+あなたが狙われてるのよ！","한눈팔지 마, <NAME:0001>!
+당신이 노려지고 있어!",7A 88 F7 B0 F4 6F 20 5C 3D F6 20 16 00 01 00 23 1F 00 CE F7 B0 6B 20 68 F7 AB 6F 43 20 5E 69 23,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0059,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,58,0x2267D,0x21BE8,16 00 01 00 23 1F 00 57 90 5F C3 E4 EA BB 9A 1F 00 AF E4 EA BD ED 6A 78 23,"<NAME:0001>！
+いまがチャンスよ
+キャンセルして！","<NAME:0001>!
+지금이 기회야
+캔슬해!",16 00 01 00 23 1F 00 6F C7 6B 20 6D CC 4F 1F 00 5B F5 D8 F7 74 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0060,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,59,0x2276E,0x21BEC,16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 7C 57 7A 1F 00 80 F1 33 F8 7C CA F5 64 F1 5F E4 F4 75 78 9D A0 26 26,"<NAME:0003>を
+キャンセルしないと
+不吉な未来が待ってるわ……","<NAME:0003>을
+캔슬하지 않으면
+불길한 미래가 기다려...",16 00 03 00 A1 1F 00 5B F5 D8 F7 61 6F 20 AE 82 80 1F 00 95 F2 9C F6 7A 20 9C 8E 4A 20 6D 72 AB 28 28 28,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0061,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,60,0x225A6,0x21BF0,16 00 03 00 5F 1F 00 55 7C 72 A1 DE F0 75 78 57 9D 26 26 1F 00 8C F3 8F F3 3F F0 34 F3 80 72 93 80 22 F1 46 F0 A1,"<NAME:0003>が
+あなたを狙っている……
+危機回避のための行動を","<NAME:0003>이
+당신을 노리고 있어...
+위기를 피하도록 행동해",16 00 03 00 6B 1F 00 CE F7 B0 A1 20 68 F7 6A 43 20 5E 69 28 28 28 1F 00 3F F7 6D 87 20 C9 61 4E 9D F8 20 A5 E7 F7 74,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0062,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,61,0x22698,0x21BF4,AF E4 EA BD ED 79 23 F1 93 9E 82 1F 00 9F F5 62 55 9C 90 6E A2 1F 00 D7 F0 74 76 57 78 20 16 00 01 00,"キャンセルで止めれば
+怖くありません
+落ちついて　<NAME:0001>","캔슬로 멈추면
+두렵지 않습니다
+침착하세요, <NAME:0001>",5B F5 D8 F7 79 20 E4 F8 63 F2 80 1F 00 8A 59 F5 6F 20 AE 29 F8 5B 72 1F 00 87 F3 82 F7 61 C6 52 3D F6 20 16 00 01 00,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0063,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,62,0x22794,0x21BF8,16 00 03 00 A1 1F 00 AF E4 EA BD ED 6A 7C 57 7A 1F 00 58 F4 72 74 80 8D F3 BF F5 81 BC F1 72 9E 90 6C 26 26,"<NAME:0003>を
+キャンセルしないと
+私たちの希望は絶たれます……","<NAME:0003>을
+캔슬하지 않으면
+우리의 희망이 끊깁니다...",16 00 03 00 A1 1F 00 5B F5 D8 F7 61 6F 20 AE 82 80 1F 00 83 6A 75 20 21 F2 CA F8 6B 20 E2 F6 A2 F6 5B 72 28 28 28,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0064,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,63,0x227BA,0x21BFC,16 00 04 00 5F 64 F1 9D 23 1F 00 23 F1 93 9B 9E 9D 5E 20 16 00 01 00 22,"<NAME:0004>が来る！
+止められるか　<NAME:0001>？","<NAME:0004>이 온다!
+막을 수 있겠어, <NAME:0001>?",16 00 04 00 6B 20 EC F4 72 23 1F 00 C0 F8 A1 20 8B 20 5E 94 69 3D F6 20 16 00 01 00 24,,"[""<NAME:0004>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0065,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,64,0x228B0,0x21C00,16 00 03 00 5F 1F 00 4A F0 4B F0 A1 54 F0 75 78 60 70 59 73 23 1F 00 9B F0 A1 76 64 9F 20 16 00 01 00 23,"<NAME:0003>が
+魔法を使ってきそうだ！
+気をつけろ　<NAME:0001>！","<NAME:0003>이
+마법을 쓸 것 같아!
+조심해, <NAME:0001>!",16 00 03 00 6B 1F 00 5C 78 F9 A1 20 AB F8 20 53 20 B5 70 23 1F 00 CE 5C F8 74 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0066,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,65,0x229B5,0x21C04,57 62 A2 73 20 16 00 01 00 23 1F 00 16 00 04 00 5F 1F 00 64 F1 9D A0 F0 7D BF F0 62 23,"いくんだ　<NAME:0001>！
+<NAME:0004>が
+来る前に早く！","가자, <NAME:0001>!
+<NAME:0004>이
+오기 전에 어서!",4A 81 3D F6 20 16 00 01 00 23 1F 00 16 00 04 00 6B 1F 00 90 6D 20 BB 7D 20 69 6C 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0004>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0067,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,66,0x227D4,0x21C08,81 F0 78 20 55 80 46 F0 60 23 1F 00 16 00 03 00 5F 1F 00 4A F0 4B F0 A1 54 F0 5D 59 7A 6A 78 9D A0 23,"見て　あの動き！
+<NAME:0003>が
+魔法を使おうとしてるわ！","저 움직임을 봐!
+<NAME:0003>이
+마법을 쓰려 해!",7B 20 E7 F6 9D F5 C7 F8 A1 20 D0 F1 23 1F 00 16 00 03 00 6B 1F 00 5C 78 F9 A1 20 96 F8 AB 20 74 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0068,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,67,0x228D5,0x21C0C,16 00 03 00 7D 1F 00 4A F0 4B F0 79 DE F0 A0 9E 78 9D A0 23 1F 00 DA F5 26 F5 6A 7C 57 79 20 16 00 01 00 23,"<NAME:0003>に
+魔法で狙われてるわ！
+油断しないで　<NAME:0001>！","<NAME:0003>의
+마법 표적이 됐어!
+방심 마, <NAME:0001>!",16 00 03 00 75 1F 00 5C 78 F9 20 21 F7 41 F0 6B 20 EB F7 69 23 1F 00 71 F9 5C F8 20 5C 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0069,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,68,0x229D4,0x21C10,16 00 04 00 22 1F 00 70 A2 7C 8C F3 4D F1 7C 4A F0 4B F0 A1 1F 00 54 F0 59 9B F0 7C 80 22,"<NAME:0004>？
+そんな危険な魔法を
+使う気なの？","<NAME:0004>?
+그렇게 위험한 마법을
+쓸 생각이야?",16 00 04 00 24 1F 00 63 A0 68 20 3F F7 25 F1 7A 20 5C 78 F9 A1 1F 00 AB F8 20 B6 E0 6B 4F 24,,"[""<NAME:0004>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0070,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,69,0x227F8,0x21C14,7C A2 5E E5 D1 57 66 7A 24 F4 5B 78 9D A0 9A 1F 00 16 00 03 00 5E 9B 1F 00 5F F1 A1 44 F1 6A 74 95 C2 E2 23,"なんかヤバいこと考えてるわよ
+<NAME:0003>から
+目を離しちゃダメ！","뭔가 위험한 걸 꾸미나 봐
+<NAME:0003>에게서
+눈을 떼지 마!",40 F9 4A 20 3F F7 25 F1 7A 20 C0 20 D5 F6 9C 50 20 D0 F1 1F 00 16 00 03 00 7D 68 6C 1F 00 88 F7 A1 20 D7 F3 6F 20 5C 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0071,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,70,0x228FB,0x21C18,DE F0 A0 9E 78 9D A0 9A 20 55 A2 72 23 1F 00 68 75 68 7A 16 00 03 00 A1 1F 00 72 72 57 74 95 57 7C 68 57 23,"狙われてるわよ　あんた！
+さっさと<NAME:0003>を
+たたいちゃいなさい！","당신이 노려지고 있어!
+어서 <NAME:0003>을
+공격해 버려!",CE F7 B0 6B 20 68 F7 AB 6F 43 20 5E 69 23 1F 00 69 6C 20 16 00 03 00 A1 1F 00 D8 F5 B3 F4 74 20 B3 AB 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0072,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,71,0x229F4,0x21C1C,16 00 04 00 5F 64 F1 9D A0 23 1F 00 3E F5 57 80 94 9B 75 74 95 59 A0 F0 7D 1F 00 AF E4 EA BD ED 6A 78 96 A2 7C 68 57 23,"<NAME:0004>が来るわ！
+痛いのもらっちゃう前に
+キャンセルしてやんなさい！","<NAME:0004>이 올 거야!
+아픈 공격을 받기 전에
+캔슬해 버려!",16 00 04 00 6B 20 4A F5 20 6E 4F 23 1F 00 70 97 F7 20 D8 F5 B3 F4 A1 20 6B F9 6D 20 BB 7D 1F 00 5B F5 D8 F7 74 20 B3 AB 23,,"[""<NAME:0004>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0073,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,72,0x2281E,0x21C20,5D 57 20 DD E5 DD E5 6A 78 75 7A 1F 00 16 00 03 00 7D 1F 00 4A F0 4B F0 A1 54 F0 A0 9E 74 90 59 71 23,"おい　ボヤボヤしてっと
+<NAME:0003>に
+魔法を使われちまうぞ！","야, 멍하니 있으면
+<NAME:0003>이
+마법을 써 버린다고!",4F 3D F6 20 E5 F8 61 5B 20 5E 82 80 1F 00 16 00 03 00 6B 1F 00 5C 78 F9 A1 20 89 F2 20 B3 B6 F8 72 43 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0074,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,73,0x22921,0x21C24,16 00 03 00 80 D7 F5 3B F6 1F 00 16 00 04 00 A1 1F 00 88 74 5E 90 6A 78 60 96 5F 9D 9B F0 73 6F 23,"<NAME:0003>の野郎
+<NAME:0004>を
+ぶちかましてきやがる気だぜ！","<NAME:0003> 녀석
+<NAME:0004>을
+날릴 생각인가 봐!",16 00 03 00 20 DE E2 1F 00 16 00 04 00 A1 1F 00 AF B7 F8 20 B6 E0 8C 4A 20 D0 F1 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0004>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0075,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,74,0x22A1E,0x21C28,96 9B 9E 9D A0 F0 7D 96 9E 73 23 1F 00 16 00 04 00 A1 1F 00 23 F1 93 74 90 57 7C 20 16 00 01 00 23,"やられる前にやれだ！
+<NAME:0004>を
+止めちまいな　<NAME:0001>！","당하기 전에 해치워!
+<NAME:0004>을
+막아, <NAME:0001>!",CE F7 61 6D 20 BB 7D 20 74 3F F3 26 F7 23 1F 00 16 00 04 00 A1 1F 00 C0 F8 70 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""<NAME:0004>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0076,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,75,0x22842,0x21C2C,DD B3 C4 7A 6A 78 A2 6B 95 7F 5A 23 1F 00 16 00 03 00 A1 81 F0 9F 23 1F 00 7C A2 5E E5 D1 57 66 7A 6A 78 62 9D 71 23,"ボケッとしてんじゃねぇ！
+<NAME:0003>を見ろ！
+なんかヤバいことしてくるぞ！","멍하니 있지 마!
+<NAME:0003>을 봐!
+뭔가 위험한 걸 쓸 거야!",E5 F8 61 5B 20 5E 6F 20 5C 23 1F 00 16 00 03 00 A1 20 D0 F1 23 1F 00 40 F9 4A 20 3F F7 25 F1 7A 20 C0 20 AB F8 20 6E 4F 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0077,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,76,0x22944,0x21C30,16 00 03 00 80 E5 C5 1F 00 4A F0 4B F0 A1 54 F0 57 96 5F 9D 9B F0 73 23 1F 00 DE F0 A0 9E 78 9D 71 20 16 00 01 00 23,"<NAME:0003>のヤツ
+魔法を使いやがる気だ！
+狙われてるぞ　<NAME:0001>！","<NAME:0003> 녀석
+마법을 쓰려 해!
+노려지고 있어, <NAME:0001>!",16 00 03 00 20 DE E2 1F 00 5C 78 F9 A1 20 96 F8 AB 20 74 23 1F 00 68 F7 AB 6F 43 20 5E 69 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0078,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,77,0x22A41,0x21C34,D9 C4 23 1F 00 16 00 04 00 5F 7C A2 73 23 1F 00 23 F1 93 74 90 5B 20 16 00 01 00 23,"ヘッ！
+<NAME:0004>がなんだ！
+止めちまえ　<NAME:0001>！","흥!
+<NAME:0004>쯤이야!
+막아 버려, <NAME:0001>!",DA F1 23 1F 00 16 00 04 00 83 F1 6B 4F 23 1F 00 C0 F8 70 20 B3 AB 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""<NAME:0004>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0079,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,78,0x2286B,0x21C38,16 00 03 00 5E 9B 1F 00 80 F1 A0 F6 7C 9B F0 5C F0 A1 7C F3 6B 9D A0 23 1F 00 7C 7D 5E 6A 5E 64 78 62 9D 26 26 23,"<NAME:0003>から
+不穏な気配を感じるわ！
+なにかしかけてくる……！","<NAME:0003>에게서
+불길한 기운이 느껴져!
+뭔가 걸어올 거야...!",16 00 03 00 7D 68 6C 1F 00 95 F2 9C F6 7A 20 6D E9 6B 20 93 F7 32 F2 8E F2 23 1F 00 40 F9 4A 20 C0 69 4A F5 20 6E 4F 28 28 28 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0080,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,79,0x2296D,0x21C3C,16 00 04 00 5F 64 F1 9D A0 7F 1F 00 16 00 03 00 A1 1F 00 23 F1 93 7C 64 9E 82 26 26 23,"<NAME:0004>が来るわね
+<NAME:0003>を
+止めなければ……！","<NAME:0004>이 오겠어
+<NAME:0003>을
+막아야 해...!",16 00 04 00 6B 20 90 94 69 1F 00 16 00 03 00 A1 1F 00 C0 F8 70 4F 20 74 28 28 28 23,,"[""<NAME:0004>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0081,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,80,0x22A5F,0x21C40,55 7C 72 7C 9B AA F2 7D 83 F1 59 79 6A 99 23 1F 00 16 00 03 00 A1 23 F1 93 78 23 1F 00 16 00 01 00 23,"あなたなら間に合うでしょ！
+<NAME:0003>を止めて！
+<NAME:0001>！","당신이면 늦지 않잖아!
+<NAME:0003>을 막아!
+<NAME:0001>!",CE F7 B0 6B 80 20 ED F6 6F 20 AE B8 70 23 1F 00 16 00 03 00 A1 20 C0 F8 70 23 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0082,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,81,0x22893,0x21C44,16 00 03 00 80 1F 00 55 80 46 F0 60 81 26 26 1F 00 16 00 04 00 80 2A F3 5A F0 22,"<NAME:0003>の
+あの動きは……
+<NAME:0004>の準備？","<NAME:0003>의
+저 움직임은...
+<NAME:0004> 준비인가?",16 00 03 00 75 1F 00 7B 20 E7 F6 9D F5 C7 F8 5D 28 28 28 1F 00 16 00 04 00 20 66 F4 98 8C 4A 24,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0004>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0083,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,82,0x2298C,0x21C48,E9 F1 2A F4 6A 90 6C 1F 00 55 7C 72 81 16 00 03 00 80 1F 00 36 F0 37 F0 DD F0 99 F4 7D DE F1 B2 F1 68 9E 78 57 90 6C,"警告します
+あなたは<NAME:0003>の
+攻撃対象に指定されています","경고합니다
+당신은 <NAME:0003>의
+공격 대상으로 지정됐습니다",D0 F4 43 43 F8 5B 72 1F 00 CE F7 B0 5D 20 16 00 03 00 75 1F 00 D8 F5 B3 F4 20 8D BD 82 79 20 6F 93 EB F7 29 F8 5B 72,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0084,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,83,0x22A83,0x21C4C,66 66 81 16 00 04 00 A1 1F 00 23 F1 93 9D 80 5F 1F 00 34 F1 51 F1 80 73 F0 74 F0 73 7A 81 F1 57 90 6C,"ここは<NAME:0004>を
+止めるのが
+最良の選択だと思います","여기서는 <NAME:0004>을
+막는 것이
+최선이라고 생각합니다",95 6D 6C 73 20 16 00 04 00 A1 1F 00 C0 F8 73 20 53 6B 1F 00 2F F2 AF F6 6B 66 43 20 B6 E0 43 F8 5B 72,,"[""<NAME:0004>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0085,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,84,0x22AA7,0x21C50,A4 A6 C5 26 26 1F 00 7C A2 5E 6A 5E 64 78 62 9D 7C 22,"アイツ……
+なんかしかけてくるな？","저 녀석...
+뭔가 걸어오려는 건가?",7B 20 DE E2 28 28 28 1F 00 40 F9 4A 20 C0 69 90 AB 73 20 8F 4A 24,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0086,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,85,0x22B9A,0x21C54,BB AF 73 9B 64 73 23 1F 00 AF E4 EA BD ED 6C 9D 7C 9B 57 90 73 23 1F 00 57 64 75 20 16 00 01 00 23,"スキだらけだ！
+キャンセルするならいまだ！
+いけっ　<NAME:0001>！","빈틈투성이야!
+캔슬하려면 지금이야!
+가자, <NAME:0001>!",DD F3 9E F3 64 F2 D6 6B 4F 23 1F 00 5B F5 D8 F7 61 AB 80 20 6F C7 6B 4F 23 1F 00 4A 81 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0087,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,86,0x22C86,0x21C58,16 00 04 00 81 1F 00 23 F1 93 7C 60 95 DF BC 57 23 1F 00 90 5E 6E 72 20 16 00 01 00 23,"<NAME:0004>は
+止めなきゃマズい！
+まかせた　<NAME:0001>！","<NAME:0004>은
+막지 않으면 위험해!
+맡길게, <NAME:0001>!",16 00 04 00 5D 1F 00 C0 F8 6F 20 AE 82 80 20 3F F7 25 F1 74 23 1F 00 CC F8 9C F6 68 3D F6 20 16 00 01 00 23,,"[""<NAME:0004>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0088,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,87,0x22ABB,0x21C5C,74 99 75 7A E4 F4 75 78 23 1F 00 16 00 03 00 80 5E 90 5B 1F 00 9B F0 7D 7C 9B 7C 57 22,"ちょっと待って！
+<NAME:0003>のかまえ
+気にならない？","잠깐만!
+<NAME:0003>의 자세가
+수상하지 않아?",5B F9 AE F6 55 23 1F 00 16 00 03 00 75 20 81 C6 4A 1F 00 8B BD 61 6F 20 AE 70 24,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0089,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,88,0x22BBD,0x21C60,AF E4 EA BD ED 80 C3 E4 EA BB 9A 23 1F 00 5F A2 82 75 78 20 16 00 01 00 23,"キャンセルのチャンスよ！
+がんばって　<NAME:0001>！","캔슬할 기회야!
+힘내, <NAME:0001>!",5B F5 D8 F7 AD 20 6D CC 4F 23 1F 00 85 F7 99 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0090,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,89,0x22CA5,0x21C64,57 90 81 AF E4 EA BD ED 6A 5E 7C 57 A0 23 1F 00 70 59 81 F1 59 79 6A 99 1F 00 16 00 01 00 94 24,"いまはキャンセルしかないわ！
+そう思うでしょ
+<NAME:0001>も？","지금은 캔슬뿐이야!
+당신도 그렇게 생각하지
+<NAME:0001>?",6F C7 5D 20 5B F5 D8 F7 61 F5 6B 4F 23 1F 00 CE F7 B0 4E 20 63 A0 68 20 B6 E0 61 6F 1F 00 16 00 01 00 24,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0091,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,90,0x22ADA,0x21C68,A1 F1 3B F1 9B F0 7D 4E F0 A1 54 F0 75 78 62 9D 9B F0 7F 1F 00 5D 94 6A 9F 57 6B 95 7C 57 1F 00 68 75 68 7A 5E 5E 75 78 9B 75 6A 95 57 23,"生意気に技を使ってくる気ね
+おもしろいじゃない
+さっさとかかってらっしゃい！","건방지게 기술을 쓰려 하네
+재미있잖아
+어서 덤벼 봐!",8F 71 F9 6F 68 20 6D 9A F7 A1 20 96 F8 AB 20 61 84 1F 00 8E F9 9C 5E B8 70 1F 00 69 6C 20 9B F4 7B F9 20 D0 F1 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0092,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,91,0x22BD8,0x21C6C,81 F0 78 9A 20 55 80 39 F1 1F 00 AF E4 EA BD ED 6A 78 EE F5 6A 70 59 7C 1F 00 8B F3 6A 78 9D 7A 81 F1 A0 7C 57 24,"見てよ　あの子
+キャンセルして欲しそうな
+顔してると思わない？","저 녀석 좀 봐
+캔슬해 달라는 얼굴
+같지 않아?",7B 20 DE E2 20 60 F3 20 D0 F1 1F 00 5B F5 D8 F7 74 20 C9 F7 66 73 20 5E F0 6D F6 1F 00 B5 6F 20 AE 70 24,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0093,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,92,0x22CC7,0x21C70,90 20 66 80 3C F4 1F 00 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6C 9D 6A 5E 7C 57 75 6A 99,"ま　この際
+<NAME:0003>を
+キャンセルするしかないっしょ","뭐, 지금은
+<NAME:0003>을
+캔슬할 수밖에 없겠네",A2 3D F6 20 6F C7 5D 1F 00 16 00 03 00 A1 1F 00 5B F5 D8 F7 AD 20 8B 3C F1 7D 20 91 94 84,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0094,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,93,0x22B0A,0x21C74,16 00 03 00 93 1F 00 55 9C 95 4E F0 A1 54 F0 59 76 94 9C 73 7C 1F 00 90 74 5F 57 7C 57 23,"<NAME:0003>め
+ありゃ技を使うつもりだな
+まちがいない！","<NAME:0003> 녀석
+기술을 쓸 생각이군
+틀림없어!",16 00 03 00 20 DE E2 1F 00 6D 9A F7 A1 20 AB F8 20 B6 E0 6B ED 1F 00 3D F3 B8 F8 91 69 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0095,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,94,0x22C00,0x21C78,83 F5 37 F0 80 C3 E4 EA BB 73 23 1F 00 D7 F0 74 76 57 78 57 64 23 1F 00 16 00 01 00 23,"反撃のチャンスだ！
+落ちついていけ！
+<NAME:0001>！","반격할 기회야!
+침착하게 가자!
+<NAME:0001>!",6A F9 B3 F4 AD 20 6D CC 4F 23 1F 00 87 F3 82 F7 61 68 20 4A 81 23 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0096,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,95,0x22CE6,0x21C7C,40 F6 80 AD EA 6B 95 1F 00 66 66 81 AF E4 EA BD ED 6A 5E 7F 5A 23 1F 00 61 F2 6B 9F 20 16 00 01 00 23,"俺のカンじゃ
+ここはキャンセルしかねぇ！
+信じろ　<NAME:0001>！","내 감으로는
+여기선 캔슬뿐이야!
+믿어, <NAME:0001>!",99 20 33 F2 82 79 73 1F 00 95 6D AF F6 20 5B F5 D8 F7 61 F5 6B 4F 23 1F 00 60 F9 69 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0097,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,96,0x22B2A,0x21C80,55 A2 7D 95 9F 1F 00 57 75 74 99 90 5B 7D 4E F0 7C A2 5E 1F 00 54 F0 75 78 60 96 5F 9D 9B F0 5E 22,"あんにゃろ
+いっちょまえに技なんか
+使ってきやがる気か？","저 자식
+제법 기술까지
+쓸 생각인가?",7B 20 81 EB 1F 00 AA 78 F9 20 6D 9A F7 7F 6F 1F 00 AB F8 20 B6 E0 8C 4A 24,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0098,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,97,0x22C1F,0x21C84,9A 75 6A 95 23 1F 00 D0 F3 93 A2 7C 9B 20 57 90 6A 5E 7F 5A 23 1F 00 96 75 74 90 5B 20 16 00 01 00 23,"よっしゃ！
+決めんなら　いましかねぇ！
+やっちまえ　<NAME:0001>！","좋았어!
+결정하려면 지금뿐이야!
+해치워, <NAME:0001>!",BA EF 69 23 1F 00 B7 F4 93 61 AB 80 20 6F C7 61 F5 6B 4F 23 1F 00 74 3F F3 26 F7 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0099,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,98,0x22D0A,0x21C88,E5 D1 57 75 78 A4 A6 C5 23 1F 00 AF E4 EA BD ED 79 23 F1 93 7A 57 72 3C F0 5F 1F 00 57 57 A2 6B 95 7F 5A 5E 22,"ヤバいってアイツ！
+キャンセルで止めといた方が
+いいんじゃねぇか？","저 녀석 위험한데!
+캔슬로 막는 게
+좋지 않겠어?",7B 20 DE E2 20 3F F7 25 F1 7A 96 23 1F 00 5B F5 D8 F7 79 20 C0 F8 73 20 68 1F 00 BA 6F 20 AE 94 69 24,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0100,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,99,0x22B4D,0x21C8C,16 00 03 00 80 1F 00 46 F0 60 7D C4 F2 3B F1 7C 68 57 23 1F 00 AD 27 CA 5F 58 F4 7D 2A F4 65 78 57 9D 26 26,"<NAME:0003>の
+動きに注意なさい！
+カードが私に告げている……","<NAME:0003>의
+움직임을 조심해!
+카드가 내게 말하고 있어...",16 00 03 00 75 1F 00 E7 F6 9D F5 C7 F8 A1 20 CE 5C F8 74 23 1F 00 A5 F4 30 F8 4A 20 99 68 20 77 61 43 20 5E 69 28 28 28,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0101,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,100,0x22C43,0x21C90,57 90 81 55 7C 72 5F 1F 00 AF E4 EA BD ED 6C 8B 60 9A 1F 00 AD 27 CA 94 70 59 2A F4 65 78 57 9D 94 80,"いまはあなたが
+キャンセルすべきよ
+カードもそう告げているもの","지금은 당신이
+캔슬해야 해
+카드도 그렇게 말해",6F C7 5D 20 CE F7 B0 6B 1F 00 5B F5 D8 F7 74 4F 20 74 1F 00 A5 F4 30 F8 4E 20 63 A0 68 20 77 74,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0102,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,101,0x22D31,0x21C94,AF E4 EA BD ED 73 64 5F 1F 00 57 90 55 7C 72 80 7A 9D 8B 60 57 F0 1F 00 AD 27 CA 94 70 59 2A F4 65 78 57 9D A0 26 26,"キャンセルだけが
+いまあなたのとるべき道
+カードもそう告げているわ……","캔슬만이
+지금 당신이 갈 길이야
+카드도 그렇게 말해...",5B F5 D8 F7 55 6B 1F 00 6F C7 20 CE F7 B0 6B 20 B5 F1 20 9C F6 6B 4F 1F 00 A5 F4 30 F8 4E 20 63 A0 68 20 77 74 28 28 28,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0103,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,102,0x22B73,0x21C98,16 00 03 00 5E 9B 1F 00 7C 7D 5E A1 7C F3 6B 90 6C 1F 00 3A F0 3B F1 20 D0 F2 9C 20 70 9E 7D 50 F7 C1 F0 26 26,"<NAME:0003>から
+なにかを感じます
+敵意　怒り　それに憎悪……","<NAME:0003>에게서
+뭔가 느껴집니다
+적의, 분노, 그리고 증오...",16 00 03 00 7D 68 6C 1F 00 40 F9 4A 20 93 F7 32 F2 6B F6 5B 72 1F 00 41 F0 75 3D F6 20 CF 68 F7 3D F6 20 63 6A 43 20 5F F5 90 28 28 28,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0104,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,103,0x22C67,0x21C9C,57 90 7C 9B 3A F0 A1 2B F9 70 F3 79 60 90 6C 1F 00 68 54 20 26 F1 96 5E 7D 16 00 01 00,"いまなら敵を妨害できます
+さぁ　速やかに<NAME:0001>","지금이라면 방해할 수 있습니다
+어서 신속하게, <NAME:0001>",6F C7 6B 66 80 20 71 F9 74 AD 20 8B 20 5E 29 F8 5B 72 1F 00 69 6C 20 B0 49 F7 61 68 3D F6 20 16 00 01 00,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0105,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,104,0x22D5A,0x21CA0,57 90 81 16 00 03 00 A1 1F 00 AF E4 EA BD ED 6C 9D 66 7A 73 64 24 F4 5B 78 1F 00 70 9E 5F A1 F1 60 4B F4 9D 57 F0 79 6C,"いまは<NAME:0003>を
+キャンセルすることだけ考えて
+それが生き残る道です","지금은 <NAME:0003>을
+캔슬할 생각만 하세요
+그것이 살아남는 길입니다",6F C7 5D 20 16 00 03 00 A1 1F 00 5B F5 D8 F7 AD 20 B6 E0 55 20 61 C6 52 1F 00 63 53 6B 20 E8 70 35 F7 73 20 9C F6 C8 F8 5B 72,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0106,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,105,0x22D84,0x21CA4,67 93 A2 20 16 00 01 00 23 1F 00 94 59 86 F0 6A 20 94 59 86 F0 6A 73 64 1F 00 87 A2 82 75 78 62 9E 23,"ごめん　<NAME:0001>！
+もう少し　もう少しだけ
+ふんばってくれ！","미안, <NAME:0001>!
+조금만, 조금만 더
+버텨 줘!",9C 9B 3D F6 20 16 00 01 00 23 1F 00 CE C7 55 3D F6 20 CE C7 55 20 DD 1F 00 B3 B5 F2 20 27 F5 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0107,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,106,0x22E71,0x21CA8,C2 E2 73 23 1F 00 AF E4 EA BD ED 5F AA F2 7D 83 F1 A0 7C 57 23 1F 00 21 F1 65 78 62 9E 20 16 00 01 00 23,"ダメだ！
+キャンセルが間に合わない！
+逃げてくれ　<NAME:0001>！","안 돼!
+캔슬이 늦었어!
+피해, <NAME:0001>!",9B 20 E9 F7 23 1F 00 5B F5 D8 F7 6B 20 ED F6 9E 69 23 1F 00 C9 74 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0108,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,107,0x22F5A,0x21CAC,E1 EC 6C 9D 7C 20 16 00 01 00 23 1F 00 57 90 81 3F F0 B6 F0 5F DC F0 73 23,"ムリするな　<NAME:0001>！
+いまは回復が先だ！","무리하지 마, <NAME:0001>!
+지금은 회복이 먼저야!",97 6A 61 6F 20 5C 3D F6 20 16 00 01 00 23 1F 00 6F C7 5D 20 CC D0 6B 20 E2 F8 7B 4F 23,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0109,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,108,0x22DA8,0x21CB0,A8 F5 66 5B 9D 20 16 00 01 00 22 1F 00 55 60 9B 93 7C 57 79 23 1F 00 9B F0 A1 6A 75 5E 9C 98 F1 75 78 23,"聞こえる　<NAME:0001>？
+あきらめないで！
+気をしっかり持って！","들려, <NAME:0001>?
+포기하지 마!
+정신 차려!",85 AB 3D F6 20 16 00 01 00 24 1F 00 D3 F6 6D 61 6F 20 5C 23 1F 00 93 B0 20 61 F7 AB 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0110,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,109,0x22E96,0x21CB4,21 F1 65 78 20 16 00 01 00 23 1F 00 94 59 81 F0 78 9B 9E 7C 57 23,"逃げて　<NAME:0001>！
+もう見てられない！","피해, <NAME:0001>!
+더는 못 보겠어!",C9 74 3D F6 20 16 00 01 00 23 1F 00 DD 73 20 2D F9 20 89 94 69 23,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0111,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,110,0x22F75,0x21CB8,94 59 6B 97 59 88 A2 9A 23 1F 00 57 90 81 3D F0 5B F0 A1 3F F0 B6 F0 6C 9D 66 7A 73 64 1F 00 24 F4 5B 78 23,"もうじゅうぶんよ！
+いまは自分を回復することだけ
+考えて！","이제 충분해!
+지금은 자신을 회복할 생각만
+해!",6B AA 20 DA F2 CF 74 23 1F 00 6F C7 5D 20 81 B0 A1 20 CC D0 AD 20 B6 E0 55 1F 00 74 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0112,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,111,0x22DCD,0x21CBC,74 99 75 7A 74 99 75 7A 20 16 00 01 00 1F 00 55 A2 72 20 70 9E 79 94 7D F0 9B F0 7C 80 24,"ちょっとちょっと　<NAME:0001>
+あんた　それでも本気なの？","잠깐, <NAME:0001>
+당신, 정말 진심이야?",5B F9 AE F6 3D F6 20 16 00 01 00 1F 00 CE F7 B0 3D F6 20 93 77 20 C5 5C F8 6B 4F 24,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0113,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,112,0x22EAE,0x21CC0,C3 EA C1 EB 96 75 78 72 9B 1F 00 A1 F5 64 74 95 59 75 6A 99 1F 00 DF BA 80 55 A2 72 A1 81 F0 6E 7C 68 57 23,"チンタラやってたら
+負けちゃうっしょ
+マジのあんたを見せなさい！","꾸물거리면
+져 버리잖아
+진짜 실력을 보여 줘!",D5 F6 EA 6E 6A 80 1F 00 8E F2 20 B3 6A B8 70 1F 00 C5 B9 F6 20 53 F8 93 F8 A1 20 89 95 20 27 F5 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0114,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,113,0x22F9B,0x21CC4,6F F4 57 5E 9B 75 78 81 6A 95 61 6C 61 1F 00 55 A2 72 80 66 7A 9A 1F 00 16 00 01 00 23,"若いからってはしゃぎすぎ
+あんたのことよ
+<NAME:0001>！","젊다고 너무 날뛰네
+당신 말이야
+<NAME:0001>!",E4 F5 72 43 20 D3 97 20 AF 6A F8 84 1F 00 CE F7 B0 20 77 6B 4F 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0115,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,114,0x22DED,0x21CC8,E1 C3 E4 5F 68 F3 61 9D 6F 1F 00 16 00 01 00 74 95 A2 1F 00 94 75 7A 3D F0 5B F0 A1 42 F0 C0 F0 7D 75 78 7C,"ムチャが過ぎるぜ
+<NAME:0001>ちゃん
+もっと自分を大切にってな","너무 무리하잖아
+<NAME:0001> 씨
+자기 몸도 챙기라고",D3 97 20 97 6A 61 B8 70 1F 00 16 00 01 00 20 CB 1F 00 81 6D 20 2C F9 4E 20 78 F2 6D 66 43,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0116,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,115,0x22ED4,0x21CCC,94 6A 94 ED F1 80 36 F0 37 F0 79 1F 00 4A F2 5F 55 75 72 9B 5D 7C 63 68 91 75 78 5E,"もしも次の攻撃で
+命があったらおなぐさみってか","다음 공격을 받고도
+살아 있으면 다행이겠군",72 B1 20 D8 F5 B3 F4 A1 20 6B F9 43 4E 1F 00 E8 70 20 5E 82 80 20 72 A5 6B 94 ED,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0117,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,116,0x22FBA,0x21CD0,A1 F1 60 78 68 5B 57 9C 95 7C A2 7A 5E 7C 9D 1F 00 66 66 81 69 F0 5F 75 78 3F F0 B6 F0 6A 7C,"生きてさえいりゃなんとかなる
+ここは下がって回復しな","살아 있으면 어떻게든 돼
+물러나서 회복해",E8 70 20 5E 82 80 20 69 5F F8 68 CD 20 E9 F7 1F 00 EA A6 50 6C 20 CC D0 74,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0118,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,117,0x22E13,0x21CD4,73 57 6B 99 59 88 5E 20 16 00 01 00 22 1F 00 CD F0 A2 79 78 94 69 F1 BA F0 63 9B 57 6A 9F 23,"だいじょうぶか　<NAME:0001>？
+死んでても返事ぐらいしろ！","괜찮아, <NAME:0001>?
+죽었어도 대답은 해!",48 F6 AC F7 70 3D F6 20 16 00 01 00 24 1F 00 41 F4 9E 69 4E 20 8D CB F7 5D 20 74 23,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0119,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,118,0x22EF2,0x21CD8,ED F1 20 A3 F4 9B 75 74 90 75 72 9B 1F 00 E5 D1 57 73 9F 1F 00 57 62 9B D6 F4 5D F0 5F B8 B5 79 94 9A AB,"次　食らっちまったら
+ヤバいだろ
+いくら相手がザコでもよォ","다음 걸 맞으면
+위험하잖아
+상대가 약해도 말이야",72 B1 20 C0 20 CB F8 82 80 1F 00 3F F7 25 F1 61 B8 70 1F 00 BD 8D 4A 20 5A F9 74 4E 20 77 6B 4F,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0120,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,119,0x22FDB,0x21CDC,5D 57 5D 57 20 E1 C3 E4 6A 6C 61 73 9F 1F 00 69 F0 5F 75 78 3F F0 B6 F0 79 94 6A 78 9F 75 78 82,"おいおい　ムチャしすぎだろ
+下がって回復でもしてろってば","야, 너무 무리하잖아
+물러나서 회복이나 해",4F 3D F6 20 D3 97 20 97 6A 61 B8 70 1F 00 EA A6 50 6C 20 CC D0 6B 50 20 74,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0121,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,120,0x22E34,0x21CE0,ED F1 80 2D F0 37 F0 81 4A F2 6A F0 9C 9A 23 1F 00 7C A2 7A 5E 5E A0 6A 78 1F 00 16 00 01 00 23,"次の一撃は命取りよ！
+なんとかかわして
+<NAME:0001>！","다음 일격은 치명적이야!
+어떻게든 피해
+<NAME:0001>!",72 B1 20 92 B3 F4 5D 20 3F F3 E5 41 F0 6B 4F 23 1F 00 69 5F F8 68 CD 20 C9 74 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0122,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,121,0x22F17,0x21CE4,60 75 7A 20 39 F2 8F F0 81 A5 F2 60 9D 1F 00 16 00 01 00 7D 1F 00 E9 A8 C9 68 90 80 67 AE F1 DD F1 A1 26 26 23,"きっと　奇跡は起きる
+<NAME:0001>に
+ヨウトさまのご加護を……！","분명 기적은 일어날 거야
+<NAME:0001>에게
+요우트 님의 가호를...!",CF E5 20 6D 41 F0 5D 20 92 69 AF 20 6E 4F 1F 00 16 00 01 00 7D 68 1F 00 52 83 D2 20 B7 75 20 4A 7D F3 87 28 28 28 23,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0123,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,122,0x22FFD,0x21CE8,5D 29 F3 57 20 16 00 01 00 23 1F 00 86 F0 6A 81 3D F0 5B F0 80 BB F2 A1 9B F0 77 5E 75 78 23 1F 00 5F A2 82 9C 6C 61 9A 23,"お願い　<NAME:0001>！
+少しは自分の身を気づかって！
+がんばりすぎよ！","부탁해, <NAME:0001>!
+자기 몸도 좀 돌봐!
+너무 애쓰고 있어!",A4 48 F8 74 3D F6 20 16 00 01 00 23 1F 00 81 6D 20 2C F9 4E 20 60 F3 20 E7 D0 F1 23 1F 00 D3 97 20 4F F9 96 F8 43 20 5E 69 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0124,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,123,0x22E56,0x21CEC,B2 EC D6 9A 1F 00 58 F4 7D 16 00 01 00 A1 1F 00 DD F1 9D 85 F0 A1 26 26 23,"グリフよ
+私に<NAME:0001>を
+護る力を……！","그리프여
+제게 <NAME:0001>을
+지킬 힘을...!",63 6A 6E F7 95 1F 00 AA 68 20 16 00 01 00 A1 1F 00 6F D2 F7 20 85 F7 A1 28 28 28 23,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0125,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,124,0x22F3E,0x21CF0,ED F1 80 36 F0 37 F0 A1 5E A0 6E 7C 64 9E 82 1F 00 55 7C 72 81 94 59 26 26 23,"次の攻撃をかわせなければ
+あなたはもう……！","다음 공격을 피하지 못하면
+당신은 이제...!",72 B1 20 D8 F5 B3 F4 A1 20 C9 61 6F 20 2D F9 61 80 1F 00 CE F7 B0 5D 20 6B AA 28 28 28 23,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0126,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,125,0x23028,0x21CF4,7A 7D 5E 62 3F F0 B6 F0 7D C6 F4 69 F5 6C 9D 26 26 1F 00 70 9E 94 47 F0 7D 81 42 F0 C0 F0 7C 66 7A 79 6C 1F 00 79 6A 99 59 20 16 00 01 00 24,"とにかく回復に専念する……
+それも時には大切なことです
+でしょう　<NAME:0001>？","회복에 전념하는 것도
+때로는 중요합니다
+그렇죠, <NAME:0001>?",CC D0 7D 20 BB E9 F4 61 73 20 53 4E 1F 00 C4 79 73 20 E5 F4 52 43 F8 5B 72 1F 00 63 A0 BA F2 3D F6 20 16 00 01 00 24,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0127,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,126,0x23059,0x21CF8,16 00 03 00 80 1F 00 46 F0 60 5F 55 96 6A 57 23 1F 00 9B F0 A1 76 64 9F 20 16 00 01 00 23,"<NAME:0003>の
+動きがあやしい！
+気をつけろ　<NAME:0001>！","<NAME:0003>의
+움직임이 수상해!
+조심해, <NAME:0001>!",16 00 03 00 75 1F 00 E7 F6 9D F5 C7 F8 6B 20 8B BD 74 23 1F 00 CE 5C F8 74 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0128,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,127,0x23163,0x21CFC,E5 C5 80 36 F0 37 F0 7D 5A F0 5B 9F 23 1F 00 57 76 94 80 A2 F7 B1 F1 9B F0 6B 95 7C 57 26 26 1F 00 7C 7D 5E DE F0 75 78 62 9D 71 23,"ヤツの攻撃に備えろ！
+いつもの雰囲気じゃない……
+なにか狙ってくるぞ！","녀석의 공격에 대비해!
+평소와 느낌이 달라...
+뭔가 노리고 있어!",DE E2 75 20 D8 F5 B3 F4 7D 20 8D 98 74 23 1F 00 7C F6 B4 CA 20 93 F7 C5 F7 6B 20 C9 F7 66 28 28 28 1F 00 40 F9 4A 20 68 F7 6A 43 20 5E 69 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0129,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,128,0x23286,0x21D00,16 00 03 00 80 36 F0 37 F0 81 1F 00 A3 F4 9B 59 7A DF BC 57 23 1F 00 66 66 81 38 F0 39 F0 73 20 16 00 01 00 23,"<NAME:0003>の攻撃は
+食らうとマズい！
+ここは防御だ　<NAME:0001>！","<NAME:0003>의 공격은
+맞으면 위험해!
+방어해, <NAME:0001>!",16 00 03 00 75 20 D8 F5 B3 F4 5D 1F 00 CB F8 82 80 20 3F F7 25 F1 74 23 1F 00 71 F9 69 74 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0130,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,129,0x23079,0x21D04,16 00 03 00 A1 81 F0 78 23 1F 00 57 76 94 7A 7C 7D 5E 5F 74 5F 59 1F 00 7C 7D 5E 5F 26 26 23,"<NAME:0003>を見て！
+いつもとなにかがちがう
+なにかが……！","<NAME:0003>을 봐!
+평소와 뭔가 달라
+뭔가가...!",16 00 03 00 A1 20 D0 F1 23 1F 00 7C F6 B4 CA 20 40 F9 4A 20 C9 F7 66 1F 00 40 F9 4A 4A 28 28 28 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0131,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,130,0x23191,0x21D08,16 00 03 00 80 36 F0 37 F0 26 26 1F 00 5E A0 6E 7C 57 7C 9B 1F 00 6E 93 78 38 F0 61 23 F1 93 78 23,"<NAME:0003>の攻撃……
+かわせないなら
+せめて防ぎ止めて！","<NAME:0003>의 공격...
+피할 수 없다면
+최소한 막아 내!",16 00 03 00 75 20 D8 F5 B3 F4 28 28 28 1F 00 C9 AD 20 8B 20 91 72 80 1F 00 2F F2 B4 7A 20 C0 F8 70 20 99 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0132,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,131,0x232AD,0x21D0C,57 F1 DB F4 61 5F 6C 9D 80 26 26 1F 00 16 00 03 00 80 36 F0 37 F0 A1 1F 00 38 F0 57 79 20 16 00 01 00 23,"胸騒ぎがするの……
+<NAME:0003>の攻撃を
+防いで　<NAME:0001>！","불길한 예감이 들어...
+<NAME:0003>의 공격을
+막아, <NAME:0001>!",95 F2 9C F6 7A 20 7B F4 33 F2 6B 20 85 69 28 28 28 1F 00 16 00 03 00 75 20 D8 F5 B3 F4 A1 1F 00 C0 F8 70 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0133,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,132,0x2309A,0x21D10,59 5E 76 7D 5D F0 5A 68 F0 6A 74 95 C2 E2 9A 1F 00 55 57 76 80 36 F0 37 F0 94 9B 75 72 9B 1F 00 C1 C2 6B 95 6C 90 7C 57 A2 73 5E 9B 23,"うかつに手ぇ出しちゃダメよ
+あいつの攻撃もらったら
+タダじゃすまないんだから！","함부로 나서면 안 돼
+저 공격을 맞으면
+무사하지 못할 거야!",41 F8 A4 79 20 50 6C 80 20 9B 20 E9 F7 1F 00 7B 20 D8 F5 B3 F4 A1 20 CB F8 82 80 1F 00 97 7E 61 6F 20 2D F9 AD 20 6E 4F 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0134,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,133,0x231B4,0x21D14,16 00 03 00 5E 54 1F 00 E5 D1 57 80 9A 7F 20 55 57 76 80 36 F0 37 F0 1F 00 7B F1 EB F1 9A 64 74 95 5B 82 D4 F5 EB F4 7C 57 B3 CA,"<NAME:0003>かぁ
+ヤバいのよね　あいつの攻撃
+全部よけちゃえば問題ないケド","<NAME:0003>인가
+저 녀석 공격은 위험하지
+전부 피하면 문제없지만",16 00 03 00 8C 4A 1F 00 7B 20 DE E2 20 D8 F5 B3 F4 5D 20 3F F7 25 F1 61 6F 1F 00 BB A4 20 C9 61 80 20 31 F9 AA 91 6F 55,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0135,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,134,0x232D2,0x21D18,92 F6 8F F3 B6 F2 50 F0 23 1F 00 47 F0 7D 81 38 F0 39 F0 6C 9D 66 7A 94 1F 00 42 F0 BA F0 75 78 B5 C9 23,"臨機応変！
+時には防御することも
+大事ってコト！","임기응변!
+때로는 방어하는 것도
+중요하다는 거야!",C7 F8 6D 45 F8 7C F9 23 1F 00 C4 79 73 20 71 F9 69 61 73 20 53 4E 1F 00 E5 F4 52 61 72 73 20 6E 4F 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0136,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,135,0x230C9,0x21D1C,DF BC 57 7C 26 26 1F 00 55 80 36 F0 37 F0 94 9B 75 74 90 59 7A 1F 00 96 75 5E 57 7C 66 7A 7D 7C 9C 70 59 73 6F,"マズいな……
+あの攻撃もらっちまうと
+やっかいなことになりそうだぜ","위험하군...
+저 공격을 맞으면
+골치 아파질 것 같아",3F F7 25 F1 61 ED 28 28 28 1F 00 7B 20 D8 F5 B3 F4 A1 20 CB F8 82 80 1F 00 67 F5 3F F3 20 70 57 F4 2F F6 20 53 20 B5 70,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0137,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,136,0x231E1,0x21D20,96 9E 96 9E 26 26 1F 00 E5 C5 7A EB F0 59 7A 60 4C F0 ED F5 7C 80 81 1F 00 50 F5 85 F0 7A E8 F2 65 F0 20 55 7A 81 9D F0 73 7C,"やれやれ……
+ヤツと戦うとき必要なのは
+努力と根性　あとは薬だな","이런...
+녀석과 싸울 때 필요한 건
+노력과 근성, 그리고 약이군",6B A7 28 28 28 1F 00 DE E2 EC F5 20 68 F8 E6 20 C4 20 A1 F7 52 7A 20 8F 1F 00 68 F7 93 F8 EC F5 20 85 F6 D6 3D F6 20 63 6A 43 20 5A F9 6B ED,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0138,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,137,0x232F7,0x21D24,7C 7D DD B7 C4 7A 6A 78 9D 23 1F 00 E5 C5 80 36 F0 37 F0 81 8C F3 4D F1 73 23 1F 00 6C 63 38 F0 39 F0 6A 9F C4 23,"なにボサッとしてる！
+ヤツの攻撃は危険だ！
+すぐ防御しろッ！","뭘 멍하니 있어!
+녀석의 공격은 위험해!
+당장 방어해!",41 F9 20 E5 F8 61 5B 20 5E 69 23 1F 00 DE E2 75 20 D8 F5 B3 F4 5D 20 3F F7 25 F1 74 23 1F 00 CE F7 86 20 71 F9 69 74 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0139,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,138,0x230F0,0x21D28,E5 D1 57 71 20 16 00 01 00 23 1F 00 55 80 22 F4 5B 26 26 1F 00 7C A2 5E 6A 5E 64 78 62 9D 9B F0 73 23,"ヤバいぞ　<NAME:0001>！
+あの構え……
+なんかしかけてくる気だ！","위험해, <NAME:0001>!
+저 자세...
+뭔가 걸어올 생각이야!",3F F7 25 F1 74 3D F6 20 16 00 01 00 23 1F 00 7B 20 81 C6 28 28 28 1F 00 40 F9 4A 20 C0 69 4A F5 20 B6 E0 6B 4F 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0140,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,139,0x2320D,0x21D2C,72 6A 5E A4 A6 C5 1F 00 E5 7C 36 F0 37 F0 A1 98 F1 75 78 72 81 6D 73 1F 00 9B F0 56 DF F2 62 7C 9A 20 16 00 01 00 23,"たしかアイツ
+ヤな攻撃を持ってたはずだ
+気ぃ抜くなよ　<NAME:0001>！","분명 저 녀석
+고약한 공격이 있었어
+방심 마, <NAME:0001>!",CF E5 20 7B 20 DE E2 1F 00 43 5A F9 7A 20 D8 F5 B3 F4 6B 20 5E 9E 69 1F 00 71 F9 5C F8 20 5C 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0141,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,140,0x2331F,0x21D30,55 80 36 F0 37 F0 73 64 81 1F 00 BE C4 C1 A6 A3 F4 9B 57 72 62 7F 27 1F 00 38 F0 39 F0 6A 7A 64 20 16 00 01 00 23,"あの攻撃だけは
+ゼッタイ食らいたくねー
+防御しとけ　<NAME:0001>！","저 공격만큼은
+절대 맞고 싶지 않아
+방어해, <NAME:0001>!",7B 20 D8 F5 B3 F4 55 54 F7 5D 1F 00 3D F1 8D 20 CB F8 43 20 EC 6F 20 AE 70 1F 00 71 F9 69 74 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0142,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,141,0x23114,0x21D34,55 80 36 F0 37 F0 7D 81 1F 00 7C 7D 5E 40 F1 5F 55 9D 26 26 1F 00 E9 F0 84 F1 6A 78 20 16 00 01 00 23,"あの攻撃には
+なにか裏がある……
+用心して　<NAME:0001>！","저 공격에는
+뭔가 숨겨져 있어...
+조심해, <NAME:0001>!",7B 20 D8 F5 B3 F4 7D 73 1F 00 40 F9 4A 20 A5 F7 B1 F4 8E F2 20 5E 69 28 28 28 1F 00 CE 5C F8 74 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0143,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,142,0x23236,0x21D38,16 00 03 00 5E 9B 1F 00 6D F4 C1 F0 7C 9B F0 A1 7C F3 6B 9D 26 26 1F 00 44 F1 9E 78 20 16 00 01 00 23,"<NAME:0003>から
+邪悪な気を感じる……
+離れて　<NAME:0001>！","<NAME:0003>에게서
+사악한 기운이 느껴져...
+떨어져, <NAME:0001>!",16 00 03 00 7D 68 6C 1F 00 7E CE F8 7A 20 6D E9 6B 20 93 F7 32 F2 8E F2 28 28 28 1F 00 5D F8 69 8E F2 3D F6 20 16 00 01 00 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0144,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,143,0x23347,0x21D3C,55 80 36 F0 37 F0 81 1F 00 38 F0 39 F0 6C 9D 66 7A A1 6C 6C 93 9D A0 1F 00 AD 27 CA 94 70 59 2A F4 65 78 57 9D 26 26,"あの攻撃は
+防御することをすすめるわ
+カードもそう告げている……","저 공격은
+방어하기를 권할게
+카드도 그렇게 말해...",7B 20 D8 F5 B3 F4 5D 1F 00 71 F9 69 61 6D 87 20 73 F6 AD 68 1F 00 A5 F4 30 F8 4E 20 63 A0 68 20 77 74 28 28 28,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0145,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,144,0x23138,0x21D40,E9 F1 2A F4 6A 90 6C 1F 00 16 00 03 00 80 36 F0 37 F0 81 1F 00 8C F3 4D F1 7C 75 F1 76 F1 77 F1 78 F1 A1 A5 F2 66 6A 90 6C,"警告します
+<NAME:0003>の攻撃は
+危険な状態異常を起こします","경고합니다
+<NAME:0003>의 공격은
+위험한 상태 이상을 만듭니다",D0 F4 43 43 F8 5B 72 1F 00 16 00 03 00 75 20 D8 F5 B3 F4 5D 1F 00 3F F7 25 F1 7A 20 BD D3 F8 20 6B BD A1 20 55 3D F8 5B 72,,"[""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0146,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,145,0x2325A,0x21D44,16 00 03 00 80 36 F0 37 F0 81 1F 00 55 90 9C 7D 8C F3 4D F1 6C 61 90 6C 1F 00 7C A2 9B 5E 80 DD F0 86 F4 5F 4C F0 ED F5 79 6C,"<NAME:0003>の攻撃は
+あまりに危険すぎます
+なんらかの対処が必要です","<NAME:0003>의 공격은
+너무 위험합니다
+대처가 필요합니다",16 00 03 00 75 20 D8 F5 B3 F4 5D 1F 00 D3 97 20 3F F7 25 F1 43 F8 5B 72 1F 00 8D BE F8 4A 20 A1 F7 52 43 F8 5B 72,,"[""<NAME:0003>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0147,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,146,0x23370,0x21D48,DF F7 26 F1 7C DD F0 B6 F2 5F 8C F3 8F F3 A1 58 F2 57 90 6C 1F 00 66 66 81 38 F0 39 F0 79 6C 1F 00 16 00 01 00,"迅速な対応が危機を救います
+ここは防御です
+<NAME:0001>","신속한 대응이 위기를 막습니다
+여기서는 방어입니다
+<NAME:0001>",B0 49 F7 7A 20 8D 45 F8 6B 20 3F F7 6D 87 20 C0 F8 29 F8 5B 72 1F 00 95 6D 6C 73 20 71 F9 69 C8 F8 5B 72 1F 00 16 00 01 00,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0148,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,147,0x23397,0x21D4C,AF E4 EA BD ED 5F AA F2 7D 83 F1 A0 7C 57 23 1F 00 38 F0 39 F0 79 52 F1 5B 78 62 9E 23 1F 00 16 00 01 00 23,"キャンセルが間に合わない！
+防御で耐えてくれ！
+<NAME:0001>！","캔슬이 늦었어!
+방어로 버텨 줘!
+<NAME:0001>!",5B F5 D8 F7 6B 20 ED F6 9E 69 23 1F 00 71 F9 69 79 20 B3 B5 F2 20 27 F5 23 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0149,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,148,0x234A6,0x21D50,6B F3 6A 57 80 81 A0 5E 75 78 9D 23 1F 00 64 7B 20 52 F1 5B 9D A2 73 20 57 90 81 23,"悔しいのはわかってる！
+けど　耐えるんだ　いまは！","분한 건 알아!
+하지만 지금은 버텨!",CF 7A 20 8F 20 9A 70 23 1F 00 61 6F 55 20 6F C7 5D 20 B3 B5 F2 23,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0150,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,149,0x235B1,0x21D54,62 70 C4 21 1F 00 7C A2 7D 94 79 60 7C 57 80 5E 23 1F 00 16 00 01 00 5F D5 EA C3 7C 80 7D 23,"くそッ。
+なんにもできないのか！
+<NAME:0001>がピンチなのに！","젠장.
+아무것도 못 하는 건가!
+<NAME:0001>이 위험한데!",A5 F9 86 28 1F 00 70 97 53 4E 20 2D F9 20 61 73 20 8F 4A 23 1F 00 16 00 01 00 6B 20 3F F7 25 F1 7A 96 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0151,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,150,0x233BD,0x21D58,ED F1 80 36 F0 37 F0 5F 64 F1 72 9B 1F 00 72 7A 5B 16 00 01 00 79 94 26 26 1F 00 5D 29 F3 57 20 38 F0 39 F0 6A 78 23,"次の攻撃が来たら
+たとえ<NAME:0001>でも……
+お願い　防御して！","다음 공격이 오면
+<NAME:0001>이라도...
+제발 방어해!",72 B1 20 D8 F5 B3 F4 6B 20 90 80 1F 00 16 00 01 00 6B 66 4E 28 28 28 1F 00 AA 6C F9 20 71 F9 69 74 23,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0152,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,151,0x234C4,0x21D5C,94 59 E1 C3 E4 81 6A 7C 57 79 23 1F 00 91 A2 7C 73 75 78 57 9D A2 73 5E 9B 23 1F 00 7F 75 23,"もうムチャはしないで！
+みんなだっているんだから！
+ねっ！","이제 무리하지 마!
+모두 함께 있잖아!
+알았지!",6B AA 20 97 6A 61 6F 20 5C 23 1F 00 B2 8A 20 41 F8 C2 F6 20 5E B8 70 23 1F 00 9A EF 6F 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0153,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,152,0x235D2,0x21D60,16 00 01 00 80 72 93 7D 1F 00 7C 7D 5E 6A 78 55 65 72 57 23 1F 00 79 94 26 26 23,"<NAME:0001>のために
+なにかしてあげたい！
+でも……！","알론소에게
+뭔가 해주고 싶어!
+하지만...!",9A 9E F8 B4 7D 68 1F 00 40 F9 4A 20 74 A3 43 20 EC 69 23 1F 00 61 6F 55 28 28 28 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1; literal-name-runtime-bypass,PROVEN: this pointer occurs once in the confirmed Alonso scene. The unstable NAME expander is bypassed only here to prevent stale bytes between the name and particle.
+BATTLE_CHATTER_0154,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,153,0x233E6,0x21D64,36 F0 37 F0 73 64 6B 95 1F 00 8C F4 78 75 66 7C 57 75 6A 99 1F 00 55 72 6A 80 57 57 72 57 B5 C9 A0 5E 9D 24,"攻撃だけじゃ
+勝てっこないっしょ
+あたしのいいたいコトわかる？","공격만 해서는
+이길 수 없잖아
+내 말 알겠어?",D8 F5 B3 F4 55 20 74 6C 73 1F 00 6B 9C F6 20 8B 20 91 B8 70 1F 00 99 20 77 20 9A 94 69 24,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0155,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,154,0x234E5,0x21D68,70 F0 78 F2 7A 70 F0 CD F6 81 8C F4 23 F6 80 3A F0 9A 1F 00 70 6A 78 55 72 6A 81 8C F4 23 F6 80 8A F4 D3 F1 1F 00 26 26 7C A2 74 95 75 78,"無茶と無謀は勝利の敵よ
+そしてあたしは勝利の女神
+……なんちゃって","무모함은 승리의 적이야
+그리고 난 승리의 여신
+...농담이야",97 B2 41 F8 5D 20 2E F8 6A 75 20 41 F0 6B 4F 1F 00 63 6A 43 20 D1 20 2E F8 6A 75 20 95 B0 1F 00 28 28 28 6F F7 CA F7 6B 4F,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0156,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,155,0x235EF,0x21D6C,A2 94 58 20 A6 EB A6 EB 6C 9D A0 7F 23 1F 00 66 80 7E F0 5F 46 F0 60 68 5B 6C 9E 82 26 26 23,"んもぅ　イライラするわね！
+この体が動きさえすれば……！","정말 답답하네!
+이 몸이 움직이기만 한다면...!",93 77 20 CB F7 CB F7 61 84 23 1F 00 6B 20 2C F9 6B 20 E7 F6 9D F5 6B 6D 55 20 7A 72 80 28 28 28 23,,"[""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0157,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,156,0x2340C,0x21D70,74 99 57 7A AA F2 5F C1 F0 5E 75 72 5E 1F 00 6B F3 6A 57 73 9F 59 5F 1F 00 66 66 81 38 F0 39 F0 80 2D F0 5D F0 73 7C,"ちょいと間が悪かったか
+悔しいだろうが
+ここは防御の一手だな","타이밍이 좀 나빴군
+분하겠지만
+여기선 방어뿐이야",E8 F7 6B 62 F9 6B 20 60 F3 20 50 7F F3 ED 1F 00 CF 61 94 6F 55 1F 00 95 6D AF F6 20 71 F9 69 61 F5 6B 4F,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0158,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,157,0x23515,0x21D74,E1 EC 6C A2 7C 20 16 00 01 00 23 1F 00 66 66 81 38 F0 39 F0 79 96 9C 6C 67 6E C4 23,"ムリすんな　<NAME:0001>！
+ここは防御でやりすごせッ！","무리 마, <NAME:0001>!
+여긴 방어로 넘겨!",97 6A 20 5C 3D F6 20 16 00 01 00 23 1F 00 95 93 F6 20 71 F9 69 79 20 5C F7 B1 F4 23,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0159,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,158,0x23610,0x21D78,D5 EA C3 80 BC F2 7D 66 70 C3 E4 EA BB 55 9C 1F 00 70 57 76 5F D6 F1 24 F6 75 78 94 A2 73 6F 1F 00 16 00 01 00 23,"ピンチの中にこそチャンスあり
+そいつが真理ってもんだぜ
+<NAME:0001>！","위기 속에 기회가 있는 법
+그게 진리라는 거야
+<NAME:0001>!",3F F7 6D 20 49 F7 7D 20 6D CC 4A 20 5E 73 20 78 F9 1F 00 63 68 20 C5 6A 66 73 20 6E 4F 1F 00 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0160,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,159,0x23435,0x21D7C,5D 57 5D 57 20 64 75 66 59 1F 00 D5 EA C3 6B 95 A2 9A 1F 00 38 F0 39 F0 6A 7A 57 72 3C F0 5F 9A 62 7F 24,"おいおい　けっこう
+ピンチじゃんよ
+防御しといた方がよくね？","야, 제법
+위험하잖아
+방어하는 게 낫지 않아?",4F 3D F6 20 AA 78 F9 1F 00 3F F7 25 F1 61 B8 70 1F 00 71 F9 69 61 73 20 68 20 AD F0 6F 20 AE 70 24,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0161,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,160,0x23533,0x21D80,E1 C3 E4 6C 61 A2 73 9F 20 16 00 01 00 1F 00 74 75 72 54 D6 AB EF 27 6C 9D BB F2 7D 94 1F 00 7C 9E 75 78 80,"ムチャすぎんだろ　<NAME:0001>
+ちったぁフォローする身にも
+なれっての","너무 무리하잖아, <NAME:0001>
+엄호하는 사람 생각도
+좀 해 달라고",D3 97 20 97 6A 61 B8 70 3D F6 20 16 00 01 00 1F 00 EE F0 7D F3 61 73 20 7E BE 20 B6 E0 4E 1F 00 60 F3 20 74 20 C9 F7 66 43,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0162,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,161,0x23638,0x21D84,74 62 6A 99 27 23 1F 00 7E F0 5F 46 F0 5E 7F 5A 23 20 1F 00 AE DF EA 6C 9D 6A 5E 7F 5A 80 5E 9A 22,"ちくしょー！
+体が動かねぇ！　
+ガマンするしかねぇのかよ？","빌어먹을!
+몸이 움직이지 않아!
+그냥 참아야 하나?",E0 F3 69 C3 A1 23 1F 00 2C F9 6B 20 E7 F6 9D F5 6B 6F 20 AE 70 23 1F 00 63 58 F7 20 C0 F7 70 4F 20 61 50 24,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0163,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,162,0x2345A,0x21D88,2D F4 3F F0 81 38 F0 39 F0 79 52 F1 5B 78 23 1F 00 70 59 6C 9E 82 57 F0 81 6E F3 64 9D A0 1F 00 4C F0 6D 26 26 23,"今回は防御で耐えて！
+そうすれば道は開けるわ
+必ず……！","이번엔 방어로 버텨!
+그러면 길이 열릴 거야
+반드시...!",6B 75 F9 DA F5 20 71 F9 69 79 20 B3 B5 F2 23 1F 00 63 A6 80 20 9C F6 6B 20 B5 F3 B7 F8 20 6E 4F 1F 00 6A F9 30 F8 88 28 28 28 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0164,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,163,0x23559,0x21D8C,55 7C 72 84 7A 9C 79 1F 00 EB F0 75 78 9D A2 6B 95 7C 57 80 23 1F 00 2D F5 AA F2 A1 61 F2 6B 78 20 16 00 01 00 23,"あなたひとりで
+戦ってるんじゃないの！
+仲間を信じて　<NAME:0001>！","당신 혼자
+싸우는 게 아니야!
+동료를 믿어, <NAME:0001>!",CE F7 B0 20 C4 F3 81 1F 00 68 F8 83 73 20 68 20 70 5B 4F 23 1F 00 E7 F7 A4 F8 87 20 60 F9 69 3D F6 20 16 00 01 00 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0165,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,164,0x2365B,0x21D90,16 00 01 00 5F D5 EA C3 80 66 80 75 F1 B1 F3 1F 00 55 7C 72 7C 9B 7B 59 6C 9D 80 1F 00 C8 E6 EA B3 ED 26 26,"<NAME:0001>がピンチのこの状況
+あなたならどうするの
+デュンケル……","<NAME:0001>이 위험한 지금
+당신이라면 어떻게 할까
+둔켈...",16 00 01 00 6B 20 3F F7 25 F1 7A 20 6F C7 1F 00 CE F7 B0 6B 66 80 20 69 5F F8 68 20 AD 7F 1F 00 26 F8 E7 F4 28 28 28,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0166,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,165,0x23482,0x21D94,B7 F2 DD F1 5F AA F2 7D 83 F1 57 90 6E A2 1F 00 57 90 81 72 73 1F 00 52 F1 5B 78 62 73 68 57 26 26 23,"援護が間に合いません
+いまはただ
+耐えてください……！","엄호가 늦었습니다
+지금은 그저
+버텨 주십시오...!",EE F0 7D F3 4A 20 ED F6 9E 29 F8 5B 72 1F 00 6F C7 5D 20 63 7B 1F 00 B3 B5 F2 20 A3 5E F8 88 90 28 28 28 23,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0167,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,166,0x23581,0x21D98,84 7A 9C 80 70 F0 24 F6 5F 1F 00 7B F1 9C F1 80 8C F3 8F F3 A1 90 F4 62 66 7A 94 55 9D 1F 00 7B 59 5E 20 70 9E A1 92 F0 9E 7C 57 79 26 26,"ひとりの無理が
+全滅の危機を招くこともある
+どうか　それを忘れないで……","한 사람의 무리가
+전멸의 위기를 부를 수 있습니다
+부디 잊지 마십시오...",7A 20 7E BE 75 20 97 6A 4A 1F 00 BB 20 F9 75 20 3F F7 6D 87 20 A4 87 20 8B 20 5E 29 F8 5B 72 1F 00 A4 D7 20 D9 F8 6F 20 5C 5E F8 88 90 28 28 28,,"[""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0168,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,167,0x23681,0x21D9C,52 F1 5B 2D F2 88 66 7A 7D 81 7D F3 9E 78 57 90 6C 1F 00 55 7C 72 94 70 9E A1 4F F0 5B 78 1F 00 16 00 01 00 26 26 23,"耐え忍ぶことには慣れています
+あなたもそれを覚えて
+<NAME:0001>……！","견디는 일에는 익숙합니다
+당신도 기억하세요
+<NAME:0001>...!",B5 F4 D7 73 20 92 7D 73 20 61 F8 98 F7 43 F8 5B 72 1F 00 CE F7 B0 4E 20 6D 89 F9 61 C6 52 1F 00 16 00 01 00 28 28 28 23,,"[""LINE_BREAK"", ""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0169,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,168,0x236AA,0x21DA0,16 00 01 00 23 1F 00 16 00 02 00 5F DF BC A6 71 23,"<NAME:0001>！
+<NAME:0002>がマズイぞ！","<NAME:0001>!
+<NAME:0002>이 위험해!",16 00 01 00 23 1F 00 16 00 02 00 6B 20 3F F7 25 F1 74 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0170,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,169,0x2373D,0x21DA4,16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 B7 F2 DD F1 6A 9A 59 6F 23,"<NAME:0001>！
+<NAME:0002>を
+援護しようぜ！","<NAME:0001>!
+<NAME:0002>을
+엄호하자!",16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 EE F0 7D F3 61 81 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0171,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,170,0x23802,0x21DA8,AD F2 7D D4 F5 EB F4 81 7C 68 70 59 73 7C 1F 00 16 00 01 00 80 ED F3 60 7C BA F0 A1 6A 9A 59 6F 23,"特に問題はなさそうだな
+<NAME:0001>の好きな事をしようぜ！","별문제는 없어 보여
+<NAME:0001>이 하고 싶은 걸 해!",7E F9 31 F9 AA 73 20 91 69 20 89 95 1F 00 16 00 01 00 6B 20 61 43 20 EC 5D 20 C0 20 74 23,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0172,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,171,0x236BD,0x21DAC,16 00 01 00 23 1F 00 16 00 02 00 5F 8C F3 7C 57 79 6C 23,"<NAME:0001>！
+<NAME:0002>が危ないです！","<NAME:0001>!
+<NAME:0002>이 위험합니다!",16 00 01 00 23 1F 00 16 00 02 00 6B 20 3F F7 25 F1 43 F8 5B 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0173,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,172,0x23756,0x21DB0,16 00 01 00 23 1F 00 16 00 02 00 A1 B7 F2 DD F1 6A 78 69 F0 68 57 23,"<NAME:0001>！
+<NAME:0002>を援護して下さい！","<NAME:0001>!
+<NAME:0002>을 엄호해 주세요!",16 00 01 00 23 1F 00 16 00 02 00 A1 20 EE F0 7D F3 74 20 A3 C6 52 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0174,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,173,0x23825,0x21DB4,91 7C 68 A2 D4 F5 EB F4 7C 57 91 72 57 79 6C 1F 00 16 00 01 00 68 A2 80 81 F1 59 9A 59 7D 22 F1 46 F0 6A 78 1F 00 91 72 9B 57 5E 5F 79 6C 5E 24,"みなさん問題ないみたいです
+<NAME:0001>さんの思うように行動して
+みたらいかがですか？","모두 괜찮아 보입니다
+<NAME:0001>의 판단대로
+행동하는 게 어떨까요?",B2 8A 20 48 F6 AC F7 70 20 89 C8 F8 5B 72 1F 00 16 00 01 00 75 20 65 F4 C7 F7 8D 79 1F 00 A5 E7 F7 61 73 20 68 20 69 5D F8 7F 52 24,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0175,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,174,0x236D2,0x21DB8,16 00 01 00 23 1F 00 16 00 02 00 5F DF BC A6 A0 23,"<NAME:0001>！
+<NAME:0002>がマズイわ！","<NAME:0001>!
+<NAME:0002>이 위험해!",16 00 01 00 23 1F 00 16 00 02 00 6B 20 3F F7 25 F1 74 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0176,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,175,0x2376F,0x21DBC,16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 B7 F2 DD F1 6A 78 7F 23,"<NAME:0001>！
+<NAME:0002>を
+援護してね！","<NAME:0001>!
+<NAME:0002>을
+엄호해 줘!",16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 EE F0 7D F3 74 20 27 F5 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0177,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,176,0x23857,0x21DC0,AD F2 7D D4 F5 EB F4 81 7C 68 70 59 7F 1F 00 16 00 01 00 80 ED F3 60 7C BA F0 A1 6A 72 9B 24,"特に問題はなさそうね
+<NAME:0001>の好きな事をしたら？","별문제는 없어 보여
+<NAME:0001>이 하고 싶은 걸 해",7E F9 31 F9 AA 73 20 91 69 20 89 95 1F 00 16 00 01 00 6B 20 61 43 20 EC 5D 20 C0 20 74,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0178,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,177,0x236E5,0x21DC4,16 00 01 00 23 1F 00 16 00 02 00 5F 8C F3 7C 57 71 23,"<NAME:0001>！
+<NAME:0002>が危ないぞ！","<NAME:0001>!
+<NAME:0002>이 위험해!",16 00 01 00 23 1F 00 16 00 02 00 6B 20 3F F7 25 F1 74 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0179,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,178,0x23787,0x21DC8,16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 B7 F2 DD F1 6C 9D A2 73 23,"<NAME:0001>！
+<NAME:0002>を
+援護するんだ！","<NAME:0001>!
+<NAME:0002>을
+엄호해!",16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 EE F0 7D F3 74 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0180,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,179,0x23878,0x21DCC,91 A2 7C D4 F5 EB F4 81 70 F0 57 7C 1F 00 16 00 01 00 80 ED F3 60 7D 6A 7C 23,"みんな問題は無いな
+<NAME:0001>の好きにしな！","모두 문제없어
+<NAME:0001> 마음대로 해!",B2 8A 20 31 F9 AA 91 69 1F 00 16 00 01 00 20 5C B1 8D 79 20 74 23,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0181,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,180,0x236F9,0x21DD0,16 00 01 00 23 1F 00 16 00 02 00 5F D5 EA C3 73 71 23 1F 00,"<NAME:0001>！
+<NAME:0002>がピンチだぞ！
+","<NAME:0001>!
+<NAME:0002>이 위험해!
+",16 00 01 00 23 1F 00 16 00 02 00 6B 20 3F F7 25 F1 74 23 1F 00,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0182,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,181,0x237A0,0x21DD4,16 00 01 00 23 1F 00 16 00 02 00 5F E5 EB 9E 70 59 73 6F 23 1F 00 B7 F2 DD F1 7D 3F F0 75 78 96 9E 9A 23,"<NAME:0001>！
+<NAME:0002>がヤラれそうだぜ！
+援護に回ってやれよ！","<NAME:0001>!
+<NAME:0002>이 당할 것 같아!
+엄호하러 가!",16 00 01 00 23 1F 00 16 00 02 00 6B 20 CE F7 AD 20 53 20 B5 70 23 1F 00 EE F0 7D F3 61 A6 20 4A 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0183,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,182,0x23894,0x21DD8,2D F4 A2 C9 B5 D4 F5 EB F4 7C 68 70 59 6B 95 A2 1F 00 16 00 01 00 5F 96 9C 72 57 9A 59 7D 1F 00 96 9E 82 51 F1 57 A2 6B 95 7F 27 5E 24,"今んトコ問題なさそうじゃん
+<NAME:0001>がやりたいように
+やれば良いんじゃねーか？","지금은 문제없어 보여
+<NAME:0001>이 하고 싶은 대로
+하면 되잖아?",6F C7 5D 20 31 F9 AA 91 69 20 89 95 1F 00 16 00 01 00 6B 20 61 43 20 EC 5D 20 8D 79 1F 00 61 80 20 E1 B8 70 24,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0184,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,183,0x2370F,0x21DDC,16 00 01 00 23 1F 00 16 00 02 00 5F 8C F3 4D F1 79 6C 23,"<NAME:0001>！
+<NAME:0002>が危険です！","<NAME:0001>!
+<NAME:0002>이 위험합니다!",16 00 01 00 23 1F 00 16 00 02 00 6B 20 3F F7 25 F1 43 F8 5B 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0185,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,184,0x237C5,0x21DE0,16 00 01 00 23 1F 00 16 00 02 00 80 D6 AB EF 27 7D 1F 00 3F F0 75 78 69 F0 68 57 23,"<NAME:0001>！
+<NAME:0002>のフォローに
+回って下さい！","<NAME:0001>!
+<NAME:0002>을
+지원해 주세요!",16 00 01 00 23 1F 00 16 00 02 00 A1 1F 00 6F 30 F7 74 20 A3 C6 52 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0186,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,185,0x238C3,0x21DE4,16 00 01 00 23 1F 00 2D F4 81 AD F2 7D D4 F5 EB F4 55 9C 90 6E A2 9A 23 1F 00 E9 F0 84 F1 6A 78 57 60 90 6A 99 59 23,"<NAME:0001>！
+今は特に問題ありませんよ！
+用心していきましょう！","<NAME:0001>!
+지금은 문제없습니다!
+조심해서 갑시다!",16 00 01 00 23 1F 00 6F C7 5D 20 31 F9 AA 91 29 F8 5B 72 23 1F 00 CE 5C F8 74 6C 20 38 F2 88 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0187,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,186,0x23724,0x21DE8,16 00 01 00 68 A2 23 1F 00 16 00 02 00 68 A2 5F 8C F3 4D F1 79 6C 23,"<NAME:0001>さん！
+<NAME:0002>さんが危険です！","<NAME:0001> 씨!
+<NAME:0002> 씨가 위험합니다!",16 00 01 00 20 CB 23 1F 00 16 00 02 00 20 CB 4A 20 3F F7 25 F1 43 F8 5B 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0188,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,187,0x237E3,0x21DEC,16 00 01 00 68 A2 23 1F 00 16 00 02 00 68 A2 A1 1F 00 B7 F2 DD F1 6A 78 69 F0 68 57 23,"<NAME:0001>さん！
+<NAME:0002>さんを
+援護して下さい！","<NAME:0001> 씨!
+<NAME:0002> 씨를
+엄호해 주세요!",16 00 01 00 20 CB 23 1F 00 16 00 02 00 20 CB 87 1F 00 EE F0 7D F3 74 20 A3 C6 52 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0002>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0189,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,188,0x238EC,0x21DF0,91 7C 68 A2 D4 F5 EB F4 7C 57 91 72 57 79 6C 7F 1F 00 16 00 01 00 68 A2 80 3B F1 81 F1 79 7B 59 71,"みなさん問題ないみたいですね
+<NAME:0001>さんの意思でどうぞ","모두 괜찮아 보이네요
+<NAME:0001> 씨의 뜻대로 하세요",B2 8A 20 48 F6 AC F7 70 20 89 6B 84 52 1F 00 16 00 01 00 20 CB 75 20 BD F7 8D 79 20 61 C6 52,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0190,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,189,0x2390F,0x21DF4,16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 5F 9B F0 A1 DF F2 62 7C 9A,"<NAME:0001>！
+状況は悪くないが気を抜くなよ","<NAME:0001>!
+상황은 좋지만 방심하지 마",16 00 01 00 23 1F 00 BD BA F4 5D 20 BA 6F 55 20 71 F9 5C F8 61 6F 20 5C,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0191,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,190,0x23A05,0x21DF8,16 00 01 00 1F 00 DA F5 26 F5 6C 9D 7C 9A 23 1F 00 60 F3 5F 55 9D 5E A0 5E 9B 7C 57 6F 23,"<NAME:0001>
+油断するなよ！
+何があるかわからないぜ！","<NAME:0001>
+방심하지 마!
+무슨 일이 생길지 몰라!",16 00 01 00 1F 00 71 F9 5C F8 61 6F 20 5C 23 1F 00 97 D1 F7 20 92 6B 20 B6 9C F6 6F 20 2B F9 66 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0192,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,191,0x23AF2,0x21DFC,16 00 01 00 42 F0 5A F1 5B F1 5E 24 1F 00 B8 F1 57 80 81 90 F1 2D F0 6B F6 73 6F 23 1F 00 66 59 57 59 47 F0 66 70 5C F1 32 F5 9F 59 7C 23,"<NAME:0001>大丈夫か？
+辛いのは皆一緒だぜ！
+こういう時こそ頑張ろうな！","<NAME:0001>, 괜찮아?
+힘든 건 모두 같아!
+이럴 때일수록 힘내자!",16 00 01 00 3D F6 20 48 F6 AC F7 70 24 1F 00 85 F7 CD 20 8F 20 B2 8A 20 B5 70 23 1F 00 6B 88 F8 20 C4 92 8B 9D F8 20 85 F7 99 81 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0193,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,192,0x2392B,0x21E00,16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 79 6C 7F 23 1F 00 66 80 A2 F2 39 F1 79 5C F1 32 F5 9C 90 6A 99 59 23,"<NAME:0001>！
+状況は悪くないですね！
+この調子で頑張りましょう！","<NAME:0001>!
+상황은 나쁘지 않습니다!
+이대로 힘내세요!",16 00 01 00 23 1F 00 BD BA F4 5D 20 50 A6 F5 6F 20 AE 29 F8 5B 72 23 1F 00 6B 8D 79 20 85 F7 99 C6 52 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0194,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,193,0x23A25,0x21E04,16 00 01 00 6A 75 5E 9C 6A 78 23 1F 00 55 7C 72 5F 62 F2 9C 7C A2 79 6C 23,"<NAME:0001>しっかりして！
+あなたが頼りなんです！","<NAME:0001>, 정신 차려!
+당신을 믿고 있습니다!",16 00 01 00 3D F6 20 93 B0 20 61 F7 AB 23 1F 00 CE F7 B0 A1 20 60 F9 43 20 5E 29 F8 5B 72 23,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0195,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,194,0x23B22,0x21E08,42 F0 5A F1 5B F1 24 16 00 01 00 24 1F 00 B8 F1 57 BA F0 94 55 9C 90 6C 64 7B 1F 00 2D F0 6B F6 7D 5C F1 32 F5 9C 90 6A 99 59 7F 23,"大丈夫？<NAME:0001>？
+辛い事もありますけど
+一緒に頑張りましょうね！","괜찮아요, <NAME:0001>?
+힘든 일도 있지만
+함께 힘내요!",48 F6 AC F7 70 52 3D F6 20 16 00 01 00 24 1F 00 85 F7 CD 20 92 4E 20 5E 6F 55 1F 00 41 F8 C2 F6 20 85 F7 99 52 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0196,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,195,0x23955,0x21E0C,16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 64 7B 1F 00 9B F0 A1 DF F2 57 74 95 73 93 9A 23,"<NAME:0001>！
+状況は悪くないけど
+気を抜いちゃだめよ！","<NAME:0001>!
+상황은 나쁘지 않지만
+방심하면 안 돼!",16 00 01 00 23 1F 00 BD BA F4 5D 20 50 A6 F5 6F 20 AE 6F 55 1F 00 71 F9 5C F8 61 80 20 9B 20 E9 F7 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0197,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,196,0x23A40,0x21E10,16 00 01 00 1F 00 DA F5 26 F5 6A 7C 57 79 7F 23 1F 00 60 F3 5F 55 9D 5E A0 5E 9B 7C 57 A0 23,"<NAME:0001>
+油断しないでね！
+何があるかわからないわ！","<NAME:0001>
+방심하지 마!
+무슨 일이 생길지 몰라!",16 00 01 00 1F 00 71 F9 5C F8 61 6F 20 5C 23 1F 00 97 D1 F7 20 92 6B 20 B6 9C F6 6F 20 2B F9 66 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0198,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,197,0x23B50,0x21E14,16 00 01 00 42 F0 5A F1 5B F1 24 1F 00 66 80 EB F0 EC F0 5F C3 F1 A0 75 72 9B 1F 00 86 F0 6A 9F F3 94 59 5E 6A 9B 24,"<NAME:0001>大丈夫？
+この戦闘が終わったら
+少し休もうかしら？","<NAME:0001>, 괜찮아?
+이 전투가 끝나면
+조금 쉴까?",16 00 01 00 3D F6 20 48 F6 AC F7 70 24 1F 00 6B 20 BB 64 F2 4A 20 EE F6 50 80 1F 00 CE C7 20 B3 F5 7F 24,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0199,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,198,0x23978,0x21E18,16 00 01 00 23 1F 00 EB F0 EC F0 81 34 F1 C5 F1 90 79 9B F0 A1 DF F2 62 7C 9A 23,"<NAME:0001>！
+戦闘は最後まで気を抜くなよ！","<NAME:0001>!
+전투는 끝까지 방심하지 마!",16 00 01 00 23 1F 00 BB 64 F2 73 20 EE F6 7F 6F 20 71 F9 5C F8 61 6F 20 5C 23,,"[""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0200,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,199,0x23A61,0x21E1C,16 00 01 00 23 1F 00 6A 75 5E 9C 6A 7F 5A 7A 1F 00 84 75 62 9C 69 F1 68 9E 74 90 59 71 23,"<NAME:0001>！
+しっかりしねぇと
+ひっくり返されちまうぞ！","<NAME:0001>!
+정신 차리지 않으면
+역전당할 거야!",16 00 01 00 23 1F 00 93 B0 20 61 F7 6A 6F 20 AE 82 80 1F 00 71 F3 BB CE F7 AD 20 6E 4F 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0201,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,200,0x23B79,0x21E20,16 00 01 00 23 42 F0 5A F1 5B F1 5E 24 1F 00 66 80 75 F1 B1 F3 A1 C0 F0 9C DF F2 64 9B 9E 9D 5E 1F 00 E3 F5 88 F5 79 94 4D F5 64 78 91 9D 5E 24,"<NAME:0001>！大丈夫か？
+この状況を切り抜けられるか
+夕飯でも賭けてみるか？","<NAME:0001>! 괜찮아?
+이 상황을 헤쳐 나갈지
+저녁 식사라도 걸까?",16 00 01 00 23 20 48 F6 AC F7 70 24 1F 00 6B 20 BD BA F4 A1 20 E4 F1 45 F1 20 50 B5 F1 6F 1F 00 7B DA F4 20 EB 7E 66 4E 20 C0 7F 24,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0202,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,201,0x23995,0x21E24,60 F3 5F 55 75 78 94 34 F1 C5 F1 90 79 1F 00 9B F0 81 DF F2 64 7C 57 9A 7C 3D F6 16 00 01 00,"何があっても最後まで
+気は抜けないよな、<NAME:0001>","무슨 일이 있어도 끝까지
+방심할 수 없지, <NAME:0001>",97 D1 F7 20 92 6B 20 5E 69 4E 20 EE F6 7F 6F 1F 00 71 F9 5C F8 AD 20 8B 20 91 6F 3D F6 20 16 00 01 00,,"[""LINE_BREAK"", ""<NAME:0001>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0203,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,202,0x23A81,0x21E28,6A 75 5E 9C 96 9F 59 6E 23 1F 00 16 00 01 00 5F 6A 75 5E 9C 6A 7C 57 7A 1F 00 E5 D1 62 7C 75 74 90 59 5E 9B 7C 23,"しっかりやろうせ！
+<NAME:0001>がしっかりしないと
+ヤバくなっちまうからな！","제대로 하자고!
+<NAME:0001>이 정신 못 차리면
+위험해질 테니까!",AA 8D 79 20 61 81 43 23 1F 00 16 00 01 00 6B 20 93 B0 20 2D F9 20 61 F7 6A 80 1F 00 3F F7 25 F1 74 2F F6 20 D8 5B 7F 23,,"[""LINE_BREAK"", ""<NAME:0001>"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0204,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,203,0x23BAB,0x21E2C,42 F0 5A F1 5B F1 5E 24 16 00 01 00 1F 00 68 75 68 7A C3 F1 A0 9B 6E 78 1F 00 E2 B9 7D 6A 9A 59 6F 25 23,"大丈夫か？<NAME:0001>
+さっさと終わらせて
+メシにしようぜ～！","괜찮아, <NAME:0001>?
+어서 끝내고
+밥 먹으러 가자!",48 F6 AC F7 70 3D F6 20 16 00 01 00 24 1F 00 69 6C 20 EE F6 99 43 1F 00 70 F9 20 C3 82 A6 20 4A 81 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0205,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,204,0x239B6,0x21E30,16 00 01 00 23 1F 00 75 F1 B1 F3 81 C1 F0 62 7C 57 79 6C 9A 23 1F 00 34 F1 C5 F1 90 79 E9 F0 84 F1 6A 90 6A 99 59 23,"<NAME:0001>！
+状況は悪くないですよ！
+最後まで用心しましょう！","<NAME:0001>!
+상황은 나쁘지 않습니다!
+끝까지 조심합시다!",16 00 01 00 23 1F 00 BD BA F4 5D 20 50 A6 F5 6F 20 AE 29 F8 5B 72 23 1F 00 EE F6 7F 6F 20 CE 5C F8 43 F8 88 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0206,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,205,0x23AA9,0x21E34,16 00 01 00 23 1F 00 34 F1 C5 F1 90 79 DA F5 26 F5 B7 F3 C3 F0 79 6C 9A 23 1F 00,"<NAME:0001>！
+最後まで油断禁物ですよ！
+","<NAME:0001>!
+끝까지 방심은 금물입니다!
+",16 00 01 00 23 1F 00 EE F6 7F 6F 20 71 F9 5C F8 5D 20 C7 EA C8 F8 5B 72 23 1F 00,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0207,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,206,0x23BD0,0x21E38,16 00 01 00 42 F0 5A F1 5B F1 79 6C 5E 24 1F 00 59 F2 63 4C F0 ED F5 81 7C 57 79 6C 5E 9B 1F 00 74 F3 4F F2 7D AB F4 A2 79 57 60 90 6A 99 59 23,"<NAME:0001>大丈夫ですか？
+急ぐ必要はないですから
+確実に進んでいきましょう！","<NAME:0001>, 괜찮습니까?
+서두를 필요는 없습니다
+확실하게 나아갑시다!",16 00 01 00 3D F6 20 48 F6 AC F7 29 F8 5B 7F 24 1F 00 6C 8A 87 20 A1 F7 52 73 20 91 29 F8 5B 72 1F 00 92 F4 53 F8 61 68 20 50 70 38 F2 88 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0208,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,207,0x239DF,0x21E3C,16 00 01 00 68 A2 23 1F 00 34 F1 C5 F1 90 79 9B F0 A1 DF F2 5E 7C 57 79 1F 00 5C F1 32 F5 9C 90 6A 99 59 23,"<NAME:0001>さん！
+最後まで気を抜かないで
+頑張りましょう！","<NAME:0001> 씨!
+끝까지 방심하지 말고
+힘내세요!",16 00 01 00 20 CB 23 1F 00 EE F6 7F 6F 20 71 F9 5C F8 61 6F 20 77 43 1F 00 85 F7 99 C6 52 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0209,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,208,0x23AC6,0x21E40,16 00 01 00 68 A2 6A 75 5E 9C 6A 78 23 1F 00 55 7C 72 5F 5C F1 32 F5 9E 7C 57 7A 1F 00 90 F1 5F 5C F1 32 F5 9E 90 6E A2 9A 23,"<NAME:0001>さんしっかりして！
+あなたが頑張れないと
+皆が頑張れませんよ！","<NAME:0001> 씨, 힘내세요!
+당신이 힘내지 않으면
+모두 힘낼 수 없습니다!",16 00 01 00 20 CB 3D F6 20 85 F7 99 C6 52 23 1F 00 CE F7 B0 6B 20 85 F7 99 6F 20 AE 82 80 1F 00 B2 8A 20 85 F7 4E F7 20 8B 20 91 29 F8 5B 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0210,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,209,0x23C02,0x21E44,42 F0 5A F1 5B F1 79 6C 5E 16 00 01 00 68 A2 24 1F 00 2D F4 5F 2D F0 7C F2 B9 F0 6A 57 7A 66 9F 79 6C 5F 1F 00 66 9E A1 9C F2 9C C0 F0 9E 82 D2 F1 5F 81 F0 5B 90 6C,"大丈夫ですか<NAME:0001>さん？
+今が一番苦しいところですが
+これを乗り切れば光が見えます","괜찮습니까, <NAME:0001> 씨?
+지금이 가장 힘들지만
+넘기면 빛이 보일 겁니다",48 F6 AC F7 29 F8 5B 7F 3D F6 20 16 00 01 00 20 CB 24 1F 00 6F C7 6B 20 4A 86 20 85 F7 85 6F 55 1F 00 5C F7 6D 80 20 2B F4 6B 20 89 92 20 3C F4 5B 72,,"[""<NAME:0001>"", ""LINE_BREAK"", ""LINE_BREAK""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0211,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,231,0x23C65,0x21E9C,16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 6A 5E 7C 57 9A 7C 24,"<NAME:0001>！
+<NAME:0003>には
+<NAME:0005>しかないよな？","<NAME:0001>!
+<NAME:0003>에게는
+<NAME:0005>뿐이지?",16 00 01 00 23 1F 00 16 00 03 00 7D 68 73 1F 00 16 00 05 00 61 F5 6B 6F 24,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0212,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,232,0x23D33,0x21EA0,16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 73 75 72 71 23,"<NAME:0003>は
+<NAME:0005>が弱点だったぞ！","<NAME:0003>은
+<NAME:0005>이 약점이야!",16 00 03 00 5D 1F 00 16 00 05 00 6B 20 5A F9 40 F1 6B 4F 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0213,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,233,0x23DD5,0x21EA4,16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 73 9A 7C 23,"<NAME:0003>には
+<NAME:0005>が有効だよな！","<NAME:0003>에게는
+<NAME:0005>이 효과적이야!",16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 CA F4 EC F5 41 F0 6B 4F 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0214,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,234,0x23C81,0x21EA8,16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 79 6C 23,"<NAME:0001>！
+<NAME:0003>には
+<NAME:0005>が有効です！","<NAME:0001>!
+<NAME:0003>에게는
+<NAME:0005>이 효과적입니다!",16 00 01 00 23 1F 00 16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 CA F4 EC F5 41 F0 C8 F8 5B 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=2,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0215,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,235,0x23D4A,0x21EAC,16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 79 6C 23,"<NAME:0003>は
+<NAME:0005>が弱点です！","<NAME:0003>은
+<NAME:0005>이 약점입니다!",16 00 03 00 5D 1F 00 16 00 05 00 6B 20 5A F9 40 F1 C8 F8 5B 72 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=3,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0216,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,236,0x23DEC,0x21EB0,16 00 03 00 7D 81 1F 00 16 00 05 00 79 42 F0 5A F1 5B F1 79 6C 23,"<NAME:0003>には
+<NAME:0005>で大丈夫です！","<NAME:0003>에게는
+<NAME:0005>이면 됩니다!",16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 80 20 22 F8 5B 72 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=3,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0217,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,237,0x23C9E,0x21EB4,16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 6A 5E 7C 57 A0 9A 7F 24,"<NAME:0001>！
+<NAME:0003>には
+<NAME:0005>しかないわよね？","<NAME:0001>!
+<NAME:0003>에게는
+<NAME:0005>뿐이지?",16 00 01 00 23 1F 00 16 00 03 00 7D 68 73 1F 00 16 00 05 00 61 F5 6B 6F 24,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0218,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,238,0x23D5F,0x21EB8,16 00 03 00 81 1F 00 16 00 05 00 5F A2 F1 5E F2 73 75 72 A0 9A 23,"<NAME:0003>は
+<NAME:0005>が弱点だったわよ！","<NAME:0003>은
+<NAME:0005>이 약점이었어!",16 00 03 00 5D 1F 00 16 00 05 00 6B 20 5A F9 40 F1 6B 9E 69 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0219,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,239,0x23E04,0x21EBC,16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 9A 23,"<NAME:0003>には
+<NAME:0005>が有効よ！","<NAME:0003>에게는
+<NAME:0005>이 효과적이야!",16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 CA F4 EC F5 41 F0 6B 4F 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0220,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,240,0x23CBB,0x21EC0,16 00 01 00 23 1F 00 16 00 03 00 81 1F 00 16 00 05 00 5F 88 F1 BC F0 73 71 23,"<NAME:0001>！
+<NAME:0003>は
+<NAME:0005>が有効だぞ！","<NAME:0001>!
+<NAME:0003>에게는
+<NAME:0005>이 효과적이야!",16 00 01 00 23 1F 00 16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 CA F4 EC F5 41 F0 6B 4F 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0221,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,241,0x23D77,0x21EC4,16 00 03 00 7D 81 1F 00 16 00 05 00 5F 78 F1 23 F9 5D F0 E6 F0 73 71 23,"<NAME:0003>には
+<NAME:0005>が常套手段だぞ！","<NAME:0003>에게는
+<NAME:0005>이 정석이야!",16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 93 E2 6B 4F 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0222,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,242,0x23E19,0x21EC8,16 00 03 00 7D 81 1F 00 16 00 05 00 5F 51 F1 62 BC F0 62 71 23,"<NAME:0003>には
+<NAME:0005>が良く効くぞ！","<NAME:0003>에게는
+<NAME:0005>이 잘 통해!",16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 58 F9 20 55 F2 74 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0223,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,243,0x23CD7,0x21ECC,16 00 01 00 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 79 AE C4 C5 EC 22 F1 66 59 6F 23,"<NAME:0001>！
+<NAME:0003>には
+<NAME:0005>でガッツリ行こうぜ！","<NAME:0001>!
+<NAME:0003>에게는
+<NAME:0005>으로 세게 가자!",16 00 01 00 23 1F 00 16 00 03 00 7D 68 73 1F 00 16 00 05 00 82 79 20 C6 68 20 4A 81 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0224,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,244,0x23D91,0x21ED0,16 00 03 00 7D 81 1F 00 16 00 05 00 5F A6 A6 7C F3 6B 79 BC F0 62 6F 23,"<NAME:0003>には
+<NAME:0005>がイイ感じで効くぜ！","<NAME:0003>에게는
+<NAME:0005>이 잘 통할 거야!",16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 58 F9 20 55 F2 AD 20 6E 4F 23,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0225,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,245,0x23E30,0x21ED4,16 00 03 00 81 1F 00 16 00 05 00 6A 5E 7C 57 73 9F 24,"<NAME:0003>は
+<NAME:0005>しかないだろ？","<NAME:0003>은
+<NAME:0005>뿐이잖아?",16 00 03 00 5D 1F 00 16 00 05 00 61 F5 6B B8 70 24,,"[""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.
+BATTLE_CHATTER_0226,BATTLE_CHATTER,onscreen_tactical_chatter,SYS/GR3.MDZ,GR3.MDT,table@0x21B00,,249,0x23D14,0x21EE4,16 00 01 00 68 A2 23 1F 00 16 00 03 00 7D 81 1F 00 16 00 05 00 5F 88 F1 BC F0 79 6C 23,"<NAME:0001>さん！
+<NAME:0003>には
+<NAME:0005>が有効です！","<NAME:0001> 씨!
+<NAME:0003>에게는
+<NAME:0005>이 효과적입니다!",16 00 01 00 20 CB 23 1F 00 16 00 03 00 7D 68 73 1F 00 16 00 05 00 6B 20 CA F4 EC F5 41 F0 C8 F8 5B 72 23,,"[""<NAME:0001>"", ""LINE_BREAK"", ""<NAME:0003>"", ""LINE_BREAK"", ""<NAME:0005>""]",TRANSLATED,NO,occurrences=1,PROVEN: 252-entry relative-offset table; inline NAME and line-break controls preserved.

@@ -1,0 +1,31 @@
+id,category,sub_category,source_file,inner_file,record_id,scene_id,string_index,original_offset,pointer_offset,jp_raw_hex,jp_text,kr_text,kr_encoded_hex,speaker,control_codes,status,game_verified,translator_note,review_note,slot_capacity
+BATTLE_TYPE_0004,BATTLE,battle_type,BATTLE.BIN,,BATTLE_TYPE_TABLE,,3,0x091697,,E8 F7 89 F4,補助,보조,UNASSIGNED,,[],TRANSLATED,NO,전투 도움말 Type 값의 누락 항목.,4바이트 고정 슬롯. 인게임 미검증.,4
+BATTLE_RANGE_0002,BATTLE,battle_range,BATTLE.BIN,,BATTLE_RANGE_TABLE,,1,0x0916D2,,41 F1 80 F0,円形,원형,UNASSIGNED,,[],TRANSLATED,NO,전투 도움말 Range 값의 누락 항목.,4바이트 고정 슬롯. 인게임 미검증.,4
+BATTLE_RANGE_0003,BATTLE,battle_range,BATTLE.BIN,,BATTLE_RANGE_TABLE,,2,0x0916D7,,3A F5 A1 F0,直線,직선,UNASSIGNED,,[],TRANSLATED,NO,전투 도움말 Range 값의 누락 항목.,4바이트 고정 슬롯. 인게임 미검증.,4
+BATTLE_RANGE_0004,BATTLE,battle_range,BATTLE.BIN,,BATTLE_RANGE_TABLE,,3,0x0916DC,,BE F8 80 F0,扇形,호형,UNASSIGNED,,[],TRANSLATED,NO,전투 도움말 Range 값. 사용자가 짧은 표기를 호형으로 확정.,4바이트 고정 슬롯. 한글 2글자로 인플레이스 적용 가능. 인게임 미검증.,4
+BATTLE_MSG_0034,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,33,0x090D58,,38 F0 39 F0,防御,방어,UNASSIGNED,,[],TRANSLATED,NO,전투 방어 선택 시 단독 표시 문자열.,별도 복제 슬롯 확인.,4
+BATTLE_MSG_0035,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,34,0x093C50,,38 F0 39 F0,防御,방어,UNASSIGNED,,[],TRANSLATED,NO,전투 방어 선택 시 단독 표시 문자열.,명령표 인접 복제 슬롯 확인.,4
+BATTLE_MSG_0036,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,35,0x091794,,EB F0 EC F0 A1 22 F1 59 DB F2 35 F3 C7 F3 80 30 F1 EB F0 79 6C,戦闘を行う節約型の作戦です,절약형 작전,UNASSIGNED,,[],TRANSLATED,NO,작전 도움말 둘째 줄.,고정 compact 슬롯.,21
+BATTLE_MSG_0037,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,36,0x0917B0,,35 F1 85 F0 7C 4C F0 4D F0 4E F0 96 4A F0 4B F0 A1 54 F0 E9 F0 6A 78,強力な必殺技や魔法を使用して,필살기·마법 사용,UNASSIGNED,,[],TRANSLATED,NO,작전 도움말 첫째 줄.,고정 compact 슬롯.,23
+BATTLE_MSG_0038,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,37,0x091739,,6F F2 67 F6 2B F3 67 F6,正々堂々,정정당당,UNASSIGNED,,[],TRANSLATED,NO,작전 할당 목록 첫째 AI 작전명.,고정 compact 슬롯.,8
+BATTLE_MSG_0039,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,38,0x091742,,DC F2 2C F3 D6 F0 B9 F2,狂喜乱舞,광란의 춤,UNASSIGNED,,[],TRANSLATED,NO,작전 할당 목록 둘째 AI 작전명.,고정 compact 슬롯.,8
+BATTLE_MSG_0040,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,39,0x09174B,,71 F1 6D F5 CF F2 B0 F8,頭脳明晰,명석한 두뇌,UNASSIGNED,,[],TRANSLATED,NO,작전 할당 목록 셋째 AI 작전명.,고정 compact 슬롯.,8
+BATTLE_MSG_0041,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,40,0x090D80,,DF CC E6 A4 ED,マニュアル,수동,UNASSIGNED,,[],TRANSLATED,NO,작전 설정 패널의 별도 수동 조작 문자열.,앞의 2바이트 표시 제어값은 패치 범위에서 제외.,5
+BATTLE_MSG_0042,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,41,0x090D89,,6F F2 67 F6 2B F3 67 F6,正々堂々,정정당당,UNASSIGNED,,[],TRANSLATED,NO,작전 설정 패널의 AI 작전명 복제 슬롯.,고정 compact 슬롯.,8
+BATTLE_MSG_0043,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,42,0x090D92,,DC F2 2C F3 D6 F0 B9 F2,狂喜乱舞,광란의 춤,UNASSIGNED,,[],TRANSLATED,NO,작전 설정 패널의 AI 작전명 복제 슬롯.,고정 compact 슬롯.,8
+BATTLE_MSG_0044,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,43,0x090D9B,,71 F1 6D F5 CF F2 B0 F8,頭脳明晰,명석한 두뇌,UNASSIGNED,,[],TRANSLATED,NO,작전 설정 패널의 AI 작전명 복제 슬롯.,고정 compact 슬롯.,8
+BATTLE_MSG_0045,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,44,0x090DB5,,C1 F4 B2 F1,設定,설정,UNASSIGNED,,[],TRANSLATED,NO,작전 설정 패널의 설정 라벨.,고정 compact 슬롯.,4
+BATTLE_MSG_0046,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,45,0x0916B4,,7B F1 9D F1,全員,전원,UNASSIGNED,,[],TRANSLATED,NO,전투 대상 선택의 전원 라벨.,고정 compact 슬롯.,4
+BATTLE_MSG_0047,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,46,0x091718,,C1 F4 B2 F1,設定,설정,UNASSIGNED,,[],TRANSLATED,NO,작전 화면의 설정 라벨 복제 슬롯.,고정 compact 슬롯.,4
+BATTLE_MSG_0048,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,47,0x091758,,3A 42 22 F1 46 F0 A1 54 F0 E9 F0 6E 6D 7D,AI行動を使用せずに,AI 미사용,UNASSIGNED,,[],TRANSLATED,NO,수동 작전 설명 첫째 줄.,용량에 맞춘 간결 번역.,14
+BATTLE_MSG_0049,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,48,0x091820,,73 F0 74 F0 6A 72 30 F1 EB F0 A1 4F F2 22 F1 6A 90 6C,選択した作戦を実行します,선택한 작전 실행,UNASSIGNED,,[],TRANSLATED,NO,작전 선택 확정 설명.,고정 compact 슬롯.,18
+BATTLE_MSG_0050,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,49,0x091B08,,A1 77 F4 64 F5 23 23,を習得！！,습득!!,UNASSIGNED,,[],TRANSLATED,NO,전투 중 기술 습득 팝업 접미사.,고정 compact 슬롯.,7
+BATTLE_MSG_0051,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,50,0x091B13,,80 3E F2 9B F9 A1 64 F5 72,の秘訣を得た,비결 습득,UNASSIGNED,,[],TRANSLATED,NO,전투 중 비결 습득 팝업 접미사.,고정 compact 슬롯.,9
+BATTLE_MSG_0052,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,51,0x097018,,D1 27 B7 27 B1 5F A4 F2 46 F0 23,バーサークが発動！,광폭화!,UNASSIGNED,,[],TRANSLATED,NO,전투 상태 발동 팝업.,고정 compact 슬롯.,11
+BATTLE_MSG_0053,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,52,0x0972F0,,21 F1 A7 F1 B4 F4 EA F3,逃走成功,도주성공,UNASSIGNED,,[],TRANSLATED,NO,퇴각 결과 성공 문자열.,고정 compact 슬롯.,8
+BATTLE_MSG_0054,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,53,0x097300,,21 F1 A7 F1 64 F4 73 F5,逃走失敗,도주실패,UNASSIGNED,,[],TRANSLATED,NO,퇴각 결과 실패 문자열.,고정 compact 슬롯.,8
+BATTLE_MSG_0055,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,54,0x097748,,AC 27 C9 AF E4 EA BD ED 23,オートキャンセル！,오토캔슬!,UNASSIGNED,,[],TRANSLATED,NO,전투 자동 취소 팝업.,고정 compact 슬롯.,9
+BATTLE_MSG_0056,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,55,0x08BC18,,3A F0 7D B1 F1 90 9E 72 23 23,敵に囲まれた！！,포위됐다!!,UNASSIGNED,,[],TRANSLATED,NO,전투 개시 포위 알림.,연속 전투 개시 메시지 테이블.,10
+BATTLE_MSG_0057,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,56,0x08BC23,,DC F0 26 F3 36 F0 37 F0 23 23,先制攻撃！！,선제공격!!,UNASSIGNED,,[],TRANSLATED,NO,전투 개시 선제공격 알림.,연속 전투 개시 메시지 테이블.,10
+BATTLE_MSG_0058,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,57,0x08BC2E,,39 F2 7A F4 A1 59 64 72 23 23,奇襲をうけた！！,기습당했다!!,UNASSIGNED,,[],TRANSLATED,NO,전투 개시 기습 피격 알림.,연속 전투 개시 메시지 테이블.,10
+BATTLE_MSG_0059,BATTLE,ui_message,BATTLE.BIN,,BATTLE_TEXT_POOL,,58,0x08BC39,,80 F1 3B F1 A1 76 57 72 23 23,不意をついた！！,선수쳤다!!,UNASSIGNED,,[],TRANSLATED,NO,전투 개시 기습 성공 알림.,연속 전투 개시 메시지 테이블.,10

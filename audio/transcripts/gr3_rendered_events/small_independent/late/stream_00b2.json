@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b2",
+  "stream_key": "0xB2",
+  "sample_ids": [
+    "0x4EC",
+    "0x4ED"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b2.flac",
+  "audio_sha256": "dfe8783a16e518d59db74bd869676a7da91f7482ad9044ba86c6b669d08f4063",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "もうすぐ一つになられる私と… 2位さん… アルフィナ! お、おへ、大丈夫か? アルフィナ、しっかりして! アルフィナ!アルフィナ!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "speaker": "",
+      "text": "もうすぐ一つになられる私と…",
+      "avg_logprob": -0.54206,
+      "no_speech_prob": 0.02355,
+      "compression_ratio": 0.79245,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 32.0,
+      "speaker": "",
+      "text": "2位さん…",
+      "avg_logprob": -0.53191,
+      "no_speech_prob": 0.13853,
+      "compression_ratio": 1.48235,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 33.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "アルフィナ!",
+      "avg_logprob": -0.53191,
+      "no_speech_prob": 0.13853,
+      "compression_ratio": 1.48235,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 34.0,
+      "end": 36.0,
+      "speaker": "",
+      "text": "お、おへ、大丈夫か?",
+      "avg_logprob": -0.53191,
+      "no_speech_prob": 0.13853,
+      "compression_ratio": 1.48235,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 36.0,
+      "end": 38.0,
+      "speaker": "",
+      "text": "アルフィナ、しっかりして!",
+      "avg_logprob": -0.53191,
+      "no_speech_prob": 0.13853,
+      "compression_ratio": 1.48235,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 38.0,
+      "end": 41.0,
+      "speaker": "",
+      "text": "アルフィナ!アルフィナ!",
+      "avg_logprob": -0.53191,
+      "no_speech_prob": 0.13853,
+      "compression_ratio": 1.48235,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    }
+  ]
+}

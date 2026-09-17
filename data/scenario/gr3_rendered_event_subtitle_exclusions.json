@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "excluded_events": [
+    {
+      "event_id": "herb_return_miranda_event_0062",
+      "resource_path": "DATA/00030100.MDZ",
+      "stream_key": "0x62",
+      "runtime_trigger_sample_ids": ["0x40C"],
+      "cue_path": "data/scenario/gr3_stream_0062_cues.json",
+      "cue_count": 3,
+      "reason": "The external texture subtitle submit corrupts Yuki's face texture in this event. Keep the reviewed cues as evidence, but do not pack or dispatch this event in future GR3SUB builds.",
+      "user_decision": "EXCLUDE_ONLY_0062_KEEP_ALFINA_0063",
+      "status": "USER_EXCLUDED_FROM_ACTIVE_MANIFEST"
+    },
+    {
+      "event_id": "bakula_yout_kornell_violetta_event_009b",
+      "resource_path": "DATA/00397700.MDZ",
+      "stream_key": "0x9B",
+      "runtime_trigger_sample_ids": ["0x4AE"],
+      "cue_path": "data/scenario/gr3_stream_009b_cues.json",
+      "cue_count": 9,
+      "reason": "DATA/00397700.MDZ owns live event structures inside the external subtitle window at 0x0179C800. Reloading GR3SUB.BIN overwrites those structures and eventually produces a black screen. Keep the reviewed cues as evidence, but do not preload, pack, or dispatch this event until a field-local safe storage path exists.",
+      "runtime_evidence": "build/investigation/00397700-black-screen-20260901/diagnosis.json",
+      "safe_sidecar_candidate": "build/gr3sub-009b-safe-sidecar-preflight-20260901/report.json",
+      "user_decision": "PROGRESSION_FIRST_EXCLUDE_009B_FROM_RUNTIME_ISO",
+      "status": "SAFE_SIDECAR_PREPARED_RUNTIME_PENDING_KEEP_EXCLUDED"
+    }
+  ]
+}

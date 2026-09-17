@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "candidate_count": 203,
+  "status_counts": {
+    "AUTO_LOW_CONFIDENCE_REVIEW": 142,
+    "AUTO_TRANSCRIBED_REVIEW": 58,
+    "APPROVED": 1,
+    "NO_SPEECH_OR_UNCLEAR": 2
+  },
+  "segment_count": 1222,
+  "transcribed_duration_ms": 12250111
+}

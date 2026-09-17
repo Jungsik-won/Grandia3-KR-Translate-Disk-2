@@ -1,0 +1,12 @@
+SCENARIO PATTERN REPORT: /private/tmp/gr3-ship-analysis.CYee09/DATA_00151100.MDT
+
+resources: 2
+messages: 4
+UNKNOWN_CONTROL blocks: 8
+
+0x00006000 class=0x6000 subtype=0 size=0x1C8 messages=2 prefix=05 00 06 00
+  message offsets: 0x001621CF;0x00162296
+  UNKNOWN pre=1/19 between=2/172 tail=1/196 no-anchor=0/0
+0x00396001 class=0x6000 subtype=1 size=0x180 messages=2 prefix=05 00 06 00
+  message offsets: 0x00162397;0x00162417
+  UNKNOWN pre=1/19 between=2/109 tail=1/203 no-anchor=0/0

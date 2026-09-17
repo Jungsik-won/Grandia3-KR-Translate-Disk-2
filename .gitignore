@@ -1,0 +1,65 @@
+# Original / extracted game data
+/Original ISO/
+/original_disc/
+/original_iso/
+/extracted/
+/dump/
+/pcsx2_dumps/
+/MOVIE/
+/audio/corpus/
+/audio/extracted/
+/exports/unresolved_glyph_images/
+/Grandia3_Texture_Hunter_GUI_v1/texture_hunt/
+
+*.iso
+*.bin
+*.mdz
+*.mdt
+*.dat
+*.MOV
+*.mov
+*.mpeg
+*.mp4
+*.flac
+*.wav
+*.psd
+
+# Build / temporary output
+/build/
+/tmp/
+/work/
+/cache/
+/logs/
+/backup/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# GUI/build artifacts
+/dist/
+*.spec
+
+# Local filesystem metadata
+.DS_Store
+/JIN.png
+/SYS_GR3*.png
+
+# Bundled third-party font repository with its own Git history
+/legacy/
+/legacy/case2/galmuri-source/
+
+# Generated research/build candidates
+/legacy/case2/target/
+/legacy/case2/work/
+/legacy/case2/pcsx2-source/
+/legacy/case2/item-text-runtime/
+/legacy/case2/*-candidate/
+/legacy/case2/font-verified-v2/
+/legacy/case2/font-overlay-pilot-v2/
+/legacy/case2/mdt-samples/
+
+# Archived binary bundles
+*.zip

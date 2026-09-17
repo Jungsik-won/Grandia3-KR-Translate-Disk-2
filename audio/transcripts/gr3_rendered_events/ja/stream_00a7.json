@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00a7",
+  "stream_key": "0xA7",
+  "sample_ids": [
+    "0x4CE",
+    "0x4CF"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00a7.flac",
+  "audio_sha256": "2aec775561ad338ebeddd4f44e46258164b79d265b297e9a11e1321b28ec1338",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:3/15"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "美しい進んだ目をしておるなぁ。 グリフ様、私は知りたいことがあるのです。 コミュートの娘を今、傷ながうしなわれようとしておる。 お前のアニン、エメリウスが世界に危機をもたらそうとしておるのだ。 イニシエよりつらなりし、わが運命のくさりを今、ここで。 グリフ様、アニはいったい何をしようとしているのです。 お前は、アニがジャークな道をあえるでも愛することが出来ますか? あ、分かりません。でも私は… ミクシミに、未来は訪れません。 どんなことがあっても、お前はアニを見組んではないません。 愛するのです。 愛。 それだけなら、世界に未来をもたらすのです。 愛だけが未来を… あるかな。 お前のアニン、エメリウスを愛するのです。 あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 20.4,
+      "speaker": "",
+      "text": "美しい進んだ目をしておるなぁ。 グリフ様、私は知りたいことがあるのです。 コミュートの娘を今、傷ながうしなわれようとしておる。",
+      "avg_logprob": -0.33428,
+      "no_speech_prob": 0.00899,
+      "compression_ratio": 1.34058,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 20.4,
+      "end": 29.28,
+      "speaker": "",
+      "text": "お前のアニン、エメリウスが世界に危機をもたらそうとしておるのだ。",
+      "avg_logprob": -0.45002,
+      "no_speech_prob": 0.02721,
+      "compression_ratio": 1.30147,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 34.4,
+      "end": 42.16,
+      "speaker": "",
+      "text": "イニシエよりつらなりし、わが運命のくさりを今、ここで。",
+      "avg_logprob": -0.45002,
+      "no_speech_prob": 0.02721,
+      "compression_ratio": 1.30147,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 51.36,
+      "end": 57.2,
+      "speaker": "",
+      "text": "グリフ様、アニはいったい何をしようとしているのです。",
+      "avg_logprob": -0.47544,
+      "no_speech_prob": 0.08013,
+      "compression_ratio": 1.37908,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 57.2,
+      "end": 66.2,
+      "speaker": "",
+      "text": "お前は、アニがジャークな道をあえるでも愛することが出来ますか?",
+      "avg_logprob": -0.47544,
+      "no_speech_prob": 0.08013,
+      "compression_ratio": 1.37908,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 66.2,
+      "end": 74.2,
+      "speaker": "",
+      "text": "あ、分かりません。でも私は…",
+      "avg_logprob": -0.47544,
+      "no_speech_prob": 0.08013,
+      "compression_ratio": 1.37908,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 74.2,
+      "end": 88.2,
+      "speaker": "",
+      "text": "ミクシミに、未来は訪れません。 どんなことがあっても、お前はアニを見組んではないません。",
+      "avg_logprob": -0.41769,
+      "no_speech_prob": 0.07125,
+      "compression_ratio": 1.30833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 88.2,
+      "end": 91.2,
+      "speaker": "",
+      "text": "愛するのです。",
+      "avg_logprob": -0.41769,
+      "no_speech_prob": 0.07125,
+      "compression_ratio": 1.30833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 91.2,
+      "end": 95.2,
+      "speaker": "",
+      "text": "愛。",
+      "avg_logprob": -0.41769,
+      "no_speech_prob": 0.07125,
+      "compression_ratio": 1.30833,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 95.2,
+      "end": 104.2,
+      "speaker": "",
+      "text": "それだけなら、世界に未来をもたらすのです。",
+      "avg_logprob": -0.24754,
+      "no_speech_prob": 0.0235,
+      "compression_ratio": 1.31452,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 104.2,
+      "end": 111.2,
+      "speaker": "",
+      "text": "愛だけが未来を… あるかな。",
+      "avg_logprob": -0.24754,
+      "no_speech_prob": 0.0235,
+      "compression_ratio": 1.31452,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 11,
+      "start": 111.2,
+      "end": 119.2,
+      "speaker": "",
+      "text": "お前のアニン、エメリウスを愛するのです。",
+      "avg_logprob": -0.24754,
+      "no_speech_prob": 0.0235,
+      "compression_ratio": 1.31452,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 12,
+      "start": 125.2,
+      "end": 126.2,
+      "speaker": "",
+      "text": "あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ",
+      "avg_logprob": -0.09519,
+      "no_speech_prob": 0.69797,
+      "compression_ratio": 31.57143,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.009",
+        "HIGH_COMPRESSION_RATIO:31.571"
+      ]
+    },
+    {
+      "segment_index": 13,
+      "start": 155.2,
+      "end": 185.2,
+      "speaker": "",
+      "text": "あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ",
+      "avg_logprob": -0.02489,
+      "no_speech_prob": 0.14867,
+      "compression_ratio": 31.57143,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.009",
+        "HIGH_COMPRESSION_RATIO:31.571"
+      ]
+    },
+    {
+      "segment_index": 14,
+      "start": 185.2,
+      "end": 210.41,
+      "speaker": "",
+      "text": "あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ、あ",
+      "avg_logprob": -0.01042,
+      "no_speech_prob": 0.38093,
+      "compression_ratio": 31.57143,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.009",
+        "HIGH_COMPRESSION_RATIO:31.571"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

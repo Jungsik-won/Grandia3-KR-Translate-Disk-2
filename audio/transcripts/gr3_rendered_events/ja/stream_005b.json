@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_005b",
+  "stream_key": "0x5B",
+  "sample_ids": [
+    "0x3FC",
+    "0x3FD"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_005b.flac",
+  "audio_sha256": "42ebd548f9650759e185ec71743589fa0f4a1759dd5244ab5b1d02812131ed66",
+  "language": "ja",
+  "status": "MANUAL_AUDIO_SCENE_REVIEW",
+  "screening_flags": [],
+  "model": "whisper-base+small-late-clip",
+  "notes": "State slot 5 proves stream 0x5B active. The first 85 seconds are music only; the former repeated Arcriff transcript was an ASR hallucination and has been removed. Only the three audible late utterances are retained.",
+  "text": "だ、誰？ はっ……あなたは……！ そこまでだ、アルフィナ！",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 85.3,
+      "end": 87.0,
+      "speaker": "アルフィナ",
+      "text": "だ、誰？",
+      "avg_logprob": -0.79251,
+      "no_speech_prob": 0.22612,
+      "compression_ratio": 0.97101,
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 92.35,
+      "end": 94.85,
+      "speaker": "アルフィナ",
+      "text": "はっ……あなたは……！",
+      "avg_logprob": -0.79251,
+      "no_speech_prob": 0.22612,
+      "compression_ratio": 0.97101,
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 96.4,
+      "end": 99.15,
+      "speaker": "黒衣の男",
+      "text": "そこまでだ、アルフィナ！",
+      "avg_logprob": -0.79251,
+      "no_speech_prob": 0.22612,
+      "compression_ratio": 0.97101,
+      "status": "MANUAL_AUDIO_SCENE_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Late-dialogue-only manual review supported by active SPU2 evidence, independent base/small ASR, scene screenshot, and public English-script context."
+}

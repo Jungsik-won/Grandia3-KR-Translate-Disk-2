@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0084",
+  "stream_key": "0x84",
+  "sample_ids": [
+    "0x460",
+    "0x461"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0084.flac",
+  "audio_sha256": "66b60d59deac51a4c20429a01d3b8a969fcb762fbae3e407c3296962387d3d9a",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:3/7"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "スミッター、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ えぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ でっ! ありがとう!シミット!大事にするよ!俺! おめでとう!勇気! やったぜ!アルフィナー!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "スミッター、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ",
+      "avg_logprob": -0.088,
+      "no_speech_prob": 0.02653,
+      "compression_ratio": 16.8,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.046",
+        "HIGH_COMPRESSION_RATIO:16.800"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ、オレ",
+      "avg_logprob": -0.00962,
+      "no_speech_prob": 0.02623,
+      "compression_ratio": 26.52,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.014",
+        "HIGH_COMPRESSION_RATIO:26.520"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "えぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ",
+      "avg_logprob": -0.07358,
+      "no_speech_prob": 0.18658,
+      "compression_ratio": 34.89474,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.009",
+        "HIGH_COMPRESSION_RATIO:34.895"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 90.0,
+      "end": 92.0,
+      "speaker": "",
+      "text": "でっ!",
+      "avg_logprob": -0.49341,
+      "no_speech_prob": 0.53866,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 94.0,
+      "end": 97.0,
+      "speaker": "",
+      "text": "ありがとう!シミット!大事にするよ!俺!",
+      "avg_logprob": -0.49341,
+      "no_speech_prob": 0.53866,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 98.0,
+      "end": 100.0,
+      "speaker": "",
+      "text": "おめでとう!勇気!",
+      "avg_logprob": -0.49341,
+      "no_speech_prob": 0.53866,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 100.0,
+      "end": 102.0,
+      "speaker": "",
+      "text": "やったぜ!アルフィナー!",
+      "avg_logprob": -0.49341,
+      "no_speech_prob": 0.53866,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

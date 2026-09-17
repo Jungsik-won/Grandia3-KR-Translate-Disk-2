@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00d8",
+  "stream_key": "0xD8",
+  "sample_ids": [
+    "0x5A2",
+    "0x5A3"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00d8.flac",
+  "audio_sha256": "64812c1a538344204ecec06cd3f29065783decf4789558b3a467017d7be90fb5",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:12/22"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "皆さんにお伝えしなければならないことがあります。無理夫様が殺されたのですが、 グリフ様は、すまわしたかも、グリフ様は? 生獣様たちの長き戦いは終わりました。 グリフ様は殺され、私たちは負けたのです。 後は安らかに、滅びの時を迎えましょう。 こうなることは、わかっておったことじゃ。 今さら、何を恐れることがある? このように、私たちの長き戦いは? 何を恐れるの? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは? 私たちの長き戦いは?",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 17.0,
+      "speaker": "",
+      "text": "皆さんにお伝えしなければならないことがあります。無理夫様が殺されたのですが、",
+      "avg_logprob": -0.46842,
+      "no_speech_prob": 0.00764,
+      "compression_ratio": 1.11765,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 18.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "グリフ様は、すまわしたかも、グリフ様は?",
+      "avg_logprob": -0.42824,
+      "no_speech_prob": 0.08005,
+      "compression_ratio": 1.3871,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 26.0,
+      "end": 31.0,
+      "speaker": "",
+      "text": "生獣様たちの長き戦いは終わりました。",
+      "avg_logprob": -0.42824,
+      "no_speech_prob": 0.08005,
+      "compression_ratio": 1.3871,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 34.0,
+      "end": 40.0,
+      "speaker": "",
+      "text": "グリフ様は殺され、私たちは負けたのです。",
+      "avg_logprob": -0.42824,
+      "no_speech_prob": 0.08005,
+      "compression_ratio": 1.3871,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 41.0,
+      "end": 47.0,
+      "speaker": "",
+      "text": "後は安らかに、滅びの時を迎えましょう。",
+      "avg_logprob": -0.37389,
+      "no_speech_prob": 0.00624,
+      "compression_ratio": 1.28,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 51.0,
+      "end": 56.0,
+      "speaker": "",
+      "text": "こうなることは、わかっておったことじゃ。",
+      "avg_logprob": -0.37389,
+      "no_speech_prob": 0.00624,
+      "compression_ratio": 1.28,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 57.0,
+      "end": 61.0,
+      "speaker": "",
+      "text": "今さら、何を恐れることがある?",
+      "avg_logprob": -0.37389,
+      "no_speech_prob": 0.00624,
+      "compression_ratio": 1.28,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 62.0,
+      "end": 67.0,
+      "speaker": "",
+      "text": "このように、私たちの長き戦いは?",
+      "avg_logprob": -1.15999,
+      "no_speech_prob": 0.04486,
+      "compression_ratio": 1.22368,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 68.0,
+      "end": 72.0,
+      "speaker": "",
+      "text": "何を恐れるの?",
+      "avg_logprob": -1.15999,
+      "no_speech_prob": 0.04486,
+      "compression_ratio": 1.22368,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 73.0,
+      "end": 78.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -1.15999,
+      "no_speech_prob": 0.04486,
+      "compression_ratio": 1.22368,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 79.0,
+      "end": 81.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 11,
+      "start": 81.0,
+      "end": 84.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 12,
+      "start": 84.0,
+      "end": 87.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 13,
+      "start": 87.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 14,
+      "start": 90.0,
+      "end": 93.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 15,
+      "start": 93.0,
+      "end": 95.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 16,
+      "start": 95.0,
+      "end": 97.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 17,
+      "start": 97.0,
+      "end": 99.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 18,
+      "start": 99.0,
+      "end": 101.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 19,
+      "start": 101.0,
+      "end": 103.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 20,
+      "start": 103.0,
+      "end": 105.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    },
+    {
+      "segment_index": 21,
+      "start": 105.0,
+      "end": 107.0,
+      "speaker": "",
+      "text": "私たちの長き戦いは?",
+      "avg_logprob": -0.15935,
+      "no_speech_prob": 0.56684,
+      "compression_ratio": 7.81395,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:7.814"
+      ]
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

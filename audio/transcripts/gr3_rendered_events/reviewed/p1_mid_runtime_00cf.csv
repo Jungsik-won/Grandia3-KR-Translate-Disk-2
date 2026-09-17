@@ -1,0 +1,7 @@
+event_id,stream_key,segment_index,start_seconds,end_seconds,speaker,japanese_base,japanese_small,japanese_reviewed,japanese_status,korean_reviewed,korean_status,context_note,evidence,review_notes
+gr3_stream_00cf,0xCF,0,0.950,5.250,ミランダ,,よしてよアロンソ。私にそんなの似合わないってば。,よしてよ、アロンソ。私にそんなの似合わないってば。,MANUAL_THREE_CHANNEL_REVIEW,"그만해, 알론소. 나한테 그런 건 안 어울린다니까.",REVIEWED_CONTEXT,미란다와 알론소의 시장 데이트.,좌·우·혼합 채널 독립 Whisper-small 및 사용자 런타임 장면 증거.,첫 음절은 우채널 자동 전사에서 どうして로 흔들렸으나 원 자동전사와 좌·혼합 채널 및 문맥상 よしてよ로 채택.
+gr3_stream_00cf,0xCF,1,5.650,7.050,アロンソ,,そんなことはないさ。,そんなことはないさ。,MANUAL_THREE_CHANNEL_REVIEW,전혀 그렇지 않아.,REVIEWED_CONTEXT,미란다와 알론소의 시장 데이트.,세 채널 공통 전사. 사용자 캡처 5.383초는 직전 미란다 대사 종료 직후의 전환점.,화자 전환 여유를 두고 시작.
+gr3_stream_00cf,0xCF,2,7.750,8.950,アロンソ,,どうだい。,どうだい？,MANUAL_THREE_CHANNEL_REVIEW,어때?,REVIEWED_CONTEXT,미란다와 알론소의 시장 데이트.,우채널에서 어미 い까지 검출.,직전 대사와 약 1초 간격이라 별도 큐로 분리.
+gr3_stream_00cf,0xCF,3,12.150,15.100,アルフィナ,,あの二人、お似合いだと思わない？,あの二人、お似合いだと思わない？,MANUAL_THREE_CHANNEL_REVIEW,"저 두 사람, 잘 어울리는 것 같지 않아?",REVIEWED_CONTEXT,미란다와 알론소의 시장 데이트.,세 채널 공통 전사와 장면 문맥.,미란다와 알론소를 바라보며 유키에게 묻는 대사.
+gr3_stream_00cf,0xCF,4,18.450,21.300,ユウキ,,もういいだろ。行こうぜ、アルフィナ。,もういいだろ。行こうぜ、アルフィナ。,MANUAL_THREE_CHANNEL_REVIEW,"이제 됐지? 가자, 알피나.",REVIEWED_CONTEXT,미란다와 알론소의 시장 데이트.,세 채널 공통 전사.,구경을 마치고 자리를 뜨는 대사.
+gr3_stream_00cf,0xCF,5,21.800,23.300,アルフィナ,,う、うん。,う、うん。,MANUAL_THREE_CHANNEL_REVIEW,"으, 응.",REVIEWED_CONTEXT,미란다와 알론소의 시장 데이트.,우·혼합 채널에서 확인.,23.3~28.075초는 추가 대사 없음.

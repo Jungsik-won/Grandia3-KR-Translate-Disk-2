@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "status": "RUNTIME_PASS_PROGRESSION_RESTORED",
+  "reason": "PCSX2 runtime testing confirmed fire-magic acquisition, Mikeroma acquisition, and casino NPC persistence after restoring the three Sabatar containers byte-for-byte from clean Disc 1",
+  "supersedes": [
+    "reports/sabatar_00120000_relocation_v18.json",
+    "reports/sabatar_runtime_eventfix_v19.json"
+  ],
+  "recovery_policy": "Restore the complete Sabatar port, casino, and lodging MDZ containers byte-for-byte from clean Disc 1. Keep all other cumulative replacements unchanged.",
+  "temporary_tradeoff": "Dialogue and location/action strings stored inside these three containers are Japanese until the event VM grammar is decoded and translated containers pass runtime progression tests.",
+  "restored_entries": [
+    {
+      "entry": "DATA/00120000.MDZ",
+      "size": 3470125,
+      "sha256": "b0d644cb693c4002b734a99c92857ff1c3d408ec5ac6db18e8e8d02b92c8d86f",
+      "iso_matches_clean_source": true
+    },
+    {
+      "entry": "DATA/00120100.MDZ",
+      "size": 1830654,
+      "sha256": "0ac7df348044f94d5680a51b66d33a0d557ed9ceb281c10a324d659978d08a78",
+      "iso_matches_clean_source": true
+    },
+    {
+      "entry": "DATA/00120200.MDZ",
+      "size": 1592548,
+      "sha256": "518b4c902993af369937444b28a05ac294bb6b99ffda06436b232f2164617572",
+      "iso_matches_clean_source": true
+    }
+  ],
+  "verification": {
+    "replacement_plan_change_from_v20": "exactly DATA/00120000.MDZ, DATA/00120100.MDZ, DATA/00120200.MDZ",
+    "iso_reverse_verified": true,
+    "iso_repacked_file_count": 1265,
+    "iso_restored_entry_source_matches": "3/3 PASS",
+    "unit_tests_before_recovery_build": "46 PASS, 3 SKIP",
+    "runtime_tested": true,
+    "runtime_result": "PASS",
+    "runtime_checks": {
+      "lodging_fire_magic_acquisition": "PASS",
+      "port_mikeroma_acquisition": "PASS",
+      "casino_npc_persistence_after_reentry": "PASS"
+    },
+    "runtime_confirmed_at": "2026-08-27T03:13:49+09:00",
+    "runtime_evidence": [
+      "/var/folders/77/tfj36wmd4ml_2mwl7fy0zxgh0000gn/T/TemporaryItems/NSIRD_screencaptureui_OCz6uH/스크린샷 2026-08-27 오전 3.12.13.png",
+      "/Users/j.swon/Desktop/스크린샷 2026-08-27 오전 3.13.01.png",
+      "/var/folders/77/tfj36wmd4ml_2mwl7fy0zxgh0000gn/T/TemporaryItems/NSIRD_screencaptureui_0pK9SH/스크린샷 2026-08-27 오전 3.13.49.png"
+    ]
+  },
+  "iso": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_cumulative_v21_sabatar_original_event_restore_20260827.iso",
+    "size": 4611792896,
+    "sha256": "e7e037b366764c68945e28ed45a545a03c3cbccf7e1859742d9da516b19211ab",
+    "replacement_count": 354,
+    "build_report": "build/central-runtime-cumulative-v21/iso-build-report.json",
+    "restore_report": "build/central-runtime-cumulative-v21/sabatar-original-event-containers/restore-report.json"
+  }
+}

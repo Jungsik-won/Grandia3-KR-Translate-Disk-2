@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0117",
+  "stream_key": "0x117",
+  "sample_ids": [
+    "0x732",
+    "0x733"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0117.flac",
+  "audio_sha256": "e958faa1a9df396f6013bde281ee13af61a8b4d669cbab7d302f81126458a188",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 11.49,
+      "speaker": "",
+      "text": "アルフィナ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。",
+      "avg_logprob": -0.51145,
+      "no_speech_prob": 0.3677,
+      "compression_ratio": 1.54286,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

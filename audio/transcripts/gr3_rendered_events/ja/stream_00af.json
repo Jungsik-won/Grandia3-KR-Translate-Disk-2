@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00af",
+  "stream_key": "0xAF",
+  "sample_ids": [
+    "0x4E4",
+    "0x4E5"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00af.flac",
+  "audio_sha256": "a3b31e3b9a522c35b5a7862ba5d5d56661f2fd79a46ea7c92915caa58616d646",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:2/4"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "おーいおーい、全然見えなくなっちまったぜ?どっちに向かえばいいんだ?おかしいわ。みんな離れないで! あるフィナ? アークリフ、アルフィナを離せ! アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、ア モンションの力!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 15.0,
+      "speaker": "",
+      "text": "おーいおーい、全然見えなくなっちまったぜ?どっちに向かえばいいんだ?おかしいわ。みんな離れないで! あるフィナ?",
+      "avg_logprob": -0.19634,
+      "no_speech_prob": 0.01514,
+      "compression_ratio": 5.0,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "HIGH_COMPRESSION_RATIO:5.000"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 15.0,
+      "end": 25.0,
+      "speaker": "",
+      "text": "アークリフ、アルフィナを離せ!",
+      "avg_logprob": -0.77837,
+      "no_speech_prob": 0.0033,
+      "compression_ratio": 0.87755,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 25.0,
+      "end": 26.0,
+      "speaker": "",
+      "text": "アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、アークリフ、ア",
+      "avg_logprob": -0.0806,
+      "no_speech_prob": 0.01356,
+      "compression_ratio": 19.11429,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.027",
+        "HIGH_COMPRESSION_RATIO:19.114"
+      ]
+    },
+    {
+      "segment_index": 3,
+      "start": 55.0,
+      "end": 76.16,
+      "speaker": "",
+      "text": "モンションの力!",
+      "avg_logprob": -0.37454,
+      "no_speech_prob": 0.0309,
+      "compression_ratio": 0.75862,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00b0",
+  "stream_key": "0xB0",
+  "sample_ids": [
+    "0x4E6",
+    "0x4E7"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00b0.flac",
+  "audio_sha256": "3d598886a78215a960f8cddc1f987c101770945846b501ffd55bc2b4a67a9fe4",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "セイバー様、私はコミュートの…マニュアったようだな、アルフィナよ。え? 時期にエメリウスはここへも現れよう。最後に残った、私の命を狙って。え?最後って? それではようと様は… セイバー様、なぜアニナのですか? なぜ? ゾーンはアニオン? その答えは、お前の中にある。 傷なわ時に悲しみをうに、そしておのれを苦しめ、だがり。 それでもなお、人の傷なわ力なのだ。 人の傷なわ力? アルフィナよ。コミュートである前に、人である。 人と人を繋ぐ力、傷な。お前のもっとも強い力だ。 セイバー様… アルフィナよ。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "セイバー様、私はコミュートの…マニュアったようだな、アルフィナよ。え? 時期にエメリウスはここへも現れよう。最後に残った、私の命を狙って。え?最後って? それではようと様は…",
+      "avg_logprob": -0.40217,
+      "no_speech_prob": 0.04293,
+      "compression_ratio": 1.45087,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 42.0,
+      "speaker": "",
+      "text": "セイバー様、なぜアニナのですか? なぜ? ゾーンはアニオン?",
+      "avg_logprob": -0.51388,
+      "no_speech_prob": 0.02381,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 46.0,
+      "end": 58.0,
+      "speaker": "",
+      "text": "その答えは、お前の中にある。 傷なわ時に悲しみをうに、そしておのれを苦しめ、だがり。",
+      "avg_logprob": -0.51388,
+      "no_speech_prob": 0.02381,
+      "compression_ratio": 1.33333,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 58.0,
+      "end": 66.0,
+      "speaker": "",
+      "text": "それでもなお、人の傷なわ力なのだ。 人の傷なわ力?",
+      "avg_logprob": -0.28779,
+      "no_speech_prob": 0.00063,
+      "compression_ratio": 1.47097,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 66.0,
+      "end": 79.0,
+      "speaker": "",
+      "text": "アルフィナよ。コミュートである前に、人である。 人と人を繋ぐ力、傷な。お前のもっとも強い力だ。",
+      "avg_logprob": -0.28779,
+      "no_speech_prob": 0.00063,
+      "compression_ratio": 1.47097,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 79.0,
+      "end": 82.0,
+      "speaker": "",
+      "text": "セイバー様…",
+      "avg_logprob": -0.28779,
+      "no_speech_prob": 0.00063,
+      "compression_ratio": 1.47097,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 88.0,
+      "end": 92.0,
+      "speaker": "",
+      "text": "アルフィナよ。",
+      "avg_logprob": -0.86967,
+      "no_speech_prob": 0.70158,
+      "compression_ratio": 0.7,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

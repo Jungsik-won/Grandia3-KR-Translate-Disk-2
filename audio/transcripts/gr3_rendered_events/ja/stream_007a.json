@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_007a",
+  "stream_key": "0x7A",
+  "sample_ids": [
+    "0x44C",
+    "0x44D"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_007a.flac",
+  "audio_sha256": "b309bcd4d2a5f45056fd3fc8c8e083990d280f9be1f9bfa7e511cf44795c734e",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:1/9"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミラ 世界だなんて信じられない 信じたくないの? ごめんなさい 私 ここには何も感じられないの? 幸せどころか? こんな小さな命の光さえ 命なら あるさ 俺がここにいる あったかい 帰ろう 一緒に",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミランダ、エメリウス、ユウキ、アルフィナ、ミラ",
+      "avg_logprob": -0.12109,
+      "no_speech_prob": 0.17422,
+      "compression_ratio": 9.65217,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.089",
+        "HIGH_COMPRESSION_RATIO:9.652"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 37.0,
+      "speaker": "",
+      "text": "世界だなんて信じられない 信じたくないの?",
+      "avg_logprob": -0.519,
+      "no_speech_prob": 0.10657,
+      "compression_ratio": 1.08,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 2,
+      "start": 49.0,
+      "end": 55.0,
+      "speaker": "",
+      "text": "ごめんなさい 私",
+      "avg_logprob": -0.519,
+      "no_speech_prob": 0.10657,
+      "compression_ratio": 1.08,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 56.0,
+      "end": 62.0,
+      "speaker": "",
+      "text": "ここには何も感じられないの? 幸せどころか?",
+      "avg_logprob": -0.34419,
+      "no_speech_prob": 0.01265,
+      "compression_ratio": 1.20909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 62.0,
+      "end": 66.0,
+      "speaker": "",
+      "text": "こんな小さな命の光さえ",
+      "avg_logprob": -0.34419,
+      "no_speech_prob": 0.01265,
+      "compression_ratio": 1.20909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 72.0,
+      "end": 75.0,
+      "speaker": "",
+      "text": "命なら あるさ",
+      "avg_logprob": -0.34419,
+      "no_speech_prob": 0.01265,
+      "compression_ratio": 1.20909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 80.0,
+      "end": 83.0,
+      "speaker": "",
+      "text": "俺がここにいる",
+      "avg_logprob": -0.34419,
+      "no_speech_prob": 0.01265,
+      "compression_ratio": 1.20909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 86.0,
+      "end": 89.0,
+      "speaker": "",
+      "text": "あったかい",
+      "avg_logprob": -0.32678,
+      "no_speech_prob": 0.00833,
+      "compression_ratio": 0.75556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 92.0,
+      "end": 94.0,
+      "speaker": "",
+      "text": "帰ろう 一緒に",
+      "avg_logprob": -0.32678,
+      "no_speech_prob": 0.00833,
+      "compression_ratio": 0.75556,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00a8",
+  "stream_key": "0xA8",
+  "sample_ids": [
+    "0x4D2",
+    "0x4D3"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00a8.flac",
+  "audio_sha256": "5afafd7191b19eafbd88c12b0e4d0a48f19d72d88fc4904269d3c01b0776b900",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [
+    "PARTIAL_LOW_CONFIDENCE_SEGMENTS:2/12"
+  ],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メ ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、 それが私たちの唯一の望み。なぜそんな悲しいことを言うの?どうしてあなたの手はこんなにも冷たいの?あなたにはわからない。 その悲しみを私たちに分けてもらえませんか? やめろ。やめろって言ってんだら! うるい! 聞かせてくれよ。この世界のこと、俺たちに何かできるかもしれないだろ? あなたたち地上人はいつもそう。そうやって希望を運んでくる。 え、地上人。 ヘクト様、お言葉通り、みなを広場に集めました。 キーボーを運んでくる。 え、だったらいいじゃんかよ。まあ。",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 30.0,
+      "speaker": "",
+      "text": "アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メ",
+      "avg_logprob": -0.14999,
+      "no_speech_prob": 0.01372,
+      "compression_ratio": 9.59091,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.066",
+        "HIGH_COMPRESSION_RATIO:9.591"
+      ]
+    },
+    {
+      "segment_index": 1,
+      "start": 30.0,
+      "end": 60.0,
+      "speaker": "",
+      "text": "ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、アークリフ、メンディアIII。ユウキ、",
+      "avg_logprob": -0.05546,
+      "no_speech_prob": 0.01452,
+      "compression_ratio": 9.75,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+      "screening_flags": [
+        "LOW_CHARACTER_DIVERSITY:0.067",
+        "HIGH_COMPRESSION_RATIO:9.750"
+      ]
+    },
+    {
+      "segment_index": 2,
+      "start": 60.0,
+      "end": 90.0,
+      "speaker": "",
+      "text": "それが私たちの唯一の望み。なぜそんな悲しいことを言うの?どうしてあなたの手はこんなにも冷たいの?あなたにはわからない。",
+      "avg_logprob": -0.14437,
+      "no_speech_prob": 0.04257,
+      "compression_ratio": 1.35156,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 3,
+      "start": 90.0,
+      "end": 96.56,
+      "speaker": "",
+      "text": "その悲しみを私たちに分けてもらえませんか?",
+      "avg_logprob": -0.52514,
+      "no_speech_prob": 0.0119,
+      "compression_ratio": 1.40909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 4,
+      "start": 99.66,
+      "end": 105.36,
+      "speaker": "",
+      "text": "やめろ。やめろって言ってんだら!",
+      "avg_logprob": -0.52514,
+      "no_speech_prob": 0.0119,
+      "compression_ratio": 1.40909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 5,
+      "start": 105.36,
+      "end": 106.6,
+      "speaker": "",
+      "text": "うるい!",
+      "avg_logprob": -0.52514,
+      "no_speech_prob": 0.0119,
+      "compression_ratio": 1.40909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 6,
+      "start": 108.36,
+      "end": 114.6,
+      "speaker": "",
+      "text": "聞かせてくれよ。この世界のこと、俺たちに何かできるかもしれないだろ?",
+      "avg_logprob": -0.52514,
+      "no_speech_prob": 0.0119,
+      "compression_ratio": 1.40909,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 7,
+      "start": 115.6,
+      "end": 125.72,
+      "speaker": "",
+      "text": "あなたたち地上人はいつもそう。そうやって希望を運んでくる。",
+      "avg_logprob": -0.54312,
+      "no_speech_prob": 0.01605,
+      "compression_ratio": 1.2518,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 8,
+      "start": 125.72,
+      "end": 129.32,
+      "speaker": "",
+      "text": "え、地上人。",
+      "avg_logprob": -0.54312,
+      "no_speech_prob": 0.01605,
+      "compression_ratio": 1.2518,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 9,
+      "start": 129.32,
+      "end": 136.6,
+      "speaker": "",
+      "text": "ヘクト様、お言葉通り、みなを広場に集めました。",
+      "avg_logprob": -0.54312,
+      "no_speech_prob": 0.01605,
+      "compression_ratio": 1.2518,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 10,
+      "start": 136.6,
+      "end": 141.6,
+      "speaker": "",
+      "text": "キーボーを運んでくる。",
+      "avg_logprob": -0.59724,
+      "no_speech_prob": 0.02838,
+      "compression_ratio": 1.12,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    },
+    {
+      "segment_index": 11,
+      "start": 141.6,
+      "end": 145.6,
+      "speaker": "",
+      "text": "え、だったらいいじゃんかよ。まあ。",
+      "avg_logprob": -0.59724,
+      "no_speech_prob": 0.02838,
+      "compression_ratio": 1.12,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

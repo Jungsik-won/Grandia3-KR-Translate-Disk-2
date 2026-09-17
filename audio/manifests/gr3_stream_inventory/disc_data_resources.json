@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "resource_count": 391,
+  "byte_identical_count": 391,
+  "disc1_total_bytes": 1152570739,
+  "disc2_total_bytes": 1152570739,
+  "consequence": "A verified subtitle package for a DATA resource can be reused byte-for-byte on both discs; ISO entry LSN and boot executable name still differ."
+}

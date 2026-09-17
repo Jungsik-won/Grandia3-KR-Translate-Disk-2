@@ -1,0 +1,4 @@
+id,category,source_file,offset,slot_bytes,jp_raw_hex,jp_text,kr_text,status,note
+FLIGHT_SPEAKER_0001,FLIGHT_FIXED,FLIGHT.BIN,0x49498,8,E7 A8 AF,ユウキ,유키,TRANSLATED,"fixed speaker slot; NUL terminator and padding preserved"
+FLIGHT_MESSAGE_0001,FLIGHT_FIXED,FLIGHT.BIN,0x494A0,16,44 F1 9E 6C 61 72 5E 7C 24 08,離れすぎたかな？<CTRL:08>,너무 멀리왔나?<CTRL:08>,TRANSLATED,"fixed fragment; 0x08 control preserved"
+FLIGHT_MESSAGE_0002,FLIGHT_FIXED,FLIGHT.BIN,0x494B0,16,7D 08 BD F2 5E A0 7C 62 74 95 23,に<CTRL:08>向かわなくちゃ！,로<CTRL:08>가야 해!,TRANSLATED,"destination name is inserted by the runtime before this suffix; 0x08 control preserved"

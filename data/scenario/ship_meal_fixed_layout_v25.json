@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "reason": "Ship-meal progression-safe Korean pilot: keep the complete 0x00740000 event layout original while allowing only the five dialogue strings around the verified blocked selector transition to use exact source-size storage.",
+  "translation_templates": [
+    {
+      "id_suffix": "_00740000_0036",
+      "kr_text": "저기, 울 말이야\n어떻게 시바와\n친해진 거야?"
+    },
+    {
+      "id_suffix": "_R00740000_O42_0002",
+      "kr_text": "생각해 본 적 없어.\n태어날 때부터\n계속 함께였으니까."
+    },
+    {
+      "id_suffix": "_00740000_0037",
+      "kr_text": "늘 함께였어?\n아버지와 아들 같네!"
+    },
+    {
+      "id_suffix": "_R00740000_O42_0003",
+      "kr_text": "그 이상이야!\n몸의 일부 같은 거지.\n나와 시바는."
+    },
+    {
+      "id_suffix": "_00740000_0038",
+      "kr_text": "몸의 일부라……\n그건 비행기 조종사에게도\n이상적인 일이겠지."
+    }
+  ],
+  "records": [
+    {
+      "source_file": "DATA/00151000.MDZ",
+      "record_id": "0x00740000",
+      "fixed_layout_translation_ids": [
+        "SCN_00151000_00740000_0036",
+        "NPC_D1_00151000_R00740000_O42_0002",
+        "SCN_00151000_00740000_0037",
+        "NPC_D1_00151000_R00740000_O42_0003",
+        "SCN_00151000_00740000_0038"
+      ]
+    },
+    {
+      "source_file": "DATA/01051101.MDZ",
+      "record_id": "0x00740000",
+      "fixed_layout_translation_ids": [
+        "SCN_01051101_00740000_0036",
+        "NPC_D1_01051101_R00740000_O42_0002",
+        "SCN_01051101_00740000_0037",
+        "NPC_D1_01051101_R00740000_O42_0003",
+        "SCN_01051101_00740000_0038"
+      ]
+    },
+    {
+      "source_file": "DATA/01070401.MDZ",
+      "record_id": "0x00740000",
+      "fixed_layout_translation_ids": [
+        "SCN_01070401_00740000_0036",
+        "NPC_D1_01070401_R00740000_O42_0002",
+        "SCN_01070401_00740000_0037",
+        "NPC_D1_01070401_R00740000_O42_0003",
+        "SCN_01070401_00740000_0038"
+      ]
+    },
+    {
+      "source_file": "DATA/01080701.MDZ",
+      "record_id": "0x00740000",
+      "fixed_layout_translation_ids": [
+        "SCN_01080701_00740000_0036",
+        "NPC_D1_01080701_R00740000_O42_0002",
+        "SCN_01080701_00740000_0037",
+        "NPC_D1_01080701_R00740000_O42_0003",
+        "SCN_01080701_00740000_0038"
+      ]
+    },
+    {
+      "source_file": "DATA/01080801.MDZ",
+      "record_id": "0x00740000",
+      "fixed_layout_translation_ids": [
+        "SCN_01080801_00740000_0036",
+        "NPC_D1_01080801_R00740000_O42_0002",
+        "SCN_01080801_00740000_0037",
+        "NPC_D1_01080801_R00740000_O42_0003",
+        "SCN_01080801_00740000_0038"
+      ]
+    }
+  ]
+}

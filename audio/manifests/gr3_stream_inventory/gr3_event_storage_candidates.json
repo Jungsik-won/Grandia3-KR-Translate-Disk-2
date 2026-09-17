@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "decoded_resource_count": 346,
+  "candidate_run_count": 202,
+  "resources_with_candidate_runs": 199,
+  "runs_fitting_current_alfina_package": 199,
+  "runtime_proven_run_count": 1,
+  "minimum_run_bytes": 4096,
+  "warning": "Zero runs are storage candidates only. Do not write to them until the resource owner, runtime source address, and load/play/exit behavior are verified."
+}

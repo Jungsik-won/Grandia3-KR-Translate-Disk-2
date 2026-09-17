@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "status": "PASS_NO_LEGACY_MOVIE_OVERLAY_RESIDUE",
+  "audited_iso": "/Users/j.swon/Desktop/Grandia3_KR/build/central-midpoint-gr3sub-preload-gate-fix-20260829/Grandia3_KR_Disc1_midpoint_GR3SUB_preload_gate_fix.iso",
+  "audited_slpm_sha256": "67a2cec992c2c6f58a426ed422643f5ab125933b2a31572900c2f5444c314ae9",
+  "clean_slpm_sha256": "e50a877d9199b34c20f8917059745a35d344699e34cc3fafe7628ef324e3be0c",
+  "checks": {
+    "legacy_debug_gate_0x001A4F18_matches_clean": true,
+    "legacy_debug_row_0x001A4290_matches_clean": true,
+    "legacy_debug_color_0x001461EC_matches_clean": true,
+    "legacy_debug_label_0x001F4F88_matches_clean": true,
+    "legacy_direct_movie_submit_0x0012D850_matches_clean": true,
+    "legacy_direct_movie_cave_0x001E7A10_matches_clean": true,
+    "all_current_slpm_differences_are_inside_gr3sub_hook_and_two_caves": true,
+    "differences_outside_expected_gr3sub_regions": 0,
+    "grm01_v25_sampled_frames_show_no_candidate_only_bottom_white_line": true
+  },
+  "conclusion": "The small white line is not caused by a surviving GRM01 SLPM overlay experiment. Verify that PCSX2 is booting the corrected ISO after a full process restart; if the line persists on that exact hash, capture a screenshot and movie timestamp for a separate current-renderer/PCSX2 investigation."
+}

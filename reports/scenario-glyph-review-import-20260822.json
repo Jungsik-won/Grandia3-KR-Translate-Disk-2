@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "classification": "derived scenario glyph resolution using original RUBY.SKJ reverse mapping",
+  "source": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/exports/scenario_reference_context_v1_resolved.csv",
+    "sha256": "63c9036d60d4cd12fb077bf87b6255eb41a8231ddf524185059537a23add21fd",
+    "rows": 5903
+  },
+  "skj": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/data/scenario/skj_recovered_glyph_overrides.csv",
+    "sha256": "168106057ac80cb5a133be39416095e71b1ebab6e209dea2b2749304126727b2",
+    "rows": 335
+  },
+  "user_inputs": {
+    "mapping_draft": {
+      "path": "/Users/j.swon/Downloads/grandia3_unresolved_glyph_mapping_draft.csv",
+      "sha256": "d5ce516e77ca1ce5fa3f68e74bc8ad1b48705f138d6fcebe9f30c52d5be932ea",
+      "rows": 335
+    },
+    "top50_review": {
+      "path": "/Users/j.swon/Downloads/grandia3_unresolved_top50_review.csv",
+      "sha256": "faa1e7450800ea82c38940666840a9171c39a7bb5758aec0430d3cee4c4294d6",
+      "rows": 50
+    }
+  },
+  "decision": "Apply the original RUBY.SKJ character for unresolved tokens; retain user visual candidates and conflicts in the audit CSV.",
+  "counts": {
+    "source_unresolved_unique": 342,
+    "applied_skj_unique": 335,
+    "user_draft_agreement": 225,
+    "user_draft_conflict": 110,
+    "residual_unique": 7,
+    "residual_occurrences": 249,
+    "residual_ids": [
+      "0000",
+      "0003",
+      "0008",
+      "000D",
+      "0012",
+      "0017",
+      "001C"
+    ]
+  },
+  "outputs": {
+    "derived_csv": "/Users/j.swon/Desktop/Grandia3_KR/exports/scenario_reference_context_v1_skj_resolved.csv",
+    "audit_csv": "/Users/j.swon/Desktop/Grandia3_KR/data/scenario/skj_reviewed_glyph_overrides_20260822.csv",
+    "residual_queue": "/Users/j.swon/Desktop/Grandia3_KR/work/scenario/translation/reference_context_v1_skj_unresolved_glyph_queue.csv"
+  },
+  "status": {
+    "applied": "SUPPORTED",
+    "user_conflicts": "UNPROVEN",
+    "residual": "UNPROVEN"
+  }
+}

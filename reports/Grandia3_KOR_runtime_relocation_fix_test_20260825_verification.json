@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "source_iso": "/Users/j.swon/Desktop/Grandia3_KR/Original ISO/Grandia III (Japan) (Disc 1).iso",
+  "output_iso": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_runtime_relocation_fix_test_20260825.iso",
+  "output_size": 4612100096,
+  "output_sha256": "0d1e6bf3c84d3bf58a06bbe039371d6f94596dd003b86bf37e1e1009342720fb",
+  "checks": {
+    "replacement_payloads_reverse_verified": 350,
+    "iso_file_count": 1265,
+    "pvd_volume_sectors": 2252002,
+    "scenario_container_count": 346,
+    "scenario_message_count": 17540,
+    "internal_reference_updates": 41,
+    "scenario_00030000_size": 5969941,
+    "scenario_00030000_sha256": "20aa7fdbacc4aa56d4aa8b8df31442c0363e633a6665eeb32277369acdb3a7aa",
+    "scenario_00030000_matches_relocation_v2": true,
+    "operation_field_sentinels": 7,
+    "operation_battle_sentinels": 8
+  }
+}

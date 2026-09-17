@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "classification": "candidate matches only; never automatic approval",
+  "scenario_row_count": 5916,
+  "base_segment_count": 1173,
+  "candidate_row_count": 5562,
+  "matched_segment_count": 914,
+  "small_stream_count": 52,
+  "output": "/Users/j.swon/Desktop/Grandia3_KR/audio/transcripts/gr3_rendered_events/scenario_match_candidates.csv"
+}

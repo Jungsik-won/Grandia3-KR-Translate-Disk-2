@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "mode": "CENTRAL_FINAL_TEST_ISO",
+  "merged": {
+    "rows": 8058,
+    "unique_ids": 8058,
+    "rows_by_category": {
+      "BATTLE": 47,
+      "BATTLE_HELP": 64,
+      "ENEMY": 169,
+      "EQUIPMENT": 46,
+      "FIELD": 10,
+      "ITEM": 1352,
+      "MAGIC": 84,
+      "SCENARIO": 5903,
+      "SKILL": 62,
+      "STATUS": 32,
+      "SYSTEM": 289
+    },
+    "database_csv_exact": true,
+    "unassigned_encoded_rows": 0
+  },
+  "conflicts": {
+    "duplicate_ids": 0,
+    "fixed_slot_overflows": 0,
+    "field_suppressed_duplicate_rows": 88,
+    "field_unique_offsets": 289
+  },
+  "font": {
+    "required_glyphs": 1038,
+    "tested_base_mappings": 785,
+    "new_free_only_mappings": 253,
+    "total_mappings": 1038,
+    "new_slots_all_free": true,
+    "output_glyph_count": 3262,
+    "reverse_resource_hashes_verified": 4
+  },
+  "candidates": {
+    "field_slots": 289,
+    "battle_rows": 47,
+    "item_rows": 822,
+    "item_effect_rows": 530,
+    "skill_rows": 62,
+    "battle_help_rows": 64,
+    "enemy_rows": 169,
+    "scenario_containers": 346,
+    "scenario_messages": 5903,
+    "replacement_entries": 349,
+    "field_action_rows_excluded_unproven": 9
+  },
+  "iso": {
+    "path": "/Users/j.swon/Desktop/Grandia3_KR/Grandia3_KOR_central_final_test_20260823.iso",
+    "size": 4612130816,
+    "sha256": "a4c004b0134c44d196ae85295136246a1cdcf63fc7fbf8b52ee29a6bac935863",
+    "reverse_verified": true,
+    "all_non_replaced_files_match_clean_source": true
+  },
+  "next": "PCSX2 playtest; report untranslated/broken screens by screenshot and location"
+}

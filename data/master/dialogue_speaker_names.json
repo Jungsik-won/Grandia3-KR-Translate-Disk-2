@@ -1,0 +1,3136 @@
+{
+  "schema_version": 2,
+  "table": "GR3 chunk 0x03900000 complete fixed-width dialogue speaker names",
+  "encoding": "little-endian u16 stored glyph code (physical glyph index + 0x20)",
+  "population": 215,
+  "reviewed_translation_source": "data/master/dialogue_speaker_name_translations.csv",
+  "inventory_source": "reports/dialogue_speaker_name_inventory_20260826.json",
+  "unique_korean_labels": 215,
+  "names": [
+    {
+      "id": "SPEAKER_000",
+      "index": 0,
+      "original_offset": "0x02E90E",
+      "jp_text": "ユウキ",
+      "jp_values": [
+        231,
+        168,
+        175
+      ],
+      "kr_text": "유키"
+    },
+    {
+      "id": "SPEAKER_001",
+      "index": 1,
+      "original_offset": "0x02E916",
+      "jp_text": "アルフィナ",
+      "jp_values": [
+        164,
+        237,
+        214,
+        165,
+        203
+      ],
+      "kr_text": "알피나"
+    },
+    {
+      "id": "SPEAKER_002",
+      "index": 2,
+      "original_offset": "0x02E922",
+      "jp_text": "ミランダ",
+      "jp_values": [
+        224,
+        235,
+        234,
+        194
+      ],
+      "kr_text": "미란다"
+    },
+    {
+      "id": "SPEAKER_003",
+      "index": 3,
+      "original_offset": "0x02E92C",
+      "jp_text": "アロンソ",
+      "jp_values": [
+        164,
+        239,
+        234,
+        191
+      ],
+      "kr_text": "알론소"
+    },
+    {
+      "id": "SPEAKER_004",
+      "index": 4,
+      "original_offset": "0x02E936",
+      "jp_text": "ウル",
+      "jp_values": [
+        168,
+        237
+      ],
+      "kr_text": "울"
+    },
+    {
+      "id": "SPEAKER_005",
+      "index": 5,
+      "original_offset": "0x02E93C",
+      "jp_text": "ダーナ",
+      "jp_values": [
+        194,
+        39,
+        203
+      ],
+      "kr_text": "다나"
+    },
+    {
+      "id": "SPEAKER_006",
+      "index": 6,
+      "original_offset": "0x02E944",
+      "jp_text": "ヘクト",
+      "jp_values": [
+        217,
+        177,
+        201
+      ],
+      "kr_text": "헥트"
+    },
+    {
+      "id": "SPEAKER_007",
+      "index": 7,
+      "original_offset": "0x02E94C",
+      "jp_text": "ロッツ",
+      "jp_values": [
+        239,
+        196,
+        197
+      ],
+      "kr_text": "롯츠"
+    },
+    {
+      "id": "SPEAKER_008",
+      "index": 8,
+      "original_offset": "0x02E954",
+      "jp_text": "ビアンカ",
+      "jp_values": [
+        212,
+        164,
+        234,
+        173
+      ],
+      "kr_text": "비앙카"
+    },
+    {
+      "id": "SPEAKER_009",
+      "index": 9,
+      "original_offset": "0x02E95E",
+      "jp_text": "シュミット",
+      "jp_values": [
+        185,
+        230,
+        224,
+        196,
+        201
+      ],
+      "kr_text": "슈미트"
+    },
+    {
+      "id": "SPEAKER_010",
+      "index": 10,
+      "original_offset": "0x02E96A",
+      "jp_text": "エメリウス",
+      "jp_values": [
+        170,
+        226,
+        236,
+        168,
+        187
+      ],
+      "kr_text": "에메리우스"
+    },
+    {
+      "id": "SPEAKER_011",
+      "index": 11,
+      "original_offset": "0x02E976",
+      "jp_text": "グラディス",
+      "jp_values": [
+        178,
+        235,
+        200,
+        165,
+        187
+      ],
+      "kr_text": "글라디스"
+    },
+    {
+      "id": "SPEAKER_012",
+      "index": 12,
+      "original_offset": "0x02E982",
+      "jp_text": "アンドレじいさん",
+      "jp_values": [
+        164,
+        234,
+        202,
+        238,
+        107,
+        87,
+        104,
+        162
+      ],
+      "kr_text": "안드레할아버지"
+    },
+    {
+      "id": "SPEAKER_013",
+      "index": 13,
+      "original_offset": "0x02E994",
+      "jp_text": "ソフィー",
+      "jp_values": [
+        191,
+        214,
+        165,
+        39
+      ],
+      "kr_text": "소피"
+    },
+    {
+      "id": "SPEAKER_014",
+      "index": 14,
+      "original_offset": "0x02E99E",
+      "jp_text": "エネット",
+      "jp_values": [
+        170,
+        206,
+        196,
+        201
+      ],
+      "kr_text": "에넷"
+    },
+    {
+      "id": "SPEAKER_015",
+      "index": 15,
+      "original_offset": "0x02E9A8",
+      "jp_text": "ウォルトじいさん",
+      "jp_values": [
+        168,
+        171,
+        237,
+        201,
+        107,
+        87,
+        104,
+        162
+      ],
+      "kr_text": "월트할아버지"
+    },
+    {
+      "id": "SPEAKER_016",
+      "index": 16,
+      "original_offset": "0x02E9BA",
+      "jp_text": "ポリーおばさん",
+      "jp_values": [
+        222,
+        236,
+        39,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "폴리아줌마"
+    },
+    {
+      "id": "SPEAKER_017",
+      "index": 17,
+      "original_offset": "0x02E9CA",
+      "jp_text": "ミック村長",
+      "jp_values": [
+        224,
+        196,
+        177,
+        338,
+        339
+      ],
+      "kr_text": "믹촌장"
+    },
+    {
+      "id": "SPEAKER_018",
+      "index": 18,
+      "original_offset": "0x02E9D6",
+      "jp_text": "ウィル",
+      "jp_values": [
+        168,
+        165,
+        237
+      ],
+      "kr_text": "윌"
+    },
+    {
+      "id": "SPEAKER_019",
+      "index": 19,
+      "original_offset": "0x02E9DE",
+      "jp_text": "アニキ",
+      "jp_values": [
+        164,
+        204,
+        175
+      ],
+      "kr_text": "형님"
+    },
+    {
+      "id": "SPEAKER_020",
+      "index": 20,
+      "original_offset": "0x02E9E6",
+      "jp_text": "ドリスばあさん",
+      "jp_values": [
+        202,
+        236,
+        187,
+        130,
+        85,
+        104,
+        162
+      ],
+      "kr_text": "도리스할머니"
+    },
+    {
+      "id": "SPEAKER_021",
+      "index": 21,
+      "original_offset": "0x02E9F6",
+      "jp_text": "エド",
+      "jp_values": [
+        170,
+        202
+      ],
+      "kr_text": "에드"
+    },
+    {
+      "id": "SPEAKER_022",
+      "index": 22,
+      "original_offset": "0x02E9FC",
+      "jp_text": "グレゴー親方",
+      "jp_values": [
+        178,
+        238,
+        182,
+        39,
+        1209,
+        268
+      ],
+      "kr_text": "그레고대장"
+    },
+    {
+      "id": "SPEAKER_023",
+      "index": 23,
+      "original_offset": "0x02EA0A",
+      "jp_text": "ノブ",
+      "jp_values": [
+        207,
+        215
+      ],
+      "kr_text": "노브"
+    },
+    {
+      "id": "SPEAKER_024",
+      "index": 24,
+      "original_offset": "0x02EA10",
+      "jp_text": "メイおばさん",
+      "jp_values": [
+        226,
+        166,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "메이아줌마"
+    },
+    {
+      "id": "SPEAKER_025",
+      "index": 25,
+      "original_offset": "0x02EA1E",
+      "jp_text": "ガシャンおじさん",
+      "jp_values": [
+        174,
+        185,
+        228,
+        234,
+        93,
+        107,
+        104,
+        162
+      ],
+      "kr_text": "가샨아저씨"
+    },
+    {
+      "id": "SPEAKER_026",
+      "index": 26,
+      "original_offset": "0x02EA30",
+      "jp_text": "コッペ",
+      "jp_values": [
+        181,
+        196,
+        219
+      ],
+      "kr_text": "코페"
+    },
+    {
+      "id": "SPEAKER_027",
+      "index": 27,
+      "original_offset": "0x02EA38",
+      "jp_text": "？？？",
+      "jp_values": [
+        36,
+        36,
+        36
+      ],
+      "kr_text": "미상"
+    },
+    {
+      "id": "SPEAKER_028",
+      "index": 28,
+      "original_offset": "0x02EA40",
+      "jp_text": "チャック",
+      "jp_values": [
+        195,
+        228,
+        196,
+        177
+      ],
+      "kr_text": "척"
+    },
+    {
+      "id": "SPEAKER_029",
+      "index": 29,
+      "original_offset": "0x02EA4A",
+      "jp_text": "ヒマそうな女学生",
+      "jp_values": [
+        211,
+        223,
+        112,
+        89,
+        124,
+        1178,
+        949,
+        577
+      ],
+      "kr_text": "한가한여학생"
+    },
+    {
+      "id": "SPEAKER_030",
+      "index": 30,
+      "original_offset": "0x02EA5C",
+      "jp_text": "生意気そうな少年",
+      "jp_values": [
+        577,
+        475,
+        363,
+        112,
+        89,
+        124,
+        342,
+        458
+      ],
+      "kr_text": "건방진소년"
+    },
+    {
+      "id": "SPEAKER_031",
+      "index": 31,
+      "original_offset": "0x02EA6E",
+      "jp_text": "紙芝居屋",
+      "jp_values": [
+        360,
+        1142,
+        998,
+        373
+      ],
+      "kr_text": "그림꾼"
+    },
+    {
+      "id": "SPEAKER_032",
+      "index": 32,
+      "original_offset": "0x02EA78",
+      "jp_text": "紳士的な老人",
+      "jp_values": [
+        2097,
+        496,
+        405,
+        124,
+        1514,
+        391
+      ],
+      "kr_text": "신사노인"
+    },
+    {
+      "id": "SPEAKER_033",
+      "index": 33,
+      "original_offset": "0x02EA86",
+      "jp_text": "似顔絵描き",
+      "jp_values": [
+        1135,
+        971,
+        723,
+        793,
+        96
+      ],
+      "kr_text": "초상화가"
+    },
+    {
+      "id": "SPEAKER_034",
+      "index": 34,
+      "original_offset": "0x02EA92",
+      "jp_text": "少年探偵オットー",
+      "jp_values": [
+        342,
+        458,
+        392,
+        2151,
+        172,
+        196,
+        201,
+        39
+      ],
+      "kr_text": "소년탐정오토"
+    },
+    {
+      "id": "SPEAKER_035",
+      "index": 35,
+      "original_offset": "0x02EAA4",
+      "jp_text": "酒屋の店員",
+      "jp_values": [
+        352,
+        373,
+        128,
+        1321,
+        573
+      ],
+      "kr_text": "술집점원"
+    },
+    {
+      "id": "SPEAKER_036",
+      "index": 36,
+      "original_offset": "0x02EAB0",
+      "jp_text": "寂しげなばあさん",
+      "jp_values": [
+        1152,
+        106,
+        101,
+        124,
+        130,
+        85,
+        104,
+        162
+      ],
+      "kr_text": "외로운할머니"
+    },
+    {
+      "id": "SPEAKER_037",
+      "index": 37,
+      "original_offset": "0x02EAC2",
+      "jp_text": "町の少女",
+      "jp_values": [
+        1302,
+        128,
+        342,
+        1178
+      ],
+      "kr_text": "마을소녀"
+    },
+    {
+      "id": "SPEAKER_038",
+      "index": 38,
+      "original_offset": "0x02EACC",
+      "jp_text": "町の少年",
+      "jp_values": [
+        1302,
+        128,
+        342,
+        458
+      ],
+      "kr_text": "마을소년"
+    },
+    {
+      "id": "SPEAKER_039",
+      "index": 39,
+      "original_offset": "0x02EAD6",
+      "jp_text": "サム",
+      "jp_values": [
+        183,
+        225
+      ],
+      "kr_text": "샘"
+    },
+    {
+      "id": "SPEAKER_040",
+      "index": 40,
+      "original_offset": "0x02EADC",
+      "jp_text": "おどおどした少女",
+      "jp_values": [
+        93,
+        123,
+        93,
+        123,
+        106,
+        114,
+        342,
+        1178
+      ],
+      "kr_text": "소심한소녀"
+    },
+    {
+      "id": "SPEAKER_041",
+      "index": 41,
+      "original_offset": "0x02EAEE",
+      "jp_text": "家具屋の店番",
+      "jp_values": [
+        346,
+        296,
+        373,
+        128,
+        1321,
+        748
+      ],
+      "kr_text": "가구점주인"
+    },
+    {
+      "id": "SPEAKER_042",
+      "index": 42,
+      "original_offset": "0x02EAFC",
+      "jp_text": "待ちぼうけの女",
+      "jp_values": [
+        1268,
+        116,
+        142,
+        89,
+        100,
+        128,
+        1178
+      ],
+      "kr_text": "기다리는여자"
+    },
+    {
+      "id": "SPEAKER_043",
+      "index": 43,
+      "original_offset": "0x02EB0C",
+      "jp_text": "何かを見ている女",
+      "jp_values": [
+        928,
+        94,
+        161,
+        337,
+        120,
+        87,
+        157,
+        1178
+      ],
+      "kr_text": "뭔가보는여자"
+    },
+    {
+      "id": "SPEAKER_044",
+      "index": 44,
+      "original_offset": "0x02EB1E",
+      "jp_text": "買い物する女",
+      "jp_values": [
+        306,
+        87,
+        403,
+        108,
+        157,
+        1178
+      ],
+      "kr_text": "쇼핑중인여자"
+    },
+    {
+      "id": "SPEAKER_045",
+      "index": 45,
+      "original_offset": "0x02EB2C",
+      "jp_text": "やせた船乗り",
+      "jp_values": [
+        150,
+        110,
+        114,
+        356,
+        780,
+        156
+      ],
+      "kr_text": "마른선원"
+    },
+    {
+      "id": "SPEAKER_046",
+      "index": 46,
+      "original_offset": "0x02EB3A",
+      "jp_text": "大柄な男",
+      "jp_values": [
+        274,
+        1829,
+        124,
+        689
+      ],
+      "kr_text": "덩치남"
+    },
+    {
+      "id": "SPEAKER_047",
+      "index": 47,
+      "original_offset": "0x02EB44",
+      "jp_text": "くたびれた漁師",
+      "jp_values": [
+        98,
+        114,
+        133,
+        158,
+        114,
+        1001,
+        1123
+      ],
+      "kr_text": "지친어부"
+    },
+    {
+      "id": "SPEAKER_048",
+      "index": 48,
+      "original_offset": "0x02EB54",
+      "jp_text": "うろついている男",
+      "jp_values": [
+        89,
+        159,
+        118,
+        87,
+        120,
+        87,
+        157,
+        689
+      ],
+      "kr_text": "배회하는남자"
+    },
+    {
+      "id": "SPEAKER_049",
+      "index": 49,
+      "original_offset": "0x02EB66",
+      "jp_text": "マッチョな水夫",
+      "jp_values": [
+        223,
+        196,
+        195,
+        232,
+        124,
+        487,
+        507
+      ],
+      "kr_text": "근육질선원"
+    },
+    {
+      "id": "SPEAKER_050",
+      "index": 50,
+      "original_offset": "0x02EB76",
+      "jp_text": "ずぶぬれの漁師",
+      "jp_values": [
+        109,
+        136,
+        126,
+        158,
+        128,
+        1001,
+        1123
+      ],
+      "kr_text": "젖은어부"
+    },
+    {
+      "id": "SPEAKER_051",
+      "index": 51,
+      "original_offset": "0x02EB86",
+      "jp_text": "目つきの鋭い老人",
+      "jp_values": [
+        511,
+        118,
+        96,
+        128,
+        913,
+        87,
+        1514,
+        391
+      ],
+      "kr_text": "눈매사나운노인"
+    },
+    {
+      "id": "SPEAKER_052",
+      "index": 52,
+      "original_offset": "0x02EB98",
+      "jp_text": "そわそわおじさん",
+      "jp_values": [
+        112,
+        160,
+        112,
+        160,
+        93,
+        107,
+        104,
+        162
+      ],
+      "kr_text": "불안한아저씨"
+    },
+    {
+      "id": "SPEAKER_053",
+      "index": 53,
+      "original_offset": "0x02EBAA",
+      "jp_text": "ノーラ",
+      "jp_values": [
+        207,
+        39,
+        235
+      ],
+      "kr_text": "노라"
+    },
+    {
+      "id": "SPEAKER_054",
+      "index": 54,
+      "original_offset": "0x02EBB2",
+      "jp_text": "エセル",
+      "jp_values": [
+        170,
+        189,
+        237
+      ],
+      "kr_text": "에셀"
+    },
+    {
+      "id": "SPEAKER_055",
+      "index": 55,
+      "original_offset": "0x02EBBA",
+      "jp_text": "ジュード",
+      "jp_values": [
+        186,
+        230,
+        39,
+        202
+      ],
+      "kr_text": "주드"
+    },
+    {
+      "id": "SPEAKER_056",
+      "index": 56,
+      "original_offset": "0x02EBC4",
+      "jp_text": "賭博場の漁師",
+      "jp_values": [
+        1325,
+        1367,
+        353,
+        128,
+        1001,
+        1123
+      ],
+      "kr_text": "도박장어부"
+    },
+    {
+      "id": "SPEAKER_057",
+      "index": 57,
+      "original_offset": "0x02EBD2",
+      "jp_text": "山奥から来た客",
+      "jp_values": [
+        440,
+        920,
+        94,
+        155,
+        516,
+        114,
+        987
+      ],
+      "kr_text": "산골손님"
+    },
+    {
+      "id": "SPEAKER_058",
+      "index": 58,
+      "original_offset": "0x02EBE2",
+      "jp_text": "ビアンカの手下Ａ",
+      "jp_values": [
+        212,
+        164,
+        234,
+        173,
+        128,
+        301,
+        313,
+        58
+      ],
+      "kr_text": "비앙카부하갑"
+    },
+    {
+      "id": "SPEAKER_059",
+      "index": 59,
+      "original_offset": "0x02EBF4",
+      "jp_text": "ビアンカの手下Ｂ",
+      "jp_values": [
+        212,
+        164,
+        234,
+        173,
+        128,
+        301,
+        313,
+        59
+      ],
+      "kr_text": "비앙카부하을"
+    },
+    {
+      "id": "SPEAKER_060",
+      "index": 60,
+      "original_offset": "0x02EC06",
+      "jp_text": "脂ぎった中年男",
+      "jp_values": [
+        2180,
+        97,
+        117,
+        114,
+        812,
+        458,
+        689
+      ],
+      "kr_text": "기름진중년남"
+    },
+    {
+      "id": "SPEAKER_061",
+      "index": 61,
+      "original_offset": "0x02EC16",
+      "jp_text": "パシリの少年",
+      "jp_values": [
+        210,
+        185,
+        236,
+        128,
+        342,
+        458
+      ],
+      "kr_text": "심부름소년"
+    },
+    {
+      "id": "SPEAKER_062",
+      "index": 62,
+      "original_offset": "0x02EC24",
+      "jp_text": "立ち寄った水夫",
+      "jp_values": [
+        472,
+        116,
+        772,
+        117,
+        114,
+        487,
+        507
+      ],
+      "kr_text": "들른선원"
+    },
+    {
+      "id": "SPEAKER_063",
+      "index": 63,
+      "original_offset": "0x02EC34",
+      "jp_text": "旅人",
+      "jp_values": [
+        357,
+        391
+      ],
+      "kr_text": "길손"
+    },
+    {
+      "id": "SPEAKER_064",
+      "index": 64,
+      "original_offset": "0x02EC3A",
+      "jp_text": "クライド",
+      "jp_values": [
+        177,
+        235,
+        166,
+        202
+      ],
+      "kr_text": "클라이드"
+    },
+    {
+      "id": "SPEAKER_065",
+      "index": 65,
+      "original_offset": "0x02EC44",
+      "jp_text": "ガラの悪い男",
+      "jp_values": [
+        174,
+        235,
+        128,
+        401,
+        87,
+        689
+      ],
+      "kr_text": "불량한남자"
+    },
+    {
+      "id": "SPEAKER_066",
+      "index": 66,
+      "original_offset": "0x02EC52",
+      "jp_text": "借金まみれの男",
+      "jp_values": [
+        1150,
+        614,
+        144,
+        145,
+        158,
+        128,
+        689
+      ],
+      "kr_text": "빚쟁이남자"
+    },
+    {
+      "id": "SPEAKER_067",
+      "index": 67,
+      "original_offset": "0x02EC62",
+      "jp_text": "収集家のばあさん",
+      "jp_values": [
+        1155,
+        839,
+        346,
+        128,
+        130,
+        85,
+        104,
+        162
+      ],
+      "kr_text": "수집가할머니"
+    },
+    {
+      "id": "SPEAKER_068",
+      "index": 68,
+      "original_offset": "0x02EC74",
+      "jp_text": "初老の紳士",
+      "jp_values": [
+        317,
+        1514,
+        128,
+        2097,
+        496
+      ],
+      "kr_text": "초로신사"
+    },
+    {
+      "id": "SPEAKER_069",
+      "index": 69,
+      "original_offset": "0x02EC80",
+      "jp_text": "シバ",
+      "jp_values": [
+        185,
+        209
+      ],
+      "kr_text": "시바"
+    },
+    {
+      "id": "SPEAKER_070",
+      "index": 70,
+      "original_offset": "0x02EC86",
+      "jp_text": "魚屋の青年",
+      "jp_values": [
+        509,
+        373,
+        128,
+        714,
+        458
+      ],
+      "kr_text": "생선집청년"
+    },
+    {
+      "id": "SPEAKER_071",
+      "index": 71,
+      "original_offset": "0x02EC92",
+      "jp_text": "エビ屋の少年",
+      "jp_values": [
+        170,
+        212,
+        373,
+        128,
+        342,
+        458
+      ],
+      "kr_text": "새우집소년"
+    },
+    {
+      "id": "SPEAKER_072",
+      "index": 72,
+      "original_offset": "0x02ECA0",
+      "jp_text": "買い物している娘",
+      "jp_values": [
+        306,
+        87,
+        403,
+        106,
+        120,
+        87,
+        157,
+        1455
+      ],
+      "kr_text": "쇼핑중인처녀"
+    },
+    {
+      "id": "SPEAKER_073",
+      "index": 73,
+      "original_offset": "0x02ECB2",
+      "jp_text": "あやしげな男",
+      "jp_values": [
+        85,
+        150,
+        106,
+        101,
+        124,
+        689
+      ],
+      "kr_text": "수상한남자"
+    },
+    {
+      "id": "SPEAKER_074",
+      "index": 74,
+      "original_offset": "0x02ECC0",
+      "jp_text": "ヅラの権威",
+      "jp_values": [
+        198,
+        235,
+        128,
+        1047,
+        340
+      ],
+      "kr_text": "가발권위자"
+    },
+    {
+      "id": "SPEAKER_075",
+      "index": 75,
+      "original_offset": "0x02ECCC",
+      "jp_text": "気さくな青年",
+      "jp_values": [
+        363,
+        104,
+        98,
+        124,
+        714,
+        458
+      ],
+      "kr_text": "붙임성청년"
+    },
+    {
+      "id": "SPEAKER_076",
+      "index": 76,
+      "original_offset": "0x02ECDA",
+      "jp_text": "果物屋のババア",
+      "jp_values": [
+        402,
+        403,
+        373,
+        128,
+        209,
+        209,
+        164
+      ],
+      "kr_text": "과일집할머니"
+    },
+    {
+      "id": "SPEAKER_077",
+      "index": 77,
+      "original_offset": "0x02ECEA",
+      "jp_text": "紙芝居屋の常連",
+      "jp_values": [
+        360,
+        1142,
+        998,
+        373,
+        128,
+        536,
+        699
+      ],
+      "kr_text": "그림연극단골"
+    },
+    {
+      "id": "SPEAKER_078",
+      "index": 78,
+      "original_offset": "0x02ECFA",
+      "jp_text": "有閑マダム",
+      "jp_values": [
+        552,
+        1643,
+        223,
+        194,
+        225
+      ],
+      "kr_text": "한가한부인"
+    },
+    {
+      "id": "SPEAKER_079",
+      "index": 79,
+      "original_offset": "0x02ED06",
+      "jp_text": "生意気なボンボン",
+      "jp_values": [
+        577,
+        475,
+        363,
+        124,
+        221,
+        234,
+        221,
+        234
+      ],
+      "kr_text": "건방진도련님"
+    },
+    {
+      "id": "SPEAKER_080",
+      "index": 80,
+      "original_offset": "0x02ED18",
+      "jp_text": "経済界のドン",
+      "jp_values": [
+        587,
+        1095,
+        743,
+        128,
+        202,
+        234
+      ],
+      "kr_text": "경제계거물"
+    },
+    {
+      "id": "SPEAKER_081",
+      "index": 81,
+      "original_offset": "0x02ED26",
+      "jp_text": "サナギのビリー",
+      "jp_values": [
+        183,
+        203,
+        176,
+        128,
+        212,
+        236,
+        39
+      ],
+      "kr_text": "번데기빌리"
+    },
+    {
+      "id": "SPEAKER_082",
+      "index": 82,
+      "original_offset": "0x02ED36",
+      "jp_text": "ほがらかな女",
+      "jp_values": [
+        141,
+        95,
+        155,
+        94,
+        124,
+        1178
+      ],
+      "kr_text": "명랑한여자"
+    },
+    {
+      "id": "SPEAKER_083",
+      "index": 83,
+      "original_offset": "0x02ED44",
+      "jp_text": "島育ちの少年",
+      "jp_values": [
+        1334,
+        900,
+        116,
+        128,
+        342,
+        458
+      ],
+      "kr_text": "섬출신소년"
+    },
+    {
+      "id": "SPEAKER_084",
+      "index": 84,
+      "original_offset": "0x02ED52",
+      "jp_text": "快活な男",
+      "jp_values": [
+        938,
+        571,
+        124,
+        689
+      ],
+      "kr_text": "쾌활남"
+    },
+    {
+      "id": "SPEAKER_085",
+      "index": 85,
+      "original_offset": "0x02ED5C",
+      "jp_text": "大声で話す女",
+      "jp_values": [
+        274,
+        849,
+        121,
+        276,
+        108,
+        1178
+      ],
+      "kr_text": "목소리큰여자"
+    },
+    {
+      "id": "SPEAKER_086",
+      "index": 86,
+      "original_offset": "0x02ED6A",
+      "jp_text": "不安げに話す男",
+      "jp_values": [
+        544,
+        542,
+        101,
+        125,
+        276,
+        108,
+        689
+      ],
+      "kr_text": "불안한남자"
+    },
+    {
+      "id": "SPEAKER_087",
+      "index": 87,
+      "original_offset": "0x02ED7A",
+      "jp_text": "おびえている女",
+      "jp_values": [
+        93,
+        133,
+        91,
+        120,
+        87,
+        157,
+        1178
+      ],
+      "kr_text": "겁먹은여자"
+    },
+    {
+      "id": "SPEAKER_088",
+      "index": 88,
+      "original_offset": "0x02ED8A",
+      "jp_text": "ひそひそと話す女",
+      "jp_values": [
+        132,
+        112,
+        132,
+        112,
+        122,
+        276,
+        108,
+        1178
+      ],
+      "kr_text": "소곤대는여자"
+    },
+    {
+      "id": "SPEAKER_089",
+      "index": 89,
+      "original_offset": "0x02ED9C",
+      "jp_text": "営業マン",
+      "jp_values": [
+        907,
+        665,
+        223,
+        234
+      ],
+      "kr_text": "영업사원"
+    },
+    {
+      "id": "SPEAKER_090",
+      "index": 90,
+      "original_offset": "0x02EDA6",
+      "jp_text": "家具屋の婆さん",
+      "jp_values": [
+        346,
+        296,
+        373,
+        128,
+        1951,
+        104,
+        162
+      ],
+      "kr_text": "가구점할머니"
+    },
+    {
+      "id": "SPEAKER_091",
+      "index": 91,
+      "original_offset": "0x02EDB6",
+      "jp_text": "果物屋の息子",
+      "jp_values": [
+        402,
+        403,
+        373,
+        128,
+        1265,
+        473
+      ],
+      "kr_text": "과일집아들"
+    },
+    {
+      "id": "SPEAKER_092",
+      "index": 92,
+      "original_offset": "0x02EDC4",
+      "jp_text": "花屋",
+      "jp_values": [
+        676,
+        373
+      ],
+      "kr_text": "꽃집"
+    },
+    {
+      "id": "SPEAKER_093",
+      "index": 93,
+      "original_offset": "0x02EDCA",
+      "jp_text": "看板屋",
+      "jp_values": [
+        962,
+        673,
+        373
+      ],
+      "kr_text": "간판집"
+    },
+    {
+      "id": "SPEAKER_094",
+      "index": 94,
+      "original_offset": "0x02EDD2",
+      "jp_text": "看板屋の奥さん",
+      "jp_values": [
+        962,
+        673,
+        373,
+        128,
+        920,
+        104,
+        162
+      ],
+      "kr_text": "간판집아내"
+    },
+    {
+      "id": "SPEAKER_095",
+      "index": 95,
+      "original_offset": "0x02EDE2",
+      "jp_text": "観光客",
+      "jp_values": [
+        967,
+        626,
+        987
+      ],
+      "kr_text": "관광객"
+    },
+    {
+      "id": "SPEAKER_096",
+      "index": 96,
+      "original_offset": "0x02EDEA",
+      "jp_text": "客船の受け付け",
+      "jp_values": [
+        987,
+        356,
+        128,
+        567,
+        100,
+        489,
+        100
+      ],
+      "kr_text": "여객선접수원"
+    },
+    {
+      "id": "SPEAKER_097",
+      "index": 97,
+      "original_offset": "0x02EDFA",
+      "jp_text": "橋の上の女",
+      "jp_values": [
+        1008,
+        128,
+        343,
+        128,
+        1178
+      ],
+      "kr_text": "다리위여자"
+    },
+    {
+      "id": "SPEAKER_098",
+      "index": 98,
+      "original_offset": "0x02EE06",
+      "jp_text": "橋の上の男",
+      "jp_values": [
+        1008,
+        128,
+        343,
+        128,
+        689
+      ],
+      "kr_text": "다리위남자"
+    },
+    {
+      "id": "SPEAKER_099",
+      "index": 99,
+      "original_offset": "0x02EE12",
+      "jp_text": "港のおばさん",
+      "jp_values": [
+        1075,
+        128,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "항구아줌마"
+    },
+    {
+      "id": "SPEAKER_100",
+      "index": 100,
+      "original_offset": "0x02EE20",
+      "jp_text": "酒屋のおじさん",
+      "jp_values": [
+        352,
+        373,
+        128,
+        93,
+        107,
+        104,
+        162
+      ],
+      "kr_text": "술집아저씨"
+    },
+    {
+      "id": "SPEAKER_101",
+      "index": 101,
+      "original_offset": "0x02EE30",
+      "jp_text": "やせこけた男",
+      "jp_values": [
+        150,
+        110,
+        102,
+        100,
+        114,
+        689
+      ],
+      "kr_text": "깡마른남자"
+    },
+    {
+      "id": "SPEAKER_102",
+      "index": 102,
+      "original_offset": "0x02EE3E",
+      "jp_text": "洗濯屋の婆さん",
+      "jp_values": [
+        1240,
+        1787,
+        373,
+        128,
+        1951,
+        104,
+        162
+      ],
+      "kr_text": "세탁소할머니"
+    },
+    {
+      "id": "SPEAKER_103",
+      "index": 103,
+      "original_offset": "0x02EE4E",
+      "jp_text": "たくましい船乗り",
+      "jp_values": [
+        114,
+        98,
+        144,
+        106,
+        87,
+        356,
+        780,
+        156
+      ],
+      "kr_text": "건장한선원"
+    },
+    {
+      "id": "SPEAKER_104",
+      "index": 104,
+      "original_offset": "0x02EE60",
+      "jp_text": "宿屋の女将",
+      "jp_values": [
+        1167,
+        373,
+        128,
+        1178,
+        760
+      ],
+      "kr_text": "여관여주인"
+    },
+    {
+      "id": "SPEAKER_105",
+      "index": 105,
+      "original_offset": "0x02EE6C",
+      "jp_text": "植物学者の老人",
+      "jp_values": [
+        461,
+        403,
+        949,
+        550,
+        128,
+        1514,
+        391
+      ],
+      "kr_text": "식물학자노인"
+    },
+    {
+      "id": "SPEAKER_106",
+      "index": 106,
+      "original_offset": "0x02EE7C",
+      "jp_text": "船酔いトーマス",
+      "jp_values": [
+        356,
+        1215,
+        87,
+        201,
+        39,
+        223,
+        187
+      ],
+      "kr_text": "뱃멀미토머스"
+    },
+    {
+      "id": "SPEAKER_107",
+      "index": 107,
+      "original_offset": "0x02EE8C",
+      "jp_text": "心配している水夫",
+      "jp_values": [
+        548,
+        300,
+        106,
+        120,
+        87,
+        157,
+        487,
+        507
+      ],
+      "kr_text": "걱정하는선원"
+    },
+    {
+      "id": "SPEAKER_108",
+      "index": 108,
+      "original_offset": "0x02EE9E",
+      "jp_text": "ニーナ",
+      "jp_values": [
+        204,
+        39,
+        203
+      ],
+      "kr_text": "니나"
+    },
+    {
+      "id": "SPEAKER_109",
+      "index": 109,
+      "original_offset": "0x02EEA6",
+      "jp_text": "おびえている男",
+      "jp_values": [
+        93,
+        133,
+        91,
+        120,
+        87,
+        157,
+        689
+      ],
+      "kr_text": "겁먹은남자"
+    },
+    {
+      "id": "SPEAKER_110",
+      "index": 110,
+      "original_offset": "0x02EEB6",
+      "jp_text": "勇敢な女",
+      "jp_values": [
+        617,
+        958,
+        124,
+        1178
+      ],
+      "kr_text": "용감녀"
+    },
+    {
+      "id": "SPEAKER_111",
+      "index": 111,
+      "original_offset": "0x02EEC0",
+      "jp_text": "いそがしい荷役夫",
+      "jp_values": [
+        87,
+        112,
+        95,
+        106,
+        87,
+        934,
+        471,
+        507
+      ],
+      "kr_text": "바쁜짐꾼"
+    },
+    {
+      "id": "SPEAKER_112",
+      "index": 112,
+      "original_offset": "0x02EED2",
+      "jp_text": "せわしない買物客",
+      "jp_values": [
+        110,
+        160,
+        106,
+        124,
+        87,
+        306,
+        403,
+        987
+      ],
+      "kr_text": "바쁜쇼핑객"
+    },
+    {
+      "id": "SPEAKER_113",
+      "index": 113,
+      "original_offset": "0x02EEE4",
+      "jp_text": "八百屋セニョール",
+      "jp_values": [
+        836,
+        1398,
+        373,
+        189,
+        204,
+        232,
+        39,
+        237
+      ],
+      "kr_text": "채소가게세뇨르"
+    },
+    {
+      "id": "SPEAKER_114",
+      "index": 114,
+      "original_offset": "0x02EEF6",
+      "jp_text": "ジェリィ",
+      "jp_values": [
+        186,
+        169,
+        236,
+        165
+      ],
+      "kr_text": "제리"
+    },
+    {
+      "id": "SPEAKER_115",
+      "index": 115,
+      "original_offset": "0x02EF00",
+      "jp_text": "メンディ海運社員",
+      "jp_values": [
+        226,
+        234,
+        200,
+        165,
+        376,
+        906,
+        1146,
+        573
+      ],
+      "kr_text": "멘디해운사원"
+    },
+    {
+      "id": "SPEAKER_116",
+      "index": 116,
+      "original_offset": "0x02EF12",
+      "jp_text": "ロブ",
+      "jp_values": [
+        239,
+        215
+      ],
+      "kr_text": "롭"
+    },
+    {
+      "id": "SPEAKER_117",
+      "index": 117,
+      "original_offset": "0x02EF18",
+      "jp_text": "エマ",
+      "jp_values": [
+        170,
+        223
+      ],
+      "kr_text": "에마"
+    },
+    {
+      "id": "SPEAKER_118",
+      "index": 118,
+      "original_offset": "0x02EF1E",
+      "jp_text": "陽気なおばさん",
+      "jp_values": [
+        672,
+        363,
+        124,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "명랑한아줌마"
+    },
+    {
+      "id": "SPEAKER_119",
+      "index": 119,
+      "original_offset": "0x02EF2E",
+      "jp_text": "笑顔の少年",
+      "jp_values": [
+        1190,
+        971,
+        128,
+        342,
+        458
+      ],
+      "kr_text": "웃는소년"
+    },
+    {
+      "id": "SPEAKER_120",
+      "index": 120,
+      "original_offset": "0x02EF3A",
+      "jp_text": "一息ついている女",
+      "jp_values": [
+        253,
+        1265,
+        118,
+        87,
+        120,
+        87,
+        157,
+        1178
+      ],
+      "kr_text": "쉬고있는여자"
+    },
+    {
+      "id": "SPEAKER_121",
+      "index": 121,
+      "original_offset": "0x02EF4C",
+      "jp_text": "肉屋のオヤジ",
+      "jp_values": [
+        706,
+        373,
+        128,
+        172,
+        229,
+        186
+      ],
+      "kr_text": "정육점아저씨"
+    },
+    {
+      "id": "SPEAKER_122",
+      "index": 122,
+      "original_offset": "0x02EF5A",
+      "jp_text": "神殿の衛兵",
+      "jp_values": [
+        627,
+        1323,
+        128,
+        912,
+        465
+      ],
+      "kr_text": "신전위병"
+    },
+    {
+      "id": "SPEAKER_123",
+      "index": 123,
+      "original_offset": "0x02EF66",
+      "jp_text": "女官",
+      "jp_values": [
+        1178,
+        667
+      ],
+      "kr_text": "시녀"
+    },
+    {
+      "id": "SPEAKER_124",
+      "index": 124,
+      "original_offset": "0x02EF6C",
+      "jp_text": "鉄球を見る神官",
+      "jp_values": [
+        442,
+        488,
+        161,
+        337,
+        157,
+        627,
+        667
+      ],
+      "kr_text": "철구보는신관"
+    },
+    {
+      "id": "SPEAKER_125",
+      "index": 125,
+      "original_offset": "0x02EF7C",
+      "jp_text": "神官",
+      "jp_values": [
+        627,
+        667
+      ],
+      "kr_text": "신관"
+    },
+    {
+      "id": "SPEAKER_126",
+      "index": 126,
+      "original_offset": "0x02EF82",
+      "jp_text": "聖歌隊の楽長",
+      "jp_values": [
+        647,
+        864,
+        1273,
+        128,
+        950,
+        339
+      ],
+      "kr_text": "성가대악장"
+    },
+    {
+      "id": "SPEAKER_127",
+      "index": 127,
+      "original_offset": "0x02EF90",
+      "jp_text": "司教",
+      "jp_values": [
+        1118,
+        742
+      ],
+      "kr_text": "주교"
+    },
+    {
+      "id": "SPEAKER_128",
+      "index": 128,
+      "original_offset": "0x02EF96",
+      "jp_text": "厳しい女官",
+      "jp_values": [
+        1052,
+        106,
+        87,
+        1178,
+        667
+      ],
+      "kr_text": "엄격한시녀"
+    },
+    {
+      "id": "SPEAKER_129",
+      "index": 129,
+      "original_offset": "0x02EFA2",
+      "jp_text": "世話役の神官",
+      "jp_values": [
+        827,
+        276,
+        471,
+        128,
+        627,
+        667
+      ],
+      "kr_text": "시중드는신관"
+    },
+    {
+      "id": "SPEAKER_130",
+      "index": 130,
+      "original_offset": "0x02EFB0",
+      "jp_text": "いきどおる神官",
+      "jp_values": [
+        87,
+        96,
+        123,
+        93,
+        157,
+        627,
+        667
+      ],
+      "kr_text": "분노한신관"
+    },
+    {
+      "id": "SPEAKER_131",
+      "index": 131,
+      "original_offset": "0x02EFC0",
+      "jp_text": "微笑んでいる神官",
+      "jp_values": [
+        1394,
+        1190,
+        162,
+        121,
+        87,
+        157,
+        627,
+        667
+      ],
+      "kr_text": "미소짓는신관"
+    },
+    {
+      "id": "SPEAKER_132",
+      "index": 132,
+      "original_offset": "0x02EFD2",
+      "jp_text": "落ち着いた女官",
+      "jp_values": [
+        423,
+        116,
+        666,
+        87,
+        114,
+        1178,
+        667
+      ],
+      "kr_text": "침착한시녀"
+    },
+    {
+      "id": "SPEAKER_133",
+      "index": 133,
+      "original_offset": "0x02EFE2",
+      "jp_text": "騒がしい女官",
+      "jp_values": [
+        1259,
+        95,
+        106,
+        87,
+        1178,
+        667
+      ],
+      "kr_text": "소란한시녀"
+    },
+    {
+      "id": "SPEAKER_134",
+      "index": 134,
+      "original_offset": "0x02EFF0",
+      "jp_text": "司書のおじいさん",
+      "jp_values": [
+        1118,
+        727,
+        128,
+        93,
+        107,
+        87,
+        104,
+        162
+      ],
+      "kr_text": "도서관할아버지"
+    },
+    {
+      "id": "SPEAKER_135",
+      "index": 135,
+      "original_offset": "0x02F002",
+      "jp_text": "優しい女官",
+      "jp_values": [
+        1467,
+        106,
+        87,
+        1178,
+        667
+      ],
+      "kr_text": "다정한시녀"
+    },
+    {
+      "id": "SPEAKER_136",
+      "index": 136,
+      "original_offset": "0x02F00E",
+      "jp_text": "衛兵",
+      "jp_values": [
+        912,
+        465
+      ],
+      "kr_text": "위병"
+    },
+    {
+      "id": "SPEAKER_137",
+      "index": 137,
+      "original_offset": "0x02F014",
+      "jp_text": "ティカ",
+      "jp_values": [
+        199,
+        165,
+        173
+      ],
+      "kr_text": "티카"
+    },
+    {
+      "id": "SPEAKER_138",
+      "index": 138,
+      "original_offset": "0x02F01C",
+      "jp_text": "隊長",
+      "jp_values": [
+        1273,
+        339
+      ],
+      "kr_text": "대장"
+    },
+    {
+      "id": "SPEAKER_139",
+      "index": 139,
+      "original_offset": "0x02F022",
+      "jp_text": "兵士",
+      "jp_values": [
+        465,
+        496
+      ],
+      "kr_text": "병사"
+    },
+    {
+      "id": "SPEAKER_140",
+      "index": 140,
+      "original_offset": "0x02F028",
+      "jp_text": "ナアノ",
+      "jp_values": [
+        203,
+        164,
+        207
+      ],
+      "kr_text": "나아노"
+    },
+    {
+      "id": "SPEAKER_141",
+      "index": 141,
+      "original_offset": "0x02F030",
+      "jp_text": "ナアノの祖父",
+      "jp_values": [
+        203,
+        164,
+        207,
+        128,
+        1242,
+        335
+      ],
+      "kr_text": "나아노할배"
+    },
+    {
+      "id": "SPEAKER_142",
+      "index": 142,
+      "original_offset": "0x02F03E",
+      "jp_text": "水場の女",
+      "jp_values": [
+        487,
+        353,
+        128,
+        1178
+      ],
+      "kr_text": "물가여자"
+    },
+    {
+      "id": "SPEAKER_143",
+      "index": 143,
+      "original_offset": "0x02F048",
+      "jp_text": "大樹を見る男",
+      "jp_values": [
+        274,
+        375,
+        161,
+        337,
+        157,
+        689
+      ],
+      "kr_text": "거목보는남자"
+    },
+    {
+      "id": "SPEAKER_144",
+      "index": 144,
+      "original_offset": "0x02F056",
+      "jp_text": "彫刻家",
+      "jp_values": [
+        1876,
+        1081,
+        346
+      ],
+      "kr_text": "조각가"
+    },
+    {
+      "id": "SPEAKER_145",
+      "index": 145,
+      "original_offset": "0x02F05E",
+      "jp_text": "よどんだ目の男",
+      "jp_values": [
+        154,
+        123,
+        162,
+        115,
+        511,
+        128,
+        689
+      ],
+      "kr_text": "흐린눈의남자"
+    },
+    {
+      "id": "SPEAKER_146",
+      "index": 146,
+      "original_offset": "0x02F06E",
+      "jp_text": "探し回る老人",
+      "jp_values": [
+        392,
+        106,
+        271,
+        157,
+        1514,
+        391
+      ],
+      "kr_text": "수색중노인"
+    },
+    {
+      "id": "SPEAKER_147",
+      "index": 147,
+      "original_offset": "0x02F07C",
+      "jp_text": "執事",
+      "jp_values": [
+        1139,
+        394
+      ],
+      "kr_text": "집사"
+    },
+    {
+      "id": "SPEAKER_148",
+      "index": 148,
+      "original_offset": "0x02F082",
+      "jp_text": "一人暮らしの老人",
+      "jp_values": [
+        253,
+        391,
+        1427,
+        155,
+        106,
+        128,
+        1514,
+        391
+      ],
+      "kr_text": "독거노인"
+    },
+    {
+      "id": "SPEAKER_149",
+      "index": 149,
+      "original_offset": "0x02F094",
+      "jp_text": "弱っている老人",
+      "jp_values": [
+        578,
+        117,
+        120,
+        87,
+        157,
+        1514,
+        391
+      ],
+      "kr_text": "쇠약한노인"
+    },
+    {
+      "id": "SPEAKER_150",
+      "index": 150,
+      "original_offset": "0x02F0A4",
+      "jp_text": "息子の嫁",
+      "jp_values": [
+        1265,
+        473,
+        128,
+        931
+      ],
+      "kr_text": "며느리"
+    },
+    {
+      "id": "SPEAKER_151",
+      "index": 151,
+      "original_offset": "0x02F0AE",
+      "jp_text": "老人の息子",
+      "jp_values": [
+        1514,
+        391,
+        128,
+        1265,
+        473
+      ],
+      "kr_text": "노인의아들"
+    },
+    {
+      "id": "SPEAKER_152",
+      "index": 152,
+      "original_offset": "0x02F0BA",
+      "jp_text": "粉ひきのおばさん",
+      "jp_values": [
+        1414,
+        132,
+        96,
+        128,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "방앗간아줌마"
+    },
+    {
+      "id": "SPEAKER_153",
+      "index": 153,
+      "original_offset": "0x02F0CC",
+      "jp_text": "粉ひきの息子",
+      "jp_values": [
+        1414,
+        132,
+        96,
+        128,
+        1265,
+        473
+      ],
+      "kr_text": "방앗간아들"
+    },
+    {
+      "id": "SPEAKER_154",
+      "index": 154,
+      "original_offset": "0x02F0DA",
+      "jp_text": "優しげなおばさん",
+      "jp_values": [
+        1467,
+        106,
+        101,
+        124,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "다정한아줌마"
+    },
+    {
+      "id": "SPEAKER_155",
+      "index": 155,
+      "original_offset": "0x02F0EC",
+      "jp_text": "ダーナのおばさん",
+      "jp_values": [
+        194,
+        39,
+        203,
+        128,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "다나아줌마"
+    },
+    {
+      "id": "SPEAKER_156",
+      "index": 156,
+      "original_offset": "0x02F0FE",
+      "jp_text": "頑固そうな老人",
+      "jp_values": [
+        508,
+        1055,
+        112,
+        89,
+        124,
+        1514,
+        391
+      ],
+      "kr_text": "완고한노인"
+    },
+    {
+      "id": "SPEAKER_157",
+      "index": 157,
+      "original_offset": "0x02F10E",
+      "jp_text": "おだやかな婆さん",
+      "jp_values": [
+        93,
+        115,
+        150,
+        94,
+        124,
+        1951,
+        104,
+        162
+      ],
+      "kr_text": "온화한할머니"
+    },
+    {
+      "id": "SPEAKER_158",
+      "index": 158,
+      "original_offset": "0x02F120",
+      "jp_text": "座り続ける男",
+      "jp_values": [
+        1091,
+        156,
+        316,
+        100,
+        157,
+        689
+      ],
+      "kr_text": "계속앉은남자"
+    },
+    {
+      "id": "SPEAKER_159",
+      "index": 159,
+      "original_offset": "0x02F12E",
+      "jp_text": "座り続ける男の妻",
+      "jp_values": [
+        1091,
+        156,
+        316,
+        100,
+        157,
+        689,
+        128,
+        433
+      ],
+      "kr_text": "앉은남자의아내"
+    },
+    {
+      "id": "SPEAKER_160",
+      "index": 160,
+      "original_offset": "0x02F140",
+      "jp_text": "座り続ける男の娘",
+      "jp_values": [
+        1091,
+        156,
+        316,
+        100,
+        157,
+        689,
+        128,
+        1455
+      ],
+      "kr_text": "앉은남자의딸"
+    },
+    {
+      "id": "SPEAKER_161",
+      "index": 161,
+      "original_offset": "0x02F152",
+      "jp_text": "楽器屋",
+      "jp_values": [
+        950,
+        467,
+        373
+      ],
+      "kr_text": "악기점"
+    },
+    {
+      "id": "SPEAKER_162",
+      "index": 162,
+      "original_offset": "0x02F15A",
+      "jp_text": "サイード",
+      "jp_values": [
+        183,
+        166,
+        39,
+        202
+      ],
+      "kr_text": "사이드"
+    },
+    {
+      "id": "SPEAKER_163",
+      "index": 163,
+      "original_offset": "0x02F164",
+      "jp_text": "殺人音源サイード",
+      "jp_values": [
+        285,
+        391,
+        280,
+        1053,
+        183,
+        166,
+        39,
+        202
+      ],
+      "kr_text": "살인음원사이드"
+    },
+    {
+      "id": "SPEAKER_164",
+      "index": 164,
+      "original_offset": "0x02F176",
+      "jp_text": "買い物おばさん",
+      "jp_values": [
+        306,
+        87,
+        403,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "쇼핑아줌마"
+    },
+    {
+      "id": "SPEAKER_165",
+      "index": 165,
+      "original_offset": "0x02F186",
+      "jp_text": "服屋",
+      "jp_values": [
+        494,
+        373
+      ],
+      "kr_text": "옷집"
+    },
+    {
+      "id": "SPEAKER_166",
+      "index": 166,
+      "original_offset": "0x02F18C",
+      "jp_text": "総菜屋",
+      "jp_values": [
+        1256,
+        1099,
+        373
+      ],
+      "kr_text": "반찬집"
+    },
+    {
+      "id": "SPEAKER_167",
+      "index": 167,
+      "original_offset": "0x02F194",
+      "jp_text": "ルイリ",
+      "jp_values": [
+        237,
+        166,
+        236
+      ],
+      "kr_text": "루이리"
+    },
+    {
+      "id": "SPEAKER_168",
+      "index": 168,
+      "original_offset": "0x02F19C",
+      "jp_text": "お祈りする子供",
+      "jp_values": [
+        93,
+        978,
+        156,
+        108,
+        157,
+        473,
+        474
+      ],
+      "kr_text": "기도하는아이"
+    },
+    {
+      "id": "SPEAKER_169",
+      "index": 169,
+      "original_offset": "0x02F1AC",
+      "jp_text": "のんびりとした男",
+      "jp_values": [
+        128,
+        162,
+        133,
+        156,
+        122,
+        106,
+        114,
+        689
+      ],
+      "kr_text": "느긋한남자"
+    },
+    {
+      "id": "SPEAKER_170",
+      "index": 170,
+      "original_offset": "0x02F1BE",
+      "jp_text": "バクラの少女",
+      "jp_values": [
+        209,
+        177,
+        235,
+        128,
+        342,
+        1178
+      ],
+      "kr_text": "바클라소녀"
+    },
+    {
+      "id": "SPEAKER_171",
+      "index": 171,
+      "original_offset": "0x02F1CC",
+      "jp_text": "猟師の青年",
+      "jp_values": [
+        2213,
+        1123,
+        128,
+        714,
+        458
+      ],
+      "kr_text": "사냥꾼청년"
+    },
+    {
+      "id": "SPEAKER_172",
+      "index": 172,
+      "original_offset": "0x02F1D8",
+      "jp_text": "族長の戦士",
+      "jp_values": [
+        500,
+        339,
+        128,
+        443,
+        496
+      ],
+      "kr_text": "족장전사"
+    },
+    {
+      "id": "SPEAKER_173",
+      "index": 173,
+      "original_offset": "0x02F1E4",
+      "jp_text": "シャヒナばあさん",
+      "jp_values": [
+        185,
+        228,
+        211,
+        203,
+        130,
+        85,
+        104,
+        162
+      ],
+      "kr_text": "샤히나할머니"
+    },
+    {
+      "id": "SPEAKER_174",
+      "index": 174,
+      "original_offset": "0x02F1F6",
+      "jp_text": "ヨウトさまの使徒",
+      "jp_values": [
+        233,
+        168,
+        201,
+        104,
+        144,
+        128,
+        292,
+        1542
+      ],
+      "kr_text": "요우토의사도"
+    },
+    {
+      "id": "SPEAKER_175",
+      "index": 175,
+      "original_offset": "0x02F208",
+      "jp_text": "バイトの娘",
+      "jp_values": [
+        209,
+        166,
+        201,
+        128,
+        1455
+      ],
+      "kr_text": "알바소녀"
+    },
+    {
+      "id": "SPEAKER_176",
+      "index": 176,
+      "original_offset": "0x02F214",
+      "jp_text": "営業ブチョー",
+      "jp_values": [
+        907,
+        665,
+        215,
+        195,
+        232,
+        39
+      ],
+      "kr_text": "영업부장"
+    },
+    {
+      "id": "SPEAKER_177",
+      "index": 177,
+      "original_offset": "0x02F222",
+      "jp_text": "トンクル",
+      "jp_values": [
+        201,
+        234,
+        177,
+        237
+      ],
+      "kr_text": "통클"
+    },
+    {
+      "id": "SPEAKER_178",
+      "index": 178,
+      "original_offset": "0x02F22C",
+      "jp_text": "諦めた飛行機乗り",
+      "jp_values": [
+        302,
+        147,
+        114,
+        457,
+        450,
+        975,
+        780,
+        156
+      ],
+      "kr_text": "포기한비행사"
+    },
+    {
+      "id": "SPEAKER_179",
+      "index": 179,
+      "original_offset": "0x02F23E",
+      "jp_text": "飛行機乗り",
+      "jp_values": [
+        457,
+        450,
+        975,
+        780,
+        156
+      ],
+      "kr_text": "비행사"
+    },
+    {
+      "id": "SPEAKER_180",
+      "index": 180,
+      "original_offset": "0x02F24A",
+      "jp_text": "村の長",
+      "jp_values": [
+        338,
+        128,
+        339
+      ],
+      "kr_text": "촌장"
+    },
+    {
+      "id": "SPEAKER_181",
+      "index": 181,
+      "original_offset": "0x02F252",
+      "jp_text": "涙目の飛行機乗り",
+      "jp_values": [
+        701,
+        511,
+        128,
+        457,
+        450,
+        975,
+        780,
+        156
+      ],
+      "kr_text": "울먹이는비행사"
+    },
+    {
+      "id": "SPEAKER_182",
+      "index": 182,
+      "original_offset": "0x02F264",
+      "jp_text": "ラフリドの少女",
+      "jp_values": [
+        235,
+        214,
+        236,
+        202,
+        128,
+        342,
+        1178
+      ],
+      "kr_text": "라프리드소녀"
+    },
+    {
+      "id": "SPEAKER_183",
+      "index": 183,
+      "original_offset": "0x02F274",
+      "jp_text": "チキンレースの王",
+      "jp_values": [
+        195,
+        175,
+        234,
+        238,
+        39,
+        187,
+        128,
+        549
+      ],
+      "kr_text": "치킨레이스왕"
+    },
+    {
+      "id": "SPEAKER_184",
+      "index": 184,
+      "original_offset": "0x02F286",
+      "jp_text": "ベテラン猟師",
+      "jp_values": [
+        218,
+        199,
+        235,
+        234,
+        2213,
+        1123
+      ],
+      "kr_text": "베테랑사냥꾼"
+    },
+    {
+      "id": "SPEAKER_185",
+      "index": 185,
+      "original_offset": "0x02F294",
+      "jp_text": "ベテラン猟師の孫",
+      "jp_values": [
+        218,
+        199,
+        235,
+        234,
+        2213,
+        1123,
+        128,
+        1754
+      ],
+      "kr_text": "사냥꾼의손자"
+    },
+    {
+      "id": "SPEAKER_186",
+      "index": 186,
+      "original_offset": "0x02F2A6",
+      "jp_text": "ヘラヘラした男",
+      "jp_values": [
+        217,
+        235,
+        217,
+        235,
+        106,
+        114,
+        689
+      ],
+      "kr_text": "실실대는남자"
+    },
+    {
+      "id": "SPEAKER_187",
+      "index": 187,
+      "original_offset": "0x02F2B6",
+      "jp_text": "気難しそうな父親",
+      "jp_values": [
+        363,
+        886,
+        106,
+        112,
+        89,
+        124,
+        335,
+        1209
+      ],
+      "kr_text": "까다로운아버지"
+    },
+    {
+      "id": "SPEAKER_188",
+      "index": 188,
+      "original_offset": "0x02F2C8",
+      "jp_text": "優しそうな母親",
+      "jp_values": [
+        1467,
+        106,
+        112,
+        89,
+        124,
+        359,
+        1209
+      ],
+      "kr_text": "다정한어머니"
+    },
+    {
+      "id": "SPEAKER_189",
+      "index": 189,
+      "original_offset": "0x02F2D8",
+      "jp_text": "不安そうな娘",
+      "jp_values": [
+        544,
+        542,
+        112,
+        89,
+        124,
+        1455
+      ],
+      "kr_text": "불안한딸"
+    },
+    {
+      "id": "SPEAKER_190",
+      "index": 190,
+      "original_offset": "0x02F2E6",
+      "jp_text": "腹の出た男",
+      "jp_values": [
+        1412,
+        128,
+        312,
+        114,
+        689
+      ],
+      "kr_text": "배나온남자"
+    },
+    {
+      "id": "SPEAKER_191",
+      "index": 191,
+      "original_offset": "0x02F2F2",
+      "jp_text": "腹の出た男の妻",
+      "jp_values": [
+        1412,
+        128,
+        312,
+        114,
+        689,
+        128,
+        433
+      ],
+      "kr_text": "배나온남자아내"
+    },
+    {
+      "id": "SPEAKER_192",
+      "index": 192,
+      "original_offset": "0x02F302",
+      "jp_text": "技師アルベール",
+      "jp_values": [
+        286,
+        1123,
+        164,
+        237,
+        218,
+        39,
+        237
+      ],
+      "kr_text": "기술자알베르"
+    },
+    {
+      "id": "SPEAKER_193",
+      "index": 193,
+      "original_offset": "0x02F312",
+      "jp_text": "工房のヌシ",
+      "jp_values": [
+        532,
+        1554,
+        128,
+        205,
+        185
+      ],
+      "kr_text": "공방주인"
+    },
+    {
+      "id": "SPEAKER_194",
+      "index": 194,
+      "original_offset": "0x02F31E",
+      "jp_text": "世話焼きおばさん",
+      "jp_values": [
+        827,
+        276,
+        777,
+        96,
+        93,
+        130,
+        104,
+        162
+      ],
+      "kr_text": "참견쟁이아줌마"
+    },
+    {
+      "id": "SPEAKER_195",
+      "index": 195,
+      "original_offset": "0x02F330",
+      "jp_text": "宿屋",
+      "jp_values": [
+        1167,
+        373
+      ],
+      "kr_text": "여관"
+    },
+    {
+      "id": "SPEAKER_196",
+      "index": 196,
+      "original_offset": "0x02F336",
+      "jp_text": "ドラク",
+      "jp_values": [
+        202,
+        235,
+        177
+      ],
+      "kr_text": "드라크"
+    },
+    {
+      "id": "SPEAKER_197",
+      "index": 197,
+      "original_offset": "0x02F33E",
+      "jp_text": "ヨウト",
+      "jp_values": [
+        233,
+        168,
+        201
+      ],
+      "kr_text": "요우토"
+    },
+    {
+      "id": "SPEAKER_198",
+      "index": 198,
+      "original_offset": "0x02F346",
+      "jp_text": "セイバ",
+      "jp_values": [
+        189,
+        166,
+        209
+      ],
+      "kr_text": "세이바"
+    },
+    {
+      "id": "SPEAKER_199",
+      "index": 199,
+      "original_offset": "0x02F34E",
+      "jp_text": "ウナマ",
+      "jp_values": [
+        168,
+        203,
+        223
+      ],
+      "kr_text": "우나마"
+    },
+    {
+      "id": "SPEAKER_200",
+      "index": 200,
+      "original_offset": "0x02F356",
+      "jp_text": "フェムト",
+      "jp_values": [
+        214,
+        169,
+        225,
+        201
+      ],
+      "kr_text": "펨토"
+    },
+    {
+      "id": "SPEAKER_201",
+      "index": 201,
+      "original_offset": "0x02F360",
+      "jp_text": "グラウ",
+      "jp_values": [
+        178,
+        235,
+        168
+      ],
+      "kr_text": "그라우"
+    },
+    {
+      "id": "SPEAKER_202",
+      "index": 202,
+      "original_offset": "0x02F368",
+      "jp_text": "看板を見る子供",
+      "jp_values": [
+        962,
+        673,
+        161,
+        337,
+        157,
+        473,
+        474
+      ],
+      "kr_text": "간판보는아이"
+    },
+    {
+      "id": "SPEAKER_203",
+      "index": 203,
+      "original_offset": "0x02F378",
+      "jp_text": "総支配人",
+      "jp_values": [
+        1256,
+        1125,
+        300,
+        391
+      ],
+      "kr_text": "총지배인"
+    },
+    {
+      "id": "SPEAKER_204",
+      "index": 204,
+      "original_offset": "0x02F382",
+      "jp_text": "宿屋のねえさん",
+      "jp_values": [
+        1167,
+        373,
+        128,
+        127,
+        91,
+        104,
+        162
+      ],
+      "kr_text": "여관아가씨"
+    },
+    {
+      "id": "SPEAKER_205",
+      "index": 205,
+      "original_offset": "0x02F392",
+      "jp_text": "ヴィオレッタ",
+      "jp_values": [
+        242,
+        165,
+        172,
+        238,
+        196,
+        193
+      ],
+      "kr_text": "비올레타"
+    },
+    {
+      "id": "SPEAKER_206",
+      "index": 206,
+      "original_offset": "0x02F3A0",
+      "jp_text": "山猫のザック",
+      "jp_values": [
+        440,
+        2202,
+        128,
+        184,
+        196,
+        177
+      ],
+      "kr_text": "산고양이잭"
+    },
+    {
+      "id": "SPEAKER_207",
+      "index": 207,
+      "original_offset": "0x02F3AE",
+      "jp_text": "ザックの新妻",
+      "jp_values": [
+        184,
+        196,
+        177,
+        128,
+        575,
+        433
+      ],
+      "kr_text": "잭의새아내"
+    },
+    {
+      "id": "SPEAKER_208",
+      "index": 208,
+      "original_offset": "0x02F3BC",
+      "jp_text": "道具屋",
+      "jp_values": [
+        295,
+        296,
+        373
+      ],
+      "kr_text": "도구점"
+    },
+    {
+      "id": "SPEAKER_209",
+      "index": 209,
+      "original_offset": "0x02F3C4",
+      "jp_text": "魔法屋",
+      "jp_values": [
+        282,
+        283,
+        373
+      ],
+      "kr_text": "마법점"
+    },
+    {
+      "id": "SPEAKER_210",
+      "index": 210,
+      "original_offset": "0x02F3CC",
+      "jp_text": "スキル屋",
+      "jp_values": [
+        187,
+        175,
+        237,
+        373
+      ],
+      "kr_text": "스킬점"
+    },
+    {
+      "id": "SPEAKER_211",
+      "index": 211,
+      "original_offset": "0x02F3D6",
+      "jp_text": "セバスチャン",
+      "jp_values": [
+        189,
+        209,
+        187,
+        195,
+        228,
+        234
+      ],
+      "kr_text": "세바스찬"
+    },
+    {
+      "id": "SPEAKER_212",
+      "index": 212,
+      "original_offset": "0x02F3E4",
+      "jp_text": "謎の傭兵",
+      "jp_values": [
+        852,
+        128,
+        2226,
+        465
+      ],
+      "kr_text": "무명용병"
+    },
+    {
+      "id": "SPEAKER_213",
+      "index": 213,
+      "original_offset": "0x02F3EE",
+      "jp_text": "道具屋のお姉さん",
+      "jp_values": [
+        295,
+        296,
+        373,
+        128,
+        93,
+        1120,
+        104,
+        162
+      ],
+      "kr_text": "도구점아가씨"
+    },
+    {
+      "id": "SPEAKER_214",
+      "index": 214,
+      "original_offset": "0x02F400",
+      "jp_text": "サリー",
+      "jp_values": [
+        183,
+        236,
+        39
+      ],
+      "kr_text": "샐리"
+    }
+  ]
+}

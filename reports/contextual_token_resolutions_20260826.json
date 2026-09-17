@@ -1,0 +1,51 @@
+{
+  "mode": "CONTEXTUAL_TOKEN_RESOLUTION",
+  "input": "/Users/j.swon/Desktop/Grandia3_KR/exports/scenario_standard.csv",
+  "output": "/Users/j.swon/Desktop/Grandia3_KR/exports/scenario_standard.csv",
+  "database": "/Users/j.swon/Desktop/Grandia3_KR/translation.db",
+  "database_promoted_ids": [
+    "SCN_00630900_00740000_0025"
+  ],
+  "rows": 5916,
+  "changed_rows": 1,
+  "applied_occurrences": 0,
+  "remaining_decision_tokens": {
+    "G0865": 0,
+    "G00F7": 0,
+    "G08B5": 0
+  },
+  "decisions": {
+    "G0865": {
+      "replacement": "―",
+      "confidence": "HIGH",
+      "evidence": "Focused bitmap review and repeated paired-dash contexts."
+    },
+    "G00F7": {
+      "replacement": "",
+      "confidence": "SUPPORTED_CONTEXT",
+      "evidence": "Korean sentence context is 뜨거워!; source phrase is あっちい！."
+    },
+    "G08B5": {
+      "replacement": "종",
+      "confidence": "SUPPORTED_CONTEXT",
+      "evidence": "Single exact context phrase identifies 鐘 as 종."
+    }
+  },
+  "phrase_decisions": {
+    "SCN_00630900_00740000_0025": {
+      "before": "편<G0395>하다…랄까.\n그냥 빈둥거리고 있을 뿐이야…\n슈미트도 이런 녀석들을\n잘도 얹혀살게 해 주네!",
+      "after": "낙원…이랄까.\n그냥 빈둥거리고 있을 뿐이야…\n슈미트도 이런 녀석들을\n잘도 얹혀살게 해 주네!",
+      "evidence": "楽園…ってか; sentence-level translation restores 낙원."
+    }
+  },
+  "applied": [
+    {
+      "id": "SCN_00630900_00740000_0025",
+      "glyph_id": "PHRASE",
+      "replacement": "낙원…이랄까.\n그냥 빈둥거리고 있을 뿐이야…\n슈미트도 이런 녀석들을\n잘도 얹혀살게 해 주네!",
+      "confidence": "SUPPORTED_CONTEXT",
+      "evidence": "楽園…ってか; sentence-level translation restores 낙원."
+    }
+  ],
+  "iso_created": false
+}

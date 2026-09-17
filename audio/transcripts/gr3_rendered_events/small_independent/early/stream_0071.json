@@ -1,0 +1,208 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_0071",
+  "stream_key": "0x71",
+  "sample_ids": [
+    "0x434",
+    "0x435"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_0071.flac",
+  "audio_sha256": "8fe3c9adb619c05f1416de9dd54bb90782c555ac10f729190bbd251dee8fb7ee",
+  "language": "ja",
+  "status": "AUTO_LOW_CONFIDENCE_REVIEW",
+  "screening_flags": [
+    "HIGH_COMPRESSION_RATIO:2.702"
+  ],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。 さあ、覚悟の程を聞かせてもらおうかい? アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。 フンッ。 アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。 海の男の何かけて誓う! 今日の勝負! 俺はこの俺自信をかける! アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。 もしも俺が負けた時は そこにいる美安家と結婚する はぁ?結婚!? え? ちょなんじゃないわよ そんなアホな話だったら乗れないわよ なぁにゴチャゴチャ言ってんだい とっとっとゲームを始めるよ",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 9.0,
+      "speaker": "",
+      "text": "アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 9.0,
+      "end": 12.5,
+      "speaker": "",
+      "text": "さあ、覚悟の程を聞かせてもらおうかい?",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 12.5,
+      "end": 14.0,
+      "speaker": "",
+      "text": "アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 14.0,
+      "end": 15.0,
+      "speaker": "",
+      "text": "フンッ。",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 15.0,
+      "end": 17.0,
+      "speaker": "",
+      "text": "アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 5,
+      "start": 17.0,
+      "end": 19.0,
+      "speaker": "",
+      "text": "海の男の何かけて誓う!",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 6,
+      "start": 20.0,
+      "end": 21.0,
+      "speaker": "",
+      "text": "今日の勝負!",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 7,
+      "start": 22.0,
+      "end": 24.0,
+      "speaker": "",
+      "text": "俺はこの俺自信をかける!",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 8,
+      "start": 24.0,
+      "end": 27.0,
+      "speaker": "",
+      "text": "アルフィナ、ミランダ、エメリウス、ヘクト、ダーナ、メンディ。",
+      "avg_logprob": -0.22972,
+      "no_speech_prob": 0.0831,
+      "compression_ratio": 2.70213,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 9,
+      "start": 27.0,
+      "end": 29.0,
+      "speaker": "",
+      "text": "もしも俺が負けた時は",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 10,
+      "start": 32.0,
+      "end": 34.0,
+      "speaker": "",
+      "text": "そこにいる美安家と結婚する",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 11,
+      "start": 38.0,
+      "end": 39.0,
+      "speaker": "",
+      "text": "はぁ?結婚!?",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 12,
+      "start": 40.0,
+      "end": 41.0,
+      "speaker": "",
+      "text": "え?",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 13,
+      "start": 42.0,
+      "end": 43.0,
+      "speaker": "",
+      "text": "ちょなんじゃないわよ",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 14,
+      "start": 43.0,
+      "end": 45.0,
+      "speaker": "",
+      "text": "そんなアホな話だったら乗れないわよ",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 15,
+      "start": 45.0,
+      "end": 47.0,
+      "speaker": "",
+      "text": "なぁにゴチャゴチャ言ってんだい",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    },
+    {
+      "segment_index": 16,
+      "start": 48.0,
+      "end": 51.0,
+      "speaker": "",
+      "text": "とっとっとゲームを始めるよ",
+      "avg_logprob": -0.29415,
+      "no_speech_prob": 0.21861,
+      "compression_ratio": 1.44571,
+      "status": "AUTO_LOW_CONFIDENCE_REVIEW"
+    }
+  ]
+}

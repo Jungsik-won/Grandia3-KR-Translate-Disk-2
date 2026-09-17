@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00c0",
+  "stream_key": "0xC0",
+  "sample_ids": [
+    "0x510",
+    "0x511"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00c0.flac",
+  "audio_sha256": "f8ffc2324b3d7e9d7029856a7abff3dc647e742f2dbc7c5a0461d47f4556f456",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "base",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "ユウキ、やったな!",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "speaker": "",
+      "text": "ユウキ、やったな!",
+      "avg_logprob": -0.84531,
+      "no_speech_prob": 0.00821,
+      "compression_ratio": 0.75758,
+      "status": "AUTO_TRANSCRIBED_REVIEW",
+      "screening_flags": []
+    }
+  ],
+  "screening_note": "Heuristic screening only. Good segments still require listening and scene review; low-confidence segments are preserved, not deleted."
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "event_id": "gr3_stream_00ae",
+  "stream_key": "0xAE",
+  "sample_ids": [
+    "0x4E2",
+    "0x4E3"
+  ],
+  "audio_path": "audio/extracted/gr3_rendered_events/stream_00ae.flac",
+  "audio_sha256": "ffdb650d845b0e5753441d4df953cc6afb8bfe4555bba5206ab582dd15b8463d",
+  "language": "ja",
+  "status": "AUTO_TRANSCRIBED_REVIEW",
+  "screening_flags": [],
+  "model": "small",
+  "notes": "Whisper screening; verify wording, speakers, and cue edges before translation.",
+  "text": "戻ってきましたね。バース界から。 思った通りですね。ロウ、イル。 エメリウス様の夢が叶うかどうか あなたの働き次第ですよ はっはっはっは",
+  "segments": [
+    {
+      "segment_index": 0,
+      "start": 0.0,
+      "end": 9.0,
+      "speaker": "",
+      "text": "戻ってきましたね。バース界から。",
+      "avg_logprob": -0.41979,
+      "no_speech_prob": 0.07259,
+      "compression_ratio": 1.10714,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 1,
+      "start": 12.0,
+      "end": 17.0,
+      "speaker": "",
+      "text": "思った通りですね。ロウ、イル。",
+      "avg_logprob": -0.41979,
+      "no_speech_prob": 0.07259,
+      "compression_ratio": 1.10714,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 2,
+      "start": 17.0,
+      "end": 22.0,
+      "speaker": "",
+      "text": "エメリウス様の夢が叶うかどうか",
+      "avg_logprob": -0.35924,
+      "no_speech_prob": 0.18741,
+      "compression_ratio": 1.19277,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 3,
+      "start": 22.0,
+      "end": 25.0,
+      "speaker": "",
+      "text": "あなたの働き次第ですよ",
+      "avg_logprob": -0.35924,
+      "no_speech_prob": 0.18741,
+      "compression_ratio": 1.19277,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    },
+    {
+      "segment_index": 4,
+      "start": 25.0,
+      "end": 28.0,
+      "speaker": "",
+      "text": "はっはっはっは",
+      "avg_logprob": -0.35924,
+      "no_speech_prob": 0.18741,
+      "compression_ratio": 1.19277,
+      "status": "AUTO_TRANSCRIBED_REVIEW"
+    }
+  ]
+}
